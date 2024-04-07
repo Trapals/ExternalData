@@ -1,0 +1,65 @@
+[
+  {
+    "name": "All Saints",
+    "countryCode": "AG",
+    "stateCode": "07",
+    "latitude": "17.06671000",
+    "longitude": "-61.79303000"
+  },
+  {
+    "name": "Bolands",
+    "countryCode": "AG",
+    "stateCode": "05",
+    "latitude": "17.06565000",
+    "longitude": "-61.87466000"
+  },
+  {
+    "name": "Codrington",
+    "countryCode": "AG",
+    "stateCode": "10",
+    "latitude": "17.63333000",
+    "longitude": "-61.83333000"
+  },
+  {
+    "name": "Falmouth",
+    "countryCode": "AG",
+    "stateCode": "06",
+    "latitude": "17.02741000",
+    "longitude": "-61.78136000"
+  },
+  {
+    "name": "Liberta",
+    "countryCode": "AG",
+    "stateCode": "06",
+    "latitude": "17.04141000",
+    "longitude": "-61.79052000"
+  },
+  {
+    "name": "Parham",
+    "countryCode": "AG",
+    "stateCode": "07",
+    "latitude": "17.09682000",
+    "longitude": "-61.77046000"
+  },
+  {
+    "name": "Piggotts",
+    "countryCode": "AG",
+    "stateCode": "03",
+    "latitude": "17.11667000",
+    "longitude": "-61.80000000"
+  },
+  {
+    "name": "Potters Village",
+    "countryCode": "AG",
+    "stateCode": "04",
+    "latitude": "17.11337000",
+    "longitude": "-61.81962000"
+  },
+  {
+    "name": "Saint John’s",
+    "countryCode": "AG",
+    "stateCode": "04",
+    "latitude": "17.12096000",
+    "longitude": "-61.84329000"
+  }
+]

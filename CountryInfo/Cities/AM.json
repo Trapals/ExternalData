@@ -1,0 +1,2158 @@
+[
+  {
+    "name": "Abovyan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.04851000",
+    "longitude": "44.54742000"
+  },
+  {
+    "name": "Abovyan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.27368000",
+    "longitude": "44.63348000"
+  },
+  {
+    "name": "Agarak",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.01072000",
+    "longitude": "44.46845000"
+  },
+  {
+    "name": "Agarak",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.20684000",
+    "longitude": "46.54460000"
+  },
+  {
+    "name": "Agarakadzor",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.73608000",
+    "longitude": "45.35553000"
+  },
+  {
+    "name": "Agarakavan",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.33069000",
+    "longitude": "44.07233000"
+  },
+  {
+    "name": "Aghavnadzor",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.58195000",
+    "longitude": "44.69581000"
+  },
+  {
+    "name": "Aghavnadzor",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.78607000",
+    "longitude": "45.22790000"
+  },
+  {
+    "name": "Aghavnatun",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.23330000",
+    "longitude": "44.25295000"
+  },
+  {
+    "name": "Akht’ala",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.16838000",
+    "longitude": "44.75811000"
+  },
+  {
+    "name": "Akhuryan",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.78003000",
+    "longitude": "43.90027000"
+  },
+  {
+    "name": "Aknalich",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.14728000",
+    "longitude": "44.16669000"
+  },
+  {
+    "name": "Aknashen",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.09551000",
+    "longitude": "44.28604000"
+  },
+  {
+    "name": "Akner",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.53491000",
+    "longitude": "46.30732000"
+  },
+  {
+    "name": "Akunk’",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.15886000",
+    "longitude": "45.72568000"
+  },
+  {
+    "name": "Akunk’",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.26672000",
+    "longitude": "44.68610000"
+  },
+  {
+    "name": "Alashkert",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.10712000",
+    "longitude": "44.05108000"
+  },
+  {
+    "name": "Alaverdi",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.09766000",
+    "longitude": "44.67316000"
+  },
+  {
+    "name": "Amasia",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.95442000",
+    "longitude": "43.78720000"
+  },
+  {
+    "name": "Angeghakot’",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.56952000",
+    "longitude": "45.94452000"
+  },
+  {
+    "name": "Anushavan",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.65008000",
+    "longitude": "43.98053000"
+  },
+  {
+    "name": "Apaga",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.09729000",
+    "longitude": "44.25293000"
+  },
+  {
+    "name": "Aparan",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.59323000",
+    "longitude": "44.35890000"
+  },
+  {
+    "name": "Arabkir",
+    "countryCode": "AM",
+    "stateCode": "ER",
+    "latitude": "40.20549000",
+    "longitude": "44.50699000"
+  },
+  {
+    "name": "Aragats",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.48889000",
+    "longitude": "44.35290000"
+  },
+  {
+    "name": "Arak’s",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.05548000",
+    "longitude": "44.30292000"
+  },
+  {
+    "name": "Aralez",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.90008000",
+    "longitude": "44.65570000"
+  },
+  {
+    "name": "Aramus",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.25095000",
+    "longitude": "44.66351000"
+  },
+  {
+    "name": "Ararat",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.83069000",
+    "longitude": "44.70569000"
+  },
+  {
+    "name": "Arazap’",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.04169000",
+    "longitude": "44.14728000"
+  },
+  {
+    "name": "Arbat’",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.13892000",
+    "longitude": "44.40289000"
+  },
+  {
+    "name": "Archis",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "41.16351000",
+    "longitude": "44.87631000"
+  },
+  {
+    "name": "Areni",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.71668000",
+    "longitude": "45.18329000"
+  },
+  {
+    "name": "Arevabuyr",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.03607000",
+    "longitude": "44.46948000"
+  },
+  {
+    "name": "Arevashat",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.14447000",
+    "longitude": "44.37512000"
+  },
+  {
+    "name": "Arevashogh",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.86039000",
+    "longitude": "44.27438000"
+  },
+  {
+    "name": "Arevik",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.10010000",
+    "longitude": "44.09448000"
+  },
+  {
+    "name": "Arevik",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.74170000",
+    "longitude": "43.90430000"
+  },
+  {
+    "name": "Arevshat",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.03963000",
+    "longitude": "44.54179000"
+  },
+  {
+    "name": "Arevshat",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.65345000",
+    "longitude": "44.04419000"
+  },
+  {
+    "name": "Argavand",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.06110000",
+    "longitude": "44.09448000"
+  },
+  {
+    "name": "Argavand",
+    "countryCode": "AM",
+    "stateCode": "ER",
+    "latitude": "40.15289000",
+    "longitude": "44.43890000"
+  },
+  {
+    "name": "Argel",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.37793000",
+    "longitude": "44.60010000"
+  },
+  {
+    "name": "Armash",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.76672000",
+    "longitude": "44.81110000"
+  },
+  {
+    "name": "Armavir",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.15446000",
+    "longitude": "44.03815000"
+  },
+  {
+    "name": "Arrap’i",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.78276000",
+    "longitude": "43.80583000"
+  },
+  {
+    "name": "Arshaluys",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.16949000",
+    "longitude": "44.21393000"
+  },
+  {
+    "name": "Artashat",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.96144000",
+    "longitude": "44.54447000"
+  },
+  {
+    "name": "Arteni",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.29730000",
+    "longitude": "43.76672000"
+  },
+  {
+    "name": "Artimet",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.15008000",
+    "longitude": "44.26672000"
+  },
+  {
+    "name": "Artsvaberd",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.83947000",
+    "longitude": "45.47033000"
+  },
+  {
+    "name": "Arzakan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.45007000",
+    "longitude": "44.60828000"
+  },
+  {
+    "name": "Arzni",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.29730000",
+    "longitude": "44.59869000"
+  },
+  {
+    "name": "Ashnak",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.33069000",
+    "longitude": "43.91669000"
+  },
+  {
+    "name": "Ashtarak",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.29910000",
+    "longitude": "44.36204000"
+  },
+  {
+    "name": "Astghadzor",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.12231000",
+    "longitude": "45.35553000"
+  },
+  {
+    "name": "Avshar",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.85553000",
+    "longitude": "44.65832000"
+  },
+  {
+    "name": "Aygavan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.87327000",
+    "longitude": "44.66984000"
+  },
+  {
+    "name": "Aygehovit",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.97951000",
+    "longitude": "45.25033000"
+  },
+  {
+    "name": "Aygek",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.18890000",
+    "longitude": "44.38611000"
+  },
+  {
+    "name": "Aygepat",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.95845000",
+    "longitude": "44.59981000"
+  },
+  {
+    "name": "Aygeshat",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.07507000",
+    "longitude": "44.06110000"
+  },
+  {
+    "name": "Aygestan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.00293000",
+    "longitude": "44.55829000"
+  },
+  {
+    "name": "Aygezard",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.95436000",
+    "longitude": "44.60229000"
+  },
+  {
+    "name": "Azatamut",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.98204000",
+    "longitude": "45.18551000"
+  },
+  {
+    "name": "Azatan",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.71959000",
+    "longitude": "43.82727000"
+  },
+  {
+    "name": "Baghramyan",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.19452000",
+    "longitude": "44.36951000"
+  },
+  {
+    "name": "Bagratashen",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "41.24358000",
+    "longitude": "44.81737000"
+  },
+  {
+    "name": "Balahovit",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.25153000",
+    "longitude": "44.60828000"
+  },
+  {
+    "name": "Bambakashat",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.10828000",
+    "longitude": "44.01947000"
+  },
+  {
+    "name": "Bardzrashen",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.08533000",
+    "longitude": "44.57957000"
+  },
+  {
+    "name": "Basen",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.75767000",
+    "longitude": "43.99274000"
+  },
+  {
+    "name": "Bazum",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.86763000",
+    "longitude": "44.43978000"
+  },
+  {
+    "name": "Berd",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.88135000",
+    "longitude": "45.38901000"
+  },
+  {
+    "name": "Berdavan",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "41.20503000",
+    "longitude": "44.99967000"
+  },
+  {
+    "name": "Berk’anush",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.97790000",
+    "longitude": "44.51672000"
+  },
+  {
+    "name": "Bjni",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.45831000",
+    "longitude": "44.65008000"
+  },
+  {
+    "name": "Brrnakot’",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.49742000",
+    "longitude": "45.97241000"
+  },
+  {
+    "name": "Burastan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.99157000",
+    "longitude": "44.49681000"
+  },
+  {
+    "name": "Buzhakan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.45569000",
+    "longitude": "44.51947000"
+  },
+  {
+    "name": "Byurakan",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.33894000",
+    "longitude": "44.27275000"
+  },
+  {
+    "name": "Byuravan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.01604000",
+    "longitude": "44.51889000"
+  },
+  {
+    "name": "Byureghavan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.31417000",
+    "longitude": "44.59333000"
+  },
+  {
+    "name": "Chambarak",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.59655000",
+    "longitude": "45.35498000"
+  },
+  {
+    "name": "Chochkan",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.18118000",
+    "longitude": "44.83217000"
+  },
+  {
+    "name": "Dalar",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.97653000",
+    "longitude": "44.52649000"
+  },
+  {
+    "name": "Dalarik",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.22790000",
+    "longitude": "43.87793000"
+  },
+  {
+    "name": "Darakert",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.10553000",
+    "longitude": "44.41388000"
+  },
+  {
+    "name": "Darpas",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.83674000",
+    "longitude": "44.42494000"
+  },
+  {
+    "name": "Dashtavan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.10010000",
+    "longitude": "44.39172000"
+  },
+  {
+    "name": "Ddmashen",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.57028000",
+    "longitude": "44.82295000"
+  },
+  {
+    "name": "Dilijan",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.74170000",
+    "longitude": "44.85010000"
+  },
+  {
+    "name": "Dimitrov",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.00848000",
+    "longitude": "44.49170000"
+  },
+  {
+    "name": "Doghs",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.22229000",
+    "longitude": "44.27228000"
+  },
+  {
+    "name": "Drakhtik",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.56497000",
+    "longitude": "45.23670000"
+  },
+  {
+    "name": "Dsegh",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.96170000",
+    "longitude": "44.65003000"
+  },
+  {
+    "name": "Dvin",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.01984000",
+    "longitude": "44.58376000"
+  },
+  {
+    "name": "Dzit’hank’ov",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.50848000",
+    "longitude": "43.82092000"
+  },
+  {
+    "name": "Dzoraghbyur",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.20412000",
+    "longitude": "44.64150000"
+  },
+  {
+    "name": "Dzoragyugh",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.16957000",
+    "longitude": "45.18337000"
+  },
+  {
+    "name": "Dzorastan",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.27059000",
+    "longitude": "46.35720000"
+  },
+  {
+    "name": "Fantan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.39447000",
+    "longitude": "44.68610000"
+  },
+  {
+    "name": "Fioletovo",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.72241000",
+    "longitude": "44.71769000"
+  },
+  {
+    "name": "Gagarin",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.54026000",
+    "longitude": "44.86962000"
+  },
+  {
+    "name": "Gandzak",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.31472000",
+    "longitude": "45.11139000"
+  },
+  {
+    "name": "Garrni",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.11931000",
+    "longitude": "44.73442000"
+  },
+  {
+    "name": "Gavarr",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.35398000",
+    "longitude": "45.12386000"
+  },
+  {
+    "name": "Gay",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.08444000",
+    "longitude": "44.30528000"
+  },
+  {
+    "name": "Geghakert",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.18516000",
+    "longitude": "44.24331000"
+  },
+  {
+    "name": "Geghamasar",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.31091000",
+    "longitude": "45.67924000"
+  },
+  {
+    "name": "Geghamavan",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.56250000",
+    "longitude": "44.88892000"
+  },
+  {
+    "name": "Geghanist",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.14587000",
+    "longitude": "44.43048000"
+  },
+  {
+    "name": "Getap’",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.76392000",
+    "longitude": "45.30829000"
+  },
+  {
+    "name": "Getashen",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.04449000",
+    "longitude": "43.94171000"
+  },
+  {
+    "name": "Getazat",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.03844000",
+    "longitude": "44.56369000"
+  },
+  {
+    "name": "Ghukasavan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.12793000",
+    "longitude": "44.41669000"
+  },
+  {
+    "name": "Gladzor",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.78070000",
+    "longitude": "45.34729000"
+  },
+  {
+    "name": "Gmbet’",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.22369000",
+    "longitude": "44.25409000"
+  },
+  {
+    "name": "Gogaran",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.89255000",
+    "longitude": "44.19915000"
+  },
+  {
+    "name": "Goght’",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.13470000",
+    "longitude": "44.78332000"
+  },
+  {
+    "name": "Goravan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.90832000",
+    "longitude": "44.73328000"
+  },
+  {
+    "name": "Goris",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.51111000",
+    "longitude": "46.34168000"
+  },
+  {
+    "name": "Griboyedov",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.11307000",
+    "longitude": "44.27169000"
+  },
+  {
+    "name": "Gugark’",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.80460000",
+    "longitude": "44.54025000"
+  },
+  {
+    "name": "Gyulagarak",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.96715000",
+    "longitude": "44.47144000"
+  },
+  {
+    "name": "Gyumri",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.79420000",
+    "longitude": "43.84528000"
+  },
+  {
+    "name": "Haghartsin",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.77614000",
+    "longitude": "44.96847000"
+  },
+  {
+    "name": "Hats’avan",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.46405000",
+    "longitude": "45.97047000"
+  },
+  {
+    "name": "Hayanist",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.12231000",
+    "longitude": "44.37793000"
+  },
+  {
+    "name": "Haykashen",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.07233000",
+    "longitude": "44.30829000"
+  },
+  {
+    "name": "Haykavan",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.80312000",
+    "longitude": "43.75173000"
+  },
+  {
+    "name": "Hnaberd",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.63721000",
+    "longitude": "44.14058000"
+  },
+  {
+    "name": "Horrom",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.65973000",
+    "longitude": "43.89032000"
+  },
+  {
+    "name": "Hovtamej",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.18329000",
+    "longitude": "44.25848000"
+  },
+  {
+    "name": "Hovtashat",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.09729000",
+    "longitude": "44.34448000"
+  },
+  {
+    "name": "Hovtashen",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.02508000",
+    "longitude": "44.45007000"
+  },
+  {
+    "name": "Hrazdan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.49748000",
+    "longitude": "44.76620000"
+  },
+  {
+    "name": "Ijevan",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.87877000",
+    "longitude": "45.14851000"
+  },
+  {
+    "name": "Janfida",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.04449000",
+    "longitude": "44.02789000"
+  },
+  {
+    "name": "Jermuk",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.84168000",
+    "longitude": "45.66949000"
+  },
+  {
+    "name": "Jrahovit",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.04730000",
+    "longitude": "44.47510000"
+  },
+  {
+    "name": "Jrashen",
+    "countryCode": "AM",
+    "stateCode": "ER",
+    "latitude": "40.05275000",
+    "longitude": "44.51259000"
+  },
+  {
+    "name": "Jrashen",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.79028000",
+    "longitude": "44.18664000"
+  },
+  {
+    "name": "Kamo",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.82572000",
+    "longitude": "43.95071000"
+  },
+  {
+    "name": "Kapan",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.20755000",
+    "longitude": "46.40576000"
+  },
+  {
+    "name": "Kaputan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.32507000",
+    "longitude": "44.70007000"
+  },
+  {
+    "name": "Karanlukh",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.10444000",
+    "longitude": "45.28972000"
+  },
+  {
+    "name": "Karbi",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.33069000",
+    "longitude": "44.37793000"
+  },
+  {
+    "name": "Karchaghbyur",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.17048000",
+    "longitude": "45.57785000"
+  },
+  {
+    "name": "Kasakh",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.53697000",
+    "longitude": "44.41046000"
+  },
+  {
+    "name": "Khasht’arrak",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.93668000",
+    "longitude": "45.18210000"
+  },
+  {
+    "name": "Khndzoresk",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.50568000",
+    "longitude": "46.43610000"
+  },
+  {
+    "name": "Khoronk’",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.13611000",
+    "longitude": "44.24731000"
+  },
+  {
+    "name": "Kosh",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.30011000",
+    "longitude": "44.16107000"
+  },
+  {
+    "name": "Kotayk’",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.27789000",
+    "longitude": "44.66388000"
+  },
+  {
+    "name": "K’anak’erravan",
+    "countryCode": "AM",
+    "stateCode": "ER",
+    "latitude": "40.24739000",
+    "longitude": "44.53511000"
+  },
+  {
+    "name": "Lanjaghbyur",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.26947000",
+    "longitude": "45.14447000"
+  },
+  {
+    "name": "Lchap’",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.45569000",
+    "longitude": "45.07507000"
+  },
+  {
+    "name": "Lchashen",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.51947000",
+    "longitude": "44.93048000"
+  },
+  {
+    "name": "Lenughi",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.12512000",
+    "longitude": "43.96393000"
+  },
+  {
+    "name": "Lerrnakert",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.56250000",
+    "longitude": "43.93890000"
+  },
+  {
+    "name": "Lerrnanist",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.46676000",
+    "longitude": "44.79249000"
+  },
+  {
+    "name": "Lerrnants’k’",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.79532000",
+    "longitude": "44.27435000"
+  },
+  {
+    "name": "Lerrnapat",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.81538000",
+    "longitude": "44.39344000"
+  },
+  {
+    "name": "Lerrnavan",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.78820000",
+    "longitude": "44.16024000"
+  },
+  {
+    "name": "Lichk’",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.15933000",
+    "longitude": "45.23467000"
+  },
+  {
+    "name": "Lorut",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.93717000",
+    "longitude": "44.77142000"
+  },
+  {
+    "name": "Lukashin",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.18726000",
+    "longitude": "44.00390000"
+  },
+  {
+    "name": "Lusarrat",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.87403000",
+    "longitude": "44.58678000"
+  },
+  {
+    "name": "Madina",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.07637000",
+    "longitude": "45.25507000"
+  },
+  {
+    "name": "Malishka",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.74731000",
+    "longitude": "45.40570000"
+  },
+  {
+    "name": "Maralik",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.57507000",
+    "longitude": "43.87231000"
+  },
+  {
+    "name": "Margahovit",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.73381000",
+    "longitude": "44.68474000"
+  },
+  {
+    "name": "Margara",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.03332000",
+    "longitude": "44.18048000"
+  },
+  {
+    "name": "Marmarashen",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.05829000",
+    "longitude": "44.47229000"
+  },
+  {
+    "name": "Marmashen",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.83486000",
+    "longitude": "43.77790000"
+  },
+  {
+    "name": "Martuni",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.08333000",
+    "longitude": "45.25000000"
+  },
+  {
+    "name": "Masis",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.06542000",
+    "longitude": "44.41618000"
+  },
+  {
+    "name": "Mayakovski",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.25293000",
+    "longitude": "44.63892000"
+  },
+  {
+    "name": "Mayisyan",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.15701000",
+    "longitude": "44.09192000"
+  },
+  {
+    "name": "Mayisyan",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.84715000",
+    "longitude": "43.83938000"
+  },
+  {
+    "name": "Meghradzor",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.60611000",
+    "longitude": "44.65147000"
+  },
+  {
+    "name": "Meghrashen",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.67230000",
+    "longitude": "43.95831000"
+  },
+  {
+    "name": "Meghri",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "38.90292000",
+    "longitude": "46.24458000"
+  },
+  {
+    "name": "Merdzavan",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.18140000",
+    "longitude": "44.40033000"
+  },
+  {
+    "name": "Mets Mant’ash",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.64376000",
+    "longitude": "44.05653000"
+  },
+  {
+    "name": "Mets Masrik",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.21948000",
+    "longitude": "45.76391000"
+  },
+  {
+    "name": "Mets Parni",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.83472000",
+    "longitude": "44.11108000"
+  },
+  {
+    "name": "Metsamor",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.14447000",
+    "longitude": "44.11670000"
+  },
+  {
+    "name": "Metsavan",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.20156000",
+    "longitude": "44.22877000"
+  },
+  {
+    "name": "Mosesgegh",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.90534000",
+    "longitude": "45.48838000"
+  },
+  {
+    "name": "Mrganush",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.02857000",
+    "longitude": "44.55831000"
+  },
+  {
+    "name": "Mrgashat",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.13068000",
+    "longitude": "44.08069000"
+  },
+  {
+    "name": "Mrgashen",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.28607000",
+    "longitude": "44.54449000"
+  },
+  {
+    "name": "Mrgavan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.97251000",
+    "longitude": "44.53565000"
+  },
+  {
+    "name": "Mrgavet",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.02789000",
+    "longitude": "44.48328000"
+  },
+  {
+    "name": "Musalerr",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.15570000",
+    "longitude": "44.37793000"
+  },
+  {
+    "name": "Myasnikyan",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.18048000",
+    "longitude": "43.91949000"
+  },
+  {
+    "name": "Nalbandyan",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.06390000",
+    "longitude": "43.98889000"
+  },
+  {
+    "name": "Navur",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.86695000",
+    "longitude": "45.34179000"
+  },
+  {
+    "name": "Nerk’in Getashen",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.14172000",
+    "longitude": "45.27087000"
+  },
+  {
+    "name": "Nizami",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.09168000",
+    "longitude": "44.40570000"
+  },
+  {
+    "name": "Nor Armavir",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.08612000",
+    "longitude": "43.99451000"
+  },
+  {
+    "name": "Nor Geghi",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.32233000",
+    "longitude": "44.58331000"
+  },
+  {
+    "name": "Nor Gyugh",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.26672000",
+    "longitude": "44.65832000"
+  },
+  {
+    "name": "Nor Yerznka",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.30011000",
+    "longitude": "44.38892000"
+  },
+  {
+    "name": "Norabats’",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.10553000",
+    "longitude": "44.43329000"
+  },
+  {
+    "name": "Norakert",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.19733000",
+    "longitude": "44.35010000"
+  },
+  {
+    "name": "Noramarg",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.02228000",
+    "longitude": "44.42511000"
+  },
+  {
+    "name": "Norashen",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.00130000",
+    "longitude": "44.59296000"
+  },
+  {
+    "name": "Norashen",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.18886000",
+    "longitude": "44.33336000"
+  },
+  {
+    "name": "Noratus",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.37793000",
+    "longitude": "45.18048000"
+  },
+  {
+    "name": "Noyakert",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.83069000",
+    "longitude": "44.66949000"
+  },
+  {
+    "name": "Noyemberyan",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "41.17244000",
+    "longitude": "44.99917000"
+  },
+  {
+    "name": "Nshavan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.02787000",
+    "longitude": "44.52565000"
+  },
+  {
+    "name": "Odzun",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.05321000",
+    "longitude": "44.61341000"
+  },
+  {
+    "name": "Oshakan",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.26392000",
+    "longitude": "44.31671000"
+  },
+  {
+    "name": "Parravak’ar",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "40.98248000",
+    "longitude": "45.36696000"
+  },
+  {
+    "name": "Pemzashen",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.58612000",
+    "longitude": "43.94311000"
+  },
+  {
+    "name": "Prroshyan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.24731000",
+    "longitude": "44.41949000"
+  },
+  {
+    "name": "Ptghni",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.25568000",
+    "longitude": "44.58612000"
+  },
+  {
+    "name": "Ptghunk’",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.16388000",
+    "longitude": "44.36389000"
+  },
+  {
+    "name": "P’ok’r Mant’ash",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.64026000",
+    "longitude": "44.04666000"
+  },
+  {
+    "name": "P’shatavan",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.03888000",
+    "longitude": "44.06671000"
+  },
+  {
+    "name": "Rrind",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.76111000",
+    "longitude": "45.17792000"
+  },
+  {
+    "name": "Sarahart’",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.87043000",
+    "longitude": "44.21407000"
+  },
+  {
+    "name": "Saramej",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.77487000",
+    "longitude": "44.22220000"
+  },
+  {
+    "name": "Saratak",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.67090000",
+    "longitude": "43.87231000"
+  },
+  {
+    "name": "Sardarapat",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.13206000",
+    "longitude": "44.00969000"
+  },
+  {
+    "name": "Sarigyugh",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "41.03531000",
+    "longitude": "45.14486000"
+  },
+  {
+    "name": "Sarukhan",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.29169000",
+    "longitude": "45.13068000"
+  },
+  {
+    "name": "Sasunik",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.25012000",
+    "longitude": "44.34448000"
+  },
+  {
+    "name": "Sayat’-Nova",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.07507000",
+    "longitude": "44.40008000"
+  },
+  {
+    "name": "Sevan",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.54730000",
+    "longitude": "44.94171000"
+  },
+  {
+    "name": "Shaghat",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.55698000",
+    "longitude": "45.90727000"
+  },
+  {
+    "name": "Shahumyan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.94171000",
+    "longitude": "44.57233000"
+  },
+  {
+    "name": "Shahumyan",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.77482000",
+    "longitude": "44.54596000"
+  },
+  {
+    "name": "Shatin",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.83612000",
+    "longitude": "45.30292000"
+  },
+  {
+    "name": "Shenavan",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.48328000",
+    "longitude": "44.38348000"
+  },
+  {
+    "name": "Shenavan",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.05548000",
+    "longitude": "43.93048000"
+  },
+  {
+    "name": "Shinuhayr",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.43670000",
+    "longitude": "46.31787000"
+  },
+  {
+    "name": "Shirak",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.84042000",
+    "longitude": "43.91582000"
+  },
+  {
+    "name": "Shirakamut",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.86056000",
+    "longitude": "44.15278000"
+  },
+  {
+    "name": "Shnogh",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.14693000",
+    "longitude": "44.84043000"
+  },
+  {
+    "name": "Sis",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.05829000",
+    "longitude": "44.38892000"
+  },
+  {
+    "name": "Sisavan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.90802000",
+    "longitude": "44.66721000"
+  },
+  {
+    "name": "Solak",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.46252000",
+    "longitude": "44.70709000"
+  },
+  {
+    "name": "Spandaryan",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.66105000",
+    "longitude": "44.01551000"
+  },
+  {
+    "name": "Spitak",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.83221000",
+    "longitude": "44.26731000"
+  },
+  {
+    "name": "Step’anavan",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.00995000",
+    "longitude": "44.38531000"
+  },
+  {
+    "name": "Surenavan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.79449000",
+    "longitude": "44.77508000"
+  },
+  {
+    "name": "Tandzut",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.06952000",
+    "longitude": "44.07788000"
+  },
+  {
+    "name": "Taronik",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.13367000",
+    "longitude": "44.19957000"
+  },
+  {
+    "name": "Tashir",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.12072000",
+    "longitude": "44.28462000"
+  },
+  {
+    "name": "Tegh",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.55826000",
+    "longitude": "46.48054000"
+  },
+  {
+    "name": "Tsaghkaber",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.79849000",
+    "longitude": "44.10144000"
+  },
+  {
+    "name": "Tsaghkadzor",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.53259000",
+    "longitude": "44.72025000"
+  },
+  {
+    "name": "Tsaghkahovit",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.63428000",
+    "longitude": "44.22241000"
+  },
+  {
+    "name": "Tsaghkunk’",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.18048000",
+    "longitude": "44.27228000"
+  },
+  {
+    "name": "Tsiatsan",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.18610000",
+    "longitude": "44.26947000"
+  },
+  {
+    "name": "Tsovagyugh",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.63348000",
+    "longitude": "44.96112000"
+  },
+  {
+    "name": "Tsovak",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.18254000",
+    "longitude": "45.63286000"
+  },
+  {
+    "name": "Tsovasar",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.13820000",
+    "longitude": "45.19096000"
+  },
+  {
+    "name": "Tsovazard",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.47510000",
+    "longitude": "45.05011000"
+  },
+  {
+    "name": "Tsovinar",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.15959000",
+    "longitude": "45.46786000"
+  },
+  {
+    "name": "T’alin",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.39172000",
+    "longitude": "43.87793000"
+  },
+  {
+    "name": "Urrut",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "41.06778000",
+    "longitude": "44.39628000"
+  },
+  {
+    "name": "Ushi",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.34729000",
+    "longitude": "44.37512000"
+  },
+  {
+    "name": "Vagharshapat",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.16557000",
+    "longitude": "44.29462000"
+  },
+  {
+    "name": "Vaghashen",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.13611000",
+    "longitude": "45.33069000"
+  },
+  {
+    "name": "Vahagni",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.90698000",
+    "longitude": "44.60873000"
+  },
+  {
+    "name": "Vahan",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.57549000",
+    "longitude": "45.39769000"
+  },
+  {
+    "name": "Vanadzor",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.80456000",
+    "longitude": "44.49390000"
+  },
+  {
+    "name": "Vardablur",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.97083000",
+    "longitude": "44.50889000"
+  },
+  {
+    "name": "Vardadzor",
+    "countryCode": "AM",
+    "stateCode": "ER",
+    "latitude": "40.18701000",
+    "longitude": "45.19212000"
+  },
+  {
+    "name": "Vardenik",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.13348000",
+    "longitude": "45.44311000"
+  },
+  {
+    "name": "Vardenis",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.18329000",
+    "longitude": "45.73053000"
+  },
+  {
+    "name": "Varser",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.55548000",
+    "longitude": "44.90832000"
+  },
+  {
+    "name": "Vayk’",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.68890000",
+    "longitude": "45.46668000"
+  },
+  {
+    "name": "Vedi",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.91388000",
+    "longitude": "44.72510000"
+  },
+  {
+    "name": "Verin Artashat",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.99731000",
+    "longitude": "44.58893000"
+  },
+  {
+    "name": "Verin Dvin",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.02434000",
+    "longitude": "44.59038000"
+  },
+  {
+    "name": "Verin Getashen",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.13068000",
+    "longitude": "45.25293000"
+  },
+  {
+    "name": "Verishen",
+    "countryCode": "AM",
+    "stateCode": "SU",
+    "latitude": "39.53543000",
+    "longitude": "46.32063000"
+  },
+  {
+    "name": "Vernashen",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.79236000",
+    "longitude": "45.36389000"
+  },
+  {
+    "name": "Voskehask",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.76426000",
+    "longitude": "43.77474000"
+  },
+  {
+    "name": "Voskehat",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.14172000",
+    "longitude": "44.33069000"
+  },
+  {
+    "name": "Vosketap’",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.88114000",
+    "longitude": "44.64917000"
+  },
+  {
+    "name": "Voskevan",
+    "countryCode": "AM",
+    "stateCode": "TV",
+    "latitude": "41.12081000",
+    "longitude": "45.06381000"
+  },
+  {
+    "name": "Voskevaz",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.27508000",
+    "longitude": "44.30011000"
+  },
+  {
+    "name": "Vostan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.96515000",
+    "longitude": "44.55937000"
+  },
+  {
+    "name": "Yeghegis",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.87231000",
+    "longitude": "45.35010000"
+  },
+  {
+    "name": "Yeghegnadzor",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.76389000",
+    "longitude": "45.33239000"
+  },
+  {
+    "name": "Yeghegnavan",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.83893000",
+    "longitude": "44.61951000"
+  },
+  {
+    "name": "Yeghegnut",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.08893000",
+    "longitude": "44.16669000"
+  },
+  {
+    "name": "Yeghegnut",
+    "countryCode": "AM",
+    "stateCode": "LO",
+    "latitude": "40.90302000",
+    "longitude": "44.63155000"
+  },
+  {
+    "name": "Yeghvard",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.32507000",
+    "longitude": "44.48608000"
+  },
+  {
+    "name": "Yeranos",
+    "countryCode": "AM",
+    "stateCode": "GR",
+    "latitude": "40.20428000",
+    "longitude": "45.19209000"
+  },
+  {
+    "name": "Yeraskhahun",
+    "countryCode": "AM",
+    "stateCode": "AV",
+    "latitude": "40.07233000",
+    "longitude": "44.21948000"
+  },
+  {
+    "name": "Yerazgavors",
+    "countryCode": "AM",
+    "stateCode": "SH",
+    "latitude": "40.69505000",
+    "longitude": "43.74722000"
+  },
+  {
+    "name": "Yerevan",
+    "countryCode": "AM",
+    "stateCode": "ER",
+    "latitude": "40.18111000",
+    "longitude": "44.51361000"
+  },
+  {
+    "name": "Zangakatun",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "39.82233000",
+    "longitude": "45.04169000"
+  },
+  {
+    "name": "Zarr",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.25848000",
+    "longitude": "44.73328000"
+  },
+  {
+    "name": "Zarrit’ap’",
+    "countryCode": "AM",
+    "stateCode": "VD",
+    "latitude": "39.63892000",
+    "longitude": "45.51111000"
+  },
+  {
+    "name": "Zorak",
+    "countryCode": "AM",
+    "stateCode": "AR",
+    "latitude": "40.09168000",
+    "longitude": "44.39447000"
+  },
+  {
+    "name": "Zoravan",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.35553000",
+    "longitude": "44.52228000"
+  },
+  {
+    "name": "Zovaber",
+    "countryCode": "AM",
+    "stateCode": "KT",
+    "latitude": "40.56671000",
+    "longitude": "44.79028000"
+  },
+  {
+    "name": "Zovuni",
+    "countryCode": "AM",
+    "stateCode": "AG",
+    "latitude": "40.51111000",
+    "longitude": "44.43890000"
+  }
+]

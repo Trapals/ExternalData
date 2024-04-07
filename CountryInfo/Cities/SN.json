@@ -1,0 +1,513 @@
+[
+  {
+    "name": "Adéane",
+    "countryCode": "SN",
+    "stateCode": "ZG",
+    "latitude": "12.63000000",
+    "longitude": "-16.01694000"
+  },
+  {
+    "name": "Bignona",
+    "countryCode": "SN",
+    "stateCode": "ZG",
+    "latitude": "12.81028000",
+    "longitude": "-16.22639000"
+  },
+  {
+    "name": "Dakar",
+    "countryCode": "SN",
+    "stateCode": "DK",
+    "latitude": "14.69370000",
+    "longitude": "-17.44406000"
+  },
+  {
+    "name": "Dakar Department",
+    "countryCode": "SN",
+    "stateCode": "DK",
+    "latitude": "14.71403000",
+    "longitude": "-17.45534000"
+  },
+  {
+    "name": "Dara",
+    "countryCode": "SN",
+    "stateCode": "LG",
+    "latitude": "15.34844000",
+    "longitude": "-15.47993000"
+  },
+  {
+    "name": "Diawara",
+    "countryCode": "SN",
+    "stateCode": "MT",
+    "latitude": "15.02196000",
+    "longitude": "-12.54374000"
+  },
+  {
+    "name": "Diofior",
+    "countryCode": "SN",
+    "stateCode": "FK",
+    "latitude": "14.18333000",
+    "longitude": "-16.66667000"
+  },
+  {
+    "name": "Département de Salémata",
+    "countryCode": "SN",
+    "stateCode": "KE",
+    "latitude": "12.59971000",
+    "longitude": "-12.77619000"
+  },
+  {
+    "name": "Fatick Department",
+    "countryCode": "SN",
+    "stateCode": "FK",
+    "latitude": "14.25909000",
+    "longitude": "-16.49884000"
+  },
+  {
+    "name": "Foundiougne",
+    "countryCode": "SN",
+    "stateCode": "FK",
+    "latitude": "14.13333000",
+    "longitude": "-16.46667000"
+  },
+  {
+    "name": "Gandiaye",
+    "countryCode": "SN",
+    "stateCode": "KL",
+    "latitude": "14.23333000",
+    "longitude": "-16.26667000"
+  },
+  {
+    "name": "Goléré",
+    "countryCode": "SN",
+    "stateCode": "SL",
+    "latitude": "16.25575000",
+    "longitude": "-14.10165000"
+  },
+  {
+    "name": "Goudomp Department",
+    "countryCode": "SN",
+    "stateCode": "SE",
+    "latitude": "12.57778000",
+    "longitude": "-15.87222000"
+  },
+  {
+    "name": "Guinguinéo",
+    "countryCode": "SN",
+    "stateCode": "FK",
+    "latitude": "14.26667000",
+    "longitude": "-15.95000000"
+  },
+  {
+    "name": "Guédiawaye Department",
+    "countryCode": "SN",
+    "stateCode": "DK",
+    "latitude": "14.77610000",
+    "longitude": "-17.39560000"
+  },
+  {
+    "name": "Guéoul",
+    "countryCode": "SN",
+    "stateCode": "LG",
+    "latitude": "15.48333000",
+    "longitude": "-16.35000000"
+  },
+  {
+    "name": "Joal-Fadiout",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.16667000",
+    "longitude": "-16.83333000"
+  },
+  {
+    "name": "Kaffrine",
+    "countryCode": "SN",
+    "stateCode": "KA",
+    "latitude": "14.10594000",
+    "longitude": "-15.55080000"
+  },
+  {
+    "name": "Kanel",
+    "countryCode": "SN",
+    "stateCode": "MT",
+    "latitude": "15.49160000",
+    "longitude": "-13.17627000"
+  },
+  {
+    "name": "Kaolack",
+    "countryCode": "SN",
+    "stateCode": "KL",
+    "latitude": "14.15197000",
+    "longitude": "-16.07259000"
+  },
+  {
+    "name": "Kayar",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.91893000",
+    "longitude": "-17.11978000"
+  },
+  {
+    "name": "Khombole",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.76667000",
+    "longitude": "-16.70000000"
+  },
+  {
+    "name": "Kolda",
+    "countryCode": "SN",
+    "stateCode": "KD",
+    "latitude": "12.89390000",
+    "longitude": "-14.94125000"
+  },
+  {
+    "name": "Kolda Department",
+    "countryCode": "SN",
+    "stateCode": "KD",
+    "latitude": "12.88300000",
+    "longitude": "-14.95000000"
+  },
+  {
+    "name": "Koungheul",
+    "countryCode": "SN",
+    "stateCode": "KA",
+    "latitude": "13.98333000",
+    "longitude": "-14.80000000"
+  },
+  {
+    "name": "Kédougou",
+    "countryCode": "SN",
+    "stateCode": "KE",
+    "latitude": "12.55561000",
+    "longitude": "-12.18076000"
+  },
+  {
+    "name": "Kédougou Department",
+    "countryCode": "SN",
+    "stateCode": "KE",
+    "latitude": "12.81716000",
+    "longitude": "-12.17834000"
+  },
+  {
+    "name": "Linguere Department",
+    "countryCode": "SN",
+    "stateCode": "LG",
+    "latitude": "15.35900000",
+    "longitude": "-15.15800000"
+  },
+  {
+    "name": "Louga",
+    "countryCode": "SN",
+    "stateCode": "LG",
+    "latitude": "15.61867000",
+    "longitude": "-16.22436000"
+  },
+  {
+    "name": "Marsassoum",
+    "countryCode": "SN",
+    "stateCode": "KD",
+    "latitude": "12.82750000",
+    "longitude": "-15.98056000"
+  },
+  {
+    "name": "Matam",
+    "countryCode": "SN",
+    "stateCode": "MT",
+    "latitude": "15.65587000",
+    "longitude": "-13.25544000"
+  },
+  {
+    "name": "Matam Department",
+    "countryCode": "SN",
+    "stateCode": "MT",
+    "latitude": "15.73191000",
+    "longitude": "-13.63393000"
+  },
+  {
+    "name": "Mbacké",
+    "countryCode": "SN",
+    "stateCode": "DB",
+    "latitude": "14.80828000",
+    "longitude": "-15.86454000"
+  },
+  {
+    "name": "Mbaké",
+    "countryCode": "SN",
+    "stateCode": "DB",
+    "latitude": "14.79032000",
+    "longitude": "-15.90803000"
+  },
+  {
+    "name": "Mbour",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.40569000",
+    "longitude": "-16.85559000"
+  },
+  {
+    "name": "Mermoz Boabab",
+    "countryCode": "SN",
+    "stateCode": "DK",
+    "latitude": "14.70649000",
+    "longitude": "-17.47581000"
+  },
+  {
+    "name": "Mékhé",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "15.10970000",
+    "longitude": "-16.62180000"
+  },
+  {
+    "name": "Ndibène Dahra",
+    "countryCode": "SN",
+    "stateCode": "LG",
+    "latitude": "15.33380000",
+    "longitude": "-15.47660000"
+  },
+  {
+    "name": "Ndioum",
+    "countryCode": "SN",
+    "stateCode": "SL",
+    "latitude": "16.51293000",
+    "longitude": "-14.64706000"
+  },
+  {
+    "name": "Ndofane",
+    "countryCode": "SN",
+    "stateCode": "KL",
+    "latitude": "13.91667000",
+    "longitude": "-15.93333000"
+  },
+  {
+    "name": "Nguékhokh",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.51255000",
+    "longitude": "-17.00447000"
+  },
+  {
+    "name": "Nioro du Rip",
+    "countryCode": "SN",
+    "stateCode": "KL",
+    "latitude": "13.75000000",
+    "longitude": "-15.80000000"
+  },
+  {
+    "name": "N’diareme limamoulaye",
+    "countryCode": "SN",
+    "stateCode": "DK",
+    "latitude": "14.78148000",
+    "longitude": "-17.38410000"
+  },
+  {
+    "name": "Ouro Sogui",
+    "countryCode": "SN",
+    "stateCode": "MT",
+    "latitude": "15.60588000",
+    "longitude": "-13.32230000"
+  },
+  {
+    "name": "Oussouye",
+    "countryCode": "SN",
+    "stateCode": "ZG",
+    "latitude": "12.48500000",
+    "longitude": "-16.54694000"
+  },
+  {
+    "name": "Passi",
+    "countryCode": "SN",
+    "stateCode": "FK",
+    "latitude": "13.98333000",
+    "longitude": "-16.26667000"
+  },
+  {
+    "name": "Pikine",
+    "countryCode": "SN",
+    "stateCode": "DK",
+    "latitude": "14.76457000",
+    "longitude": "-17.39071000"
+  },
+  {
+    "name": "Pikine Department",
+    "countryCode": "SN",
+    "stateCode": "DK",
+    "latitude": "14.76515000",
+    "longitude": "-17.35198000"
+  },
+  {
+    "name": "Polel Diaoubé",
+    "countryCode": "SN",
+    "stateCode": "SL",
+    "latitude": "15.26667000",
+    "longitude": "-13.00000000"
+  },
+  {
+    "name": "Pourham",
+    "countryCode": "SN",
+    "stateCode": "FK",
+    "latitude": "14.35000000",
+    "longitude": "-16.41667000"
+  },
+  {
+    "name": "Pout",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.77099000",
+    "longitude": "-17.06107000"
+  },
+  {
+    "name": "Ranérou",
+    "countryCode": "SN",
+    "stateCode": "MT",
+    "latitude": "15.30000000",
+    "longitude": "-13.96667000"
+  },
+  {
+    "name": "Richard-Toll",
+    "countryCode": "SN",
+    "stateCode": "SL",
+    "latitude": "16.46250000",
+    "longitude": "-15.70083000"
+  },
+  {
+    "name": "Rosso",
+    "countryCode": "SN",
+    "stateCode": "SL",
+    "latitude": "16.42028000",
+    "longitude": "-15.79834000"
+  },
+  {
+    "name": "Rufisque Department",
+    "countryCode": "SN",
+    "stateCode": "DK",
+    "latitude": "14.74339000",
+    "longitude": "-17.19841000"
+  },
+  {
+    "name": "Saint-Louis",
+    "countryCode": "SN",
+    "stateCode": "SL",
+    "latitude": "16.01793000",
+    "longitude": "-16.48962000"
+  },
+  {
+    "name": "Saraya",
+    "countryCode": "SN",
+    "stateCode": "KE",
+    "latitude": "13.00150000",
+    "longitude": "-11.79627000"
+  },
+  {
+    "name": "Sokone",
+    "countryCode": "SN",
+    "stateCode": "FK",
+    "latitude": "13.88333000",
+    "longitude": "-16.36667000"
+  },
+  {
+    "name": "Sédhiou",
+    "countryCode": "SN",
+    "stateCode": "SE",
+    "latitude": "12.70806000",
+    "longitude": "-15.55694000"
+  },
+  {
+    "name": "Sémé",
+    "countryCode": "SN",
+    "stateCode": "MT",
+    "latitude": "15.19422000",
+    "longitude": "-12.94482000"
+  },
+  {
+    "name": "Tambacounda",
+    "countryCode": "SN",
+    "stateCode": "TC",
+    "latitude": "13.77073000",
+    "longitude": "-13.66734000"
+  },
+  {
+    "name": "Tambacounda Department",
+    "countryCode": "SN",
+    "stateCode": "TC",
+    "latitude": "13.60500000",
+    "longitude": "-13.64700000"
+  },
+  {
+    "name": "Thiès",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.73004000",
+    "longitude": "-16.86974000"
+  },
+  {
+    "name": "Thiès Nones",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.78333000",
+    "longitude": "-16.96667000"
+  },
+  {
+    "name": "Tiadiaye",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.41667000",
+    "longitude": "-16.70000000"
+  },
+  {
+    "name": "Tionk Essil",
+    "countryCode": "SN",
+    "stateCode": "ZG",
+    "latitude": "12.78556000",
+    "longitude": "-16.52167000"
+  },
+  {
+    "name": "Tivaouane",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "15.08519000",
+    "longitude": "-16.71058000"
+  },
+  {
+    "name": "Tiébo",
+    "countryCode": "SN",
+    "stateCode": "DB",
+    "latitude": "14.63333000",
+    "longitude": "-16.23333000"
+  },
+  {
+    "name": "Touba",
+    "countryCode": "SN",
+    "stateCode": "DB",
+    "latitude": "14.85000000",
+    "longitude": "-15.88333000"
+  },
+  {
+    "name": "Vélingara",
+    "countryCode": "SN",
+    "stateCode": "KD",
+    "latitude": "13.15000000",
+    "longitude": "-14.11667000"
+  },
+  {
+    "name": "Waoundé",
+    "countryCode": "SN",
+    "stateCode": "MT",
+    "latitude": "15.26367000",
+    "longitude": "-12.86821000"
+  },
+  {
+    "name": "Warang",
+    "countryCode": "SN",
+    "stateCode": "TH",
+    "latitude": "14.37349000",
+    "longitude": "-16.94366000"
+  },
+  {
+    "name": "Ziguinchor",
+    "countryCode": "SN",
+    "stateCode": "ZG",
+    "latitude": "12.56801000",
+    "longitude": "-16.27326000"
+  }
+]

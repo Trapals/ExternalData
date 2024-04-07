@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Anabar",
+    "countryCode": "NR",
+    "stateCode": "02",
+    "latitude": "-0.50845000",
+    "longitude": "166.95326000"
+  },
+  {
+    "name": "Arijejen",
+    "countryCode": "NR",
+    "stateCode": "01",
+    "latitude": "-0.52545000",
+    "longitude": "166.91247000"
+  },
+  {
+    "name": "Baiti",
+    "countryCode": "NR",
+    "stateCode": "05",
+    "latitude": "-0.50803000",
+    "longitude": "166.92945000"
+  },
+  {
+    "name": "Ijuw",
+    "countryCode": "NR",
+    "stateCode": "10",
+    "latitude": "-0.52100000",
+    "longitude": "166.95813000"
+  },
+  {
+    "name": "Menen",
+    "countryCode": "NR",
+    "stateCode": "11",
+    "latitude": "-0.54539000",
+    "longitude": "166.94871000"
+  },
+  {
+    "name": "Uaboe",
+    "countryCode": "NR",
+    "stateCode": "13",
+    "latitude": "-0.51393000",
+    "longitude": "166.92384000"
+  },
+  {
+    "name": "Yaren",
+    "countryCode": "NR",
+    "stateCode": "14",
+    "latitude": "-0.55085000",
+    "longitude": "166.92520000"
+  }
+]

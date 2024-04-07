@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Daga",
+    "countryCode": "BT",
+    "stateCode": "22",
+    "latitude": "27.07529000",
+    "longitude": "89.87688000"
+  },
+  {
+    "name": "Daphu",
+    "countryCode": "BT",
+    "stateCode": "12",
+    "latitude": "26.96667000",
+    "longitude": "89.38333000"
+  },
+  {
+    "name": "Gasa",
+    "countryCode": "BT",
+    "stateCode": "GA",
+    "latitude": "27.90372000",
+    "longitude": "89.72689000"
+  },
+  {
+    "name": "Ha",
+    "countryCode": "BT",
+    "stateCode": "13",
+    "latitude": "27.38747000",
+    "longitude": "89.28074000"
+  },
+  {
+    "name": "Jakar",
+    "countryCode": "BT",
+    "stateCode": "33",
+    "latitude": "27.54918000",
+    "longitude": "90.75250000"
+  },
+  {
+    "name": "Lhuentse",
+    "countryCode": "BT",
+    "stateCode": "44",
+    "latitude": "27.66787000",
+    "longitude": "91.18393000"
+  },
+  {
+    "name": "Mongar",
+    "countryCode": "BT",
+    "stateCode": "42",
+    "latitude": "27.27471000",
+    "longitude": "91.23963000"
+  },
+  {
+    "name": "Pajo",
+    "countryCode": "BT",
+    "stateCode": "23",
+    "latitude": "27.53333000",
+    "longitude": "89.88333000"
+  },
+  {
+    "name": "Panbang",
+    "countryCode": "BT",
+    "stateCode": "34",
+    "latitude": "26.86667000",
+    "longitude": "90.98333000"
+  },
+  {
+    "name": "Paro",
+    "countryCode": "BT",
+    "stateCode": "11",
+    "latitude": "27.43050000",
+    "longitude": "89.41334000"
+  },
+  {
+    "name": "Pemagatshel",
+    "countryCode": "BT",
+    "stateCode": "43",
+    "latitude": "27.03795000",
+    "longitude": "91.40305000"
+  },
+  {
+    "name": "Phuntsholing",
+    "countryCode": "BT",
+    "stateCode": "12",
+    "latitude": "26.85164000",
+    "longitude": "89.38837000"
+  },
+  {
+    "name": "Punākha",
+    "countryCode": "BT",
+    "stateCode": "23",
+    "latitude": "27.59137000",
+    "longitude": "89.87743000"
+  },
+  {
+    "name": "Samdrup Jongkhar",
+    "countryCode": "BT",
+    "stateCode": "45",
+    "latitude": "26.80069000",
+    "longitude": "91.50519000"
+  },
+  {
+    "name": "Samtse",
+    "countryCode": "BT",
+    "stateCode": "14",
+    "latitude": "26.89903000",
+    "longitude": "89.09951000"
+  },
+  {
+    "name": "Sarpang",
+    "countryCode": "BT",
+    "stateCode": "31",
+    "latitude": "26.86395000",
+    "longitude": "90.26745000"
+  },
+  {
+    "name": "Shemgang",
+    "countryCode": "BT",
+    "stateCode": "34",
+    "latitude": "27.21689000",
+    "longitude": "90.65793000"
+  },
+  {
+    "name": "Thimphu",
+    "countryCode": "BT",
+    "stateCode": "15",
+    "latitude": "27.46609000",
+    "longitude": "89.64191000"
+  },
+  {
+    "name": "Trashi Yangtse",
+    "countryCode": "BT",
+    "stateCode": "24",
+    "latitude": "27.61160000",
+    "longitude": "91.49800000"
+  },
+  {
+    "name": "Trashigang",
+    "countryCode": "BT",
+    "stateCode": "41",
+    "latitude": "27.33310000",
+    "longitude": "91.55424000"
+  },
+  {
+    "name": "Trongsa",
+    "countryCode": "BT",
+    "stateCode": "21",
+    "latitude": "27.50260000",
+    "longitude": "90.50716000"
+  },
+  {
+    "name": "Tsimasham",
+    "countryCode": "BT",
+    "stateCode": "12",
+    "latitude": "27.09890000",
+    "longitude": "89.53604000"
+  },
+  {
+    "name": "Tsirang",
+    "countryCode": "BT",
+    "stateCode": "21",
+    "latitude": "27.02190000",
+    "longitude": "90.12291000"
+  },
+  {
+    "name": "Wangdue Phodrang",
+    "countryCode": "BT",
+    "stateCode": "22",
+    "latitude": "27.48615000",
+    "longitude": "89.89915000"
+  }
+]

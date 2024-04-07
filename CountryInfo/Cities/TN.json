@@ -1,0 +1,940 @@
+[
+  {
+    "name": "Agareb",
+    "countryCode": "TN",
+    "stateCode": "61",
+    "latitude": "34.74406000",
+    "longitude": "10.46110000"
+  },
+  {
+    "name": "Akouda",
+    "countryCode": "TN",
+    "stateCode": "51",
+    "latitude": "35.86910000",
+    "longitude": "10.56530000"
+  },
+  {
+    "name": "Al Marsá",
+    "countryCode": "TN",
+    "stateCode": "11",
+    "latitude": "36.87818000",
+    "longitude": "10.32466000"
+  },
+  {
+    "name": "Al Matlīn",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.24516000",
+    "longitude": "10.05000000"
+  },
+  {
+    "name": "Ar Rudayyif",
+    "countryCode": "TN",
+    "stateCode": "71",
+    "latitude": "34.38270000",
+    "longitude": "8.15549000"
+  },
+  {
+    "name": "Ariana",
+    "countryCode": "TN",
+    "stateCode": "12",
+    "latitude": "36.86012000",
+    "longitude": "10.19337000"
+  },
+  {
+    "name": "As Sanad",
+    "countryCode": "TN",
+    "stateCode": "71",
+    "latitude": "34.46280000",
+    "longitude": "9.26404000"
+  },
+  {
+    "name": "As Sars",
+    "countryCode": "TN",
+    "stateCode": "33",
+    "latitude": "36.07640000",
+    "longitude": "9.02117000"
+  },
+  {
+    "name": "Banbalah",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.70000000",
+    "longitude": "10.80000000"
+  },
+  {
+    "name": "Bekalta",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.61739000",
+    "longitude": "10.99466000"
+  },
+  {
+    "name": "Ben Arous",
+    "countryCode": "TN",
+    "stateCode": "13",
+    "latitude": "36.75452000",
+    "longitude": "10.22167000"
+  },
+  {
+    "name": "Ben Gardane",
+    "countryCode": "TN",
+    "stateCode": "82",
+    "latitude": "33.13783000",
+    "longitude": "11.21965000"
+  },
+  {
+    "name": "Beni Hassane",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.56720000",
+    "longitude": "10.80869000"
+  },
+  {
+    "name": "Beni Kheddache",
+    "countryCode": "TN",
+    "stateCode": "82",
+    "latitude": "33.25279000",
+    "longitude": "10.19883000"
+  },
+  {
+    "name": "Bir Ali Ben Khalifa",
+    "countryCode": "TN",
+    "stateCode": "61",
+    "latitude": "34.73592000",
+    "longitude": "10.09240000"
+  },
+  {
+    "name": "Bir el Hafey",
+    "countryCode": "TN",
+    "stateCode": "43",
+    "latitude": "34.93212000",
+    "longitude": "9.19321000"
+  },
+  {
+    "name": "Bizerte",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.27442000",
+    "longitude": "9.87391000"
+  },
+  {
+    "name": "Bizerte Sud",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.25528000",
+    "longitude": "9.67915000"
+  },
+  {
+    "name": "Bou Arada",
+    "countryCode": "TN",
+    "stateCode": "34",
+    "latitude": "36.35251000",
+    "longitude": "9.62175000"
+  },
+  {
+    "name": "Bou Attouche",
+    "countryCode": "TN",
+    "stateCode": "81",
+    "latitude": "33.89927000",
+    "longitude": "9.78496000"
+  },
+  {
+    "name": "Béja",
+    "countryCode": "TN",
+    "stateCode": "31",
+    "latitude": "36.72564000",
+    "longitude": "9.18169000"
+  },
+  {
+    "name": "Carthage",
+    "countryCode": "TN",
+    "stateCode": "11",
+    "latitude": "36.85961000",
+    "longitude": "10.32978000"
+  },
+  {
+    "name": "Chebba",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.23722000",
+    "longitude": "11.11500000"
+  },
+  {
+    "name": "Chebika",
+    "countryCode": "TN",
+    "stateCode": "72",
+    "latitude": "34.31909000",
+    "longitude": "7.93519000"
+  },
+  {
+    "name": "Chorbane",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.28581000",
+    "longitude": "10.38580000"
+  },
+  {
+    "name": "Degache",
+    "countryCode": "TN",
+    "stateCode": "72",
+    "latitude": "33.97606000",
+    "longitude": "8.20810000"
+  },
+  {
+    "name": "Djebeniana",
+    "countryCode": "TN",
+    "stateCode": "61",
+    "latitude": "35.03500000",
+    "longitude": "10.90809000"
+  },
+  {
+    "name": "Djemmal",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.62231000",
+    "longitude": "10.75696000"
+  },
+  {
+    "name": "Douar Tindja",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.16667000",
+    "longitude": "9.75000000"
+  },
+  {
+    "name": "Douz",
+    "countryCode": "TN",
+    "stateCode": "73",
+    "latitude": "33.46632000",
+    "longitude": "9.02030000"
+  },
+  {
+    "name": "Délégation de Béja Nord",
+    "countryCode": "TN",
+    "stateCode": "31",
+    "latitude": "36.80353000",
+    "longitude": "9.24984000"
+  },
+  {
+    "name": "El Alia",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.16911000",
+    "longitude": "10.03478000"
+  },
+  {
+    "name": "El Battan",
+    "countryCode": "TN",
+    "stateCode": "14",
+    "latitude": "36.80368000",
+    "longitude": "9.84424000"
+  },
+  {
+    "name": "El Fahs",
+    "countryCode": "TN",
+    "stateCode": "22",
+    "latitude": "36.37419000",
+    "longitude": "9.90651000"
+  },
+  {
+    "name": "El Golaa",
+    "countryCode": "TN",
+    "stateCode": "73",
+    "latitude": "33.48485000",
+    "longitude": "9.00678000"
+  },
+  {
+    "name": "El Hamma",
+    "countryCode": "TN",
+    "stateCode": "81",
+    "latitude": "33.89152000",
+    "longitude": "9.79629000"
+  },
+  {
+    "name": "El Jem",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.30000000",
+    "longitude": "10.71667000"
+  },
+  {
+    "name": "El Kef",
+    "countryCode": "TN",
+    "stateCode": "33",
+    "latitude": "36.17424000",
+    "longitude": "8.70486000"
+  },
+  {
+    "name": "El Ksour",
+    "countryCode": "TN",
+    "stateCode": "33",
+    "latitude": "35.89607000",
+    "longitude": "8.88493000"
+  },
+  {
+    "name": "Er Regueb",
+    "countryCode": "TN",
+    "stateCode": "43",
+    "latitude": "34.85932000",
+    "longitude": "9.78654000"
+  },
+  {
+    "name": "Erriadh",
+    "countryCode": "TN",
+    "stateCode": "82",
+    "latitude": "33.82063000",
+    "longitude": "10.85394000"
+  },
+  {
+    "name": "Fernana",
+    "countryCode": "TN",
+    "stateCode": "32",
+    "latitude": "36.65547000",
+    "longitude": "8.69602000"
+  },
+  {
+    "name": "Gabès",
+    "countryCode": "TN",
+    "stateCode": "81",
+    "latitude": "33.88146000",
+    "longitude": "10.09820000"
+  },
+  {
+    "name": "Gafour",
+    "countryCode": "TN",
+    "stateCode": "34",
+    "latitude": "36.32045000",
+    "longitude": "9.32424000"
+  },
+  {
+    "name": "Gafsa",
+    "countryCode": "TN",
+    "stateCode": "71",
+    "latitude": "34.42500000",
+    "longitude": "8.78417000"
+  },
+  {
+    "name": "Galaat el Andeless",
+    "countryCode": "TN",
+    "stateCode": "12",
+    "latitude": "37.06290000",
+    "longitude": "10.11829000"
+  },
+  {
+    "name": "Goubellat",
+    "countryCode": "TN",
+    "stateCode": "31",
+    "latitude": "36.54178000",
+    "longitude": "9.66334000"
+  },
+  {
+    "name": "Gremda",
+    "countryCode": "TN",
+    "stateCode": "61",
+    "latitude": "34.75000000",
+    "longitude": "10.78333000"
+  },
+  {
+    "name": "Haffouz",
+    "countryCode": "TN",
+    "stateCode": "41",
+    "latitude": "35.63235000",
+    "longitude": "9.67624000"
+  },
+  {
+    "name": "Hammam Lif",
+    "countryCode": "TN",
+    "stateCode": "13",
+    "latitude": "36.71919000",
+    "longitude": "10.32233000"
+  },
+  {
+    "name": "Hammam Sousse",
+    "countryCode": "TN",
+    "stateCode": "51",
+    "latitude": "35.86090000",
+    "longitude": "10.60313000"
+  },
+  {
+    "name": "Hammam-Lif",
+    "countryCode": "TN",
+    "stateCode": "13",
+    "latitude": "36.72866000",
+    "longitude": "10.34163000"
+  },
+  {
+    "name": "Harqalah",
+    "countryCode": "TN",
+    "stateCode": "51",
+    "latitude": "36.03027000",
+    "longitude": "10.50904000"
+  },
+  {
+    "name": "Houmt El Souk",
+    "countryCode": "TN",
+    "stateCode": "82",
+    "latitude": "33.87576000",
+    "longitude": "10.85745000"
+  },
+  {
+    "name": "Jemna",
+    "countryCode": "TN",
+    "stateCode": "73",
+    "latitude": "33.57778000",
+    "longitude": "9.01472000"
+  },
+  {
+    "name": "Jendouba",
+    "countryCode": "TN",
+    "stateCode": "32",
+    "latitude": "36.48519000",
+    "longitude": "8.82325000"
+  },
+  {
+    "name": "Jerba Midoun",
+    "countryCode": "TN",
+    "stateCode": "82",
+    "latitude": "33.77918000",
+    "longitude": "10.95215000"
+  },
+  {
+    "name": "Jilma",
+    "countryCode": "TN",
+    "stateCode": "43",
+    "latitude": "35.27311000",
+    "longitude": "9.42385000"
+  },
+  {
+    "name": "Kairouan",
+    "countryCode": "TN",
+    "stateCode": "41",
+    "latitude": "35.67810000",
+    "longitude": "10.09633000"
+  },
+  {
+    "name": "Kasserine",
+    "countryCode": "TN",
+    "stateCode": "42",
+    "latitude": "35.16758000",
+    "longitude": "8.83651000"
+  },
+  {
+    "name": "Kebili",
+    "countryCode": "TN",
+    "stateCode": "73",
+    "latitude": "33.70439000",
+    "longitude": "8.96903000"
+  },
+  {
+    "name": "Kesra",
+    "countryCode": "TN",
+    "stateCode": "34",
+    "latitude": "35.81363000",
+    "longitude": "9.36434000"
+  },
+  {
+    "name": "Ksar Hellal",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.64773000",
+    "longitude": "10.89046000"
+  },
+  {
+    "name": "Ksibet el Mediouni",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.68561000",
+    "longitude": "10.84256000"
+  },
+  {
+    "name": "Ksour Essaf",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.41808000",
+    "longitude": "10.99475000"
+  },
+  {
+    "name": "La Goulette",
+    "countryCode": "TN",
+    "stateCode": "11",
+    "latitude": "36.81825000",
+    "longitude": "10.30520000"
+  },
+  {
+    "name": "La Mohammedia",
+    "countryCode": "TN",
+    "stateCode": "11",
+    "latitude": "36.67446000",
+    "longitude": "10.15633000"
+  },
+  {
+    "name": "La Sebala du Mornag",
+    "countryCode": "TN",
+    "stateCode": "13",
+    "latitude": "36.67931000",
+    "longitude": "10.29195000"
+  },
+  {
+    "name": "Le Krib",
+    "countryCode": "TN",
+    "stateCode": "34",
+    "latitude": "36.32802000",
+    "longitude": "9.13613000"
+  },
+  {
+    "name": "Lemta",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.66667000",
+    "longitude": "10.88333000"
+  },
+  {
+    "name": "Mahdia",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.50472000",
+    "longitude": "11.06222000"
+  },
+  {
+    "name": "Maktar",
+    "countryCode": "TN",
+    "stateCode": "34",
+    "latitude": "35.85798000",
+    "longitude": "9.20072000"
+  },
+  {
+    "name": "Manouba",
+    "countryCode": "TN",
+    "stateCode": "14",
+    "latitude": "36.81006000",
+    "longitude": "10.09557000"
+  },
+  {
+    "name": "Mateur",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.04045000",
+    "longitude": "9.66557000"
+  },
+  {
+    "name": "Matmata",
+    "countryCode": "TN",
+    "stateCode": "81",
+    "latitude": "33.54445000",
+    "longitude": "9.97157000"
+  },
+  {
+    "name": "Medenine",
+    "countryCode": "TN",
+    "stateCode": "82",
+    "latitude": "33.35495000",
+    "longitude": "10.50548000"
+  },
+  {
+    "name": "Medjez el Bab",
+    "countryCode": "TN",
+    "stateCode": "31",
+    "latitude": "36.64964000",
+    "longitude": "9.61231000"
+  },
+  {
+    "name": "Melloulèche",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.16617000",
+    "longitude": "11.03504000"
+  },
+  {
+    "name": "Menzel Abderhaman",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.23737000",
+    "longitude": "9.86313000"
+  },
+  {
+    "name": "Menzel Bourguiba",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.15368000",
+    "longitude": "9.78594000"
+  },
+  {
+    "name": "Menzel Jemil",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.23618000",
+    "longitude": "9.91448000"
+  },
+  {
+    "name": "Menzel Kamel",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.62477000",
+    "longitude": "10.66727000"
+  },
+  {
+    "name": "Menzel Salem",
+    "countryCode": "TN",
+    "stateCode": "33",
+    "latitude": "35.85673000",
+    "longitude": "8.47654000"
+  },
+  {
+    "name": "Mesdour",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.68206000",
+    "longitude": "10.72746000"
+  },
+  {
+    "name": "Metlaoui",
+    "countryCode": "TN",
+    "stateCode": "71",
+    "latitude": "34.32081000",
+    "longitude": "8.40157000"
+  },
+  {
+    "name": "Mezzouna",
+    "countryCode": "TN",
+    "stateCode": "43",
+    "latitude": "34.57758000",
+    "longitude": "9.84193000"
+  },
+  {
+    "name": "Midoun",
+    "countryCode": "TN",
+    "stateCode": "82",
+    "latitude": "33.80813000",
+    "longitude": "10.99228000"
+  },
+  {
+    "name": "Monastir",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.77799000",
+    "longitude": "10.82617000"
+  },
+  {
+    "name": "Msaken",
+    "countryCode": "TN",
+    "stateCode": "51",
+    "latitude": "35.72917000",
+    "longitude": "10.58082000"
+  },
+  {
+    "name": "Mu‘tamadīyat Manūbah",
+    "countryCode": "TN",
+    "stateCode": "14",
+    "latitude": "36.80907000",
+    "longitude": "10.09467000"
+  },
+  {
+    "name": "Mu‘tamadīyat ar Rudayyif",
+    "countryCode": "TN",
+    "stateCode": "71",
+    "latitude": "34.40081000",
+    "longitude": "8.17057000"
+  },
+  {
+    "name": "Nefta",
+    "countryCode": "TN",
+    "stateCode": "72",
+    "latitude": "33.87309000",
+    "longitude": "7.87765000"
+  },
+  {
+    "name": "Nibbar",
+    "countryCode": "TN",
+    "stateCode": "33",
+    "latitude": "36.29411000",
+    "longitude": "8.76657000"
+  },
+  {
+    "name": "Ouardenine",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.70915000",
+    "longitude": "10.67397000"
+  },
+  {
+    "name": "Oued Lill",
+    "countryCode": "TN",
+    "stateCode": "14",
+    "latitude": "36.83408000",
+    "longitude": "10.04057000"
+  },
+  {
+    "name": "Oued Meliz",
+    "countryCode": "TN",
+    "stateCode": "32",
+    "latitude": "36.46813000",
+    "longitude": "8.54951000"
+  },
+  {
+    "name": "Port el Kantaoui",
+    "countryCode": "TN",
+    "stateCode": "51",
+    "latitude": "35.89239000",
+    "longitude": "10.59434000"
+  },
+  {
+    "name": "Radès",
+    "countryCode": "TN",
+    "stateCode": "13",
+    "latitude": "36.76946000",
+    "longitude": "10.27468000"
+  },
+  {
+    "name": "Rafrāf",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.19043000",
+    "longitude": "10.18365000"
+  },
+  {
+    "name": "Remada",
+    "countryCode": "TN",
+    "stateCode": "83",
+    "latitude": "32.31662000",
+    "longitude": "10.39551000"
+  },
+  {
+    "name": "Rhar el Melah",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.16939000",
+    "longitude": "10.19064000"
+  },
+  {
+    "name": "Rohia",
+    "countryCode": "TN",
+    "stateCode": "42",
+    "latitude": "35.65129000",
+    "longitude": "9.05306000"
+  },
+  {
+    "name": "Sahline",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.75166000",
+    "longitude": "10.71109000"
+  },
+  {
+    "name": "Sakiet Sidi Youssef",
+    "countryCode": "TN",
+    "stateCode": "33",
+    "latitude": "36.22292000",
+    "longitude": "8.35547000"
+  },
+  {
+    "name": "Salakta",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.39444000",
+    "longitude": "11.04361000"
+  },
+  {
+    "name": "Sbiba",
+    "countryCode": "TN",
+    "stateCode": "42",
+    "latitude": "35.54332000",
+    "longitude": "9.07370000"
+  },
+  {
+    "name": "Sbikha",
+    "countryCode": "TN",
+    "stateCode": "41",
+    "latitude": "35.93325000",
+    "longitude": "10.02081000"
+  },
+  {
+    "name": "Sejenane",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.05722000",
+    "longitude": "9.23806000"
+  },
+  {
+    "name": "Seïada",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.66887000",
+    "longitude": "10.89246000"
+  },
+  {
+    "name": "Sfax",
+    "countryCode": "TN",
+    "stateCode": "61",
+    "latitude": "34.74056000",
+    "longitude": "10.76028000"
+  },
+  {
+    "name": "Sidi Alouane",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.37505000",
+    "longitude": "10.93899000"
+  },
+  {
+    "name": "Sidi Ben Nour",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.53333000",
+    "longitude": "10.91667000"
+  },
+  {
+    "name": "Sidi Bou Ali",
+    "countryCode": "TN",
+    "stateCode": "51",
+    "latitude": "35.95667000",
+    "longitude": "10.47306000"
+  },
+  {
+    "name": "Sidi Bou Saïd",
+    "countryCode": "TN",
+    "stateCode": "11",
+    "latitude": "36.86870000",
+    "longitude": "10.34174000"
+  },
+  {
+    "name": "Sidi Bouzid",
+    "countryCode": "TN",
+    "stateCode": "43",
+    "latitude": "35.03823000",
+    "longitude": "9.48494000"
+  },
+  {
+    "name": "Sidi el Hani",
+    "countryCode": "TN",
+    "stateCode": "51",
+    "latitude": "35.67139000",
+    "longitude": "10.31583000"
+  },
+  {
+    "name": "Siliana",
+    "countryCode": "TN",
+    "stateCode": "34",
+    "latitude": "36.08497000",
+    "longitude": "9.37082000"
+  },
+  {
+    "name": "Skanes",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.78333000",
+    "longitude": "10.80000000"
+  },
+  {
+    "name": "Skhira",
+    "countryCode": "TN",
+    "stateCode": "61",
+    "latitude": "34.29920000",
+    "longitude": "10.06999000"
+  },
+  {
+    "name": "Sousse",
+    "countryCode": "TN",
+    "stateCode": "51",
+    "latitude": "35.82539000",
+    "longitude": "10.63699000"
+  },
+  {
+    "name": "Tabarka",
+    "countryCode": "TN",
+    "stateCode": "32",
+    "latitude": "36.95442000",
+    "longitude": "8.75801000"
+  },
+  {
+    "name": "Tabursuq",
+    "countryCode": "TN",
+    "stateCode": "31",
+    "latitude": "36.45692000",
+    "longitude": "9.24751000"
+  },
+  {
+    "name": "Tajerouine",
+    "countryCode": "TN",
+    "stateCode": "33",
+    "latitude": "35.89174000",
+    "longitude": "8.55276000"
+  },
+  {
+    "name": "Tamaghzah",
+    "countryCode": "TN",
+    "stateCode": "72",
+    "latitude": "34.38849000",
+    "longitude": "7.94313000"
+  },
+  {
+    "name": "Tataouine",
+    "countryCode": "TN",
+    "stateCode": "83",
+    "latitude": "32.92967000",
+    "longitude": "10.45177000"
+  },
+  {
+    "name": "Testour",
+    "countryCode": "TN",
+    "stateCode": "31",
+    "latitude": "36.55130000",
+    "longitude": "9.44307000"
+  },
+  {
+    "name": "Thala",
+    "countryCode": "TN",
+    "stateCode": "42",
+    "latitude": "35.57244000",
+    "longitude": "8.67031000"
+  },
+  {
+    "name": "Touza",
+    "countryCode": "TN",
+    "stateCode": "52",
+    "latitude": "35.63544000",
+    "longitude": "10.82732000"
+  },
+  {
+    "name": "Tozeur",
+    "countryCode": "TN",
+    "stateCode": "72",
+    "latitude": "33.91968000",
+    "longitude": "8.13352000"
+  },
+  {
+    "name": "Tunis",
+    "countryCode": "TN",
+    "stateCode": "11",
+    "latitude": "36.81897000",
+    "longitude": "10.16579000"
+  },
+  {
+    "name": "Zaghouan",
+    "countryCode": "TN",
+    "stateCode": "22",
+    "latitude": "36.40291000",
+    "longitude": "10.14292000"
+  },
+  {
+    "name": "Zahānah",
+    "countryCode": "TN",
+    "stateCode": "23",
+    "latitude": "37.03959000",
+    "longitude": "10.03876000"
+  },
+  {
+    "name": "Zarzis",
+    "countryCode": "TN",
+    "stateCode": "82",
+    "latitude": "33.50398000",
+    "longitude": "11.11215000"
+  },
+  {
+    "name": "Zouila",
+    "countryCode": "TN",
+    "stateCode": "53",
+    "latitude": "35.50056000",
+    "longitude": "11.06056000"
+  }
+]

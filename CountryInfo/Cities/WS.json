@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Afega",
+    "countryCode": "WS",
+    "stateCode": "TU",
+    "latitude": "-13.79726000",
+    "longitude": "-171.85308000"
+  },
+  {
+    "name": "Apia",
+    "countryCode": "WS",
+    "stateCode": "TU",
+    "latitude": "-13.83333000",
+    "longitude": "-171.76666000"
+  },
+  {
+    "name": "Asau",
+    "countryCode": "WS",
+    "stateCode": "VS",
+    "latitude": "-13.51963000",
+    "longitude": "-172.63784000"
+  },
+  {
+    "name": "Falefa",
+    "countryCode": "WS",
+    "stateCode": "AT",
+    "latitude": "-13.88695000",
+    "longitude": "-171.58805000"
+  },
+  {
+    "name": "Fasito‘outa",
+    "countryCode": "WS",
+    "stateCode": "AA",
+    "latitude": "-13.81163000",
+    "longitude": "-171.94063000"
+  },
+  {
+    "name": "Gataivai",
+    "countryCode": "WS",
+    "stateCode": "PA",
+    "latitude": "-13.77360000",
+    "longitude": "-172.38802000"
+  },
+  {
+    "name": "Leulumoega",
+    "countryCode": "WS",
+    "stateCode": "AA",
+    "latitude": "-13.82297000",
+    "longitude": "-171.96127000"
+  },
+  {
+    "name": "Lotofagā",
+    "countryCode": "WS",
+    "stateCode": "AT",
+    "latitude": "-13.97643000",
+    "longitude": "-171.85781000"
+  },
+  {
+    "name": "Lufilufi",
+    "countryCode": "WS",
+    "stateCode": "AT",
+    "latitude": "-13.87449000",
+    "longitude": "-171.59857000"
+  },
+  {
+    "name": "Malie",
+    "countryCode": "WS",
+    "stateCode": "TU",
+    "latitude": "-13.80044000",
+    "longitude": "-171.84690000"
+  },
+  {
+    "name": "Matavai",
+    "countryCode": "WS",
+    "stateCode": "GI",
+    "latitude": "-14.03208000",
+    "longitude": "-171.64768000"
+  },
+  {
+    "name": "Mulifanua",
+    "countryCode": "WS",
+    "stateCode": "AL",
+    "latitude": "-13.83183000",
+    "longitude": "-172.03602000"
+  },
+  {
+    "name": "Nofoali‘i",
+    "countryCode": "WS",
+    "stateCode": "AA",
+    "latitude": "-13.82170000",
+    "longitude": "-171.95873000"
+  },
+  {
+    "name": "Safotu",
+    "countryCode": "WS",
+    "stateCode": "GI",
+    "latitude": "-13.45132000",
+    "longitude": "-172.40177000"
+  },
+  {
+    "name": "Samamea",
+    "countryCode": "WS",
+    "stateCode": "VF",
+    "latitude": "-13.93375000",
+    "longitude": "-171.53122000"
+  },
+  {
+    "name": "Satapuala",
+    "countryCode": "WS",
+    "stateCode": "AA",
+    "latitude": "-13.83535000",
+    "longitude": "-171.97963000"
+  },
+  {
+    "name": "Solosolo",
+    "countryCode": "WS",
+    "stateCode": "AT",
+    "latitude": "-13.87504000",
+    "longitude": "-171.64181000"
+  },
+  {
+    "name": "Vailima",
+    "countryCode": "WS",
+    "stateCode": "TU",
+    "latitude": "-13.86417000",
+    "longitude": "-171.76126000"
+  },
+  {
+    "name": "Vailoa",
+    "countryCode": "WS",
+    "stateCode": "PA",
+    "latitude": "-13.75551000",
+    "longitude": "-172.30698000"
+  },
+  {
+    "name": "Vaiusu",
+    "countryCode": "WS",
+    "stateCode": "TU",
+    "latitude": "-13.82678000",
+    "longitude": "-171.79333000"
+  }
+]

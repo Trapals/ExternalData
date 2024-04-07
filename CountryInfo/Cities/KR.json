@@ -1,0 +1,2165 @@
+[
+  {
+    "name": "Andong",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.56636000",
+    "longitude": "128.72275000"
+  },
+  {
+    "name": "Andong-si",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.56667000",
+    "longitude": "128.71667000"
+  },
+  {
+    "name": "Ansan-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.32361000",
+    "longitude": "126.82194000"
+  },
+  {
+    "name": "Anseong",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.01083000",
+    "longitude": "127.27028000"
+  },
+  {
+    "name": "Anyang-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.39250000",
+    "longitude": "126.92694000"
+  },
+  {
+    "name": "Asan",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.78361000",
+    "longitude": "127.00417000"
+  },
+  {
+    "name": "Asan-si",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.80791000",
+    "longitude": "126.97769000"
+  },
+  {
+    "name": "Beolgyo",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.84897000",
+    "longitude": "127.34052000"
+  },
+  {
+    "name": "Boeun-gun",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.49489000",
+    "longitude": "127.72865000"
+  },
+  {
+    "name": "Bonghwa-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.88951000",
+    "longitude": "128.73573000"
+  },
+  {
+    "name": "Boryeong",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.34931000",
+    "longitude": "126.59772000"
+  },
+  {
+    "name": "Boryeong-si",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.35649000",
+    "longitude": "126.59444000"
+  },
+  {
+    "name": "Boseong-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.84622000",
+    "longitude": "127.22189000"
+  },
+  {
+    "name": "Buan-gun",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.70000000",
+    "longitude": "126.66667000"
+  },
+  {
+    "name": "Bucheon-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.50440000",
+    "longitude": "126.76625000"
+  },
+  {
+    "name": "Buk-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.19724000",
+    "longitude": "128.99134000"
+  },
+  {
+    "name": "Buk-gu",
+    "countryCode": "KR",
+    "stateCode": "31",
+    "latitude": "35.58243000",
+    "longitude": "129.36049000"
+  },
+  {
+    "name": "Bupyeong-gu",
+    "countryCode": "KR",
+    "stateCode": "28",
+    "latitude": "37.49720000",
+    "longitude": "126.71107000"
+  },
+  {
+    "name": "Busan",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.10168000",
+    "longitude": "129.03004000"
+  },
+  {
+    "name": "Buyeo",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.27472000",
+    "longitude": "126.90906000"
+  },
+  {
+    "name": "Buyeo-gun",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.26257000",
+    "longitude": "126.85802000"
+  },
+  {
+    "name": "Changnyeong",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.54145000",
+    "longitude": "128.49506000"
+  },
+  {
+    "name": "Changnyeong-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.50822000",
+    "longitude": "128.49020000"
+  },
+  {
+    "name": "Changsu",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.64842000",
+    "longitude": "127.51523000"
+  },
+  {
+    "name": "Changwon",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.22806000",
+    "longitude": "128.68111000"
+  },
+  {
+    "name": "Changwon-si",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.27533000",
+    "longitude": "128.65152000"
+  },
+  {
+    "name": "Cheonan",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.80650000",
+    "longitude": "127.15220000"
+  },
+  {
+    "name": "Cheonan-si",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.80488000",
+    "longitude": "127.19431000"
+  },
+  {
+    "name": "Cheongdo-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "35.67166000",
+    "longitude": "128.78509000"
+  },
+  {
+    "name": "Cheongju-si",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.63722000",
+    "longitude": "127.48972000"
+  },
+  {
+    "name": "Cheongsong gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.43351000",
+    "longitude": "129.05700000"
+  },
+  {
+    "name": "Cheongsong-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.43288000",
+    "longitude": "129.05159000"
+  },
+  {
+    "name": "Cheongyang-gun",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.41676000",
+    "longitude": "126.79419000"
+  },
+  {
+    "name": "Cheorwon-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.24391000",
+    "longitude": "127.44522000"
+  },
+  {
+    "name": "Chilgok-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.01512000",
+    "longitude": "128.46138000"
+  },
+  {
+    "name": "Chinch'ŏn",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.85667000",
+    "longitude": "127.44333000"
+  },
+  {
+    "name": "Chinju",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.19278000",
+    "longitude": "128.08472000"
+  },
+  {
+    "name": "Chuncheon",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.87472000",
+    "longitude": "127.73417000"
+  },
+  {
+    "name": "Chuncheon-si",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.88048000",
+    "longitude": "127.72776000"
+  },
+  {
+    "name": "Chungju-si",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "37.01791000",
+    "longitude": "127.87713000"
+  },
+  {
+    "name": "Daegu",
+    "countryCode": "KR",
+    "stateCode": "27",
+    "latitude": "35.87028000",
+    "longitude": "128.59111000"
+  },
+  {
+    "name": "Daejeon",
+    "countryCode": "KR",
+    "stateCode": "30",
+    "latitude": "36.34913000",
+    "longitude": "127.38493000"
+  },
+  {
+    "name": "Dalseo-gu",
+    "countryCode": "KR",
+    "stateCode": "27",
+    "latitude": "35.82569000",
+    "longitude": "128.52403000"
+  },
+  {
+    "name": "Dalseong-gun",
+    "countryCode": "KR",
+    "stateCode": "27",
+    "latitude": "35.77467000",
+    "longitude": "128.42955000"
+  },
+  {
+    "name": "Damyang-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.33976000",
+    "longitude": "126.99125000"
+  },
+  {
+    "name": "Danyang-gun",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.98615000",
+    "longitude": "128.36945000"
+  },
+  {
+    "name": "Dobong-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.65066000",
+    "longitude": "127.03011000"
+  },
+  {
+    "name": "Dong-gu",
+    "countryCode": "KR",
+    "stateCode": "27",
+    "latitude": "35.88566000",
+    "longitude": "128.63296000"
+  },
+  {
+    "name": "Dong-gu",
+    "countryCode": "KR",
+    "stateCode": "31",
+    "latitude": "35.50470000",
+    "longitude": "129.41860000"
+  },
+  {
+    "name": "Dongdaemun-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.58189000",
+    "longitude": "127.05408000"
+  },
+  {
+    "name": "Dongducheon",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.91889000",
+    "longitude": "127.06897000"
+  },
+  {
+    "name": "Donghae-si",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.52345000",
+    "longitude": "129.11357000"
+  },
+  {
+    "name": "Dongjak-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.50056000",
+    "longitude": "126.95149000"
+  },
+  {
+    "name": "Dongnae-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.20447000",
+    "longitude": "129.07800000"
+  },
+  {
+    "name": "Eisen",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.82167000",
+    "longitude": "128.63083000"
+  },
+  {
+    "name": "Eumseong-gun",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.92602000",
+    "longitude": "127.68070000"
+  },
+  {
+    "name": "Eunpyeong-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.61846000",
+    "longitude": "126.92780000"
+  },
+  {
+    "name": "Gaigeturi",
+    "countryCode": "KR",
+    "stateCode": "49",
+    "latitude": "33.46444000",
+    "longitude": "126.31833000"
+  },
+  {
+    "name": "Gangbuk-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.63490000",
+    "longitude": "127.02015000"
+  },
+  {
+    "name": "Gangdong-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.55274000",
+    "longitude": "127.14546000"
+  },
+  {
+    "name": "Gangjin-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.61787000",
+    "longitude": "126.76758000"
+  },
+  {
+    "name": "Gangnam-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.49510000",
+    "longitude": "127.06278000"
+  },
+  {
+    "name": "Gangneung",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.75266000",
+    "longitude": "128.87239000"
+  },
+  {
+    "name": "Gangneung-si",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.75190000",
+    "longitude": "128.87825000"
+  },
+  {
+    "name": "Gangseo-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.56227000",
+    "longitude": "126.81622000"
+  },
+  {
+    "name": "Gangseo-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.15930000",
+    "longitude": "128.93300000"
+  },
+  {
+    "name": "Gapyeong",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.83101000",
+    "longitude": "127.51059000"
+  },
+  {
+    "name": "Gapyeong-gun",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.83080000",
+    "longitude": "127.51522000"
+  },
+  {
+    "name": "Geochang-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.73034000",
+    "longitude": "127.90149000"
+  },
+  {
+    "name": "Geoje-si",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "34.90000000",
+    "longitude": "128.66666000"
+  },
+  {
+    "name": "Geumcheon-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.47486000",
+    "longitude": "126.89106000"
+  },
+  {
+    "name": "Geumjeong-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.25863000",
+    "longitude": "129.09010000"
+  },
+  {
+    "name": "Geumsan-gun",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.13381000",
+    "longitude": "127.48062000"
+  },
+  {
+    "name": "Gijang",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.24417000",
+    "longitude": "129.21389000"
+  },
+  {
+    "name": "Gijang-gun",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.29721000",
+    "longitude": "129.20076000"
+  },
+  {
+    "name": "Gimcheon",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.12176000",
+    "longitude": "128.11981000"
+  },
+  {
+    "name": "Gimcheon-si",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.14481000",
+    "longitude": "128.11157000"
+  },
+  {
+    "name": "Gimhae-si",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.25000000",
+    "longitude": "128.86667000"
+  },
+  {
+    "name": "Gimje-si",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.80701000",
+    "longitude": "126.90755000"
+  },
+  {
+    "name": "Gimpo-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.63637000",
+    "longitude": "126.69270000"
+  },
+  {
+    "name": "Gochang-gun",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.43483000",
+    "longitude": "126.70047000"
+  },
+  {
+    "name": "Goesan-gun",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.77179000",
+    "longitude": "127.81426000"
+  },
+  {
+    "name": "Goheung-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.58333000",
+    "longitude": "127.33333000"
+  },
+  {
+    "name": "Gokseong-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.21449000",
+    "longitude": "127.26280000"
+  },
+  {
+    "name": "Gongju",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.45556000",
+    "longitude": "127.12472000"
+  },
+  {
+    "name": "Gongju-si",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.50000000",
+    "longitude": "127.08333000"
+  },
+  {
+    "name": "Goryeong-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "35.74959000",
+    "longitude": "128.29707000"
+  },
+  {
+    "name": "Goseong",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "34.97631000",
+    "longitude": "128.32361000"
+  },
+  {
+    "name": "Goseong-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.37945000",
+    "longitude": "128.46755000"
+  },
+  {
+    "name": "Goseong-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.01478000",
+    "longitude": "128.28244000"
+  },
+  {
+    "name": "Goyang-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.65639000",
+    "longitude": "126.83500000"
+  },
+  {
+    "name": "Gumi-si",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.21009000",
+    "longitude": "128.35442000"
+  },
+  {
+    "name": "Gunpo-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.34261000",
+    "longitude": "126.92149000"
+  },
+  {
+    "name": "Gunsan",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.97861000",
+    "longitude": "126.71139000"
+  },
+  {
+    "name": "Gunsan-si",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.93583000",
+    "longitude": "126.68338000"
+  },
+  {
+    "name": "Gunwi-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.16995000",
+    "longitude": "128.64705000"
+  },
+  {
+    "name": "Guri-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.59860000",
+    "longitude": "127.13940000"
+  },
+  {
+    "name": "Guro-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.49447000",
+    "longitude": "126.85020000"
+  },
+  {
+    "name": "Gurye-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.23616000",
+    "longitude": "127.50129000"
+  },
+  {
+    "name": "Gwacheon-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.43407000",
+    "longitude": "126.99989000"
+  },
+  {
+    "name": "Gwanak-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.47876000",
+    "longitude": "126.95235000"
+  },
+  {
+    "name": "Gwangjin-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.53913000",
+    "longitude": "127.08366000"
+  },
+  {
+    "name": "Gwangju",
+    "countryCode": "KR",
+    "stateCode": "29",
+    "latitude": "35.15472000",
+    "longitude": "126.91556000"
+  },
+  {
+    "name": "Gwangju",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.41000000",
+    "longitude": "127.25722000"
+  },
+  {
+    "name": "Gwangju-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.40329000",
+    "longitude": "127.29855000"
+  },
+  {
+    "name": "Gwangmyeong-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.44435000",
+    "longitude": "126.86499000"
+  },
+  {
+    "name": "Gwangsan-gu",
+    "countryCode": "KR",
+    "stateCode": "29",
+    "latitude": "35.16158000",
+    "longitude": "126.80810000"
+  },
+  {
+    "name": "Gwangyang",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.94140000",
+    "longitude": "127.69569000"
+  },
+  {
+    "name": "Gwangyang-si",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.04007000",
+    "longitude": "127.60949000"
+  },
+  {
+    "name": "Gyeongju",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "35.84278000",
+    "longitude": "129.21167000"
+  },
+  {
+    "name": "Gyeongsan-si",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "35.83333000",
+    "longitude": "128.80000000"
+  },
+  {
+    "name": "Gyeryong-si",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.29304000",
+    "longitude": "127.22575000"
+  },
+  {
+    "name": "Hadong-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.13628000",
+    "longitude": "127.77291000"
+  },
+  {
+    "name": "Haenam",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.57111000",
+    "longitude": "126.59889000"
+  },
+  {
+    "name": "Haenam-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.54047000",
+    "longitude": "126.51870000"
+  },
+  {
+    "name": "Haeundae-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.16665000",
+    "longitude": "129.16792000"
+  },
+  {
+    "name": "Haman-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.29117000",
+    "longitude": "128.42970000"
+  },
+  {
+    "name": "Hampyeong-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.14988000",
+    "longitude": "126.53337000"
+  },
+  {
+    "name": "Hanam",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.54000000",
+    "longitude": "127.20556000"
+  },
+  {
+    "name": "Hanam-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.53895000",
+    "longitude": "127.21250000"
+  },
+  {
+    "name": "Hapcheon-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.57410000",
+    "longitude": "128.13841000"
+  },
+  {
+    "name": "Hayang",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "35.91333000",
+    "longitude": "128.82000000"
+  },
+  {
+    "name": "Heunghae",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.10945000",
+    "longitude": "129.34517000"
+  },
+  {
+    "name": "Hoengseong-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.48817000",
+    "longitude": "127.98570000"
+  },
+  {
+    "name": "Hongcheon-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.76058000",
+    "longitude": "128.02823000"
+  },
+  {
+    "name": "Hongch’ŏn",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.69180000",
+    "longitude": "127.88570000"
+  },
+  {
+    "name": "Hongseong",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.60090000",
+    "longitude": "126.66500000"
+  },
+  {
+    "name": "Hongseong-gun",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.56705000",
+    "longitude": "126.62626000"
+  },
+  {
+    "name": "Hwacheon",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.10705000",
+    "longitude": "127.70632000"
+  },
+  {
+    "name": "Hwacheon-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.14212000",
+    "longitude": "127.67615000"
+  },
+  {
+    "name": "Hwado",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.65250000",
+    "longitude": "127.30750000"
+  },
+  {
+    "name": "Hwaseong-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.20682000",
+    "longitude": "126.81690000"
+  },
+  {
+    "name": "Hwasun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.06125000",
+    "longitude": "126.98746000"
+  },
+  {
+    "name": "Hwasun-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.00468000",
+    "longitude": "127.02648000"
+  },
+  {
+    "name": "Hwawŏn",
+    "countryCode": "KR",
+    "stateCode": "27",
+    "latitude": "35.80167000",
+    "longitude": "128.50083000"
+  },
+  {
+    "name": "Icheon-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.27642000",
+    "longitude": "127.43692000"
+  },
+  {
+    "name": "Iksan",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.94389000",
+    "longitude": "126.95444000"
+  },
+  {
+    "name": "Iksan-si",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "36.03718000",
+    "longitude": "126.98897000"
+  },
+  {
+    "name": "Imsil",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.61306000",
+    "longitude": "127.27944000"
+  },
+  {
+    "name": "Imsil-gun",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.62160000",
+    "longitude": "127.23187000"
+  },
+  {
+    "name": "Incheon",
+    "countryCode": "KR",
+    "stateCode": "28",
+    "latitude": "37.45646000",
+    "longitude": "126.70515000"
+  },
+  {
+    "name": "Inje-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.04416000",
+    "longitude": "128.27876000"
+  },
+  {
+    "name": "Jangheung-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.70555000",
+    "longitude": "126.94905000"
+  },
+  {
+    "name": "Jangseong-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.32734000",
+    "longitude": "126.76817000"
+  },
+  {
+    "name": "Jangsu-gun",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.62504000",
+    "longitude": "127.56358000"
+  },
+  {
+    "name": "Jecheon-si",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "37.06206000",
+    "longitude": "128.14065000"
+  },
+  {
+    "name": "Jeju City",
+    "countryCode": "KR",
+    "stateCode": "49",
+    "latitude": "33.50972000",
+    "longitude": "126.52194000"
+  },
+  {
+    "name": "Jeju-si",
+    "countryCode": "KR",
+    "stateCode": "49",
+    "latitude": "33.45578000",
+    "longitude": "126.53928000"
+  },
+  {
+    "name": "Jenzan",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.24083000",
+    "longitude": "128.29750000"
+  },
+  {
+    "name": "Jeongeup",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.60004000",
+    "longitude": "126.91699000"
+  },
+  {
+    "name": "Jeongeup-si",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.60000000",
+    "longitude": "126.91667000"
+  },
+  {
+    "name": "Jeongseon-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.38911000",
+    "longitude": "128.72995000"
+  },
+  {
+    "name": "Jeonju",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.82194000",
+    "longitude": "127.14889000"
+  },
+  {
+    "name": "Jeonju-si",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.83333000",
+    "longitude": "127.15000000"
+  },
+  {
+    "name": "Jeungpyeong-gun",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.78377000",
+    "longitude": "127.59858000"
+  },
+  {
+    "name": "Jinan-gun",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.80472000",
+    "longitude": "127.47579000"
+  },
+  {
+    "name": "Jincheon-gun",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.88281000",
+    "longitude": "127.42768000"
+  },
+  {
+    "name": "Jindo-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.41958000",
+    "longitude": "126.22599000"
+  },
+  {
+    "name": "Jinju-si",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.20445000",
+    "longitude": "128.12408000"
+  },
+  {
+    "name": "Jongno-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.57290000",
+    "longitude": "126.97928000"
+  },
+  {
+    "name": "Jung-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.55986000",
+    "longitude": "126.99398000"
+  },
+  {
+    "name": "Jung-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.10594000",
+    "longitude": "129.03331000"
+  },
+  {
+    "name": "Jung-gu",
+    "countryCode": "KR",
+    "stateCode": "27",
+    "latitude": "35.86678000",
+    "longitude": "128.59538000"
+  },
+  {
+    "name": "Jung-gu",
+    "countryCode": "KR",
+    "stateCode": "31",
+    "latitude": "35.56840000",
+    "longitude": "129.33226000"
+  },
+  {
+    "name": "Jungnang-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.60199000",
+    "longitude": "127.10461000"
+  },
+  {
+    "name": "Kimhae",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.23417000",
+    "longitude": "128.88111000"
+  },
+  {
+    "name": "Kimje",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.80167000",
+    "longitude": "126.88889000"
+  },
+  {
+    "name": "Kinzan",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.10306000",
+    "longitude": "127.48889000"
+  },
+  {
+    "name": "Koch'ang",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.43333000",
+    "longitude": "126.70000000"
+  },
+  {
+    "name": "Koesan",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.81083000",
+    "longitude": "127.79472000"
+  },
+  {
+    "name": "Kosong",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.37881000",
+    "longitude": "128.46760000"
+  },
+  {
+    "name": "Kunwi",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.23472000",
+    "longitude": "128.57278000"
+  },
+  {
+    "name": "Kurye",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.20944000",
+    "longitude": "127.46444000"
+  },
+  {
+    "name": "Kwangmyŏng",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.47722000",
+    "longitude": "126.86639000"
+  },
+  {
+    "name": "Kwangyang",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.97528000",
+    "longitude": "127.58917000"
+  },
+  {
+    "name": "Kyosai",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "34.85028000",
+    "longitude": "128.58861000"
+  },
+  {
+    "name": "Mapo-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.55438000",
+    "longitude": "126.90926000"
+  },
+  {
+    "name": "Masan",
+    "countryCode": "KR",
+    "stateCode": "29",
+    "latitude": "35.12725000",
+    "longitude": "126.83149000"
+  },
+  {
+    "name": "Michuhol",
+    "countryCode": "KR",
+    "stateCode": "28",
+    "latitude": "37.46362000",
+    "longitude": "126.65000000"
+  },
+  {
+    "name": "Miryang",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.49333000",
+    "longitude": "128.74889000"
+  },
+  {
+    "name": "Miryang-si",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.49750000",
+    "longitude": "128.78690000"
+  },
+  {
+    "name": "Mokpo",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.81282000",
+    "longitude": "126.39181000"
+  },
+  {
+    "name": "Mokpo-si",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.81226000",
+    "longitude": "126.39179000"
+  },
+  {
+    "name": "Muan",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.99014000",
+    "longitude": "126.47899000"
+  },
+  {
+    "name": "Muan-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.95642000",
+    "longitude": "126.44041000"
+  },
+  {
+    "name": "Muju-gun",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.93172000",
+    "longitude": "127.71118000"
+  },
+  {
+    "name": "Mungyeong",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.59458000",
+    "longitude": "128.19946000"
+  },
+  {
+    "name": "Mungyeong-si",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.58755000",
+    "longitude": "128.18624000"
+  },
+  {
+    "name": "Munsan",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.85944000",
+    "longitude": "126.78500000"
+  },
+  {
+    "name": "Naesŏ",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.24972000",
+    "longitude": "128.52000000"
+  },
+  {
+    "name": "Naju",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.02920000",
+    "longitude": "126.71750000"
+  },
+  {
+    "name": "Naju-si",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.05683000",
+    "longitude": "126.67362000"
+  },
+  {
+    "name": "Nam-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.13648000",
+    "longitude": "129.08266000"
+  },
+  {
+    "name": "Nam-gu",
+    "countryCode": "KR",
+    "stateCode": "31",
+    "latitude": "35.54382000",
+    "longitude": "129.32917000"
+  },
+  {
+    "name": "Namhae-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "34.80433000",
+    "longitude": "127.92708000"
+  },
+  {
+    "name": "Namwon",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.44821000",
+    "longitude": "127.38007000"
+  },
+  {
+    "name": "Namyangju",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.63667000",
+    "longitude": "127.21417000"
+  },
+  {
+    "name": "Namyangju-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.65217000",
+    "longitude": "127.24010000"
+  },
+  {
+    "name": "Nangen",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.41000000",
+    "longitude": "127.38583000"
+  },
+  {
+    "name": "Neietsu",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.18447000",
+    "longitude": "128.46821000"
+  },
+  {
+    "name": "Nonsan",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.20389000",
+    "longitude": "127.08472000"
+  },
+  {
+    "name": "Nonsan-si",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.19774000",
+    "longitude": "127.12143000"
+  },
+  {
+    "name": "Nowon-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.66045000",
+    "longitude": "127.06718000"
+  },
+  {
+    "name": "Okcheon",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.30120000",
+    "longitude": "127.56800000"
+  },
+  {
+    "name": "Okcheon-gun",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.26642000",
+    "longitude": "127.58324000"
+  },
+  {
+    "name": "Osan",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.15222000",
+    "longitude": "127.07056000"
+  },
+  {
+    "name": "Osan-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.16230000",
+    "longitude": "127.05246000"
+  },
+  {
+    "name": "Paju-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.75952000",
+    "longitude": "126.77772000"
+  },
+  {
+    "name": "Pocheon-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.89370000",
+    "longitude": "127.20028000"
+  },
+  {
+    "name": "Pohang",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.02917000",
+    "longitude": "129.36481000"
+  },
+  {
+    "name": "Pohang-si",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.08333000",
+    "longitude": "129.36667000"
+  },
+  {
+    "name": "Puan",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.72806000",
+    "longitude": "126.73194000"
+  },
+  {
+    "name": "Pubal",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.29167000",
+    "longitude": "127.50778000"
+  },
+  {
+    "name": "Pyeongchang",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.37028000",
+    "longitude": "128.39306000"
+  },
+  {
+    "name": "Pyeongchang-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.36820000",
+    "longitude": "128.39550000"
+  },
+  {
+    "name": "Pyeongtaek",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.01372000",
+    "longitude": "126.98748000"
+  },
+  {
+    "name": "Sacheon-si",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.00385000",
+    "longitude": "128.06857000"
+  },
+  {
+    "name": "Saha-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.08552000",
+    "longitude": "128.98725000"
+  },
+  {
+    "name": "Samcheok-si",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.45013000",
+    "longitude": "129.16626000"
+  },
+  {
+    "name": "Sancheong-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.36625000",
+    "longitude": "127.87065000"
+  },
+  {
+    "name": "Sangju",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.41528000",
+    "longitude": "128.16056000"
+  },
+  {
+    "name": "Santyoku",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.44056000",
+    "longitude": "129.17083000"
+  },
+  {
+    "name": "Sasang-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.14479000",
+    "longitude": "128.97986000"
+  },
+  {
+    "name": "Sejong",
+    "countryCode": "KR",
+    "stateCode": "50",
+    "latitude": "36.59245000",
+    "longitude": "127.29223000"
+  },
+  {
+    "name": "Seo-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.12529000",
+    "longitude": "129.01946000"
+  },
+  {
+    "name": "Seo-gu",
+    "countryCode": "KR",
+    "stateCode": "27",
+    "latitude": "35.87465000",
+    "longitude": "128.55109000"
+  },
+  {
+    "name": "Seo-gu",
+    "countryCode": "KR",
+    "stateCode": "30",
+    "latitude": "36.27211000",
+    "longitude": "127.33100000"
+  },
+  {
+    "name": "Seocheon-gun",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.10600000",
+    "longitude": "126.69716000"
+  },
+  {
+    "name": "Seocho-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.49447000",
+    "longitude": "127.01088000"
+  },
+  {
+    "name": "Seodaemun-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.57809000",
+    "longitude": "126.93506000"
+  },
+  {
+    "name": "Seogwipo",
+    "countryCode": "KR",
+    "stateCode": "49",
+    "latitude": "33.25333000",
+    "longitude": "126.56181000"
+  },
+  {
+    "name": "Seongbuk-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.60267000",
+    "longitude": "127.01448000"
+  },
+  {
+    "name": "Seongdong-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.54784000",
+    "longitude": "127.02461000"
+  },
+  {
+    "name": "Seonghwan",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.91556000",
+    "longitude": "127.13139000"
+  },
+  {
+    "name": "Seongju-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "35.91888000",
+    "longitude": "128.28838000"
+  },
+  {
+    "name": "Seongnam-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.41875000",
+    "longitude": "127.12877000"
+  },
+  {
+    "name": "Seosan",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.78167000",
+    "longitude": "126.45222000"
+  },
+  {
+    "name": "Seosan-si",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.78518000",
+    "longitude": "126.46568000"
+  },
+  {
+    "name": "Seoul",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.56600000",
+    "longitude": "126.97840000"
+  },
+  {
+    "name": "Siheung",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.39067000",
+    "longitude": "126.78880000"
+  },
+  {
+    "name": "Sinan",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.82620000",
+    "longitude": "126.10863000"
+  },
+  {
+    "name": "Sinan-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.83107000",
+    "longitude": "126.09872000"
+  },
+  {
+    "name": "Sinhyeon",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "34.88250000",
+    "longitude": "128.62667000"
+  },
+  {
+    "name": "Sintansin",
+    "countryCode": "KR",
+    "stateCode": "30",
+    "latitude": "36.45361000",
+    "longitude": "127.43111000"
+  },
+  {
+    "name": "Sokcho",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.20701000",
+    "longitude": "128.59181000"
+  },
+  {
+    "name": "Sokcho-si",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.20725000",
+    "longitude": "128.59275000"
+  },
+  {
+    "name": "Songgangdong",
+    "countryCode": "KR",
+    "stateCode": "30",
+    "latitude": "36.43387000",
+    "longitude": "127.37587000"
+  },
+  {
+    "name": "Songpa-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.50210000",
+    "longitude": "127.11113000"
+  },
+  {
+    "name": "Sunchang-gun",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.37651000",
+    "longitude": "127.14967000"
+  },
+  {
+    "name": "Suncheon",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.95050000",
+    "longitude": "127.48784000"
+  },
+  {
+    "name": "Suncheon-si",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.97162000",
+    "longitude": "127.46096000"
+  },
+  {
+    "name": "Suseong-gu",
+    "countryCode": "KR",
+    "stateCode": "27",
+    "latitude": "35.85905000",
+    "longitude": "128.62625000"
+  },
+  {
+    "name": "Suwon",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.29111000",
+    "longitude": "127.00889000"
+  },
+  {
+    "name": "Suyeong-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.15627000",
+    "longitude": "129.11253000"
+  },
+  {
+    "name": "Taean-gun",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.70036000",
+    "longitude": "126.28391000"
+  },
+  {
+    "name": "Taebaek-si",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.16520000",
+    "longitude": "128.98570000"
+  },
+  {
+    "name": "Taesal-li",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.97140000",
+    "longitude": "126.45420000"
+  },
+  {
+    "name": "Tangjin",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.89444000",
+    "longitude": "126.62972000"
+  },
+  {
+    "name": "Tonghae",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.54389000",
+    "longitude": "129.10694000"
+  },
+  {
+    "name": "T’aebaek",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.17590000",
+    "longitude": "128.98890000"
+  },
+  {
+    "name": "Uijeongbu-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.73865000",
+    "longitude": "127.04770000"
+  },
+  {
+    "name": "Uiryeong-gun",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.39230000",
+    "longitude": "128.26917000"
+  },
+  {
+    "name": "Uiseong-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.36122000",
+    "longitude": "128.61517000"
+  },
+  {
+    "name": "Uiwang-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.34500000",
+    "longitude": "126.97575000"
+  },
+  {
+    "name": "Uljin-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.91968000",
+    "longitude": "129.31966000"
+  },
+  {
+    "name": "Ulju-gun",
+    "countryCode": "KR",
+    "stateCode": "31",
+    "latitude": "35.56233000",
+    "longitude": "129.12690000"
+  },
+  {
+    "name": "Ulleung-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "37.50442000",
+    "longitude": "130.86084000"
+  },
+  {
+    "name": "Ulsan",
+    "countryCode": "KR",
+    "stateCode": "31",
+    "latitude": "35.53722000",
+    "longitude": "129.31667000"
+  },
+  {
+    "name": "Ungsang",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.40611000",
+    "longitude": "129.16861000"
+  },
+  {
+    "name": "Wabu",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.58972000",
+    "longitude": "127.22028000"
+  },
+  {
+    "name": "Waegwan",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "35.99251000",
+    "longitude": "128.39785000"
+  },
+  {
+    "name": "Wando-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.31182000",
+    "longitude": "126.73845000"
+  },
+  {
+    "name": "Wanju",
+    "countryCode": "KR",
+    "stateCode": "45",
+    "latitude": "35.84509000",
+    "longitude": "127.14752000"
+  },
+  {
+    "name": "Wonju-si",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.32104000",
+    "longitude": "127.92132000"
+  },
+  {
+    "name": "Wŏnju",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "37.35139000",
+    "longitude": "127.94528000"
+  },
+  {
+    "name": "Yangcheon-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.52157000",
+    "longitude": "126.85827000"
+  },
+  {
+    "name": "Yanggu",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.10583000",
+    "longitude": "127.98944000"
+  },
+  {
+    "name": "Yanggu-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.10160000",
+    "longitude": "127.98555000"
+  },
+  {
+    "name": "Yangju",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.83311000",
+    "longitude": "127.06169000"
+  },
+  {
+    "name": "Yangju-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.81732000",
+    "longitude": "127.04600000"
+  },
+  {
+    "name": "Yangp'yŏng",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.48972000",
+    "longitude": "127.49056000"
+  },
+  {
+    "name": "Yangpyeong-gun",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.48880000",
+    "longitude": "127.49222000"
+  },
+  {
+    "name": "Yangsan",
+    "countryCode": "KR",
+    "stateCode": "48",
+    "latitude": "35.34199000",
+    "longitude": "129.03358000"
+  },
+  {
+    "name": "Yangyang-gun",
+    "countryCode": "KR",
+    "stateCode": "42",
+    "latitude": "38.06215000",
+    "longitude": "128.61471000"
+  },
+  {
+    "name": "Yecheon-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.65272000",
+    "longitude": "128.43007000"
+  },
+  {
+    "name": "Yeoju-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.29562000",
+    "longitude": "127.63668000"
+  },
+  {
+    "name": "Yeoncheon-gun",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "38.09404000",
+    "longitude": "127.07577000"
+  },
+  {
+    "name": "Yeongam",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.80059000",
+    "longitude": "126.69669000"
+  },
+  {
+    "name": "Yeongam-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.79790000",
+    "longitude": "126.62651000"
+  },
+  {
+    "name": "Yeongcheon-si",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.00000000",
+    "longitude": "129.00000000"
+  },
+  {
+    "name": "Yeongdeok-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.48125000",
+    "longitude": "129.31078000"
+  },
+  {
+    "name": "Yeongdeungpo-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.52606000",
+    "longitude": "126.90308000"
+  },
+  {
+    "name": "Yeongdo-gu",
+    "countryCode": "KR",
+    "stateCode": "26",
+    "latitude": "35.07849000",
+    "longitude": "129.06483000"
+  },
+  {
+    "name": "Yeongdong",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.17500000",
+    "longitude": "127.77639000"
+  },
+  {
+    "name": "Yeongdong-gun",
+    "countryCode": "KR",
+    "stateCode": "43",
+    "latitude": "36.21658000",
+    "longitude": "127.79374000"
+  },
+  {
+    "name": "Yeonggwang",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.27814000",
+    "longitude": "126.51181000"
+  },
+  {
+    "name": "Yeonggwang-gun",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "35.28711000",
+    "longitude": "126.43616000"
+  },
+  {
+    "name": "Yeongju-si",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.87459000",
+    "longitude": "128.58631000"
+  },
+  {
+    "name": "Yeongyang-gun",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "36.69592000",
+    "longitude": "129.14196000"
+  },
+  {
+    "name": "Yeonil",
+    "countryCode": "KR",
+    "stateCode": "47",
+    "latitude": "35.99526000",
+    "longitude": "129.35162000"
+  },
+  {
+    "name": "Yeonsu-gu",
+    "countryCode": "KR",
+    "stateCode": "28",
+    "latitude": "37.41911000",
+    "longitude": "126.66489000"
+  },
+  {
+    "name": "Yeosu",
+    "countryCode": "KR",
+    "stateCode": "46",
+    "latitude": "34.76062000",
+    "longitude": "127.66215000"
+  },
+  {
+    "name": "Yesan",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.67756000",
+    "longitude": "126.84272000"
+  },
+  {
+    "name": "Yesan-gun",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.68218000",
+    "longitude": "126.79592000"
+  },
+  {
+    "name": "Yongin-si",
+    "countryCode": "KR",
+    "stateCode": "41",
+    "latitude": "37.23825000",
+    "longitude": "127.17795000"
+  },
+  {
+    "name": "Yongsan-dong",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.54450000",
+    "longitude": "126.98370000"
+  },
+  {
+    "name": "Yongsan-gu",
+    "countryCode": "KR",
+    "stateCode": "11",
+    "latitude": "37.53391000",
+    "longitude": "126.97750000"
+  },
+  {
+    "name": "Yuseong-gu",
+    "countryCode": "KR",
+    "stateCode": "30",
+    "latitude": "36.36685000",
+    "longitude": "127.32700000"
+  },
+  {
+    "name": "Yŏnmu",
+    "countryCode": "KR",
+    "stateCode": "44",
+    "latitude": "36.12944000",
+    "longitude": "127.10000000"
+  }
+]

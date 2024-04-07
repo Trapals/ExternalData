@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Al Ghuwayrīyah",
+    "countryCode": "QA",
+    "stateCode": "KH",
+    "latitude": "25.82882000",
+    "longitude": "51.24567000"
+  },
+  {
+    "name": "Al Jumaylīyah",
+    "countryCode": "QA",
+    "stateCode": "SH",
+    "latitude": "25.61068000",
+    "longitude": "51.09108000"
+  },
+  {
+    "name": "Al Khawr",
+    "countryCode": "QA",
+    "stateCode": "KH",
+    "latitude": "25.68389000",
+    "longitude": "51.50583000"
+  },
+  {
+    "name": "Al Wakrah",
+    "countryCode": "QA",
+    "stateCode": "WA",
+    "latitude": "25.17151000",
+    "longitude": "51.60337000"
+  },
+  {
+    "name": "Al Wukayr",
+    "countryCode": "QA",
+    "stateCode": "WA",
+    "latitude": "25.15107000",
+    "longitude": "51.53718000"
+  },
+  {
+    "name": "Ar Rayyān",
+    "countryCode": "QA",
+    "stateCode": "RA",
+    "latitude": "25.29194000",
+    "longitude": "51.42444000"
+  },
+  {
+    "name": "Ar Ruways",
+    "countryCode": "QA",
+    "stateCode": "MS",
+    "latitude": "26.13978000",
+    "longitude": "51.21493000"
+  },
+  {
+    "name": "Ash Shīḩānīyah",
+    "countryCode": "QA",
+    "stateCode": "SH",
+    "latitude": "25.37088000",
+    "longitude": "51.22264000"
+  },
+  {
+    "name": "Doha",
+    "countryCode": "QA",
+    "stateCode": "DA",
+    "latitude": "25.28545000",
+    "longitude": "51.53096000"
+  },
+  {
+    "name": "Dukhān",
+    "countryCode": "QA",
+    "stateCode": "SH",
+    "latitude": "25.42485000",
+    "longitude": "50.78227000"
+  },
+  {
+    "name": "Fuwayriţ",
+    "countryCode": "QA",
+    "stateCode": "MS",
+    "latitude": "26.02565000",
+    "longitude": "51.36971000"
+  },
+  {
+    "name": "Madīnat ash Shamāl",
+    "countryCode": "QA",
+    "stateCode": "MS",
+    "latitude": "26.12933000",
+    "longitude": "51.20090000"
+  },
+  {
+    "name": "Musay‘īd",
+    "countryCode": "QA",
+    "stateCode": "WA",
+    "latitude": "24.99226000",
+    "longitude": "51.55067000"
+  },
+  {
+    "name": "Umm Bāb",
+    "countryCode": "QA",
+    "stateCode": "RA",
+    "latitude": "25.21417000",
+    "longitude": "50.80722000"
+  },
+  {
+    "name": "Umm Şalāl Muḩammad",
+    "countryCode": "QA",
+    "stateCode": "US",
+    "latitude": "25.41524000",
+    "longitude": "51.40647000"
+  }
+]

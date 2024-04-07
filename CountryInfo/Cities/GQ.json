@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Aconibe",
+    "countryCode": "GQ",
+    "stateCode": "WN",
+    "latitude": "1.29683000",
+    "longitude": "10.93691000"
+  },
+  {
+    "name": "Acurenam",
+    "countryCode": "GQ",
+    "stateCode": "CS",
+    "latitude": "1.03225000",
+    "longitude": "10.64882000"
+  },
+  {
+    "name": "Ayene",
+    "countryCode": "GQ",
+    "stateCode": "WN",
+    "latitude": "1.85592000",
+    "longitude": "10.68994000"
+  },
+  {
+    "name": "Añisoc",
+    "countryCode": "GQ",
+    "stateCode": "WN",
+    "latitude": "1.86580000",
+    "longitude": "10.76892000"
+  },
+  {
+    "name": "Bata",
+    "countryCode": "GQ",
+    "stateCode": "LI",
+    "latitude": "1.86391000",
+    "longitude": "9.76582000"
+  },
+  {
+    "name": "Bicurga",
+    "countryCode": "GQ",
+    "stateCode": "CS",
+    "latitude": "1.58113000",
+    "longitude": "10.46716000"
+  },
+  {
+    "name": "Bitica",
+    "countryCode": "GQ",
+    "stateCode": "LI",
+    "latitude": "1.42610000",
+    "longitude": "9.62316000"
+  },
+  {
+    "name": "Cogo",
+    "countryCode": "GQ",
+    "stateCode": "LI",
+    "latitude": "1.08425000",
+    "longitude": "9.69300000"
+  },
+  {
+    "name": "Ebebiyin",
+    "countryCode": "GQ",
+    "stateCode": "KN",
+    "latitude": "2.15106000",
+    "longitude": "11.33528000"
+  },
+  {
+    "name": "Evinayong",
+    "countryCode": "GQ",
+    "stateCode": "CS",
+    "latitude": "1.43677000",
+    "longitude": "10.55124000"
+  },
+  {
+    "name": "Luba",
+    "countryCode": "GQ",
+    "stateCode": "BS",
+    "latitude": "3.45683000",
+    "longitude": "8.55465000"
+  },
+  {
+    "name": "Machinda",
+    "countryCode": "GQ",
+    "stateCode": "LI",
+    "latitude": "1.88262000",
+    "longitude": "9.95133000"
+  },
+  {
+    "name": "Malabo",
+    "countryCode": "GQ",
+    "stateCode": "BN",
+    "latitude": "3.75578000",
+    "longitude": "8.78166000"
+  },
+  {
+    "name": "Mbini",
+    "countryCode": "GQ",
+    "stateCode": "LI",
+    "latitude": "1.58267000",
+    "longitude": "9.61478000"
+  },
+  {
+    "name": "Mengomeyén",
+    "countryCode": "GQ",
+    "stateCode": "WN",
+    "latitude": "1.69439000",
+    "longitude": "11.03422000"
+  },
+  {
+    "name": "Mikomeseng",
+    "countryCode": "GQ",
+    "stateCode": "KN",
+    "latitude": "2.13609000",
+    "longitude": "10.61322000"
+  },
+  {
+    "name": "Mongomo",
+    "countryCode": "GQ",
+    "stateCode": "WN",
+    "latitude": "1.62742000",
+    "longitude": "11.31346000"
+  },
+  {
+    "name": "Ncue",
+    "countryCode": "GQ",
+    "stateCode": "KN",
+    "latitude": "2.01643000",
+    "longitude": "10.47066000"
+  },
+  {
+    "name": "Nsang",
+    "countryCode": "GQ",
+    "stateCode": "KN",
+    "latitude": "2.02475000",
+    "longitude": "10.94599000"
+  },
+  {
+    "name": "Nsok",
+    "countryCode": "GQ",
+    "stateCode": "WN",
+    "latitude": "1.12985000",
+    "longitude": "11.26603000"
+  },
+  {
+    "name": "Rebola",
+    "countryCode": "GQ",
+    "stateCode": "BN",
+    "latitude": "3.71667000",
+    "longitude": "8.83333000"
+  },
+  {
+    "name": "Río Campo",
+    "countryCode": "GQ",
+    "stateCode": "LI",
+    "latitude": "2.33812000",
+    "longitude": "9.82212000"
+  },
+  {
+    "name": "San Antonio de Palé",
+    "countryCode": "GQ",
+    "stateCode": "AN",
+    "latitude": "-1.40680000",
+    "longitude": "5.63178000"
+  },
+  {
+    "name": "Santiago de Baney",
+    "countryCode": "GQ",
+    "stateCode": "BN",
+    "latitude": "3.69920000",
+    "longitude": "8.90840000"
+  }
+]

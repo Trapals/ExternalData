@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Arandis",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-22.41667000",
+    "longitude": "14.96667000"
+  },
+  {
+    "name": "Aranos",
+    "countryCode": "NA",
+    "stateCode": "HA",
+    "latitude": "-24.13333000",
+    "longitude": "19.11667000"
+  },
+  {
+    "name": "Bagani",
+    "countryCode": "NA",
+    "stateCode": "CA",
+    "latitude": "-18.11065000",
+    "longitude": "21.61645000"
+  },
+  {
+    "name": "Bethanie",
+    "countryCode": "NA",
+    "stateCode": "KA",
+    "latitude": "-26.48333000",
+    "longitude": "17.15000000"
+  },
+  {
+    "name": "Epupa Constituency",
+    "countryCode": "NA",
+    "stateCode": "KU",
+    "latitude": "-17.00388000",
+    "longitude": "13.24825000"
+  },
+  {
+    "name": "Gobabis",
+    "countryCode": "NA",
+    "stateCode": "OH",
+    "latitude": "-22.45000000",
+    "longitude": "18.96667000"
+  },
+  {
+    "name": "Grootfontein",
+    "countryCode": "NA",
+    "stateCode": "OD",
+    "latitude": "-19.56667000",
+    "longitude": "18.11667000"
+  },
+  {
+    "name": "Hentiesbaai",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-22.11667000",
+    "longitude": "14.28333000"
+  },
+  {
+    "name": "Hoachanas",
+    "countryCode": "NA",
+    "stateCode": "HA",
+    "latitude": "-23.91667000",
+    "longitude": "18.05000000"
+  },
+  {
+    "name": "Karasburg",
+    "countryCode": "NA",
+    "stateCode": "KA",
+    "latitude": "-28.01667000",
+    "longitude": "18.75000000"
+  },
+  {
+    "name": "Karibib",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-21.93333000",
+    "longitude": "15.83333000"
+  },
+  {
+    "name": "Katima Mulilo",
+    "countryCode": "NA",
+    "stateCode": "CA",
+    "latitude": "-17.50000000",
+    "longitude": "24.26667000"
+  },
+  {
+    "name": "Katutura",
+    "countryCode": "NA",
+    "stateCode": "KH",
+    "latitude": "-22.52306000",
+    "longitude": "17.06028000"
+  },
+  {
+    "name": "Keetmanshoop",
+    "countryCode": "NA",
+    "stateCode": "KA",
+    "latitude": "-26.58333000",
+    "longitude": "18.13333000"
+  },
+  {
+    "name": "Khorixas",
+    "countryCode": "NA",
+    "stateCode": "KU",
+    "latitude": "-20.36667000",
+    "longitude": "14.96667000"
+  },
+  {
+    "name": "Khorixas Constituency",
+    "countryCode": "NA",
+    "stateCode": "KU",
+    "latitude": "-20.36792000",
+    "longitude": "14.95996000"
+  },
+  {
+    "name": "Lüderitz",
+    "countryCode": "NA",
+    "stateCode": "KA",
+    "latitude": "-26.64807000",
+    "longitude": "15.15383000"
+  },
+  {
+    "name": "Maltahöhe",
+    "countryCode": "NA",
+    "stateCode": "HA",
+    "latitude": "-24.83333000",
+    "longitude": "16.98333000"
+  },
+  {
+    "name": "Mariental",
+    "countryCode": "NA",
+    "stateCode": "HA",
+    "latitude": "-24.63333000",
+    "longitude": "17.96667000"
+  },
+  {
+    "name": "Okahandja",
+    "countryCode": "NA",
+    "stateCode": "OD",
+    "latitude": "-21.98333000",
+    "longitude": "16.91667000"
+  },
+  {
+    "name": "Okahao",
+    "countryCode": "NA",
+    "stateCode": "OS",
+    "latitude": "-17.88758000",
+    "longitude": "15.06677000"
+  },
+  {
+    "name": "Okakarara",
+    "countryCode": "NA",
+    "stateCode": "OD",
+    "latitude": "-20.58333000",
+    "longitude": "17.43333000"
+  },
+  {
+    "name": "Omaruru",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-21.43333000",
+    "longitude": "15.93333000"
+  },
+  {
+    "name": "Omuthiya",
+    "countryCode": "NA",
+    "stateCode": "OT",
+    "latitude": "-18.36463000",
+    "longitude": "16.58146000"
+  },
+  {
+    "name": "Ondangwa",
+    "countryCode": "NA",
+    "stateCode": "ON",
+    "latitude": "-17.91667000",
+    "longitude": "15.95000000"
+  },
+  {
+    "name": "Ongandjera",
+    "countryCode": "NA",
+    "stateCode": "OS",
+    "latitude": "-17.88333000",
+    "longitude": "15.06667000"
+  },
+  {
+    "name": "Ongwediva",
+    "countryCode": "NA",
+    "stateCode": "ON",
+    "latitude": "-17.78333000",
+    "longitude": "15.76667000"
+  },
+  {
+    "name": "Opuwo",
+    "countryCode": "NA",
+    "stateCode": "KU",
+    "latitude": "-18.06068000",
+    "longitude": "13.83998000"
+  },
+  {
+    "name": "Opuwo Constituency",
+    "countryCode": "NA",
+    "stateCode": "KU",
+    "latitude": "-18.54247000",
+    "longitude": "13.51617000"
+  },
+  {
+    "name": "Oranjemund",
+    "countryCode": "NA",
+    "stateCode": "KA",
+    "latitude": "-28.55000000",
+    "longitude": "16.43333000"
+  },
+  {
+    "name": "Oshakati",
+    "countryCode": "NA",
+    "stateCode": "ON",
+    "latitude": "-17.78833000",
+    "longitude": "15.70436000"
+  },
+  {
+    "name": "Oshikango",
+    "countryCode": "NA",
+    "stateCode": "OW",
+    "latitude": "-17.40000000",
+    "longitude": "15.88333000"
+  },
+  {
+    "name": "Otavi",
+    "countryCode": "NA",
+    "stateCode": "OD",
+    "latitude": "-19.65000000",
+    "longitude": "17.33333000"
+  },
+  {
+    "name": "Otjimbingwe",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-22.35000000",
+    "longitude": "16.13333000"
+  },
+  {
+    "name": "Otjiwarongo",
+    "countryCode": "NA",
+    "stateCode": "OD",
+    "latitude": "-20.46369000",
+    "longitude": "16.64772000"
+  },
+  {
+    "name": "Outapi",
+    "countryCode": "NA",
+    "stateCode": "OS",
+    "latitude": "-17.50000000",
+    "longitude": "14.98333000"
+  },
+  {
+    "name": "Outjo",
+    "countryCode": "NA",
+    "stateCode": "KU",
+    "latitude": "-20.11667000",
+    "longitude": "16.15000000"
+  },
+  {
+    "name": "Rehoboth",
+    "countryCode": "NA",
+    "stateCode": "HA",
+    "latitude": "-23.31700000",
+    "longitude": "17.09000000"
+  },
+  {
+    "name": "Rundu",
+    "countryCode": "NA",
+    "stateCode": "KE",
+    "latitude": "-17.93333000",
+    "longitude": "19.76667000"
+  },
+  {
+    "name": "Sesfontein Constituency",
+    "countryCode": "NA",
+    "stateCode": "KU",
+    "latitude": "-19.56106000",
+    "longitude": "13.76530000"
+  },
+  {
+    "name": "Swakopmund",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-22.67842000",
+    "longitude": "14.52663000"
+  },
+  {
+    "name": "Swakopmund Constituency",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-22.63199000",
+    "longitude": "14.60119000"
+  },
+  {
+    "name": "Tses",
+    "countryCode": "NA",
+    "stateCode": "KA",
+    "latitude": "-25.88333000",
+    "longitude": "18.00000000"
+  },
+  {
+    "name": "Tsumeb",
+    "countryCode": "NA",
+    "stateCode": "OT",
+    "latitude": "-19.23333000",
+    "longitude": "17.71667000"
+  },
+  {
+    "name": "Usakos",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-22.00000000",
+    "longitude": "15.60000000"
+  },
+  {
+    "name": "Walvis Bay",
+    "countryCode": "NA",
+    "stateCode": "ER",
+    "latitude": "-22.95750000",
+    "longitude": "14.50528000"
+  },
+  {
+    "name": "Warmbad",
+    "countryCode": "NA",
+    "stateCode": "KA",
+    "latitude": "-28.45000000",
+    "longitude": "18.73333000"
+  },
+  {
+    "name": "Windhoek",
+    "countryCode": "NA",
+    "stateCode": "KH",
+    "latitude": "-22.55941000",
+    "longitude": "17.08323000"
+  }
+]

@@ -1,0 +1,2179 @@
+[
+  {
+    "name": "Ajdovščina",
+    "countryCode": "SI",
+    "stateCode": "001",
+    "latitude": "45.88601000",
+    "longitude": "13.90946000"
+  },
+  {
+    "name": "Ankaran",
+    "countryCode": "SI",
+    "stateCode": "213",
+    "latitude": "45.57861000",
+    "longitude": "13.73611000"
+  },
+  {
+    "name": "Apače",
+    "countryCode": "SI",
+    "stateCode": "195",
+    "latitude": "46.69722000",
+    "longitude": "15.91056000"
+  },
+  {
+    "name": "Bakovci",
+    "countryCode": "SI",
+    "stateCode": "080",
+    "latitude": "46.61889000",
+    "longitude": "16.15028000"
+  },
+  {
+    "name": "Beltinci",
+    "countryCode": "SI",
+    "stateCode": "002",
+    "latitude": "46.60528000",
+    "longitude": "16.24056000"
+  },
+  {
+    "name": "Benedikt",
+    "countryCode": "SI",
+    "stateCode": "148",
+    "latitude": "46.60861000",
+    "longitude": "15.88833000"
+  },
+  {
+    "name": "Bilje",
+    "countryCode": "SI",
+    "stateCode": "075",
+    "latitude": "45.89444000",
+    "longitude": "13.63222000"
+  },
+  {
+    "name": "Bistrica ob Dravi",
+    "countryCode": "SI",
+    "stateCode": "108",
+    "latitude": "46.55419000",
+    "longitude": "15.54855000"
+  },
+  {
+    "name": "Bistrica ob Sotli",
+    "countryCode": "SI",
+    "stateCode": "149",
+    "latitude": "46.05889000",
+    "longitude": "15.66417000"
+  },
+  {
+    "name": "Bistrica pri Tržiču",
+    "countryCode": "SI",
+    "stateCode": "131",
+    "latitude": "46.35472000",
+    "longitude": "14.29167000"
+  },
+  {
+    "name": "Bled",
+    "countryCode": "SI",
+    "stateCode": "003",
+    "latitude": "46.36917000",
+    "longitude": "14.11361000"
+  },
+  {
+    "name": "Bohinjska Bistrica",
+    "countryCode": "SI",
+    "stateCode": "004",
+    "latitude": "46.27216000",
+    "longitude": "13.95350000"
+  },
+  {
+    "name": "Borovnica",
+    "countryCode": "SI",
+    "stateCode": "005",
+    "latitude": "45.91583000",
+    "longitude": "14.36306000"
+  },
+  {
+    "name": "Bovec",
+    "countryCode": "SI",
+    "stateCode": "006",
+    "latitude": "46.33808000",
+    "longitude": "13.55245000"
+  },
+  {
+    "name": "Braslovče",
+    "countryCode": "SI",
+    "stateCode": "151",
+    "latitude": "46.28972000",
+    "longitude": "15.03889000"
+  },
+  {
+    "name": "Bresternica",
+    "countryCode": "SI",
+    "stateCode": "070",
+    "latitude": "46.56972000",
+    "longitude": "15.57500000"
+  },
+  {
+    "name": "Brezovica pri Ljubljani",
+    "countryCode": "SI",
+    "stateCode": "008",
+    "latitude": "46.03333000",
+    "longitude": "14.40000000"
+  },
+  {
+    "name": "Brežice",
+    "countryCode": "SI",
+    "stateCode": "009",
+    "latitude": "45.90333000",
+    "longitude": "15.59111000"
+  },
+  {
+    "name": "Britof",
+    "countryCode": "SI",
+    "stateCode": "052",
+    "latitude": "46.26024000",
+    "longitude": "14.39037000"
+  },
+  {
+    "name": "Cankova",
+    "countryCode": "SI",
+    "stateCode": "152",
+    "latitude": "46.72083000",
+    "longitude": "16.02250000"
+  },
+  {
+    "name": "Celje",
+    "countryCode": "SI",
+    "stateCode": "011",
+    "latitude": "46.23092000",
+    "longitude": "15.26044000"
+  },
+  {
+    "name": "Cerklje na Gorenjskem",
+    "countryCode": "SI",
+    "stateCode": "012",
+    "latitude": "46.25417000",
+    "longitude": "14.48861000"
+  },
+  {
+    "name": "Cerknica",
+    "countryCode": "SI",
+    "stateCode": "013",
+    "latitude": "45.79306000",
+    "longitude": "14.36250000"
+  },
+  {
+    "name": "Cerkno",
+    "countryCode": "SI",
+    "stateCode": "014",
+    "latitude": "46.12556000",
+    "longitude": "13.98167000"
+  },
+  {
+    "name": "Cerkvenjak",
+    "countryCode": "SI",
+    "stateCode": "153",
+    "latitude": "46.57056000",
+    "longitude": "15.94361000"
+  },
+  {
+    "name": "Cirkulane",
+    "countryCode": "SI",
+    "stateCode": "001",
+    "latitude": "46.34408000",
+    "longitude": "15.99472000"
+  },
+  {
+    "name": "Dekani",
+    "countryCode": "SI",
+    "stateCode": "050",
+    "latitude": "45.54972000",
+    "longitude": "13.81361000"
+  },
+  {
+    "name": "Deskle",
+    "countryCode": "SI",
+    "stateCode": "044",
+    "latitude": "46.05307000",
+    "longitude": "13.61382000"
+  },
+  {
+    "name": "Destrnik",
+    "countryCode": "SI",
+    "stateCode": "018",
+    "latitude": "46.49254000",
+    "longitude": "15.87893000"
+  },
+  {
+    "name": "Divača",
+    "countryCode": "SI",
+    "stateCode": "019",
+    "latitude": "45.68472000",
+    "longitude": "13.97028000"
+  },
+  {
+    "name": "Dob",
+    "countryCode": "SI",
+    "stateCode": "023",
+    "latitude": "46.15194000",
+    "longitude": "14.62861000"
+  },
+  {
+    "name": "Dobje pri Planini",
+    "countryCode": "SI",
+    "stateCode": "154",
+    "latitude": "46.13747000",
+    "longitude": "15.39412000"
+  },
+  {
+    "name": "Dobrna",
+    "countryCode": "SI",
+    "stateCode": "155",
+    "latitude": "46.33750000",
+    "longitude": "15.22639000"
+  },
+  {
+    "name": "Dobrova",
+    "countryCode": "SI",
+    "stateCode": "021",
+    "latitude": "46.04580000",
+    "longitude": "14.39186000"
+  },
+  {
+    "name": "Dobrovnik",
+    "countryCode": "SI",
+    "stateCode": "156",
+    "latitude": "46.65139000",
+    "longitude": "16.35250000"
+  },
+  {
+    "name": "Dobrovo",
+    "countryCode": "SI",
+    "stateCode": "007",
+    "latitude": "45.99639000",
+    "longitude": "13.52639000"
+  },
+  {
+    "name": "Dol pri Hrastniku",
+    "countryCode": "SI",
+    "stateCode": "034",
+    "latitude": "46.14194000",
+    "longitude": "15.11278000"
+  },
+  {
+    "name": "Dol pri Ljubljani",
+    "countryCode": "SI",
+    "stateCode": "022",
+    "latitude": "46.08861000",
+    "longitude": "14.60083000"
+  },
+  {
+    "name": "Dolenjske Toplice",
+    "countryCode": "SI",
+    "stateCode": "157",
+    "latitude": "45.75657000",
+    "longitude": "15.05917000"
+  },
+  {
+    "name": "Domžale",
+    "countryCode": "SI",
+    "stateCode": "023",
+    "latitude": "46.13774000",
+    "longitude": "14.59371000"
+  },
+  {
+    "name": "Dornava",
+    "countryCode": "SI",
+    "stateCode": "024",
+    "latitude": "46.43667000",
+    "longitude": "15.95361000"
+  },
+  {
+    "name": "Dragomer",
+    "countryCode": "SI",
+    "stateCode": "004",
+    "latitude": "46.01667000",
+    "longitude": "14.38333000"
+  },
+  {
+    "name": "Dravlje District",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.07290000",
+    "longitude": "14.44741000"
+  },
+  {
+    "name": "Dravograd",
+    "countryCode": "SI",
+    "stateCode": "025",
+    "latitude": "46.58806000",
+    "longitude": "15.01917000"
+  },
+  {
+    "name": "Fram",
+    "countryCode": "SI",
+    "stateCode": "098",
+    "latitude": "46.45600000",
+    "longitude": "15.63007000"
+  },
+  {
+    "name": "Gančani",
+    "countryCode": "SI",
+    "stateCode": "002",
+    "latitude": "46.63250000",
+    "longitude": "16.25111000"
+  },
+  {
+    "name": "Golnik",
+    "countryCode": "SI",
+    "stateCode": "052",
+    "latitude": "46.33333000",
+    "longitude": "14.33333000"
+  },
+  {
+    "name": "Gorenja Vas",
+    "countryCode": "SI",
+    "stateCode": "027",
+    "latitude": "46.10722000",
+    "longitude": "14.14806000"
+  },
+  {
+    "name": "Gorišnica",
+    "countryCode": "SI",
+    "stateCode": "028",
+    "latitude": "46.41472000",
+    "longitude": "16.01389000"
+  },
+  {
+    "name": "Gornja Radgona",
+    "countryCode": "SI",
+    "stateCode": "029",
+    "latitude": "46.67333000",
+    "longitude": "15.99222000"
+  },
+  {
+    "name": "Gornji Grad",
+    "countryCode": "SI",
+    "stateCode": "030",
+    "latitude": "46.29528000",
+    "longitude": "14.80833000"
+  },
+  {
+    "name": "Gornji Petrovci",
+    "countryCode": "SI",
+    "stateCode": "031",
+    "latitude": "46.80528000",
+    "longitude": "16.22250000"
+  },
+  {
+    "name": "Gotovlje",
+    "countryCode": "SI",
+    "stateCode": "190",
+    "latitude": "46.27418000",
+    "longitude": "15.15186000"
+  },
+  {
+    "name": "Grad",
+    "countryCode": "SI",
+    "stateCode": "158",
+    "latitude": "46.80000000",
+    "longitude": "16.10000000"
+  },
+  {
+    "name": "Grosuplje",
+    "countryCode": "SI",
+    "stateCode": "032",
+    "latitude": "45.95556000",
+    "longitude": "14.65889000"
+  },
+  {
+    "name": "Hodoš",
+    "countryCode": "SI",
+    "stateCode": "161",
+    "latitude": "46.82333000",
+    "longitude": "16.33417000"
+  },
+  {
+    "name": "Horjul",
+    "countryCode": "SI",
+    "stateCode": "162",
+    "latitude": "46.02361000",
+    "longitude": "14.29917000"
+  },
+  {
+    "name": "Hotinja Vas",
+    "countryCode": "SI",
+    "stateCode": "160",
+    "latitude": "46.46667000",
+    "longitude": "15.66667000"
+  },
+  {
+    "name": "Hrastje",
+    "countryCode": "SI",
+    "stateCode": "117",
+    "latitude": "46.21667000",
+    "longitude": "14.40000000"
+  },
+  {
+    "name": "Hrastnik",
+    "countryCode": "SI",
+    "stateCode": "034",
+    "latitude": "46.14611000",
+    "longitude": "15.08139000"
+  },
+  {
+    "name": "Hrib-Loški Potok",
+    "countryCode": "SI",
+    "stateCode": "066",
+    "latitude": "45.70688000",
+    "longitude": "14.61674000"
+  },
+  {
+    "name": "Hrušica",
+    "countryCode": "SI",
+    "stateCode": "041",
+    "latitude": "46.44500000",
+    "longitude": "14.01778000"
+  },
+  {
+    "name": "Hrvatini",
+    "countryCode": "SI",
+    "stateCode": "050",
+    "latitude": "45.58278000",
+    "longitude": "13.75667000"
+  },
+  {
+    "name": "Idrija",
+    "countryCode": "SI",
+    "stateCode": "036",
+    "latitude": "46.00278000",
+    "longitude": "14.03056000"
+  },
+  {
+    "name": "Ig",
+    "countryCode": "SI",
+    "stateCode": "037",
+    "latitude": "45.96028000",
+    "longitude": "14.52889000"
+  },
+  {
+    "name": "Ilirska Bistrica",
+    "countryCode": "SI",
+    "stateCode": "038",
+    "latitude": "45.56757000",
+    "longitude": "14.24571000"
+  },
+  {
+    "name": "Ivančna Gorica",
+    "countryCode": "SI",
+    "stateCode": "039",
+    "latitude": "45.93833000",
+    "longitude": "14.80444000"
+  },
+  {
+    "name": "Izlake",
+    "countryCode": "SI",
+    "stateCode": "142",
+    "latitude": "46.15000000",
+    "longitude": "14.95000000"
+  },
+  {
+    "name": "Izola",
+    "countryCode": "SI",
+    "stateCode": "040",
+    "latitude": "45.53694000",
+    "longitude": "13.66194000"
+  },
+  {
+    "name": "Jagodje",
+    "countryCode": "SI",
+    "stateCode": "040",
+    "latitude": "45.52845000",
+    "longitude": "13.64721000"
+  },
+  {
+    "name": "Jarše District",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.07345000",
+    "longitude": "14.55431000"
+  },
+  {
+    "name": "Jesenice",
+    "countryCode": "SI",
+    "stateCode": "041",
+    "latitude": "46.43056000",
+    "longitude": "14.06694000"
+  },
+  {
+    "name": "Juršinci",
+    "countryCode": "SI",
+    "stateCode": "042",
+    "latitude": "46.48472000",
+    "longitude": "15.97139000"
+  },
+  {
+    "name": "Kamnica",
+    "countryCode": "SI",
+    "stateCode": "070",
+    "latitude": "46.57444000",
+    "longitude": "15.61417000"
+  },
+  {
+    "name": "Kamnik",
+    "countryCode": "SI",
+    "stateCode": "043",
+    "latitude": "46.22587000",
+    "longitude": "14.61207000"
+  },
+  {
+    "name": "Kanal",
+    "countryCode": "SI",
+    "stateCode": "044",
+    "latitude": "46.08861000",
+    "longitude": "13.63972000"
+  },
+  {
+    "name": "Kidričevo",
+    "countryCode": "SI",
+    "stateCode": "045",
+    "latitude": "46.40361000",
+    "longitude": "15.79111000"
+  },
+  {
+    "name": "Kisovec",
+    "countryCode": "SI",
+    "stateCode": "142",
+    "latitude": "46.13911000",
+    "longitude": "14.96295000"
+  },
+  {
+    "name": "Kobarid",
+    "countryCode": "SI",
+    "stateCode": "046",
+    "latitude": "46.24761000",
+    "longitude": "13.57907000"
+  },
+  {
+    "name": "Kobilje",
+    "countryCode": "SI",
+    "stateCode": "047",
+    "latitude": "46.68472000",
+    "longitude": "16.39778000"
+  },
+  {
+    "name": "Kokrica",
+    "countryCode": "SI",
+    "stateCode": "052",
+    "latitude": "46.27028000",
+    "longitude": "14.36111000"
+  },
+  {
+    "name": "Komen",
+    "countryCode": "SI",
+    "stateCode": "049",
+    "latitude": "45.81528000",
+    "longitude": "13.74833000"
+  },
+  {
+    "name": "Komenda",
+    "countryCode": "SI",
+    "stateCode": "164",
+    "latitude": "46.20484000",
+    "longitude": "14.53839000"
+  },
+  {
+    "name": "Koper",
+    "countryCode": "SI",
+    "stateCode": "050",
+    "latitude": "45.54694000",
+    "longitude": "13.72944000"
+  },
+  {
+    "name": "Koroška Bela",
+    "countryCode": "SI",
+    "stateCode": "041",
+    "latitude": "46.44913000",
+    "longitude": "14.11135000"
+  },
+  {
+    "name": "Kostanjevica na Krki",
+    "countryCode": "SI",
+    "stateCode": "003",
+    "latitude": "45.84611000",
+    "longitude": "15.42222000"
+  },
+  {
+    "name": "Kostel",
+    "countryCode": "SI",
+    "stateCode": "165",
+    "latitude": "45.50842000",
+    "longitude": "14.91005000"
+  },
+  {
+    "name": "Kotlje",
+    "countryCode": "SI",
+    "stateCode": "103",
+    "latitude": "46.52139000",
+    "longitude": "14.98694000"
+  },
+  {
+    "name": "Kozina",
+    "countryCode": "SI",
+    "stateCode": "035",
+    "latitude": "45.61000000",
+    "longitude": "13.93556000"
+  },
+  {
+    "name": "Kozje",
+    "countryCode": "SI",
+    "stateCode": "051",
+    "latitude": "46.07500000",
+    "longitude": "15.56028000"
+  },
+  {
+    "name": "Kočevje",
+    "countryCode": "SI",
+    "stateCode": "048",
+    "latitude": "45.64333000",
+    "longitude": "14.86333000"
+  },
+  {
+    "name": "Kranj",
+    "countryCode": "SI",
+    "stateCode": "052",
+    "latitude": "46.23887000",
+    "longitude": "14.35561000"
+  },
+  {
+    "name": "Kranjska Gora",
+    "countryCode": "SI",
+    "stateCode": "053",
+    "latitude": "46.45689000",
+    "longitude": "13.77824000"
+  },
+  {
+    "name": "Križevci pri Ljutomeru",
+    "countryCode": "SI",
+    "stateCode": "166",
+    "latitude": "46.56833000",
+    "longitude": "16.13861000"
+  },
+  {
+    "name": "Krog",
+    "countryCode": "SI",
+    "stateCode": "080",
+    "latitude": "46.63806000",
+    "longitude": "16.14139000"
+  },
+  {
+    "name": "Kromberk",
+    "countryCode": "SI",
+    "stateCode": "084",
+    "latitude": "45.96083000",
+    "longitude": "13.66556000"
+  },
+  {
+    "name": "Krško",
+    "countryCode": "SI",
+    "stateCode": "054",
+    "latitude": "45.95915000",
+    "longitude": "15.49167000"
+  },
+  {
+    "name": "Kuzma",
+    "countryCode": "SI",
+    "stateCode": "056",
+    "latitude": "46.83694000",
+    "longitude": "16.08333000"
+  },
+  {
+    "name": "Lavrica",
+    "countryCode": "SI",
+    "stateCode": "123",
+    "latitude": "46.00002000",
+    "longitude": "14.55730000"
+  },
+  {
+    "name": "Laško",
+    "countryCode": "SI",
+    "stateCode": "057",
+    "latitude": "46.15463000",
+    "longitude": "15.23555000"
+  },
+  {
+    "name": "Legen",
+    "countryCode": "SI",
+    "stateCode": "112",
+    "latitude": "46.50651000",
+    "longitude": "15.14424000"
+  },
+  {
+    "name": "Lenart v Slov. Goricah",
+    "countryCode": "SI",
+    "stateCode": "058",
+    "latitude": "46.57611000",
+    "longitude": "15.83139000"
+  },
+  {
+    "name": "Lendava",
+    "countryCode": "SI",
+    "stateCode": "059",
+    "latitude": "46.56494000",
+    "longitude": "16.45091000"
+  },
+  {
+    "name": "Lesce",
+    "countryCode": "SI",
+    "stateCode": "102",
+    "latitude": "46.36111000",
+    "longitude": "14.15778000"
+  },
+  {
+    "name": "Leskova Dolina",
+    "countryCode": "SI",
+    "stateCode": "065",
+    "latitude": "45.62139000",
+    "longitude": "14.46056000"
+  },
+  {
+    "name": "Leskovec pri Krškem",
+    "countryCode": "SI",
+    "stateCode": "054",
+    "latitude": "45.93566000",
+    "longitude": "15.47184000"
+  },
+  {
+    "name": "Limbuš",
+    "countryCode": "SI",
+    "stateCode": "070",
+    "latitude": "46.55361000",
+    "longitude": "15.58361000"
+  },
+  {
+    "name": "Lipovci",
+    "countryCode": "SI",
+    "stateCode": "002",
+    "latitude": "46.62833000",
+    "longitude": "16.22806000"
+  },
+  {
+    "name": "Litija",
+    "countryCode": "SI",
+    "stateCode": "060",
+    "latitude": "46.05861000",
+    "longitude": "14.82250000"
+  },
+  {
+    "name": "Ljubečna",
+    "countryCode": "SI",
+    "stateCode": "011",
+    "latitude": "46.25567000",
+    "longitude": "15.32430000"
+  },
+  {
+    "name": "Ljubljana",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.05108000",
+    "longitude": "14.50513000"
+  },
+  {
+    "name": "Ljubno ob Savinji",
+    "countryCode": "SI",
+    "stateCode": "062",
+    "latitude": "46.34358000",
+    "longitude": "14.83377000"
+  },
+  {
+    "name": "Ljutomer",
+    "countryCode": "SI",
+    "stateCode": "063",
+    "latitude": "46.52083000",
+    "longitude": "16.19750000"
+  },
+  {
+    "name": "Log pri Brezovici",
+    "countryCode": "SI",
+    "stateCode": "004",
+    "latitude": "46.01667000",
+    "longitude": "14.36667000"
+  },
+  {
+    "name": "Logatec",
+    "countryCode": "SI",
+    "stateCode": "064",
+    "latitude": "45.91444000",
+    "longitude": "14.22583000"
+  },
+  {
+    "name": "Lokavec",
+    "countryCode": "SI",
+    "stateCode": "001",
+    "latitude": "45.90167000",
+    "longitude": "13.87972000"
+  },
+  {
+    "name": "Lovrenc na Pohorju",
+    "countryCode": "SI",
+    "stateCode": "167",
+    "latitude": "46.54056000",
+    "longitude": "15.39306000"
+  },
+  {
+    "name": "Lucija",
+    "countryCode": "SI",
+    "stateCode": "090",
+    "latitude": "45.50526000",
+    "longitude": "13.60240000"
+  },
+  {
+    "name": "Lukovica pri Domžalah",
+    "countryCode": "SI",
+    "stateCode": "068",
+    "latitude": "46.16988000",
+    "longitude": "14.69179000"
+  },
+  {
+    "name": "Luče",
+    "countryCode": "SI",
+    "stateCode": "067",
+    "latitude": "46.35611000",
+    "longitude": "14.74667000"
+  },
+  {
+    "name": "Majšperk",
+    "countryCode": "SI",
+    "stateCode": "069",
+    "latitude": "46.35167000",
+    "longitude": "15.73361000"
+  },
+  {
+    "name": "Makole",
+    "countryCode": "SI",
+    "stateCode": "005",
+    "latitude": "46.31722000",
+    "longitude": "15.66722000"
+  },
+  {
+    "name": "Maribor",
+    "countryCode": "SI",
+    "stateCode": "070",
+    "latitude": "46.55472000",
+    "longitude": "15.64667000"
+  },
+  {
+    "name": "Markovci",
+    "countryCode": "SI",
+    "stateCode": "168",
+    "latitude": "46.39557000",
+    "longitude": "15.92831000"
+  },
+  {
+    "name": "Medvode",
+    "countryCode": "SI",
+    "stateCode": "071",
+    "latitude": "46.14220000",
+    "longitude": "14.41114000"
+  },
+  {
+    "name": "Mekinje",
+    "countryCode": "SI",
+    "stateCode": "043",
+    "latitude": "46.23333000",
+    "longitude": "14.61667000"
+  },
+  {
+    "name": "Mengeš",
+    "countryCode": "SI",
+    "stateCode": "072",
+    "latitude": "46.16694000",
+    "longitude": "14.57500000"
+  },
+  {
+    "name": "Metlika",
+    "countryCode": "SI",
+    "stateCode": "073",
+    "latitude": "45.64722000",
+    "longitude": "15.31417000"
+  },
+  {
+    "name": "Mežica",
+    "countryCode": "SI",
+    "stateCode": "074",
+    "latitude": "46.52139000",
+    "longitude": "14.85444000"
+  },
+  {
+    "name": "Miklavž na Dravskem Polju",
+    "countryCode": "SI",
+    "stateCode": "169",
+    "latitude": "46.50583000",
+    "longitude": "15.69722000"
+  },
+  {
+    "name": "Miren",
+    "countryCode": "SI",
+    "stateCode": "075",
+    "latitude": "45.89556000",
+    "longitude": "13.60750000"
+  },
+  {
+    "name": "Mirna",
+    "countryCode": "SI",
+    "stateCode": "006",
+    "latitude": "45.95528000",
+    "longitude": "15.06194000"
+  },
+  {
+    "name": "Mirna Peč",
+    "countryCode": "SI",
+    "stateCode": "170",
+    "latitude": "45.86028000",
+    "longitude": "15.08333000"
+  },
+  {
+    "name": "Mislinja",
+    "countryCode": "SI",
+    "stateCode": "076",
+    "latitude": "46.44141000",
+    "longitude": "15.20027000"
+  },
+  {
+    "name": "Mlaka pri Kranju",
+    "countryCode": "SI",
+    "stateCode": "052",
+    "latitude": "46.28333000",
+    "longitude": "14.35000000"
+  },
+  {
+    "name": "Mojstrana",
+    "countryCode": "SI",
+    "stateCode": "053",
+    "latitude": "46.42383000",
+    "longitude": "13.87520000"
+  },
+  {
+    "name": "Mokronog",
+    "countryCode": "SI",
+    "stateCode": "007",
+    "latitude": "45.93417000",
+    "longitude": "15.14083000"
+  },
+  {
+    "name": "Moravske Toplice",
+    "countryCode": "SI",
+    "stateCode": "078",
+    "latitude": "46.68313000",
+    "longitude": "16.22080000"
+  },
+  {
+    "name": "Moravče",
+    "countryCode": "SI",
+    "stateCode": "077",
+    "latitude": "46.13694000",
+    "longitude": "14.74500000"
+  },
+  {
+    "name": "Morje",
+    "countryCode": "SI",
+    "stateCode": "098",
+    "latitude": "46.44444000",
+    "longitude": "15.62139000"
+  },
+  {
+    "name": "Moste",
+    "countryCode": "SI",
+    "stateCode": "164",
+    "latitude": "46.19500000",
+    "longitude": "14.55139000"
+  },
+  {
+    "name": "Mozirje",
+    "countryCode": "SI",
+    "stateCode": "079",
+    "latitude": "46.33944000",
+    "longitude": "14.96333000"
+  },
+  {
+    "name": "Murska Sobota",
+    "countryCode": "SI",
+    "stateCode": "080",
+    "latitude": "46.66250000",
+    "longitude": "16.16639000"
+  },
+  {
+    "name": "Muta",
+    "countryCode": "SI",
+    "stateCode": "081",
+    "latitude": "46.61139000",
+    "longitude": "15.16611000"
+  },
+  {
+    "name": "Naklo",
+    "countryCode": "SI",
+    "stateCode": "082",
+    "latitude": "46.27278000",
+    "longitude": "14.31722000"
+  },
+  {
+    "name": "Nazarje",
+    "countryCode": "SI",
+    "stateCode": "083",
+    "latitude": "46.31757000",
+    "longitude": "14.94674000"
+  },
+  {
+    "name": "Notranje Gorice",
+    "countryCode": "SI",
+    "stateCode": "008",
+    "latitude": "45.98750000",
+    "longitude": "14.39889000"
+  },
+  {
+    "name": "Nova Gorica",
+    "countryCode": "SI",
+    "stateCode": "084",
+    "latitude": "45.95604000",
+    "longitude": "13.64837000"
+  },
+  {
+    "name": "Nova Vas",
+    "countryCode": "SI",
+    "stateCode": "150",
+    "latitude": "45.77167000",
+    "longitude": "14.50583000"
+  },
+  {
+    "name": "Novo Mesto",
+    "countryCode": "SI",
+    "stateCode": "085",
+    "latitude": "45.80397000",
+    "longitude": "15.16886000"
+  },
+  {
+    "name": "Odranci",
+    "countryCode": "SI",
+    "stateCode": "086",
+    "latitude": "46.58667000",
+    "longitude": "16.28028000"
+  },
+  {
+    "name": "Oplotnica",
+    "countryCode": "SI",
+    "stateCode": "171",
+    "latitude": "46.38778000",
+    "longitude": "15.44667000"
+  },
+  {
+    "name": "Opčina Ljubljana-Bežigrad",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.08333000",
+    "longitude": "14.53333000"
+  },
+  {
+    "name": "Opština Ljubljana-Center",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.05000000",
+    "longitude": "14.53333000"
+  },
+  {
+    "name": "Opština Ljubljana-Moste-Polje",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.06667000",
+    "longitude": "14.61667000"
+  },
+  {
+    "name": "Opština Ljubljana-Vič-Rudnik",
+    "countryCode": "SI",
+    "stateCode": "008",
+    "latitude": "46.03333000",
+    "longitude": "14.41667000"
+  },
+  {
+    "name": "Opština [historical] Ljubljana-Šiška",
+    "countryCode": "SI",
+    "stateCode": "071",
+    "latitude": "46.16667000",
+    "longitude": "14.43333000"
+  },
+  {
+    "name": "Ormož",
+    "countryCode": "SI",
+    "stateCode": "087",
+    "latitude": "46.41139000",
+    "longitude": "16.15444000"
+  },
+  {
+    "name": "Osilnica",
+    "countryCode": "SI",
+    "stateCode": "088",
+    "latitude": "45.52914000",
+    "longitude": "14.69838000"
+  },
+  {
+    "name": "Pameče",
+    "countryCode": "SI",
+    "stateCode": "112",
+    "latitude": "46.53417000",
+    "longitude": "15.07917000"
+  },
+  {
+    "name": "Pekre",
+    "countryCode": "SI",
+    "stateCode": "070",
+    "latitude": "46.54722000",
+    "longitude": "15.59556000"
+  },
+  {
+    "name": "Pesnica pri Mariboru",
+    "countryCode": "SI",
+    "stateCode": "089",
+    "latitude": "46.60694000",
+    "longitude": "15.67667000"
+  },
+  {
+    "name": "Piran",
+    "countryCode": "SI",
+    "stateCode": "090",
+    "latitude": "45.52778000",
+    "longitude": "13.57056000"
+  },
+  {
+    "name": "Pivka",
+    "countryCode": "SI",
+    "stateCode": "091",
+    "latitude": "45.68292000",
+    "longitude": "14.19588000"
+  },
+  {
+    "name": "Pobegi",
+    "countryCode": "SI",
+    "stateCode": "050",
+    "latitude": "45.53944000",
+    "longitude": "13.79611000"
+  },
+  {
+    "name": "Podlehnik",
+    "countryCode": "SI",
+    "stateCode": "172",
+    "latitude": "46.33528000",
+    "longitude": "15.88000000"
+  },
+  {
+    "name": "Podvelka",
+    "countryCode": "SI",
+    "stateCode": "093",
+    "latitude": "46.58694000",
+    "longitude": "15.33056000"
+  },
+  {
+    "name": "Podčetrtek",
+    "countryCode": "SI",
+    "stateCode": "092",
+    "latitude": "46.15694000",
+    "longitude": "15.59861000"
+  },
+  {
+    "name": "Poljčane",
+    "countryCode": "SI",
+    "stateCode": "009",
+    "latitude": "46.31194000",
+    "longitude": "15.57917000"
+  },
+  {
+    "name": "Polzela",
+    "countryCode": "SI",
+    "stateCode": "173",
+    "latitude": "46.28333000",
+    "longitude": "15.06667000"
+  },
+  {
+    "name": "Portorož",
+    "countryCode": "SI",
+    "stateCode": "090",
+    "latitude": "45.51429000",
+    "longitude": "13.59206000"
+  },
+  {
+    "name": "Postojna",
+    "countryCode": "SI",
+    "stateCode": "094",
+    "latitude": "45.77435000",
+    "longitude": "14.21528000"
+  },
+  {
+    "name": "Prade",
+    "countryCode": "SI",
+    "stateCode": "050",
+    "latitude": "45.54003000",
+    "longitude": "13.77607000"
+  },
+  {
+    "name": "Pragersko",
+    "countryCode": "SI",
+    "stateCode": "113",
+    "latitude": "46.39667000",
+    "longitude": "15.66000000"
+  },
+  {
+    "name": "Prebold",
+    "countryCode": "SI",
+    "stateCode": "174",
+    "latitude": "46.23694000",
+    "longitude": "15.09250000"
+  },
+  {
+    "name": "Preddvor",
+    "countryCode": "SI",
+    "stateCode": "095",
+    "latitude": "46.30250000",
+    "longitude": "14.42306000"
+  },
+  {
+    "name": "Preserje pri Radomljah",
+    "countryCode": "SI",
+    "stateCode": "072",
+    "latitude": "46.16911000",
+    "longitude": "14.59698000"
+  },
+  {
+    "name": "Prevalje",
+    "countryCode": "SI",
+    "stateCode": "175",
+    "latitude": "46.54694000",
+    "longitude": "14.92083000"
+  },
+  {
+    "name": "Prvačina",
+    "countryCode": "SI",
+    "stateCode": "084",
+    "latitude": "45.89000000",
+    "longitude": "13.71806000"
+  },
+  {
+    "name": "Ptuj",
+    "countryCode": "SI",
+    "stateCode": "096",
+    "latitude": "46.42005000",
+    "longitude": "15.87018000"
+  },
+  {
+    "name": "Puconci",
+    "countryCode": "SI",
+    "stateCode": "097",
+    "latitude": "46.70667000",
+    "longitude": "16.15639000"
+  },
+  {
+    "name": "Radenci",
+    "countryCode": "SI",
+    "stateCode": "100",
+    "latitude": "46.64201000",
+    "longitude": "16.03781000"
+  },
+  {
+    "name": "Radeče",
+    "countryCode": "SI",
+    "stateCode": "099",
+    "latitude": "46.06806000",
+    "longitude": "15.18389000"
+  },
+  {
+    "name": "Radizel",
+    "countryCode": "SI",
+    "stateCode": "160",
+    "latitude": "46.47444000",
+    "longitude": "15.65583000"
+  },
+  {
+    "name": "Radlje ob Dravi",
+    "countryCode": "SI",
+    "stateCode": "101",
+    "latitude": "46.61417000",
+    "longitude": "15.22639000"
+  },
+  {
+    "name": "Radomlje",
+    "countryCode": "SI",
+    "stateCode": "023",
+    "latitude": "46.17361000",
+    "longitude": "14.61222000"
+  },
+  {
+    "name": "Radovljica",
+    "countryCode": "SI",
+    "stateCode": "102",
+    "latitude": "46.34444000",
+    "longitude": "14.17444000"
+  },
+  {
+    "name": "Rakek",
+    "countryCode": "SI",
+    "stateCode": "013",
+    "latitude": "45.81333000",
+    "longitude": "14.31111000"
+  },
+  {
+    "name": "Rakičan",
+    "countryCode": "SI",
+    "stateCode": "080",
+    "latitude": "46.65167000",
+    "longitude": "16.20417000"
+  },
+  {
+    "name": "Ravne",
+    "countryCode": "SI",
+    "stateCode": "126",
+    "latitude": "46.41413000",
+    "longitude": "15.06087000"
+  },
+  {
+    "name": "Ravne na Koroškem",
+    "countryCode": "SI",
+    "stateCode": "103",
+    "latitude": "46.54306000",
+    "longitude": "14.96917000"
+  },
+  {
+    "name": "Razkrižje",
+    "countryCode": "SI",
+    "stateCode": "176",
+    "latitude": "46.52167000",
+    "longitude": "16.28111000"
+  },
+  {
+    "name": "Razvanje",
+    "countryCode": "SI",
+    "stateCode": "070",
+    "latitude": "46.51444000",
+    "longitude": "15.63611000"
+  },
+  {
+    "name": "Rače",
+    "countryCode": "SI",
+    "stateCode": "098",
+    "latitude": "46.45194000",
+    "longitude": "15.68139000"
+  },
+  {
+    "name": "Renče",
+    "countryCode": "SI",
+    "stateCode": "201",
+    "latitude": "45.89000000",
+    "longitude": "13.66861000"
+  },
+  {
+    "name": "Rečica ob Savinji",
+    "countryCode": "SI",
+    "stateCode": "008",
+    "latitude": "46.31667000",
+    "longitude": "14.91667000"
+  },
+  {
+    "name": "Ribnica",
+    "countryCode": "SI",
+    "stateCode": "104",
+    "latitude": "45.73861000",
+    "longitude": "14.72750000"
+  },
+  {
+    "name": "Ribnica na Pohorju",
+    "countryCode": "SI",
+    "stateCode": "177",
+    "latitude": "46.53500000",
+    "longitude": "15.27278000"
+  },
+  {
+    "name": "Rogatec",
+    "countryCode": "SI",
+    "stateCode": "107",
+    "latitude": "46.22944000",
+    "longitude": "15.70028000"
+  },
+  {
+    "name": "Rogaška Slatina",
+    "countryCode": "SI",
+    "stateCode": "106",
+    "latitude": "46.23750000",
+    "longitude": "15.63972000"
+  },
+  {
+    "name": "Rogašovci",
+    "countryCode": "SI",
+    "stateCode": "105",
+    "latitude": "46.80000000",
+    "longitude": "16.03333000"
+  },
+  {
+    "name": "Rogoza",
+    "countryCode": "SI",
+    "stateCode": "160",
+    "latitude": "46.50000000",
+    "longitude": "15.68333000"
+  },
+  {
+    "name": "Rožna Dolina",
+    "countryCode": "SI",
+    "stateCode": "183",
+    "latitude": "45.94194000",
+    "longitude": "13.66779000"
+  },
+  {
+    "name": "Rožnik District",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.05999000",
+    "longitude": "14.46779000"
+  },
+  {
+    "name": "Ruše",
+    "countryCode": "SI",
+    "stateCode": "108",
+    "latitude": "46.53944000",
+    "longitude": "15.51583000"
+  },
+  {
+    "name": "Selnica ob Dravi",
+    "countryCode": "SI",
+    "stateCode": "178",
+    "latitude": "46.55000000",
+    "longitude": "15.49500000"
+  },
+  {
+    "name": "Selnica ob Muri",
+    "countryCode": "SI",
+    "stateCode": "118",
+    "latitude": "46.68333000",
+    "longitude": "15.70000000"
+  },
+  {
+    "name": "Semič",
+    "countryCode": "SI",
+    "stateCode": "109",
+    "latitude": "45.64611000",
+    "longitude": "15.18222000"
+  },
+  {
+    "name": "Senovo",
+    "countryCode": "SI",
+    "stateCode": "054",
+    "latitude": "46.02361000",
+    "longitude": "15.47694000"
+  },
+  {
+    "name": "Sevnica",
+    "countryCode": "SI",
+    "stateCode": "110",
+    "latitude": "46.00778000",
+    "longitude": "15.31556000"
+  },
+  {
+    "name": "Seča",
+    "countryCode": "SI",
+    "stateCode": "090",
+    "latitude": "45.49584000",
+    "longitude": "13.61466000"
+  },
+  {
+    "name": "Sežana",
+    "countryCode": "SI",
+    "stateCode": "111",
+    "latitude": "45.70924000",
+    "longitude": "13.87333000"
+  },
+  {
+    "name": "Slovenj Gradec",
+    "countryCode": "SI",
+    "stateCode": "112",
+    "latitude": "46.51028000",
+    "longitude": "15.08056000"
+  },
+  {
+    "name": "Slovenska Bistrica",
+    "countryCode": "SI",
+    "stateCode": "113",
+    "latitude": "46.39278000",
+    "longitude": "15.57444000"
+  },
+  {
+    "name": "Slovenske Konjice",
+    "countryCode": "SI",
+    "stateCode": "114",
+    "latitude": "46.33667000",
+    "longitude": "15.42583000"
+  },
+  {
+    "name": "Slovenski Javornik",
+    "countryCode": "SI",
+    "stateCode": "041",
+    "latitude": "46.42611000",
+    "longitude": "14.08722000"
+  },
+  {
+    "name": "Sodražica",
+    "countryCode": "SI",
+    "stateCode": "179",
+    "latitude": "45.76111000",
+    "longitude": "14.63556000"
+  },
+  {
+    "name": "Solkan",
+    "countryCode": "SI",
+    "stateCode": "084",
+    "latitude": "45.97139000",
+    "longitude": "13.64944000"
+  },
+  {
+    "name": "Solčava",
+    "countryCode": "SI",
+    "stateCode": "180",
+    "latitude": "46.41944000",
+    "longitude": "14.69361000"
+  },
+  {
+    "name": "Sostro District",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.04341000",
+    "longitude": "14.67293000"
+  },
+  {
+    "name": "Spodnja Hajdina",
+    "countryCode": "SI",
+    "stateCode": "159",
+    "latitude": "46.40889000",
+    "longitude": "15.84694000"
+  },
+  {
+    "name": "Spodnja Idrija",
+    "countryCode": "SI",
+    "stateCode": "036",
+    "latitude": "46.03194000",
+    "longitude": "14.02722000"
+  },
+  {
+    "name": "Spodnje Hoče",
+    "countryCode": "SI",
+    "stateCode": "160",
+    "latitude": "46.50000000",
+    "longitude": "15.65000000"
+  },
+  {
+    "name": "Spodnje Škofije",
+    "countryCode": "SI",
+    "stateCode": "050",
+    "latitude": "45.57167000",
+    "longitude": "13.79250000"
+  },
+  {
+    "name": "Spodnji Duplek",
+    "countryCode": "SI",
+    "stateCode": "026",
+    "latitude": "46.50306000",
+    "longitude": "15.74528000"
+  },
+  {
+    "name": "Središče ob Dravi",
+    "countryCode": "SI",
+    "stateCode": "202",
+    "latitude": "46.39417000",
+    "longitude": "16.26806000"
+  },
+  {
+    "name": "Starše",
+    "countryCode": "SI",
+    "stateCode": "115",
+    "latitude": "46.46583000",
+    "longitude": "15.76722000"
+  },
+  {
+    "name": "Straža",
+    "countryCode": "SI",
+    "stateCode": "203",
+    "latitude": "45.78000000",
+    "longitude": "15.07278000"
+  },
+  {
+    "name": "Sv. Ana v Slov. Goricah",
+    "countryCode": "SI",
+    "stateCode": "181",
+    "latitude": "46.64917000",
+    "longitude": "15.84417000"
+  },
+  {
+    "name": "Sv. Anton",
+    "countryCode": "SI",
+    "stateCode": "050",
+    "latitude": "45.52583000",
+    "longitude": "13.83194000"
+  },
+  {
+    "name": "Sv. Duh",
+    "countryCode": "SI",
+    "stateCode": "122",
+    "latitude": "46.18333000",
+    "longitude": "14.33333000"
+  },
+  {
+    "name": "Sv. Trojica v Slov. Goricah",
+    "countryCode": "SI",
+    "stateCode": "204",
+    "latitude": "46.57667000",
+    "longitude": "15.87694000"
+  },
+  {
+    "name": "Sveti Jurij ob Ščavnici",
+    "countryCode": "SI",
+    "stateCode": "210",
+    "latitude": "46.56950000",
+    "longitude": "16.02347000"
+  },
+  {
+    "name": "Sveti Tomaž",
+    "countryCode": "SI",
+    "stateCode": "205",
+    "latitude": "46.48417000",
+    "longitude": "16.08361000"
+  },
+  {
+    "name": "Tabor",
+    "countryCode": "SI",
+    "stateCode": "184",
+    "latitude": "46.23611000",
+    "longitude": "15.01833000"
+  },
+  {
+    "name": "Tišina",
+    "countryCode": "SI",
+    "stateCode": "010",
+    "latitude": "46.65806000",
+    "longitude": "16.09167000"
+  },
+  {
+    "name": "Tolmin",
+    "countryCode": "SI",
+    "stateCode": "128",
+    "latitude": "46.18304000",
+    "longitude": "13.73321000"
+  },
+  {
+    "name": "Topolšica",
+    "countryCode": "SI",
+    "stateCode": "126",
+    "latitude": "46.40028000",
+    "longitude": "15.02157000"
+  },
+  {
+    "name": "Trbovlje",
+    "countryCode": "SI",
+    "stateCode": "129",
+    "latitude": "46.15500000",
+    "longitude": "15.05333000"
+  },
+  {
+    "name": "Trebnje",
+    "countryCode": "SI",
+    "stateCode": "130",
+    "latitude": "45.90417000",
+    "longitude": "15.02167000"
+  },
+  {
+    "name": "Trnovlje pri Celju",
+    "countryCode": "SI",
+    "stateCode": "011",
+    "latitude": "46.25667000",
+    "longitude": "15.29528000"
+  },
+  {
+    "name": "Trnovo District",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.02412000",
+    "longitude": "14.48891000"
+  },
+  {
+    "name": "Trnovska Vas",
+    "countryCode": "SI",
+    "stateCode": "185",
+    "latitude": "46.52019000",
+    "longitude": "15.88657000"
+  },
+  {
+    "name": "Trzin",
+    "countryCode": "SI",
+    "stateCode": "186",
+    "latitude": "46.13333000",
+    "longitude": "14.56667000"
+  },
+  {
+    "name": "Tržič",
+    "countryCode": "SI",
+    "stateCode": "131",
+    "latitude": "46.36357000",
+    "longitude": "14.31046000"
+  },
+  {
+    "name": "Turnišče",
+    "countryCode": "SI",
+    "stateCode": "132",
+    "latitude": "46.62778000",
+    "longitude": "16.32028000"
+  },
+  {
+    "name": "Velika Polana",
+    "countryCode": "SI",
+    "stateCode": "187",
+    "latitude": "46.57194000",
+    "longitude": "16.34694000"
+  },
+  {
+    "name": "Velike Lašče",
+    "countryCode": "SI",
+    "stateCode": "134",
+    "latitude": "45.83222000",
+    "longitude": "14.63639000"
+  },
+  {
+    "name": "Verd",
+    "countryCode": "SI",
+    "stateCode": "140",
+    "latitude": "45.95667000",
+    "longitude": "14.30583000"
+  },
+  {
+    "name": "Veržej",
+    "countryCode": "SI",
+    "stateCode": "188",
+    "latitude": "46.58361000",
+    "longitude": "16.16528000"
+  },
+  {
+    "name": "Videm",
+    "countryCode": "SI",
+    "stateCode": "020",
+    "latitude": "45.85000000",
+    "longitude": "14.69417000"
+  },
+  {
+    "name": "Videm pri Ptuju",
+    "countryCode": "SI",
+    "stateCode": "135",
+    "latitude": "46.36861000",
+    "longitude": "15.90639000"
+  },
+  {
+    "name": "Vipava",
+    "countryCode": "SI",
+    "stateCode": "136",
+    "latitude": "45.84667000",
+    "longitude": "13.96306000"
+  },
+  {
+    "name": "Vir",
+    "countryCode": "SI",
+    "stateCode": "023",
+    "latitude": "46.15325000",
+    "longitude": "14.60741000"
+  },
+  {
+    "name": "Vitanje",
+    "countryCode": "SI",
+    "stateCode": "137",
+    "latitude": "46.38167000",
+    "longitude": "15.29583000"
+  },
+  {
+    "name": "Vitomarci",
+    "countryCode": "SI",
+    "stateCode": "182",
+    "latitude": "46.52750000",
+    "longitude": "15.93944000"
+  },
+  {
+    "name": "Vič District",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.00779000",
+    "longitude": "14.46968000"
+  },
+  {
+    "name": "Vnanje Gorice",
+    "countryCode": "SI",
+    "stateCode": "008",
+    "latitude": "46.00722000",
+    "longitude": "14.42194000"
+  },
+  {
+    "name": "Vodice",
+    "countryCode": "SI",
+    "stateCode": "138",
+    "latitude": "46.18987000",
+    "longitude": "14.49492000"
+  },
+  {
+    "name": "Vojnik",
+    "countryCode": "SI",
+    "stateCode": "139",
+    "latitude": "46.29333000",
+    "longitude": "15.30333000"
+  },
+  {
+    "name": "Volčja Draga",
+    "countryCode": "SI",
+    "stateCode": "201",
+    "latitude": "45.90694000",
+    "longitude": "13.67750000"
+  },
+  {
+    "name": "Vransko",
+    "countryCode": "SI",
+    "stateCode": "189",
+    "latitude": "46.24389000",
+    "longitude": "14.95139000"
+  },
+  {
+    "name": "Vrhnika",
+    "countryCode": "SI",
+    "stateCode": "140",
+    "latitude": "45.96350000",
+    "longitude": "14.29484000"
+  },
+  {
+    "name": "Vrtojba",
+    "countryCode": "SI",
+    "stateCode": "183",
+    "latitude": "45.91250000",
+    "longitude": "13.63417000"
+  },
+  {
+    "name": "Vuzenica",
+    "countryCode": "SI",
+    "stateCode": "141",
+    "latitude": "46.59639000",
+    "longitude": "15.16722000"
+  },
+  {
+    "name": "Zabukovica",
+    "countryCode": "SI",
+    "stateCode": "190",
+    "latitude": "46.21408000",
+    "longitude": "15.15954000"
+  },
+  {
+    "name": "Zagorje ob Savi",
+    "countryCode": "SI",
+    "stateCode": "142",
+    "latitude": "46.13179000",
+    "longitude": "14.99694000"
+  },
+  {
+    "name": "Zasip",
+    "countryCode": "SI",
+    "stateCode": "003",
+    "latitude": "46.39284000",
+    "longitude": "14.10869000"
+  },
+  {
+    "name": "Zavrč",
+    "countryCode": "SI",
+    "stateCode": "143",
+    "latitude": "46.39167000",
+    "longitude": "16.04972000"
+  },
+  {
+    "name": "Zgornja Kungota",
+    "countryCode": "SI",
+    "stateCode": "055",
+    "latitude": "46.63917000",
+    "longitude": "15.61556000"
+  },
+  {
+    "name": "Zgornja Polskava",
+    "countryCode": "SI",
+    "stateCode": "113",
+    "latitude": "46.42556000",
+    "longitude": "15.61222000"
+  },
+  {
+    "name": "Zgornje Bitnje",
+    "countryCode": "SI",
+    "stateCode": "052",
+    "latitude": "46.22000000",
+    "longitude": "14.33667000"
+  },
+  {
+    "name": "Zgornje Gorje",
+    "countryCode": "SI",
+    "stateCode": "002",
+    "latitude": "46.37962000",
+    "longitude": "14.06937000"
+  },
+  {
+    "name": "Zgornje Jezersko",
+    "countryCode": "SI",
+    "stateCode": "163",
+    "latitude": "46.39410000",
+    "longitude": "14.50659000"
+  },
+  {
+    "name": "Zgornje Pirniče",
+    "countryCode": "SI",
+    "stateCode": "071",
+    "latitude": "46.14251000",
+    "longitude": "14.43158000"
+  },
+  {
+    "name": "Zgornji Duplek",
+    "countryCode": "SI",
+    "stateCode": "026",
+    "latitude": "46.51361000",
+    "longitude": "15.72083000"
+  },
+  {
+    "name": "Zreče",
+    "countryCode": "SI",
+    "stateCode": "144",
+    "latitude": "46.38222000",
+    "longitude": "15.37917000"
+  },
+  {
+    "name": "Černelavci",
+    "countryCode": "SI",
+    "stateCode": "080",
+    "latitude": "46.66667000",
+    "longitude": "16.13333000"
+  },
+  {
+    "name": "Črenšovci",
+    "countryCode": "SI",
+    "stateCode": "015",
+    "latitude": "46.55794000",
+    "longitude": "16.30410000"
+  },
+  {
+    "name": "Črna na Koroškem",
+    "countryCode": "SI",
+    "stateCode": "016",
+    "latitude": "46.47045000",
+    "longitude": "14.85009000"
+  },
+  {
+    "name": "Črnomelj",
+    "countryCode": "SI",
+    "stateCode": "017",
+    "latitude": "45.57111000",
+    "longitude": "15.18889000"
+  },
+  {
+    "name": "Črnuče District",
+    "countryCode": "SI",
+    "stateCode": "186",
+    "latitude": "46.11506000",
+    "longitude": "14.55371000"
+  },
+  {
+    "name": "Šalovci",
+    "countryCode": "SI",
+    "stateCode": "033",
+    "latitude": "46.82500000",
+    "longitude": "16.29806000"
+  },
+  {
+    "name": "Šempas",
+    "countryCode": "SI",
+    "stateCode": "084",
+    "latitude": "45.93028000",
+    "longitude": "13.74361000"
+  },
+  {
+    "name": "Šempeter pri Gorici",
+    "countryCode": "SI",
+    "stateCode": "183",
+    "latitude": "45.92750000",
+    "longitude": "13.64111000"
+  },
+  {
+    "name": "Šempeter v Savinj. Dolini",
+    "countryCode": "SI",
+    "stateCode": "190",
+    "latitude": "46.25639000",
+    "longitude": "15.12194000"
+  },
+  {
+    "name": "Šentilj v Slov. Goricah",
+    "countryCode": "SI",
+    "stateCode": "118",
+    "latitude": "46.68167000",
+    "longitude": "15.64806000"
+  },
+  {
+    "name": "Šentjernej",
+    "countryCode": "SI",
+    "stateCode": "119",
+    "latitude": "45.84000000",
+    "longitude": "15.33611000"
+  },
+  {
+    "name": "Šentjur",
+    "countryCode": "SI",
+    "stateCode": "120",
+    "latitude": "46.21722000",
+    "longitude": "15.39750000"
+  },
+  {
+    "name": "Šentrupert",
+    "countryCode": "SI",
+    "stateCode": "211",
+    "latitude": "45.97778000",
+    "longitude": "15.09556000"
+  },
+  {
+    "name": "Šentvid District",
+    "countryCode": "SI",
+    "stateCode": "061",
+    "latitude": "46.10559000",
+    "longitude": "14.43329000"
+  },
+  {
+    "name": "Šentvid pri Stični",
+    "countryCode": "SI",
+    "stateCode": "039",
+    "latitude": "45.95004000",
+    "longitude": "14.84344000"
+  },
+  {
+    "name": "Šenčur",
+    "countryCode": "SI",
+    "stateCode": "117",
+    "latitude": "46.24556000",
+    "longitude": "14.41972000"
+  },
+  {
+    "name": "Škocjan",
+    "countryCode": "SI",
+    "stateCode": "121",
+    "latitude": "45.90667000",
+    "longitude": "15.29139000"
+  },
+  {
+    "name": "Škofja Loka",
+    "countryCode": "SI",
+    "stateCode": "122",
+    "latitude": "46.16551000",
+    "longitude": "14.30626000"
+  },
+  {
+    "name": "Škofljica",
+    "countryCode": "SI",
+    "stateCode": "123",
+    "latitude": "45.98333000",
+    "longitude": "14.57667000"
+  },
+  {
+    "name": "Šmarca",
+    "countryCode": "SI",
+    "stateCode": "043",
+    "latitude": "46.19333000",
+    "longitude": "14.59667000"
+  },
+  {
+    "name": "Šmarje pri Jelšah",
+    "countryCode": "SI",
+    "stateCode": "124",
+    "latitude": "46.22722000",
+    "longitude": "15.51917000"
+  },
+  {
+    "name": "Šmarje-Sap",
+    "countryCode": "SI",
+    "stateCode": "032",
+    "latitude": "45.97618000",
+    "longitude": "14.61177000"
+  },
+  {
+    "name": "Šmarjeta",
+    "countryCode": "SI",
+    "stateCode": "206",
+    "latitude": "45.88333000",
+    "longitude": "15.25000000"
+  },
+  {
+    "name": "Šmartno ob Paki",
+    "countryCode": "SI",
+    "stateCode": "125",
+    "latitude": "46.33333000",
+    "longitude": "15.03333000"
+  },
+  {
+    "name": "Šmartno pri Litiji",
+    "countryCode": "SI",
+    "stateCode": "194",
+    "latitude": "46.04444000",
+    "longitude": "14.84417000"
+  },
+  {
+    "name": "Šmartno pri Slovenj Gradcu",
+    "countryCode": "SI",
+    "stateCode": "112",
+    "latitude": "46.48944000",
+    "longitude": "15.10667000"
+  },
+  {
+    "name": "Šoštanj",
+    "countryCode": "SI",
+    "stateCode": "126",
+    "latitude": "46.38000000",
+    "longitude": "15.04861000"
+  },
+  {
+    "name": "Štore",
+    "countryCode": "SI",
+    "stateCode": "127",
+    "latitude": "46.22083000",
+    "longitude": "15.31389000"
+  },
+  {
+    "name": "Žalec",
+    "countryCode": "SI",
+    "stateCode": "190",
+    "latitude": "46.25151000",
+    "longitude": "15.16482000"
+  },
+  {
+    "name": "Železniki",
+    "countryCode": "SI",
+    "stateCode": "146",
+    "latitude": "46.22482000",
+    "longitude": "14.17205000"
+  },
+  {
+    "name": "Žetale",
+    "countryCode": "SI",
+    "stateCode": "191",
+    "latitude": "46.27356000",
+    "longitude": "15.82658000"
+  },
+  {
+    "name": "Žiri",
+    "countryCode": "SI",
+    "stateCode": "147",
+    "latitude": "46.04222000",
+    "longitude": "14.10722000"
+  },
+  {
+    "name": "Žirovnica",
+    "countryCode": "SI",
+    "stateCode": "192",
+    "latitude": "46.40472000",
+    "longitude": "14.14000000"
+  },
+  {
+    "name": "Žužemberk",
+    "countryCode": "SI",
+    "stateCode": "193",
+    "latitude": "45.83389000",
+    "longitude": "14.92917000"
+  }
+]

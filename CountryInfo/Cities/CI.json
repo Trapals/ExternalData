@@ -1,0 +1,597 @@
+[
+  {
+    "name": "Abengourou",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "6.72972000",
+    "longitude": "-3.49639000"
+  },
+  {
+    "name": "Abidjan",
+    "countryCode": "CI",
+    "stateCode": "AB",
+    "latitude": "5.30966000",
+    "longitude": "-4.01266000"
+  },
+  {
+    "name": "Abobo",
+    "countryCode": "CI",
+    "stateCode": "AB",
+    "latitude": "5.41613000",
+    "longitude": "-4.01590000"
+  },
+  {
+    "name": "Aboisso",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "5.46779000",
+    "longitude": "-3.20711000"
+  },
+  {
+    "name": "Adiaké",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "5.28634000",
+    "longitude": "-3.30403000"
+  },
+  {
+    "name": "Adzopé",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "6.10694000",
+    "longitude": "-3.86194000"
+  },
+  {
+    "name": "Affery",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "6.32035000",
+    "longitude": "-3.95235000"
+  },
+  {
+    "name": "Agboville",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "5.92801000",
+    "longitude": "-4.21319000"
+  },
+  {
+    "name": "Agnibilékrou",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "7.13113000",
+    "longitude": "-3.20415000"
+  },
+  {
+    "name": "Agnéby-Tiassa",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "5.79488000",
+    "longitude": "-4.37187000"
+  },
+  {
+    "name": "Akoupé",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "6.38423000",
+    "longitude": "-3.88759000"
+  },
+  {
+    "name": "Anyama",
+    "countryCode": "CI",
+    "stateCode": "AB",
+    "latitude": "5.49462000",
+    "longitude": "-4.05183000"
+  },
+  {
+    "name": "Arrah",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "6.67342000",
+    "longitude": "-3.96938000"
+  },
+  {
+    "name": "Ayamé",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "5.60520000",
+    "longitude": "-3.15709000"
+  },
+  {
+    "name": "Bafing",
+    "countryCode": "CI",
+    "stateCode": "WR",
+    "latitude": "8.40611000",
+    "longitude": "-7.58048000"
+  },
+  {
+    "name": "Bangolo",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "7.01232000",
+    "longitude": "-7.48639000"
+  },
+  {
+    "name": "Biankouma",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "7.73909000",
+    "longitude": "-7.61377000"
+  },
+  {
+    "name": "Bingerville",
+    "countryCode": "CI",
+    "stateCode": "AB",
+    "latitude": "5.35581000",
+    "longitude": "-3.88537000"
+  },
+  {
+    "name": "Bocanda",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "7.06264000",
+    "longitude": "-4.49948000"
+  },
+  {
+    "name": "Bondoukou",
+    "countryCode": "CI",
+    "stateCode": "ZZ",
+    "latitude": "8.04020000",
+    "longitude": "-2.80003000"
+  },
+  {
+    "name": "Bongouanou",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "6.65175000",
+    "longitude": "-4.20406000"
+  },
+  {
+    "name": "Bonoua",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "5.27247000",
+    "longitude": "-3.59625000"
+  },
+  {
+    "name": "Botro",
+    "countryCode": "CI",
+    "stateCode": "04",
+    "latitude": "7.85249000",
+    "longitude": "-5.31063000"
+  },
+  {
+    "name": "Bouaflé",
+    "countryCode": "CI",
+    "stateCode": "SM",
+    "latitude": "6.99041000",
+    "longitude": "-5.74420000"
+  },
+  {
+    "name": "Bouaké",
+    "countryCode": "CI",
+    "stateCode": "04",
+    "latitude": "7.69385000",
+    "longitude": "-5.03031000"
+  },
+  {
+    "name": "Bouna",
+    "countryCode": "CI",
+    "stateCode": "ZZ",
+    "latitude": "9.26927000",
+    "longitude": "-2.99510000"
+  },
+  {
+    "name": "Bounkani",
+    "countryCode": "CI",
+    "stateCode": "ZZ",
+    "latitude": "9.47841000",
+    "longitude": "-3.31238000"
+  },
+  {
+    "name": "Bélier",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "7.02582000",
+    "longitude": "-5.06744000"
+  },
+  {
+    "name": "Béoumi",
+    "countryCode": "CI",
+    "stateCode": "04",
+    "latitude": "7.67395000",
+    "longitude": "-5.58085000"
+  },
+  {
+    "name": "Béré",
+    "countryCode": "CI",
+    "stateCode": "WR",
+    "latitude": "8.18952000",
+    "longitude": "-6.17157000"
+  },
+  {
+    "name": "Cavally",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "6.56343000",
+    "longitude": "-7.92526000"
+  },
+  {
+    "name": "Dabakala",
+    "countryCode": "CI",
+    "stateCode": "04",
+    "latitude": "8.36321000",
+    "longitude": "-4.42863000"
+  },
+  {
+    "name": "Dabou",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "5.32556000",
+    "longitude": "-4.37685000"
+  },
+  {
+    "name": "Daloa",
+    "countryCode": "CI",
+    "stateCode": "SM",
+    "latitude": "6.87735000",
+    "longitude": "-6.45022000"
+  },
+  {
+    "name": "Danané",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "7.25957000",
+    "longitude": "-8.15498000"
+  },
+  {
+    "name": "Daoukro",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "7.05910000",
+    "longitude": "-3.96310000"
+  },
+  {
+    "name": "Dimbokro",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "6.64678000",
+    "longitude": "-4.70519000"
+  },
+  {
+    "name": "Divo",
+    "countryCode": "CI",
+    "stateCode": "GD",
+    "latitude": "5.83739000",
+    "longitude": "-5.35723000"
+  },
+  {
+    "name": "Duekoué",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "6.74202000",
+    "longitude": "-7.34918000"
+  },
+  {
+    "name": "Folon",
+    "countryCode": "CI",
+    "stateCode": "DN",
+    "latitude": "9.81241000",
+    "longitude": "-7.51894000"
+  },
+  {
+    "name": "Gagnoa",
+    "countryCode": "CI",
+    "stateCode": "GD",
+    "latitude": "6.13193000",
+    "longitude": "-5.95060000"
+  },
+  {
+    "name": "Gbêkê",
+    "countryCode": "CI",
+    "stateCode": "04",
+    "latitude": "7.70271000",
+    "longitude": "-5.28511000"
+  },
+  {
+    "name": "Gbôklé",
+    "countryCode": "CI",
+    "stateCode": "BS",
+    "latitude": "4.95712000",
+    "longitude": "-6.09372000"
+  },
+  {
+    "name": "Gontougo",
+    "countryCode": "CI",
+    "stateCode": "ZZ",
+    "latitude": "7.87132000",
+    "longitude": "-3.07068000"
+  },
+  {
+    "name": "Grand-Bassam",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "5.21180000",
+    "longitude": "-3.73884000"
+  },
+  {
+    "name": "Grand-Lahou",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "5.25068000",
+    "longitude": "-5.00333000"
+  },
+  {
+    "name": "Grands-Ponts",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "5.30487000",
+    "longitude": "-4.39247000"
+  },
+  {
+    "name": "Guibéroua",
+    "countryCode": "CI",
+    "stateCode": "GD",
+    "latitude": "6.23869000",
+    "longitude": "-6.17147000"
+  },
+  {
+    "name": "Guiglo",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "6.54368000",
+    "longitude": "-7.49350000"
+  },
+  {
+    "name": "Guémon",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "7.09300000",
+    "longitude": "-7.17785000"
+  },
+  {
+    "name": "Gôh",
+    "countryCode": "CI",
+    "stateCode": "GD",
+    "latitude": "6.14459000",
+    "longitude": "-5.92644000"
+  },
+  {
+    "name": "Hambol",
+    "countryCode": "CI",
+    "stateCode": "04",
+    "latitude": "8.30368000",
+    "longitude": "-5.15396000"
+  },
+  {
+    "name": "Haut-Sassandra",
+    "countryCode": "CI",
+    "stateCode": "SM",
+    "latitude": "6.66961000",
+    "longitude": "-6.50116000"
+  },
+  {
+    "name": "Iffou",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "7.11509000",
+    "longitude": "-3.95027000"
+  },
+  {
+    "name": "Indénié-Djuablin",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "6.74434000",
+    "longitude": "-3.49400000"
+  },
+  {
+    "name": "Issia",
+    "countryCode": "CI",
+    "stateCode": "SM",
+    "latitude": "6.49224000",
+    "longitude": "-6.58558000"
+  },
+  {
+    "name": "Kabadougou",
+    "countryCode": "CI",
+    "stateCode": "DN",
+    "latitude": "9.60571000",
+    "longitude": "-7.43774000"
+  },
+  {
+    "name": "Katiola",
+    "countryCode": "CI",
+    "stateCode": "04",
+    "latitude": "8.13728000",
+    "longitude": "-5.10095000"
+  },
+  {
+    "name": "Lakota",
+    "countryCode": "CI",
+    "stateCode": "GD",
+    "latitude": "5.84752000",
+    "longitude": "-5.68200000"
+  },
+  {
+    "name": "Lôh-Djiboua",
+    "countryCode": "CI",
+    "stateCode": "GD",
+    "latitude": "5.82483000",
+    "longitude": "-5.47668000"
+  },
+  {
+    "name": "Man",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "7.41251000",
+    "longitude": "-7.55383000"
+  },
+  {
+    "name": "Mankono",
+    "countryCode": "CI",
+    "stateCode": "WR",
+    "latitude": "8.05861000",
+    "longitude": "-6.18972000"
+  },
+  {
+    "name": "Marahoué",
+    "countryCode": "CI",
+    "stateCode": "SM",
+    "latitude": "7.03252000",
+    "longitude": "-5.80215000"
+  },
+  {
+    "name": "Moronou",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "6.66830000",
+    "longitude": "-4.13155000"
+  },
+  {
+    "name": "N'Zi",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "6.82803000",
+    "longitude": "-4.58130000"
+  },
+  {
+    "name": "Nawa",
+    "countryCode": "CI",
+    "stateCode": "BS",
+    "latitude": "5.80112000",
+    "longitude": "-6.60313000"
+  },
+  {
+    "name": "Odienné",
+    "countryCode": "CI",
+    "stateCode": "DN",
+    "latitude": "9.50511000",
+    "longitude": "-7.56433000"
+  },
+  {
+    "name": "Oumé",
+    "countryCode": "CI",
+    "stateCode": "GD",
+    "latitude": "6.38309000",
+    "longitude": "-5.41759000"
+  },
+  {
+    "name": "Sakassou",
+    "countryCode": "CI",
+    "stateCode": "04",
+    "latitude": "7.45462000",
+    "longitude": "-5.29263000"
+  },
+  {
+    "name": "San-Pédro",
+    "countryCode": "CI",
+    "stateCode": "BS",
+    "latitude": "4.76768000",
+    "longitude": "-6.65033000"
+  },
+  {
+    "name": "Sassandra",
+    "countryCode": "CI",
+    "stateCode": "BS",
+    "latitude": "4.95384000",
+    "longitude": "-6.08531000"
+  },
+  {
+    "name": "Sinfra",
+    "countryCode": "CI",
+    "stateCode": "ZZ",
+    "latitude": "6.62103000",
+    "longitude": "-5.91144000"
+  },
+  {
+    "name": "Sud-Comoé",
+    "countryCode": "CI",
+    "stateCode": "CM",
+    "latitude": "5.49961000",
+    "longitude": "-3.24080000"
+  },
+  {
+    "name": "Séguéla",
+    "countryCode": "CI",
+    "stateCode": "WR",
+    "latitude": "7.96111000",
+    "longitude": "-6.67306000"
+  },
+  {
+    "name": "Tabou",
+    "countryCode": "CI",
+    "stateCode": "BS",
+    "latitude": "4.42295000",
+    "longitude": "-7.35280000"
+  },
+  {
+    "name": "Tanda",
+    "countryCode": "CI",
+    "stateCode": "ZZ",
+    "latitude": "7.80335000",
+    "longitude": "-3.16832000"
+  },
+  {
+    "name": "Tiassalé",
+    "countryCode": "CI",
+    "stateCode": "01",
+    "latitude": "5.89839000",
+    "longitude": "-4.82293000"
+  },
+  {
+    "name": "Tonkpi",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "7.56785000",
+    "longitude": "-7.60941000"
+  },
+  {
+    "name": "Touba",
+    "countryCode": "CI",
+    "stateCode": "WR",
+    "latitude": "8.28333000",
+    "longitude": "-7.68333000"
+  },
+  {
+    "name": "Toulépleu Gueré",
+    "countryCode": "CI",
+    "stateCode": "06",
+    "latitude": "6.57395000",
+    "longitude": "-8.42592000"
+  },
+  {
+    "name": "Toumodi",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "6.55799000",
+    "longitude": "-5.01769000"
+  },
+  {
+    "name": "Vavoua",
+    "countryCode": "CI",
+    "stateCode": "SM",
+    "latitude": "7.38194000",
+    "longitude": "-6.47778000"
+  },
+  {
+    "name": "Worodougou",
+    "countryCode": "CI",
+    "stateCode": "WR",
+    "latitude": "8.16482000",
+    "longitude": "-6.66595000"
+  },
+  {
+    "name": "Yamoussoukro",
+    "countryCode": "CI",
+    "stateCode": "07",
+    "latitude": "6.82055000",
+    "longitude": "-5.27674000"
+  },
+  {
+    "name": "Zuénoula",
+    "countryCode": "CI",
+    "stateCode": "SM",
+    "latitude": "7.43027000",
+    "longitude": "-6.05054000"
+  }
+]

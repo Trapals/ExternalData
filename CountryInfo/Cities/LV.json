@@ -1,0 +1,877 @@
+[
+  {
+    "name": "Aglona",
+    "countryCode": "LV",
+    "stateCode": "001",
+    "latitude": "56.13274000",
+    "longitude": "27.00682000"
+  },
+  {
+    "name": "Ainaži",
+    "countryCode": "LV",
+    "stateCode": "086",
+    "latitude": "57.86348000",
+    "longitude": "24.35853000"
+  },
+  {
+    "name": "Aizkraukle",
+    "countryCode": "LV",
+    "stateCode": "002",
+    "latitude": "56.60477000",
+    "longitude": "25.25534000"
+  },
+  {
+    "name": "Aizpute",
+    "countryCode": "LV",
+    "stateCode": "003",
+    "latitude": "56.72108000",
+    "longitude": "21.60156000"
+  },
+  {
+    "name": "Aknīste",
+    "countryCode": "LV",
+    "stateCode": "004",
+    "latitude": "56.16152000",
+    "longitude": "25.74783000"
+  },
+  {
+    "name": "Aloja",
+    "countryCode": "LV",
+    "stateCode": "005",
+    "latitude": "57.76723000",
+    "longitude": "24.87743000"
+  },
+  {
+    "name": "Alsunga",
+    "countryCode": "LV",
+    "stateCode": "006",
+    "latitude": "56.98194000",
+    "longitude": "21.55938000"
+  },
+  {
+    "name": "Alūksne",
+    "countryCode": "LV",
+    "stateCode": "007",
+    "latitude": "57.42162000",
+    "longitude": "27.04662000"
+  },
+  {
+    "name": "Ape",
+    "countryCode": "LV",
+    "stateCode": "009",
+    "latitude": "57.53928000",
+    "longitude": "26.69291000"
+  },
+  {
+    "name": "Auce",
+    "countryCode": "LV",
+    "stateCode": "010",
+    "latitude": "56.45981000",
+    "longitude": "22.90169000"
+  },
+  {
+    "name": "Baldone",
+    "countryCode": "LV",
+    "stateCode": "013",
+    "latitude": "56.74451000",
+    "longitude": "24.40078000"
+  },
+  {
+    "name": "Baloži",
+    "countryCode": "LV",
+    "stateCode": "052",
+    "latitude": "56.87643000",
+    "longitude": "24.11825000"
+  },
+  {
+    "name": "Baltinava",
+    "countryCode": "LV",
+    "stateCode": "014",
+    "latitude": "56.94394000",
+    "longitude": "27.64401000"
+  },
+  {
+    "name": "Balvi",
+    "countryCode": "LV",
+    "stateCode": "015",
+    "latitude": "57.13130000",
+    "longitude": "27.26583000"
+  },
+  {
+    "name": "Bauska",
+    "countryCode": "LV",
+    "stateCode": "016",
+    "latitude": "56.40794000",
+    "longitude": "24.19443000"
+  },
+  {
+    "name": "Bolderaja",
+    "countryCode": "LV",
+    "stateCode": "RIX",
+    "latitude": "57.03132000",
+    "longitude": "24.05571000"
+  },
+  {
+    "name": "Brocēni",
+    "countryCode": "LV",
+    "stateCode": "018",
+    "latitude": "56.67890000",
+    "longitude": "22.56945000"
+  },
+  {
+    "name": "Carnikava",
+    "countryCode": "LV",
+    "stateCode": "020",
+    "latitude": "57.12935000",
+    "longitude": "24.28423000"
+  },
+  {
+    "name": "Cesvaine",
+    "countryCode": "LV",
+    "stateCode": "021",
+    "latitude": "56.96754000",
+    "longitude": "26.30764000"
+  },
+  {
+    "name": "Cibla",
+    "countryCode": "LV",
+    "stateCode": "023",
+    "latitude": "56.54980000",
+    "longitude": "27.88370000"
+  },
+  {
+    "name": "Cēsis",
+    "countryCode": "LV",
+    "stateCode": "022",
+    "latitude": "57.31188000",
+    "longitude": "25.27456000"
+  },
+  {
+    "name": "Dagda",
+    "countryCode": "LV",
+    "stateCode": "024",
+    "latitude": "56.09512000",
+    "longitude": "27.53723000"
+  },
+  {
+    "name": "Daugavgrīva",
+    "countryCode": "LV",
+    "stateCode": "RIX",
+    "latitude": "57.04315000",
+    "longitude": "24.03613000"
+  },
+  {
+    "name": "Daugavpils",
+    "countryCode": "LV",
+    "stateCode": "025",
+    "latitude": "55.88333000",
+    "longitude": "26.53333000"
+  },
+  {
+    "name": "Dobele",
+    "countryCode": "LV",
+    "stateCode": "026",
+    "latitude": "56.62372000",
+    "longitude": "23.27510000"
+  },
+  {
+    "name": "Dundaga",
+    "countryCode": "LV",
+    "stateCode": "027",
+    "latitude": "57.50498000",
+    "longitude": "22.35041000"
+  },
+  {
+    "name": "Engure",
+    "countryCode": "LV",
+    "stateCode": "090",
+    "latitude": "57.16061000",
+    "longitude": "23.22527000"
+  },
+  {
+    "name": "Garkalne",
+    "countryCode": "LV",
+    "stateCode": "031",
+    "latitude": "57.04486000",
+    "longitude": "24.41951000"
+  },
+  {
+    "name": "Grobiņa",
+    "countryCode": "LV",
+    "stateCode": "032",
+    "latitude": "56.53521000",
+    "longitude": "21.16782000"
+  },
+  {
+    "name": "Gulbene",
+    "countryCode": "LV",
+    "stateCode": "033",
+    "latitude": "57.17767000",
+    "longitude": "26.75291000"
+  },
+  {
+    "name": "Iecava",
+    "countryCode": "LV",
+    "stateCode": "034",
+    "latitude": "56.59766000",
+    "longitude": "24.20763000"
+  },
+  {
+    "name": "Ikšķile",
+    "countryCode": "LV",
+    "stateCode": "035",
+    "latitude": "56.83399000",
+    "longitude": "24.49679000"
+  },
+  {
+    "name": "Ilūkste",
+    "countryCode": "LV",
+    "stateCode": "036",
+    "latitude": "55.97754000",
+    "longitude": "26.29655000"
+  },
+  {
+    "name": "Inčukalns",
+    "countryCode": "LV",
+    "stateCode": "037",
+    "latitude": "57.09867000",
+    "longitude": "24.68630000"
+  },
+  {
+    "name": "Jaunaglona",
+    "countryCode": "LV",
+    "stateCode": "073",
+    "latitude": "56.16066000",
+    "longitude": "27.00714000"
+  },
+  {
+    "name": "Jaunciems",
+    "countryCode": "LV",
+    "stateCode": "RIX",
+    "latitude": "57.03910000",
+    "longitude": "24.17413000"
+  },
+  {
+    "name": "Jaunjelgava",
+    "countryCode": "LV",
+    "stateCode": "038",
+    "latitude": "56.61319000",
+    "longitude": "25.08316000"
+  },
+  {
+    "name": "Jaunpils",
+    "countryCode": "LV",
+    "stateCode": "040",
+    "latitude": "56.73137000",
+    "longitude": "23.01247000"
+  },
+  {
+    "name": "Jelgava",
+    "countryCode": "LV",
+    "stateCode": "JEL",
+    "latitude": "56.65000000",
+    "longitude": "23.71278000"
+  },
+  {
+    "name": "Jumprava",
+    "countryCode": "LV",
+    "stateCode": "067",
+    "latitude": "56.67613000",
+    "longitude": "24.97210000"
+  },
+  {
+    "name": "Jēkabpils",
+    "countryCode": "LV",
+    "stateCode": "042",
+    "latitude": "56.49903000",
+    "longitude": "25.85735000"
+  },
+  {
+    "name": "Jūrmala",
+    "countryCode": "LV",
+    "stateCode": "JUR",
+    "latitude": "56.96800000",
+    "longitude": "23.77038000"
+  },
+  {
+    "name": "Kandava",
+    "countryCode": "LV",
+    "stateCode": "043",
+    "latitude": "57.04087000",
+    "longitude": "22.77466000"
+  },
+  {
+    "name": "Karosta",
+    "countryCode": "LV",
+    "stateCode": "LPX",
+    "latitude": "56.55128000",
+    "longitude": "21.01287000"
+  },
+  {
+    "name": "Kocēni",
+    "countryCode": "LV",
+    "stateCode": "045",
+    "latitude": "57.52057000",
+    "longitude": "25.33821000"
+  },
+  {
+    "name": "Koknese",
+    "countryCode": "LV",
+    "stateCode": "046",
+    "latitude": "56.65163000",
+    "longitude": "25.43637000"
+  },
+  {
+    "name": "Krustpils",
+    "countryCode": "LV",
+    "stateCode": "042",
+    "latitude": "56.51068000",
+    "longitude": "25.86117000"
+  },
+  {
+    "name": "Krāslava",
+    "countryCode": "LV",
+    "stateCode": "047",
+    "latitude": "55.89514000",
+    "longitude": "27.16799000"
+  },
+  {
+    "name": "Kuldīga",
+    "countryCode": "LV",
+    "stateCode": "050",
+    "latitude": "56.97399000",
+    "longitude": "21.95721000"
+  },
+  {
+    "name": "Kārsava",
+    "countryCode": "LV",
+    "stateCode": "044",
+    "latitude": "56.78405000",
+    "longitude": "27.68829000"
+  },
+  {
+    "name": "Lielvārde",
+    "countryCode": "LV",
+    "stateCode": "053",
+    "latitude": "56.72066000",
+    "longitude": "24.80743000"
+  },
+  {
+    "name": "Liepāja",
+    "countryCode": "LV",
+    "stateCode": "LPX",
+    "latitude": "56.50474000",
+    "longitude": "21.01085000"
+  },
+  {
+    "name": "Lieģi",
+    "countryCode": "LV",
+    "stateCode": "028",
+    "latitude": "56.58173000",
+    "longitude": "21.33399000"
+  },
+  {
+    "name": "Limbaži",
+    "countryCode": "LV",
+    "stateCode": "054",
+    "latitude": "57.51287000",
+    "longitude": "24.71941000"
+  },
+  {
+    "name": "Lubāna",
+    "countryCode": "LV",
+    "stateCode": "057",
+    "latitude": "56.90425000",
+    "longitude": "26.71606000"
+  },
+  {
+    "name": "Ludza",
+    "countryCode": "LV",
+    "stateCode": "058",
+    "latitude": "56.53958000",
+    "longitude": "27.71891000"
+  },
+  {
+    "name": "Līgatne",
+    "countryCode": "LV",
+    "stateCode": "055",
+    "latitude": "57.23429000",
+    "longitude": "25.04059000"
+  },
+  {
+    "name": "Līvāni",
+    "countryCode": "LV",
+    "stateCode": "056",
+    "latitude": "56.35431000",
+    "longitude": "26.17579000"
+  },
+  {
+    "name": "Madona",
+    "countryCode": "LV",
+    "stateCode": "059",
+    "latitude": "56.85329000",
+    "longitude": "26.21698000"
+  },
+  {
+    "name": "Mazsalaca",
+    "countryCode": "LV",
+    "stateCode": "060",
+    "latitude": "57.86329000",
+    "longitude": "25.05475000"
+  },
+  {
+    "name": "Mežaparks",
+    "countryCode": "LV",
+    "stateCode": "RIX",
+    "latitude": "57.00008000",
+    "longitude": "24.15997000"
+  },
+  {
+    "name": "Mālpils",
+    "countryCode": "LV",
+    "stateCode": "061",
+    "latitude": "57.01010000",
+    "longitude": "24.95783000"
+  },
+  {
+    "name": "Mārupe",
+    "countryCode": "LV",
+    "stateCode": "062",
+    "latitude": "56.90544000",
+    "longitude": "24.05113000"
+  },
+  {
+    "name": "Mūrmuiža",
+    "countryCode": "LV",
+    "stateCode": "017",
+    "latitude": "57.47312000",
+    "longitude": "25.49174000"
+  },
+  {
+    "name": "Naukšēni",
+    "countryCode": "LV",
+    "stateCode": "064",
+    "latitude": "57.88349000",
+    "longitude": "25.45609000"
+  },
+  {
+    "name": "Nereta",
+    "countryCode": "LV",
+    "stateCode": "065",
+    "latitude": "56.20279000",
+    "longitude": "25.30752000"
+  },
+  {
+    "name": "Nīca",
+    "countryCode": "LV",
+    "stateCode": "066",
+    "latitude": "56.34601000",
+    "longitude": "21.06401000"
+  },
+  {
+    "name": "Ogre",
+    "countryCode": "LV",
+    "stateCode": "067",
+    "latitude": "56.81620000",
+    "longitude": "24.61401000"
+  },
+  {
+    "name": "Olaine",
+    "countryCode": "LV",
+    "stateCode": "068",
+    "latitude": "56.79472000",
+    "longitude": "23.93580000"
+  },
+  {
+    "name": "Ozolnieki",
+    "countryCode": "LV",
+    "stateCode": "069",
+    "latitude": "56.68986000",
+    "longitude": "23.77610000"
+  },
+  {
+    "name": "Pilsrundāle",
+    "countryCode": "LV",
+    "stateCode": "083",
+    "latitude": "56.41812000",
+    "longitude": "24.01625000"
+  },
+  {
+    "name": "Piltene",
+    "countryCode": "LV",
+    "stateCode": "106",
+    "latitude": "57.22426000",
+    "longitude": "21.67439000"
+  },
+  {
+    "name": "Piņķi",
+    "countryCode": "LV",
+    "stateCode": "012",
+    "latitude": "56.94189000",
+    "longitude": "23.91365000"
+  },
+  {
+    "name": "Preiļi",
+    "countryCode": "LV",
+    "stateCode": "073",
+    "latitude": "56.29444000",
+    "longitude": "26.72459000"
+  },
+  {
+    "name": "Priekule",
+    "countryCode": "LV",
+    "stateCode": "074",
+    "latitude": "56.44679000",
+    "longitude": "21.58968000"
+  },
+  {
+    "name": "Priekuļi",
+    "countryCode": "LV",
+    "stateCode": "075",
+    "latitude": "57.31500000",
+    "longitude": "25.36147000"
+  },
+  {
+    "name": "Pāvilosta",
+    "countryCode": "LV",
+    "stateCode": "071",
+    "latitude": "56.88791000",
+    "longitude": "21.18593000"
+  },
+  {
+    "name": "Pļaviņas",
+    "countryCode": "LV",
+    "stateCode": "072",
+    "latitude": "56.61780000",
+    "longitude": "25.72552000"
+  },
+  {
+    "name": "Rauna",
+    "countryCode": "LV",
+    "stateCode": "076",
+    "latitude": "57.33173000",
+    "longitude": "25.60947000"
+  },
+  {
+    "name": "Riebiņi",
+    "countryCode": "LV",
+    "stateCode": "078",
+    "latitude": "56.34280000",
+    "longitude": "26.79995000"
+  },
+  {
+    "name": "Riga",
+    "countryCode": "LV",
+    "stateCode": "RIX",
+    "latitude": "56.94600000",
+    "longitude": "24.10589000"
+  },
+  {
+    "name": "Roja",
+    "countryCode": "LV",
+    "stateCode": "079",
+    "latitude": "57.50146000",
+    "longitude": "22.80881000"
+  },
+  {
+    "name": "Ropaži",
+    "countryCode": "LV",
+    "stateCode": "080",
+    "latitude": "56.97470000",
+    "longitude": "24.63295000"
+  },
+  {
+    "name": "Rucava",
+    "countryCode": "LV",
+    "stateCode": "081",
+    "latitude": "56.16314000",
+    "longitude": "21.16156000"
+  },
+  {
+    "name": "Rugāji",
+    "countryCode": "LV",
+    "stateCode": "082",
+    "latitude": "57.00325000",
+    "longitude": "27.13371000"
+  },
+  {
+    "name": "Rēzekne",
+    "countryCode": "LV",
+    "stateCode": "REZ",
+    "latitude": "56.51028000",
+    "longitude": "27.34000000"
+  },
+  {
+    "name": "Rūjiena",
+    "countryCode": "LV",
+    "stateCode": "084",
+    "latitude": "57.89752000",
+    "longitude": "25.33155000"
+  },
+  {
+    "name": "Sabile",
+    "countryCode": "LV",
+    "stateCode": "097",
+    "latitude": "57.04577000",
+    "longitude": "22.57261000"
+  },
+  {
+    "name": "Salacgrīva",
+    "countryCode": "LV",
+    "stateCode": "086",
+    "latitude": "57.75312000",
+    "longitude": "24.35895000"
+  },
+  {
+    "name": "Salaspils",
+    "countryCode": "LV",
+    "stateCode": "087",
+    "latitude": "56.86014000",
+    "longitude": "24.36544000"
+  },
+  {
+    "name": "Saldus",
+    "countryCode": "LV",
+    "stateCode": "088",
+    "latitude": "56.66363000",
+    "longitude": "22.48807000"
+  },
+  {
+    "name": "Saulkrasti",
+    "countryCode": "LV",
+    "stateCode": "089",
+    "latitude": "57.26224000",
+    "longitude": "24.41471000"
+  },
+  {
+    "name": "Seda",
+    "countryCode": "LV",
+    "stateCode": "096",
+    "latitude": "57.65042000",
+    "longitude": "25.75089000"
+  },
+  {
+    "name": "Sigulda",
+    "countryCode": "LV",
+    "stateCode": "091",
+    "latitude": "57.15375000",
+    "longitude": "24.85953000"
+  },
+  {
+    "name": "Skrunda",
+    "countryCode": "LV",
+    "stateCode": "093",
+    "latitude": "56.67749000",
+    "longitude": "22.01649000"
+  },
+  {
+    "name": "Skrīveri",
+    "countryCode": "LV",
+    "stateCode": "092",
+    "latitude": "56.64500000",
+    "longitude": "25.12058000"
+  },
+  {
+    "name": "Smiltene",
+    "countryCode": "LV",
+    "stateCode": "094",
+    "latitude": "57.42444000",
+    "longitude": "25.90164000"
+  },
+  {
+    "name": "Smārde",
+    "countryCode": "LV",
+    "stateCode": "029",
+    "latitude": "56.95420000",
+    "longitude": "23.33736000"
+  },
+  {
+    "name": "Staicele",
+    "countryCode": "LV",
+    "stateCode": "005",
+    "latitude": "57.83579000",
+    "longitude": "24.74706000"
+  },
+  {
+    "name": "Stalbe",
+    "countryCode": "LV",
+    "stateCode": "070",
+    "latitude": "57.37065000",
+    "longitude": "25.03106000"
+  },
+  {
+    "name": "Stende",
+    "countryCode": "LV",
+    "stateCode": "097",
+    "latitude": "57.14497000",
+    "longitude": "22.53482000"
+  },
+  {
+    "name": "Strenči",
+    "countryCode": "LV",
+    "stateCode": "096",
+    "latitude": "57.62574000",
+    "longitude": "25.68535000"
+  },
+  {
+    "name": "Talsi",
+    "countryCode": "LV",
+    "stateCode": "097",
+    "latitude": "57.24562000",
+    "longitude": "22.58137000"
+  },
+  {
+    "name": "Tukums",
+    "countryCode": "LV",
+    "stateCode": "090",
+    "latitude": "56.96764000",
+    "longitude": "23.15554000"
+  },
+  {
+    "name": "Tērvete",
+    "countryCode": "LV",
+    "stateCode": "098",
+    "latitude": "56.47989000",
+    "longitude": "23.38895000"
+  },
+  {
+    "name": "Tīreļi",
+    "countryCode": "LV",
+    "stateCode": "041",
+    "latitude": "56.83991000",
+    "longitude": "23.58902000"
+  },
+  {
+    "name": "Ulbroka",
+    "countryCode": "LV",
+    "stateCode": "095",
+    "latitude": "56.93630000",
+    "longitude": "24.30387000"
+  },
+  {
+    "name": "Vaiņode",
+    "countryCode": "LV",
+    "stateCode": "100",
+    "latitude": "56.41848000",
+    "longitude": "21.85405000"
+  },
+  {
+    "name": "Valdemārpils",
+    "countryCode": "LV",
+    "stateCode": "097",
+    "latitude": "57.37068000",
+    "longitude": "22.59188000"
+  },
+  {
+    "name": "Valka",
+    "countryCode": "LV",
+    "stateCode": "101",
+    "latitude": "57.77520000",
+    "longitude": "26.01013000"
+  },
+  {
+    "name": "Valmiera",
+    "countryCode": "LV",
+    "stateCode": "VMR",
+    "latitude": "57.54108000",
+    "longitude": "25.42751000"
+  },
+  {
+    "name": "Vangaži",
+    "countryCode": "LV",
+    "stateCode": "037",
+    "latitude": "57.09358000",
+    "longitude": "24.54468000"
+  },
+  {
+    "name": "Varakļāni",
+    "countryCode": "LV",
+    "stateCode": "102",
+    "latitude": "56.60826000",
+    "longitude": "26.75377000"
+  },
+  {
+    "name": "Vecpiebalga",
+    "countryCode": "LV",
+    "stateCode": "104",
+    "latitude": "57.06090000",
+    "longitude": "25.81624000"
+  },
+  {
+    "name": "Vecumnieki",
+    "countryCode": "LV",
+    "stateCode": "105",
+    "latitude": "56.60608000",
+    "longitude": "24.52232000"
+  },
+  {
+    "name": "Vecvārkava",
+    "countryCode": "LV",
+    "stateCode": "103",
+    "latitude": "56.19838000",
+    "longitude": "26.50811000"
+  },
+  {
+    "name": "Ventspils",
+    "countryCode": "LV",
+    "stateCode": "VEN",
+    "latitude": "57.38988000",
+    "longitude": "21.57288000"
+  },
+  {
+    "name": "Viesīte",
+    "countryCode": "LV",
+    "stateCode": "107",
+    "latitude": "56.34751000",
+    "longitude": "25.55514000"
+  },
+  {
+    "name": "Viļaka",
+    "countryCode": "LV",
+    "stateCode": "108",
+    "latitude": "57.18458000",
+    "longitude": "27.67220000"
+  },
+  {
+    "name": "Viļāni",
+    "countryCode": "LV",
+    "stateCode": "109",
+    "latitude": "56.55253000",
+    "longitude": "26.92449000"
+  },
+  {
+    "name": "Zelmeņi",
+    "countryCode": "LV",
+    "stateCode": "098",
+    "latitude": "56.45167000",
+    "longitude": "23.35194000"
+  },
+  {
+    "name": "Zilupe",
+    "countryCode": "LV",
+    "stateCode": "110",
+    "latitude": "56.38616000",
+    "longitude": "28.12165000"
+  },
+  {
+    "name": "Ērgļi",
+    "countryCode": "LV",
+    "stateCode": "030",
+    "latitude": "56.89752000",
+    "longitude": "25.63668000"
+  },
+  {
+    "name": "Ķegums",
+    "countryCode": "LV",
+    "stateCode": "051",
+    "latitude": "56.74510000",
+    "longitude": "24.72439000"
+  },
+  {
+    "name": "Ķekava",
+    "countryCode": "LV",
+    "stateCode": "052",
+    "latitude": "56.82662000",
+    "longitude": "24.23000000"
+  }
+]

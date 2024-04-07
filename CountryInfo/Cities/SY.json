@@ -1,0 +1,996 @@
+[
+  {
+    "name": "Ad Darbāsīyah",
+    "countryCode": "SY",
+    "stateCode": "HA",
+    "latitude": "37.07279000",
+    "longitude": "40.65199000"
+  },
+  {
+    "name": "Ad Duraykīsh",
+    "countryCode": "SY",
+    "stateCode": "TA",
+    "latitude": "34.89514000",
+    "longitude": "36.14303000"
+  },
+  {
+    "name": "Ad Dānā",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "36.21254000",
+    "longitude": "36.76998000"
+  },
+  {
+    "name": "Afrin District",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.54891000",
+    "longitude": "36.79295000"
+  },
+  {
+    "name": "Al Atārib",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.13907000",
+    "longitude": "36.82504000"
+  },
+  {
+    "name": "Al Bāb",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.37051000",
+    "longitude": "37.51570000"
+  },
+  {
+    "name": "Al Ghanţū",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.82202000",
+    "longitude": "36.69613000"
+  },
+  {
+    "name": "Al Kiswah",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.35810000",
+    "longitude": "36.24190000"
+  },
+  {
+    "name": "Al Mayādīn",
+    "countryCode": "SY",
+    "stateCode": "DY",
+    "latitude": "35.01982000",
+    "longitude": "40.45154000"
+  },
+  {
+    "name": "Al Muzayrīb",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.71084000",
+    "longitude": "36.02751000"
+  },
+  {
+    "name": "Al Mālikīyah",
+    "countryCode": "SY",
+    "stateCode": "HA",
+    "latitude": "37.17701000",
+    "longitude": "42.14006000"
+  },
+  {
+    "name": "Al Qaryatayn",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.22956000",
+    "longitude": "37.24066000"
+  },
+  {
+    "name": "Al Qunayţirah",
+    "countryCode": "SY",
+    "stateCode": "QU",
+    "latitude": "33.12595000",
+    "longitude": "35.82461000"
+  },
+  {
+    "name": "Al Quşayr",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.50780000",
+    "longitude": "36.58029000"
+  },
+  {
+    "name": "Al Quţayfah",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.73848000",
+    "longitude": "36.60071000"
+  },
+  {
+    "name": "Al Qāmishlī",
+    "countryCode": "SY",
+    "stateCode": "HA",
+    "latitude": "37.05215000",
+    "longitude": "41.23142000"
+  },
+  {
+    "name": "Al Ḩarāk",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.74932000",
+    "longitude": "36.30994000"
+  },
+  {
+    "name": "Al Ḩasakah",
+    "countryCode": "SY",
+    "stateCode": "HA",
+    "latitude": "36.50237000",
+    "longitude": "40.74772000"
+  },
+  {
+    "name": "Al-Bab District",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.30946000",
+    "longitude": "37.53277000"
+  },
+  {
+    "name": "Al-Haffah District",
+    "countryCode": "SY",
+    "stateCode": "LA",
+    "latitude": "35.59687000",
+    "longitude": "36.11198000"
+  },
+  {
+    "name": "Al-Malikiyah District",
+    "countryCode": "SY",
+    "stateCode": "HA",
+    "latitude": "36.94113000",
+    "longitude": "41.90157000"
+  },
+  {
+    "name": "Al-Rastan District",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.87100000",
+    "longitude": "36.77245000"
+  },
+  {
+    "name": "Al-Salamiyah District",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.14398000",
+    "longitude": "37.59235000"
+  },
+  {
+    "name": "Al-Sanamayn District",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "33.12559000",
+    "longitude": "36.27540000"
+  },
+  {
+    "name": "Al-Thawrah District",
+    "countryCode": "SY",
+    "stateCode": "RA",
+    "latitude": "35.79843000",
+    "longitude": "38.34550000"
+  },
+  {
+    "name": "Al-Zabadani District",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.70819000",
+    "longitude": "36.11198000"
+  },
+  {
+    "name": "Aleppo",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.20124000",
+    "longitude": "37.16117000"
+  },
+  {
+    "name": "Amude",
+    "countryCode": "SY",
+    "stateCode": "HA",
+    "latitude": "37.10417000",
+    "longitude": "40.93000000"
+  },
+  {
+    "name": "An Nabk",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "34.02403000",
+    "longitude": "36.72848000"
+  },
+  {
+    "name": "Ar Raqqah",
+    "countryCode": "SY",
+    "stateCode": "RA",
+    "latitude": "35.95283000",
+    "longitude": "39.00788000"
+  },
+  {
+    "name": "Ar Rastan",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.92667000",
+    "longitude": "36.73241000"
+  },
+  {
+    "name": "Ar-Raqqah District",
+    "countryCode": "SY",
+    "stateCode": "RA",
+    "latitude": "35.87204000",
+    "longitude": "39.04706000"
+  },
+  {
+    "name": "Armanāz",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "36.08363000",
+    "longitude": "36.50310000"
+  },
+  {
+    "name": "Arīḩā",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.81374000",
+    "longitude": "36.60964000"
+  },
+  {
+    "name": "As Safīrah",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.07696000",
+    "longitude": "37.37251000"
+  },
+  {
+    "name": "As Salamīyah",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.01127000",
+    "longitude": "37.05324000"
+  },
+  {
+    "name": "As Suqaylibīyah",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.36674000",
+    "longitude": "36.39359000"
+  },
+  {
+    "name": "As-Suwayda",
+    "countryCode": "SY",
+    "stateCode": "SU",
+    "latitude": "32.70896000",
+    "longitude": "36.56951000"
+  },
+  {
+    "name": "As-Suwayda District",
+    "countryCode": "SY",
+    "stateCode": "SU",
+    "latitude": "32.78127000",
+    "longitude": "36.86502000"
+  },
+  {
+    "name": "Ash Shaykh Miskīn",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.82944000",
+    "longitude": "36.15933000"
+  },
+  {
+    "name": "At Tall",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.61033000",
+    "longitude": "36.31070000"
+  },
+  {
+    "name": "Ath Thawrah",
+    "countryCode": "SY",
+    "stateCode": "RA",
+    "latitude": "35.83758000",
+    "longitude": "38.54828000"
+  },
+  {
+    "name": "Az Zabadānī",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.72488000",
+    "longitude": "36.10050000"
+  },
+  {
+    "name": "Azaz District",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.49986000",
+    "longitude": "37.18382000"
+  },
+  {
+    "name": "Aş Şanamayn",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "33.07186000",
+    "longitude": "36.18316000"
+  },
+  {
+    "name": "Binnish",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.95664000",
+    "longitude": "36.71380000"
+  },
+  {
+    "name": "Buşrá ash Shām",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.52013000",
+    "longitude": "36.48256000"
+  },
+  {
+    "name": "Bāniyās",
+    "countryCode": "SY",
+    "stateCode": "TA",
+    "latitude": "35.18188000",
+    "longitude": "35.94871000"
+  },
+  {
+    "name": "Damascus",
+    "countryCode": "SY",
+    "stateCode": "DI",
+    "latitude": "33.51020000",
+    "longitude": "36.29128000"
+  },
+  {
+    "name": "Darkūsh",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.99180000",
+    "longitude": "36.39361000"
+  },
+  {
+    "name": "Dar‘ā",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.61889000",
+    "longitude": "36.10213000"
+  },
+  {
+    "name": "Dayr al ‘Aşāfīr",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.46585000",
+    "longitude": "36.42044000"
+  },
+  {
+    "name": "Dayr Ḩāfir",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.15694000",
+    "longitude": "37.70778000"
+  },
+  {
+    "name": "Deir ez-Zor",
+    "countryCode": "SY",
+    "stateCode": "DY",
+    "latitude": "35.33588000",
+    "longitude": "40.14084000"
+  },
+  {
+    "name": "Douma",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.57175000",
+    "longitude": "36.40270000"
+  },
+  {
+    "name": "Dārayyā",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.45835000",
+    "longitude": "36.23256000"
+  },
+  {
+    "name": "Ghabāghib",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "33.18235000",
+    "longitude": "36.22534000"
+  },
+  {
+    "name": "Hajīn",
+    "countryCode": "SY",
+    "stateCode": "DY",
+    "latitude": "34.69508000",
+    "longitude": "40.83138000"
+  },
+  {
+    "name": "Hama District",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.28577000",
+    "longitude": "37.12626000"
+  },
+  {
+    "name": "Harem District",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "36.14014000",
+    "longitude": "36.56535000"
+  },
+  {
+    "name": "Hisya",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.41197000",
+    "longitude": "36.75867000"
+  },
+  {
+    "name": "Homs",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.72682000",
+    "longitude": "36.72339000"
+  },
+  {
+    "name": "Idlib",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.93062000",
+    "longitude": "36.63393000"
+  },
+  {
+    "name": "Inkhil",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "33.01809000",
+    "longitude": "36.12828000"
+  },
+  {
+    "name": "Izra District",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.90121000",
+    "longitude": "36.16144000"
+  },
+  {
+    "name": "Izra‘",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.87060000",
+    "longitude": "36.25453000"
+  },
+  {
+    "name": "I‘zāz",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.58662000",
+    "longitude": "37.04628000"
+  },
+  {
+    "name": "Jablah",
+    "countryCode": "SY",
+    "stateCode": "LA",
+    "latitude": "35.36211000",
+    "longitude": "35.92759000"
+  },
+  {
+    "name": "Jableh District",
+    "countryCode": "SY",
+    "stateCode": "LA",
+    "latitude": "35.29048000",
+    "longitude": "36.04490000"
+  },
+  {
+    "name": "Jaramānā",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.48620000",
+    "longitude": "36.34614000"
+  },
+  {
+    "name": "Jarābulus",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.81750000",
+    "longitude": "38.01111000"
+  },
+  {
+    "name": "Jayrūd",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.80709000",
+    "longitude": "36.73861000"
+  },
+  {
+    "name": "Jisr al-Shughur District",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.87756000",
+    "longitude": "36.32901000"
+  },
+  {
+    "name": "Jisr ash Shughūr",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.81418000",
+    "longitude": "36.31983000"
+  },
+  {
+    "name": "Jāsim",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.99233000",
+    "longitude": "36.06018000"
+  },
+  {
+    "name": "Kaff al-Jaa",
+    "countryCode": "SY",
+    "stateCode": "TA",
+    "latitude": "35.08638000",
+    "longitude": "36.20605000"
+  },
+  {
+    "name": "Kafr Lāhā",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.89469000",
+    "longitude": "36.49582000"
+  },
+  {
+    "name": "Kafr Takhārīm",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "36.11680000",
+    "longitude": "36.51522000"
+  },
+  {
+    "name": "Kafr Zaytā",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.37425000",
+    "longitude": "36.60330000"
+  },
+  {
+    "name": "Kafr Şaghīr",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.29264000",
+    "longitude": "37.25590000"
+  },
+  {
+    "name": "Kafranbel",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.61376000",
+    "longitude": "36.56449000"
+  },
+  {
+    "name": "Kassab",
+    "countryCode": "SY",
+    "stateCode": "LA",
+    "latitude": "35.92639000",
+    "longitude": "35.98970000"
+  },
+  {
+    "name": "Khanāşir",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "35.78159000",
+    "longitude": "37.49919000"
+  },
+  {
+    "name": "Khān Shaykhūn",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.44208000",
+    "longitude": "36.65095000"
+  },
+  {
+    "name": "Latakia",
+    "countryCode": "SY",
+    "stateCode": "LA",
+    "latitude": "35.53168000",
+    "longitude": "35.79011000"
+  },
+  {
+    "name": "Latakia District",
+    "countryCode": "SY",
+    "stateCode": "LA",
+    "latitude": "35.72426000",
+    "longitude": "35.94150000"
+  },
+  {
+    "name": "Maarrat al-Nu'man District",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.53858000",
+    "longitude": "36.79193000"
+  },
+  {
+    "name": "Manbij",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.52815000",
+    "longitude": "37.95495000"
+  },
+  {
+    "name": "Manbij District",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.06687000",
+    "longitude": "37.91735000"
+  },
+  {
+    "name": "Masyaf District",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.10335000",
+    "longitude": "36.33920000"
+  },
+  {
+    "name": "Maşyāf",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.06530000",
+    "longitude": "36.34060000"
+  },
+  {
+    "name": "Ma‘arratmişrīn",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "36.01152000",
+    "longitude": "36.67183000"
+  },
+  {
+    "name": "Ma‘lūlā",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.84529000",
+    "longitude": "36.54514000"
+  },
+  {
+    "name": "Medaya",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.69032000",
+    "longitude": "36.10354000"
+  },
+  {
+    "name": "Mount Simeon District",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "35.99956000",
+    "longitude": "37.08473000"
+  },
+  {
+    "name": "Mukharram al Fawqānī",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.81521000",
+    "longitude": "37.08677000"
+  },
+  {
+    "name": "Mūrak",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.37615000",
+    "longitude": "36.68970000"
+  },
+  {
+    "name": "Nawá",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.89044000",
+    "longitude": "36.03990000"
+  },
+  {
+    "name": "Nubl",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.37867000",
+    "longitude": "36.99294000"
+  },
+  {
+    "name": "Qardaha District",
+    "countryCode": "SY",
+    "stateCode": "LA",
+    "latitude": "35.39593000",
+    "longitude": "36.08603000"
+  },
+  {
+    "name": "Qaţanā",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.43757000",
+    "longitude": "36.07888000"
+  },
+  {
+    "name": "Qārah",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "34.15558000",
+    "longitude": "36.74284000"
+  },
+  {
+    "name": "Safita District",
+    "countryCode": "SY",
+    "stateCode": "TA",
+    "latitude": "34.80419000",
+    "longitude": "36.12293000"
+  },
+  {
+    "name": "Salkhad District",
+    "countryCode": "SY",
+    "stateCode": "SU",
+    "latitude": "32.51779000",
+    "longitude": "36.91954000"
+  },
+  {
+    "name": "Salqīn",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "36.13865000",
+    "longitude": "36.45244000"
+  },
+  {
+    "name": "Sarmīn",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.90403000",
+    "longitude": "36.72501000"
+  },
+  {
+    "name": "Sarāqib",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.86447000",
+    "longitude": "36.80591000"
+  },
+  {
+    "name": "Satita",
+    "countryCode": "SY",
+    "stateCode": "TA",
+    "latitude": "34.82099000",
+    "longitude": "36.11773000"
+  },
+  {
+    "name": "Shahba District",
+    "countryCode": "SY",
+    "stateCode": "SU",
+    "latitude": "33.04282000",
+    "longitude": "36.72034000"
+  },
+  {
+    "name": "Shahbā",
+    "countryCode": "SY",
+    "stateCode": "SU",
+    "latitude": "32.85514000",
+    "longitude": "36.62896000"
+  },
+  {
+    "name": "Souran",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.29193000",
+    "longitude": "36.74848000"
+  },
+  {
+    "name": "Subaykhān",
+    "countryCode": "SY",
+    "stateCode": "DY",
+    "latitude": "34.85305000",
+    "longitude": "40.59987000"
+  },
+  {
+    "name": "Tadmur",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.56240000",
+    "longitude": "38.28402000"
+  },
+  {
+    "name": "Tadmur District",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.42401000",
+    "longitude": "38.64580000"
+  },
+  {
+    "name": "Taftanāz",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "35.99832000",
+    "longitude": "36.78579000"
+  },
+  {
+    "name": "Tall Abyaḑ",
+    "countryCode": "SY",
+    "stateCode": "RA",
+    "latitude": "36.69648000",
+    "longitude": "38.95382000"
+  },
+  {
+    "name": "Tall Rif‘at",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.47229000",
+    "longitude": "37.09471000"
+  },
+  {
+    "name": "Tall Salḩab",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.25884000",
+    "longitude": "36.38461000"
+  },
+  {
+    "name": "Tallbīsah",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.84072000",
+    "longitude": "36.73092000"
+  },
+  {
+    "name": "Tallkalakh",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.66842000",
+    "longitude": "36.25995000"
+  },
+  {
+    "name": "Tartouss",
+    "countryCode": "SY",
+    "stateCode": "TA",
+    "latitude": "34.88902000",
+    "longitude": "35.88659000"
+  },
+  {
+    "name": "Tasīl",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.83395000",
+    "longitude": "35.96973000"
+  },
+  {
+    "name": "Tell Abyad District",
+    "countryCode": "SY",
+    "stateCode": "RA",
+    "latitude": "36.48280000",
+    "longitude": "39.21360000"
+  },
+  {
+    "name": "Tremseh",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.27181000",
+    "longitude": "36.50395000"
+  },
+  {
+    "name": "Tādif",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.34814000",
+    "longitude": "37.53090000"
+  },
+  {
+    "name": "Yabrūd",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.96921000",
+    "longitude": "36.65729000"
+  },
+  {
+    "name": "Ālbū Kamāl",
+    "countryCode": "SY",
+    "stateCode": "DY",
+    "latitude": "34.45226000",
+    "longitude": "40.91854000"
+  },
+  {
+    "name": "Şadad",
+    "countryCode": "SY",
+    "stateCode": "HI",
+    "latitude": "34.31248000",
+    "longitude": "36.92562000"
+  },
+  {
+    "name": "Şalkhad",
+    "countryCode": "SY",
+    "stateCode": "SU",
+    "latitude": "32.49200000",
+    "longitude": "36.71114000"
+  },
+  {
+    "name": "Şalākhid",
+    "countryCode": "SY",
+    "stateCode": "SU",
+    "latitude": "32.87271000",
+    "longitude": "36.57271000"
+  },
+  {
+    "name": "Şaydnāyā",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.69473000",
+    "longitude": "36.37146000"
+  },
+  {
+    "name": "Şlinfah",
+    "countryCode": "SY",
+    "stateCode": "LA",
+    "latitude": "35.59822000",
+    "longitude": "36.18770000"
+  },
+  {
+    "name": "Şūrān",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.56579000",
+    "longitude": "37.21270000"
+  },
+  {
+    "name": "Ţafas",
+    "countryCode": "SY",
+    "stateCode": "DR",
+    "latitude": "32.73709000",
+    "longitude": "36.06654000"
+  },
+  {
+    "name": "Ţayyibat al Imām",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.26592000",
+    "longitude": "36.71219000"
+  },
+  {
+    "name": "Ḩalfāyā",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.26014000",
+    "longitude": "36.60581000"
+  },
+  {
+    "name": "Ḩamāh",
+    "countryCode": "SY",
+    "stateCode": "HM",
+    "latitude": "35.13179000",
+    "longitude": "36.75783000"
+  },
+  {
+    "name": "Ḩarastā",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.55869000",
+    "longitude": "36.36515000"
+  },
+  {
+    "name": "Ḩārim",
+    "countryCode": "SY",
+    "stateCode": "ID",
+    "latitude": "36.21176000",
+    "longitude": "36.52078000"
+  },
+  {
+    "name": "‘Afrīn",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.51194000",
+    "longitude": "36.86954000"
+  },
+  {
+    "name": "‘Ayn al ‘Arab",
+    "countryCode": "SY",
+    "stateCode": "HL",
+    "latitude": "36.89095000",
+    "longitude": "38.35347000"
+  },
+  {
+    "name": "‘Irbīn",
+    "countryCode": "SY",
+    "stateCode": "RD",
+    "latitude": "33.53719000",
+    "longitude": "36.36635000"
+  }
+]

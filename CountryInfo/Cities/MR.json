@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Aioun",
+    "countryCode": "MR",
+    "stateCode": "02",
+    "latitude": "16.66140000",
+    "longitude": "-9.61490000"
+  },
+  {
+    "name": "Akjoujt",
+    "countryCode": "MR",
+    "stateCode": "12",
+    "latitude": "19.74657000",
+    "longitude": "-14.38531000"
+  },
+  {
+    "name": "Aleg",
+    "countryCode": "MR",
+    "stateCode": "05",
+    "latitude": "17.05314000",
+    "longitude": "-13.91312000"
+  },
+  {
+    "name": "Atar",
+    "countryCode": "MR",
+    "stateCode": "07",
+    "latitude": "20.51770000",
+    "longitude": "-13.04857000"
+  },
+  {
+    "name": "Barkéwol",
+    "countryCode": "MR",
+    "stateCode": "03",
+    "latitude": "16.64039000",
+    "longitude": "-12.49849000"
+  },
+  {
+    "name": "Chingueṭṭi",
+    "countryCode": "MR",
+    "stateCode": "07",
+    "latitude": "20.46300000",
+    "longitude": "-12.36200000"
+  },
+  {
+    "name": "Kaédi",
+    "countryCode": "MR",
+    "stateCode": "04",
+    "latitude": "16.15027000",
+    "longitude": "-13.50370000"
+  },
+  {
+    "name": "Kiffa",
+    "countryCode": "MR",
+    "stateCode": "03",
+    "latitude": "16.62073000",
+    "longitude": "-11.40208000"
+  },
+  {
+    "name": "Nouadhibou",
+    "countryCode": "MR",
+    "stateCode": "08",
+    "latitude": "20.94188000",
+    "longitude": "-17.03842000"
+  },
+  {
+    "name": "Néma",
+    "countryCode": "MR",
+    "stateCode": "01",
+    "latitude": "16.61702000",
+    "longitude": "-7.25649000"
+  },
+  {
+    "name": "Rosso",
+    "countryCode": "MR",
+    "stateCode": "06",
+    "latitude": "16.51378000",
+    "longitude": "-15.80503000"
+  },
+  {
+    "name": "Sélibaby",
+    "countryCode": "MR",
+    "stateCode": "10",
+    "latitude": "15.15846000",
+    "longitude": "-12.18430000"
+  },
+  {
+    "name": "Tékane",
+    "countryCode": "MR",
+    "stateCode": "06",
+    "latitude": "16.60175000",
+    "longitude": "-15.34866000"
+  },
+  {
+    "name": "Zouerate",
+    "countryCode": "MR",
+    "stateCode": "11",
+    "latitude": "22.73542000",
+    "longitude": "-12.47134000"
+  },
+  {
+    "name": "’Elb el Jmel",
+    "countryCode": "MR",
+    "stateCode": "05",
+    "latitude": "17.01050000",
+    "longitude": "-13.97102000"
+  }
+]

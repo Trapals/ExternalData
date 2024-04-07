@@ -1,0 +1,1248 @@
+[
+  {
+    "name": "Agdzhabedy",
+    "countryCode": "AZ",
+    "stateCode": "AGC",
+    "latitude": "40.05015000",
+    "longitude": "47.45937000"
+  },
+  {
+    "name": "Aghstafa",
+    "countryCode": "AZ",
+    "stateCode": "AGA",
+    "latitude": "41.11889000",
+    "longitude": "45.45389000"
+  },
+  {
+    "name": "Aghsu",
+    "countryCode": "AZ",
+    "stateCode": "AGU",
+    "latitude": "40.57028000",
+    "longitude": "48.40087000"
+  },
+  {
+    "name": "Aliabad",
+    "countryCode": "AZ",
+    "stateCode": "ZAQ",
+    "latitude": "41.48290000",
+    "longitude": "46.63483000"
+  },
+  {
+    "name": "Altıağac",
+    "countryCode": "AZ",
+    "stateCode": "XIZ",
+    "latitude": "40.85785000",
+    "longitude": "48.93540000"
+  },
+  {
+    "name": "Amirdzhan",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.42639000",
+    "longitude": "49.98361000"
+  },
+  {
+    "name": "Aran",
+    "countryCode": "AZ",
+    "stateCode": "YEV",
+    "latitude": "40.62528000",
+    "longitude": "46.97556000"
+  },
+  {
+    "name": "Arıqdam",
+    "countryCode": "AZ",
+    "stateCode": "GAD",
+    "latitude": "40.59313000",
+    "longitude": "45.79900000"
+  },
+  {
+    "name": "Arıqıran",
+    "countryCode": "AZ",
+    "stateCode": "GAD",
+    "latitude": "40.53971000",
+    "longitude": "45.61414000"
+  },
+  {
+    "name": "Askyaran",
+    "countryCode": "AZ",
+    "stateCode": "XCI",
+    "latitude": "39.93910000",
+    "longitude": "46.83161000"
+  },
+  {
+    "name": "Astara",
+    "countryCode": "AZ",
+    "stateCode": "AST",
+    "latitude": "38.45598000",
+    "longitude": "48.87498000"
+  },
+  {
+    "name": "Avşar",
+    "countryCode": "AZ",
+    "stateCode": "AGC",
+    "latitude": "39.97389000",
+    "longitude": "47.42389000"
+  },
+  {
+    "name": "Ağdam",
+    "countryCode": "AZ",
+    "stateCode": "AGM",
+    "latitude": "39.99096000",
+    "longitude": "46.92736000"
+  },
+  {
+    "name": "Ağdaş",
+    "countryCode": "AZ",
+    "stateCode": "AGS",
+    "latitude": "40.64699000",
+    "longitude": "47.47380000"
+  },
+  {
+    "name": "Badamdar",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.34024000",
+    "longitude": "49.80450000"
+  },
+  {
+    "name": "Baku",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.37767000",
+    "longitude": "49.89201000"
+  },
+  {
+    "name": "Bakıxanov",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.41894000",
+    "longitude": "49.96693000"
+  },
+  {
+    "name": "Balakhani",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.46344000",
+    "longitude": "49.91893000"
+  },
+  {
+    "name": "Barda",
+    "countryCode": "AZ",
+    "stateCode": "BAR",
+    "latitude": "40.37577000",
+    "longitude": "47.12619000"
+  },
+  {
+    "name": "Basqal",
+    "countryCode": "AZ",
+    "stateCode": "ISM",
+    "latitude": "40.75520000",
+    "longitude": "48.39104000"
+  },
+  {
+    "name": "Baş Göynük",
+    "countryCode": "AZ",
+    "stateCode": "SAK",
+    "latitude": "41.32582000",
+    "longitude": "47.11357000"
+  },
+  {
+    "name": "Belokany",
+    "countryCode": "AZ",
+    "stateCode": "BAL",
+    "latitude": "41.72626000",
+    "longitude": "46.40478000"
+  },
+  {
+    "name": "Beylagan",
+    "countryCode": "AZ",
+    "stateCode": "BEY",
+    "latitude": "39.77556000",
+    "longitude": "47.61861000"
+  },
+  {
+    "name": "Bilajari",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.44440000",
+    "longitude": "49.80566000"
+  },
+  {
+    "name": "Bilajer",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.56441000",
+    "longitude": "50.04002000"
+  },
+  {
+    "name": "Binagadi",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.46602000",
+    "longitude": "49.82783000"
+  },
+  {
+    "name": "Biny Selo",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.45076000",
+    "longitude": "50.08686000"
+  },
+  {
+    "name": "Birinci Aşıqlı",
+    "countryCode": "AZ",
+    "stateCode": "BEY",
+    "latitude": "39.81917000",
+    "longitude": "47.67944000"
+  },
+  {
+    "name": "Boradigah",
+    "countryCode": "AZ",
+    "stateCode": "MAS",
+    "latitude": "38.93013000",
+    "longitude": "48.70920000"
+  },
+  {
+    "name": "Buzovna",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.51903000",
+    "longitude": "50.11438000"
+  },
+  {
+    "name": "Böyük Qaramurad",
+    "countryCode": "AZ",
+    "stateCode": "GAD",
+    "latitude": "40.57626000",
+    "longitude": "45.63727000"
+  },
+  {
+    "name": "Cahri",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.34837000",
+    "longitude": "45.41557000"
+  },
+  {
+    "name": "Ceyranbatan",
+    "countryCode": "AZ",
+    "stateCode": "ABS",
+    "latitude": "40.54194000",
+    "longitude": "49.66073000"
+  },
+  {
+    "name": "Corat",
+    "countryCode": "AZ",
+    "stateCode": "SM",
+    "latitude": "40.57176000",
+    "longitude": "49.70509000"
+  },
+  {
+    "name": "Culfa",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "38.95397000",
+    "longitude": "45.62961000"
+  },
+  {
+    "name": "Deste",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "38.88375000",
+    "longitude": "45.90963000"
+  },
+  {
+    "name": "Digah",
+    "countryCode": "AZ",
+    "stateCode": "ABS",
+    "latitude": "40.49257000",
+    "longitude": "49.87477000"
+  },
+  {
+    "name": "Divichibazar",
+    "countryCode": "AZ",
+    "stateCode": "SBN",
+    "latitude": "41.20117000",
+    "longitude": "48.98712000"
+  },
+  {
+    "name": "Dolyar",
+    "countryCode": "AZ",
+    "stateCode": "SKR",
+    "latitude": "40.86278000",
+    "longitude": "46.03493000"
+  },
+  {
+    "name": "Dondar Quşçu",
+    "countryCode": "AZ",
+    "stateCode": "TOV",
+    "latitude": "40.95390000",
+    "longitude": "45.61942000"
+  },
+  {
+    "name": "Dzagam",
+    "countryCode": "AZ",
+    "stateCode": "SKR",
+    "latitude": "40.90330000",
+    "longitude": "45.88564000"
+  },
+  {
+    "name": "Dünyamalılar",
+    "countryCode": "AZ",
+    "stateCode": "BEY",
+    "latitude": "39.77278000",
+    "longitude": "47.75889000"
+  },
+  {
+    "name": "Faldarlı",
+    "countryCode": "AZ",
+    "stateCode": "ZAQ",
+    "latitude": "41.46868000",
+    "longitude": "46.51579000"
+  },
+  {
+    "name": "Fizuli",
+    "countryCode": "AZ",
+    "stateCode": "FUZ",
+    "latitude": "39.60094000",
+    "longitude": "47.14529000"
+  },
+  {
+    "name": "Ganja",
+    "countryCode": "AZ",
+    "stateCode": "GA",
+    "latitude": "40.68278000",
+    "longitude": "46.36056000"
+  },
+  {
+    "name": "Geoktschai",
+    "countryCode": "AZ",
+    "stateCode": "GOY",
+    "latitude": "40.65055000",
+    "longitude": "47.74219000"
+  },
+  {
+    "name": "Gilgilçay",
+    "countryCode": "AZ",
+    "stateCode": "SIY",
+    "latitude": "41.13932000",
+    "longitude": "49.09038000"
+  },
+  {
+    "name": "Goranboy",
+    "countryCode": "AZ",
+    "stateCode": "GOR",
+    "latitude": "40.61028000",
+    "longitude": "46.78972000"
+  },
+  {
+    "name": "Gyuzdek",
+    "countryCode": "AZ",
+    "stateCode": "ABS",
+    "latitude": "40.37444000",
+    "longitude": "49.68194000"
+  },
+  {
+    "name": "Hacı Zeynalabdin",
+    "countryCode": "AZ",
+    "stateCode": "SM",
+    "latitude": "40.62333000",
+    "longitude": "49.55861000"
+  },
+  {
+    "name": "Hacıhüseynli",
+    "countryCode": "AZ",
+    "stateCode": "QBA",
+    "latitude": "41.45639000",
+    "longitude": "48.64889000"
+  },
+  {
+    "name": "Hacıqabul",
+    "countryCode": "AZ",
+    "stateCode": "HAC",
+    "latitude": "40.03874000",
+    "longitude": "48.94286000"
+  },
+  {
+    "name": "Hadrut",
+    "countryCode": "AZ",
+    "stateCode": "XVD",
+    "latitude": "39.52003000",
+    "longitude": "47.03190000"
+  },
+  {
+    "name": "Haftoni",
+    "countryCode": "AZ",
+    "stateCode": "LA",
+    "latitude": "38.76325000",
+    "longitude": "48.76223000"
+  },
+  {
+    "name": "Heydarabad",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.72286000",
+    "longitude": "44.84846000"
+  },
+  {
+    "name": "Horadiz",
+    "countryCode": "AZ",
+    "stateCode": "FUZ",
+    "latitude": "39.45015000",
+    "longitude": "47.33496000"
+  },
+  {
+    "name": "Hövsan",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.37444000",
+    "longitude": "50.08528000"
+  },
+  {
+    "name": "Imishli",
+    "countryCode": "AZ",
+    "stateCode": "IMI",
+    "latitude": "39.87095000",
+    "longitude": "48.05995000"
+  },
+  {
+    "name": "Jalilabad",
+    "countryCode": "AZ",
+    "stateCode": "CAL",
+    "latitude": "39.20963000",
+    "longitude": "48.49186000"
+  },
+  {
+    "name": "Jebrail",
+    "countryCode": "AZ",
+    "stateCode": "CAB",
+    "latitude": "39.39917000",
+    "longitude": "47.02835000"
+  },
+  {
+    "name": "Julfa Rayon",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.16667000",
+    "longitude": "45.66667000"
+  },
+  {
+    "name": "Kerbakhiar",
+    "countryCode": "AZ",
+    "stateCode": "KAL",
+    "latitude": "40.10984000",
+    "longitude": "46.04446000"
+  },
+  {
+    "name": "Khirdalan",
+    "countryCode": "AZ",
+    "stateCode": "ABS",
+    "latitude": "40.44808000",
+    "longitude": "49.75502000"
+  },
+  {
+    "name": "Khodzhi-Gasan",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.41293000",
+    "longitude": "49.76904000"
+  },
+  {
+    "name": "Khyzy",
+    "countryCode": "AZ",
+    "stateCode": "XIZ",
+    "latitude": "40.90847000",
+    "longitude": "49.07481000"
+  },
+  {
+    "name": "Kilyazi",
+    "countryCode": "AZ",
+    "stateCode": "XIZ",
+    "latitude": "40.87392000",
+    "longitude": "49.34376000"
+  },
+  {
+    "name": "Kizhaba",
+    "countryCode": "AZ",
+    "stateCode": "AST",
+    "latitude": "38.53461000",
+    "longitude": "48.80546000"
+  },
+  {
+    "name": "Korgöz",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.30446000",
+    "longitude": "49.62360000"
+  },
+  {
+    "name": "Kyadabek",
+    "countryCode": "AZ",
+    "stateCode": "GAD",
+    "latitude": "40.57055000",
+    "longitude": "45.81229000"
+  },
+  {
+    "name": "Kyurdarmir",
+    "countryCode": "AZ",
+    "stateCode": "KUR",
+    "latitude": "40.34257000",
+    "longitude": "48.15649000"
+  },
+  {
+    "name": "Kyzyl-Burun",
+    "countryCode": "AZ",
+    "stateCode": "SIY",
+    "latitude": "41.07811000",
+    "longitude": "49.11564000"
+  },
+  {
+    "name": "Lankaran",
+    "countryCode": "AZ",
+    "stateCode": "LA",
+    "latitude": "38.75428000",
+    "longitude": "48.85062000"
+  },
+  {
+    "name": "Laçın",
+    "countryCode": "AZ",
+    "stateCode": "LAC",
+    "latitude": "39.59881000",
+    "longitude": "46.55045000"
+  },
+  {
+    "name": "Lerik",
+    "countryCode": "AZ",
+    "stateCode": "LER",
+    "latitude": "38.77388000",
+    "longitude": "48.41497000"
+  },
+  {
+    "name": "Lökbatan",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.32560000",
+    "longitude": "49.73376000"
+  },
+  {
+    "name": "Mamrux",
+    "countryCode": "AZ",
+    "stateCode": "ZAQ",
+    "latitude": "41.54243000",
+    "longitude": "46.76700000"
+  },
+  {
+    "name": "Mardakan",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.49182000",
+    "longitude": "50.14292000"
+  },
+  {
+    "name": "Martakert",
+    "countryCode": "AZ",
+    "stateCode": "TAR",
+    "latitude": "40.21127000",
+    "longitude": "46.82135000"
+  },
+  {
+    "name": "Masally",
+    "countryCode": "AZ",
+    "stateCode": "MAS",
+    "latitude": "39.03532000",
+    "longitude": "48.66540000"
+  },
+  {
+    "name": "Maştağa",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.52983000",
+    "longitude": "50.00616000"
+  },
+  {
+    "name": "Mincivan",
+    "countryCode": "AZ",
+    "stateCode": "ZAN",
+    "latitude": "39.03023000",
+    "longitude": "46.72329000"
+  },
+  {
+    "name": "Mingelchaur",
+    "countryCode": "AZ",
+    "stateCode": "MI",
+    "latitude": "40.76395000",
+    "longitude": "47.05953000"
+  },
+  {
+    "name": "Mughan",
+    "countryCode": "AZ",
+    "stateCode": "HAC",
+    "latitude": "40.09902000",
+    "longitude": "48.81886000"
+  },
+  {
+    "name": "Nakhchivan",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.20889000",
+    "longitude": "45.41222000"
+  },
+  {
+    "name": "Nardaran",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.55611000",
+    "longitude": "50.00556000"
+  },
+  {
+    "name": "Neftçala",
+    "countryCode": "AZ",
+    "stateCode": "NEF",
+    "latitude": "39.37680000",
+    "longitude": "49.24700000"
+  },
+  {
+    "name": "Nizami Rayonu",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.40970000",
+    "longitude": "49.91926000"
+  },
+  {
+    "name": "Novosaratovka",
+    "countryCode": "AZ",
+    "stateCode": "GAD",
+    "latitude": "40.59811000",
+    "longitude": "45.60079000"
+  },
+  {
+    "name": "Novyy Karanlug",
+    "countryCode": "AZ",
+    "stateCode": "XVD",
+    "latitude": "39.79496000",
+    "longitude": "47.11170000"
+  },
+  {
+    "name": "Ordubad",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "38.90961000",
+    "longitude": "46.02274000"
+  },
+  {
+    "name": "Ordubad Rayon",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.08333000",
+    "longitude": "45.91667000"
+  },
+  {
+    "name": "Orjonikidze",
+    "countryCode": "AZ",
+    "stateCode": "BEY",
+    "latitude": "39.63571000",
+    "longitude": "47.71199000"
+  },
+  {
+    "name": "Oğlanqala",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.58694000",
+    "longitude": "45.04611000"
+  },
+  {
+    "name": "Oğuz",
+    "countryCode": "AZ",
+    "stateCode": "OGU",
+    "latitude": "41.07128000",
+    "longitude": "47.46528000"
+  },
+  {
+    "name": "Pirallahı",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.47013000",
+    "longitude": "50.32476000"
+  },
+  {
+    "name": "Prishibinskoye",
+    "countryCode": "AZ",
+    "stateCode": "CAL",
+    "latitude": "39.11998000",
+    "longitude": "48.59383000"
+  },
+  {
+    "name": "Pushkino",
+    "countryCode": "AZ",
+    "stateCode": "BIL",
+    "latitude": "39.45833000",
+    "longitude": "48.54500000"
+  },
+  {
+    "name": "Puta",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.29667000",
+    "longitude": "49.66028000"
+  },
+  {
+    "name": "Qabaqçöl",
+    "countryCode": "AZ",
+    "stateCode": "BAL",
+    "latitude": "41.75259000",
+    "longitude": "46.27052000"
+  },
+  {
+    "name": "Qala",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.44256000",
+    "longitude": "50.16759000"
+  },
+  {
+    "name": "Qandax",
+    "countryCode": "AZ",
+    "stateCode": "ZAQ",
+    "latitude": "41.47546000",
+    "longitude": "46.54128000"
+  },
+  {
+    "name": "Qaramanlı",
+    "countryCode": "AZ",
+    "stateCode": "YEV",
+    "latitude": "40.48135000",
+    "longitude": "46.99339000"
+  },
+  {
+    "name": "Qaraxanlı",
+    "countryCode": "AZ",
+    "stateCode": "TOV",
+    "latitude": "41.04358000",
+    "longitude": "45.65527000"
+  },
+  {
+    "name": "Qarayeri",
+    "countryCode": "AZ",
+    "stateCode": "SMX",
+    "latitude": "40.78674000",
+    "longitude": "46.31365000"
+  },
+  {
+    "name": "Qaraçala",
+    "countryCode": "AZ",
+    "stateCode": "SAL",
+    "latitude": "39.81614000",
+    "longitude": "48.93792000"
+  },
+  {
+    "name": "Qaraçuxur",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.39667000",
+    "longitude": "49.97361000"
+  },
+  {
+    "name": "Qasım İsmayılov",
+    "countryCode": "AZ",
+    "stateCode": "SKR",
+    "latitude": "40.81243000",
+    "longitude": "46.25938000"
+  },
+  {
+    "name": "Qax",
+    "countryCode": "AZ",
+    "stateCode": "QAX",
+    "latitude": "41.41826000",
+    "longitude": "46.92043000"
+  },
+  {
+    "name": "Qax İngiloy",
+    "countryCode": "AZ",
+    "stateCode": "QAX",
+    "latitude": "41.42412000",
+    "longitude": "46.93859000"
+  },
+  {
+    "name": "Qaxbaş",
+    "countryCode": "AZ",
+    "stateCode": "QAX",
+    "latitude": "41.43254000",
+    "longitude": "46.96460000"
+  },
+  {
+    "name": "Qazax",
+    "countryCode": "AZ",
+    "stateCode": "QAZ",
+    "latitude": "41.09246000",
+    "longitude": "45.36561000"
+  },
+  {
+    "name": "Qobu",
+    "countryCode": "AZ",
+    "stateCode": "ABS",
+    "latitude": "40.40472000",
+    "longitude": "49.71306000"
+  },
+  {
+    "name": "Qobustan",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.08238000",
+    "longitude": "49.41205000"
+  },
+  {
+    "name": "Qobustan",
+    "countryCode": "AZ",
+    "stateCode": "QOB",
+    "latitude": "40.53360000",
+    "longitude": "48.92819000"
+  },
+  {
+    "name": "Quba",
+    "countryCode": "AZ",
+    "stateCode": "QBA",
+    "latitude": "41.36108000",
+    "longitude": "48.51341000"
+  },
+  {
+    "name": "Qubadlı",
+    "countryCode": "AZ",
+    "stateCode": "QBI",
+    "latitude": "39.34441000",
+    "longitude": "46.58183000"
+  },
+  {
+    "name": "Qusar",
+    "countryCode": "AZ",
+    "stateCode": "QUS",
+    "latitude": "41.42750000",
+    "longitude": "48.43020000"
+  },
+  {
+    "name": "Qutqashen",
+    "countryCode": "AZ",
+    "stateCode": "QAB",
+    "latitude": "40.98247000",
+    "longitude": "47.84909000"
+  },
+  {
+    "name": "Qırmızı Bazar",
+    "countryCode": "AZ",
+    "stateCode": "XVD",
+    "latitude": "39.67669000",
+    "longitude": "46.95123000"
+  },
+  {
+    "name": "Qırmızı Samux",
+    "countryCode": "AZ",
+    "stateCode": "SMX",
+    "latitude": "40.93972000",
+    "longitude": "46.37889000"
+  },
+  {
+    "name": "Qıvraq",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.39939000",
+    "longitude": "45.11513000"
+  },
+  {
+    "name": "Qızılhacılı",
+    "countryCode": "AZ",
+    "stateCode": "GOR",
+    "latitude": "40.57362000",
+    "longitude": "46.84900000"
+  },
+  {
+    "name": "Ramana",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.44222000",
+    "longitude": "49.98056000"
+  },
+  {
+    "name": "Saatlı",
+    "countryCode": "AZ",
+    "stateCode": "SAT",
+    "latitude": "39.93214000",
+    "longitude": "48.36892000"
+  },
+  {
+    "name": "Sabirabad",
+    "countryCode": "AZ",
+    "stateCode": "SAB",
+    "latitude": "40.00869000",
+    "longitude": "48.47701000"
+  },
+  {
+    "name": "Sabunçu",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.44250000",
+    "longitude": "49.94806000"
+  },
+  {
+    "name": "Saloğlu",
+    "countryCode": "AZ",
+    "stateCode": "AGA",
+    "latitude": "41.27524000",
+    "longitude": "45.35293000"
+  },
+  {
+    "name": "Salyan",
+    "countryCode": "AZ",
+    "stateCode": "SAL",
+    "latitude": "39.59621000",
+    "longitude": "48.98479000"
+  },
+  {
+    "name": "Samur",
+    "countryCode": "AZ",
+    "stateCode": "QUS",
+    "latitude": "41.63671000",
+    "longitude": "48.43028000"
+  },
+  {
+    "name": "Samux",
+    "countryCode": "AZ",
+    "stateCode": "SMX",
+    "latitude": "40.76485000",
+    "longitude": "46.40868000"
+  },
+  {
+    "name": "Samuxlu",
+    "countryCode": "AZ",
+    "stateCode": "BAR",
+    "latitude": "40.50833000",
+    "longitude": "47.16917000"
+  },
+  {
+    "name": "Sanqaçal",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.16991000",
+    "longitude": "49.46394000"
+  },
+  {
+    "name": "Saray",
+    "countryCode": "AZ",
+    "stateCode": "ABS",
+    "latitude": "40.53299000",
+    "longitude": "49.71681000"
+  },
+  {
+    "name": "Sedarak",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.71427000",
+    "longitude": "44.88455000"
+  },
+  {
+    "name": "Severo-Vostotchnyi Bank",
+    "countryCode": "AZ",
+    "stateCode": "NEF",
+    "latitude": "39.41117000",
+    "longitude": "49.24792000"
+  },
+  {
+    "name": "Shahbuz Rayon",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.41667000",
+    "longitude": "45.58333000"
+  },
+  {
+    "name": "Shamakhi",
+    "countryCode": "AZ",
+    "stateCode": "SMI",
+    "latitude": "40.63141000",
+    "longitude": "48.64137000"
+  },
+  {
+    "name": "Shamkhor",
+    "countryCode": "AZ",
+    "stateCode": "SKR",
+    "latitude": "40.82975000",
+    "longitude": "46.01780000"
+  },
+  {
+    "name": "Sharur City",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.55298000",
+    "longitude": "44.97993000"
+  },
+  {
+    "name": "Sheki",
+    "countryCode": "AZ",
+    "stateCode": "SA",
+    "latitude": "41.19194000",
+    "longitude": "47.17056000"
+  },
+  {
+    "name": "Shushi",
+    "countryCode": "AZ",
+    "stateCode": "SUS",
+    "latitude": "39.76006000",
+    "longitude": "46.74989000"
+  },
+  {
+    "name": "Sovetabad",
+    "countryCode": "AZ",
+    "stateCode": "NEF",
+    "latitude": "39.33667000",
+    "longitude": "49.21414000"
+  },
+  {
+    "name": "Sumbatan-diza",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "38.94804000",
+    "longitude": "45.82572000"
+  },
+  {
+    "name": "Sumqayıt",
+    "countryCode": "AZ",
+    "stateCode": "SM",
+    "latitude": "40.58972000",
+    "longitude": "49.66861000"
+  },
+  {
+    "name": "Tazakend",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.15459000",
+    "longitude": "45.44282000"
+  },
+  {
+    "name": "Terter",
+    "countryCode": "AZ",
+    "stateCode": "TAR",
+    "latitude": "40.34201000",
+    "longitude": "46.93161000"
+  },
+  {
+    "name": "Tovuz",
+    "countryCode": "AZ",
+    "stateCode": "TOV",
+    "latitude": "40.99249000",
+    "longitude": "45.62838000"
+  },
+  {
+    "name": "Türkan",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.36460000",
+    "longitude": "50.22075000"
+  },
+  {
+    "name": "Ujar",
+    "countryCode": "AZ",
+    "stateCode": "UCA",
+    "latitude": "40.51902000",
+    "longitude": "47.65423000"
+  },
+  {
+    "name": "Vank",
+    "countryCode": "AZ",
+    "stateCode": "KAL",
+    "latitude": "40.05275000",
+    "longitude": "46.54419000"
+  },
+  {
+    "name": "Verkhniy Dashkesan",
+    "countryCode": "AZ",
+    "stateCode": "DAS",
+    "latitude": "40.49357000",
+    "longitude": "46.07175000"
+  },
+  {
+    "name": "Vurğun",
+    "countryCode": "AZ",
+    "stateCode": "AGA",
+    "latitude": "41.09524000",
+    "longitude": "45.47111000"
+  },
+  {
+    "name": "Xaçmaz",
+    "countryCode": "AZ",
+    "stateCode": "XAC",
+    "latitude": "41.46426000",
+    "longitude": "48.80565000"
+  },
+  {
+    "name": "Xocalı",
+    "countryCode": "AZ",
+    "stateCode": "XCI",
+    "latitude": "39.91297000",
+    "longitude": "46.79028000"
+  },
+  {
+    "name": "Xudat",
+    "countryCode": "AZ",
+    "stateCode": "XAC",
+    "latitude": "41.63052000",
+    "longitude": "48.68161000"
+  },
+  {
+    "name": "Xıllı",
+    "countryCode": "AZ",
+    "stateCode": "NEF",
+    "latitude": "39.43012000",
+    "longitude": "49.10166000"
+  },
+  {
+    "name": "Yanıqlı",
+    "countryCode": "AZ",
+    "stateCode": "TOV",
+    "latitude": "40.84320000",
+    "longitude": "45.68030000"
+  },
+  {
+    "name": "Yardımlı",
+    "countryCode": "AZ",
+    "stateCode": "YAR",
+    "latitude": "38.90771000",
+    "longitude": "48.24052000"
+  },
+  {
+    "name": "Yaycı",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "38.94052000",
+    "longitude": "45.73244000"
+  },
+  {
+    "name": "Yelenendorf",
+    "countryCode": "AZ",
+    "stateCode": "GYG",
+    "latitude": "40.58584000",
+    "longitude": "46.31890000"
+  },
+  {
+    "name": "Yeni Suraxanı",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.43026000",
+    "longitude": "50.03598000"
+  },
+  {
+    "name": "Yevlakh",
+    "countryCode": "AZ",
+    "stateCode": "YE",
+    "latitude": "40.61832000",
+    "longitude": "47.15014000"
+  },
+  {
+    "name": "Yukhary-Dashkesan",
+    "countryCode": "AZ",
+    "stateCode": "DAS",
+    "latitude": "40.52393000",
+    "longitude": "46.08186000"
+  },
+  {
+    "name": "Yuxarı Aran",
+    "countryCode": "AZ",
+    "stateCode": "BEY",
+    "latitude": "39.73361000",
+    "longitude": "47.65500000"
+  },
+  {
+    "name": "Zabrat",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.47746000",
+    "longitude": "49.94174000"
+  },
+  {
+    "name": "Zangilan",
+    "countryCode": "AZ",
+    "stateCode": "ZAN",
+    "latitude": "39.08371000",
+    "longitude": "46.65988000"
+  },
+  {
+    "name": "Zaqatala",
+    "countryCode": "AZ",
+    "stateCode": "ZAQ",
+    "latitude": "41.63160000",
+    "longitude": "46.64479000"
+  },
+  {
+    "name": "Zardob",
+    "countryCode": "AZ",
+    "stateCode": "ZAR",
+    "latitude": "40.21840000",
+    "longitude": "47.71214000"
+  },
+  {
+    "name": "Zyrya",
+    "countryCode": "AZ",
+    "stateCode": "BA",
+    "latitude": "40.36613000",
+    "longitude": "50.29198000"
+  },
+  {
+    "name": "Çalxanqala",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.44167000",
+    "longitude": "45.28333000"
+  },
+  {
+    "name": "Çatax",
+    "countryCode": "AZ",
+    "stateCode": "TOV",
+    "latitude": "40.72622000",
+    "longitude": "45.55919000"
+  },
+  {
+    "name": "Çinarlı",
+    "countryCode": "AZ",
+    "stateCode": "QAX",
+    "latitude": "41.46965000",
+    "longitude": "46.91582000"
+  },
+  {
+    "name": "Çobansığnaq",
+    "countryCode": "AZ",
+    "stateCode": "TOV",
+    "latitude": "40.75244000",
+    "longitude": "45.70645000"
+  },
+  {
+    "name": "İsmayıllı",
+    "countryCode": "AZ",
+    "stateCode": "ISM",
+    "latitude": "40.78485000",
+    "longitude": "48.15141000"
+  },
+  {
+    "name": "Şahbuz",
+    "countryCode": "AZ",
+    "stateCode": "NX",
+    "latitude": "39.40722000",
+    "longitude": "45.57389000"
+  },
+  {
+    "name": "Şirvan",
+    "countryCode": "AZ",
+    "stateCode": "SR",
+    "latitude": "39.93778000",
+    "longitude": "48.92900000"
+  },
+  {
+    "name": "Şuraabad",
+    "countryCode": "AZ",
+    "stateCode": "XIZ",
+    "latitude": "40.81990000",
+    "longitude": "49.46774000"
+  },
+  {
+    "name": "Əhmədbəyli",
+    "countryCode": "AZ",
+    "stateCode": "SAT",
+    "latitude": "39.88074000",
+    "longitude": "48.39158000"
+  }
+]

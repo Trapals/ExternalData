@@ -1,0 +1,667 @@
+[
+  {
+    "name": "Acherítou",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.10022000",
+    "longitude": "33.86155000"
+  },
+  {
+    "name": "Akáki",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.13341000",
+    "longitude": "33.12873000"
+  },
+  {
+    "name": "Alámpra",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "34.98898000",
+    "longitude": "33.39887000"
+  },
+  {
+    "name": "Ammochostos Municipality",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.11755000",
+    "longitude": "33.94335000"
+  },
+  {
+    "name": "Aradíppou",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.95151000",
+    "longitude": "33.59199000"
+  },
+  {
+    "name": "Aredioú",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.04844000",
+    "longitude": "33.19610000"
+  },
+  {
+    "name": "Argáka",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "35.06646000",
+    "longitude": "32.49446000"
+  },
+  {
+    "name": "Astromerítis",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.14096000",
+    "longitude": "33.03793000"
+  },
+  {
+    "name": "Athíenou",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "35.06180000",
+    "longitude": "33.54156000"
+  },
+  {
+    "name": "Avgórou",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.03615000",
+    "longitude": "33.83918000"
+  },
+  {
+    "name": "Ayia Napa",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "34.98213000",
+    "longitude": "34.00183000"
+  },
+  {
+    "name": "Chlórakas",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.79768000",
+    "longitude": "32.41207000"
+  },
+  {
+    "name": "Derýneia",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.06484000",
+    "longitude": "33.96083000"
+  },
+  {
+    "name": "Dhromolaxia",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.87551000",
+    "longitude": "33.58684000"
+  },
+  {
+    "name": "Dáli",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.02294000",
+    "longitude": "33.42195000"
+  },
+  {
+    "name": "Emba",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.80700000",
+    "longitude": "32.42406000"
+  },
+  {
+    "name": "Ergátes",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.05365000",
+    "longitude": "33.24292000"
+  },
+  {
+    "name": "Erími",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.67766000",
+    "longitude": "32.91815000"
+  },
+  {
+    "name": "Famagusta",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.12054000",
+    "longitude": "33.93894000"
+  },
+  {
+    "name": "Frénaros",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.04121000",
+    "longitude": "33.92242000"
+  },
+  {
+    "name": "Germasógeia",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.72207000",
+    "longitude": "33.08254000"
+  },
+  {
+    "name": "Geroskipou",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.75498000",
+    "longitude": "32.45155000"
+  },
+  {
+    "name": "Geroskípou (quarter)",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.76190000",
+    "longitude": "32.45135000"
+  },
+  {
+    "name": "Geroskípou Municipality",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.75142000",
+    "longitude": "32.45449000"
+  },
+  {
+    "name": "Géri",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.10560000",
+    "longitude": "33.41977000"
+  },
+  {
+    "name": "Kakopetriá",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "34.98768000",
+    "longitude": "32.90468000"
+  },
+  {
+    "name": "Kissonerga",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.82279000",
+    "longitude": "32.40131000"
+  },
+  {
+    "name": "Klírou",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.02004000",
+    "longitude": "33.17806000"
+  },
+  {
+    "name": "Kofínou",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.82449000",
+    "longitude": "33.39130000"
+  },
+  {
+    "name": "Kokkinotrimithiá",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.15303000",
+    "longitude": "33.19966000"
+  },
+  {
+    "name": "Koloni",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.75228000",
+    "longitude": "32.46487000"
+  },
+  {
+    "name": "Kolossi",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.66865000",
+    "longitude": "32.93375000"
+  },
+  {
+    "name": "Konia",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.78516000",
+    "longitude": "32.45900000"
+  },
+  {
+    "name": "Kyperoúnta",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.93815000",
+    "longitude": "32.97551000"
+  },
+  {
+    "name": "Kyrenia",
+    "countryCode": "CY",
+    "stateCode": "06",
+    "latitude": "35.33634000",
+    "longitude": "33.31729000"
+  },
+  {
+    "name": "Kyrenia Municipality",
+    "countryCode": "CY",
+    "stateCode": "06",
+    "latitude": "35.33672000",
+    "longitude": "33.31504000"
+  },
+  {
+    "name": "Káto Defterá",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.08489000",
+    "longitude": "33.27558000"
+  },
+  {
+    "name": "Káto Pýrgos",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.17897000",
+    "longitude": "32.68600000"
+  },
+  {
+    "name": "Kíti",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.84696000",
+    "longitude": "33.57344000"
+  },
+  {
+    "name": "Kórnos",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.92396000",
+    "longitude": "33.39764000"
+  },
+  {
+    "name": "Larnaca",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.92291000",
+    "longitude": "33.62330000"
+  },
+  {
+    "name": "Lefkónoiko",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.25980000",
+    "longitude": "33.73189000"
+  },
+  {
+    "name": "Lemesós",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.69218000",
+    "longitude": "33.02854000"
+  },
+  {
+    "name": "Leonárisso",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.46892000",
+    "longitude": "34.13886000"
+  },
+  {
+    "name": "Limassol",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.68406000",
+    "longitude": "33.03794000"
+  },
+  {
+    "name": "Liopétri",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.00885000",
+    "longitude": "33.89256000"
+  },
+  {
+    "name": "Livádia",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.95118000",
+    "longitude": "33.62658000"
+  },
+  {
+    "name": "Lythrodóntas",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "34.95105000",
+    "longitude": "33.29777000"
+  },
+  {
+    "name": "Lápithos",
+    "countryCode": "CY",
+    "stateCode": "06",
+    "latitude": "35.33823000",
+    "longitude": "33.17368000"
+  },
+  {
+    "name": "Léfka",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.11199000",
+    "longitude": "32.84997000"
+  },
+  {
+    "name": "Lýmpia",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "34.99889000",
+    "longitude": "33.46175000"
+  },
+  {
+    "name": "Meneou",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.86114000",
+    "longitude": "33.59516000"
+  },
+  {
+    "name": "Mesógi",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.81577000",
+    "longitude": "32.45542000"
+  },
+  {
+    "name": "Mosfilotí",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.95256000",
+    "longitude": "33.42511000"
+  },
+  {
+    "name": "Mouttagiáka",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.72022000",
+    "longitude": "33.10066000"
+  },
+  {
+    "name": "Mámmari",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.17604000",
+    "longitude": "33.20435000"
+  },
+  {
+    "name": "Méniko",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.10945000",
+    "longitude": "33.14474000"
+  },
+  {
+    "name": "Mórfou",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.19869000",
+    "longitude": "32.99338000"
+  },
+  {
+    "name": "Nicosia",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.17531000",
+    "longitude": "33.36420000"
+  },
+  {
+    "name": "Nicosia Municipality",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.16944000",
+    "longitude": "33.36081000"
+  },
+  {
+    "name": "Paphos",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.77679000",
+    "longitude": "32.42451000"
+  },
+  {
+    "name": "Paralímni",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.03945000",
+    "longitude": "33.98181000"
+  },
+  {
+    "name": "Parekklisha",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.74583000",
+    "longitude": "33.15833000"
+  },
+  {
+    "name": "Peléndri",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.89597000",
+    "longitude": "32.96817000"
+  },
+  {
+    "name": "Peristeróna",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.12928000",
+    "longitude": "33.07858000"
+  },
+  {
+    "name": "Perivólia",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.83355000",
+    "longitude": "33.58196000"
+  },
+  {
+    "name": "Pissoúri",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.66942000",
+    "longitude": "32.70132000"
+  },
+  {
+    "name": "Protaras",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.01250000",
+    "longitude": "34.05833000"
+  },
+  {
+    "name": "Psevdás",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.94653000",
+    "longitude": "33.46277000"
+  },
+  {
+    "name": "Psimolofou",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.06250000",
+    "longitude": "33.26250000"
+  },
+  {
+    "name": "Pyrgos",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.74167000",
+    "longitude": "33.18333000"
+  },
+  {
+    "name": "Páchna",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.77874000",
+    "longitude": "32.79355000"
+  },
+  {
+    "name": "Páno Defterá",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.07778000",
+    "longitude": "33.26584000"
+  },
+  {
+    "name": "Páno Polemídia",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.70559000",
+    "longitude": "32.99269000"
+  },
+  {
+    "name": "Pégeia",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.88341000",
+    "longitude": "32.38166000"
+  },
+  {
+    "name": "Péra",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.03350000",
+    "longitude": "33.25413000"
+  },
+  {
+    "name": "Pérgamos",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "35.04167000",
+    "longitude": "33.70833000"
+  },
+  {
+    "name": "Pólis",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "35.03534000",
+    "longitude": "32.42575000"
+  },
+  {
+    "name": "Pýla",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "35.01237000",
+    "longitude": "33.69188000"
+  },
+  {
+    "name": "Rizokárpaso",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.59719000",
+    "longitude": "34.37916000"
+  },
+  {
+    "name": "Sotíra",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.71189000",
+    "longitude": "32.86340000"
+  },
+  {
+    "name": "Soúni-Zanakiá",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.73570000",
+    "longitude": "32.88437000"
+  },
+  {
+    "name": "Tersefánou",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.85411000",
+    "longitude": "33.54746000"
+  },
+  {
+    "name": "Troúlloi",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "35.03203000",
+    "longitude": "33.61501000"
+  },
+  {
+    "name": "Tríkomo",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.28628000",
+    "longitude": "33.89167000"
+  },
+  {
+    "name": "Tsáda",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.83801000",
+    "longitude": "32.47547000"
+  },
+  {
+    "name": "Tséri",
+    "countryCode": "CY",
+    "stateCode": "01",
+    "latitude": "35.07307000",
+    "longitude": "33.32344000"
+  },
+  {
+    "name": "Tála",
+    "countryCode": "CY",
+    "stateCode": "05",
+    "latitude": "34.83745000",
+    "longitude": "32.43272000"
+  },
+  {
+    "name": "Voróklini",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.98600000",
+    "longitude": "33.65387000"
+  },
+  {
+    "name": "Xylofágou",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.97743000",
+    "longitude": "33.84894000"
+  },
+  {
+    "name": "Xylotymbou",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "35.01720000",
+    "longitude": "33.74245000"
+  },
+  {
+    "name": "Áchna",
+    "countryCode": "CY",
+    "stateCode": "04",
+    "latitude": "35.05515000",
+    "longitude": "33.78388000"
+  },
+  {
+    "name": "Ágios Tomás",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.71158000",
+    "longitude": "32.73129000"
+  },
+  {
+    "name": "Ágios Týchon",
+    "countryCode": "CY",
+    "stateCode": "03",
+    "latitude": "34.72606000",
+    "longitude": "33.13872000"
+  },
+  {
+    "name": "Ýpsonas",
+    "countryCode": "CY",
+    "stateCode": "02",
+    "latitude": "34.68797000",
+    "longitude": "32.96191000"
+  }
+]

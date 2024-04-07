@@ -1,0 +1,2816 @@
+[
+  {
+    "name": "Alahärmä",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "63.23333000",
+    "longitude": "22.85000000"
+  },
+  {
+    "name": "Alajärvi",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "63.00000000",
+    "longitude": "23.81667000"
+  },
+  {
+    "name": "Alastaro",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.95000000",
+    "longitude": "22.85000000"
+  },
+  {
+    "name": "Alavieska",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.16667000",
+    "longitude": "24.30000000"
+  },
+  {
+    "name": "Alavus",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.58333000",
+    "longitude": "23.61667000"
+  },
+  {
+    "name": "Anjala",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.68333000",
+    "longitude": "26.83333000"
+  },
+  {
+    "name": "Artjärvi",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "60.74544000",
+    "longitude": "26.07084000"
+  },
+  {
+    "name": "Asikkala",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "61.21667000",
+    "longitude": "25.50000000"
+  },
+  {
+    "name": "Askainen",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.56667000",
+    "longitude": "21.86667000"
+  },
+  {
+    "name": "Askola",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.53333000",
+    "longitude": "25.60000000"
+  },
+  {
+    "name": "Aura",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.64710000",
+    "longitude": "22.58755000"
+  },
+  {
+    "name": "Auttoinen",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "61.29901000",
+    "longitude": "25.08887000"
+  },
+  {
+    "name": "Dragsfjärd",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.06667000",
+    "longitude": "22.48333000"
+  },
+  {
+    "name": "Ekenäs",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "59.97359000",
+    "longitude": "23.43389000"
+  },
+  {
+    "name": "Elimäki",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.71667000",
+    "longitude": "26.46667000"
+  },
+  {
+    "name": "Eno",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.80511000",
+    "longitude": "30.15422000"
+  },
+  {
+    "name": "Enonkoski",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.08333000",
+    "longitude": "28.93333000"
+  },
+  {
+    "name": "Enontekiö",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "68.38573000",
+    "longitude": "23.63215000"
+  },
+  {
+    "name": "Espoo",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.20520000",
+    "longitude": "24.65220000"
+  },
+  {
+    "name": "Eura",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.13333000",
+    "longitude": "22.13333000"
+  },
+  {
+    "name": "Eurajoki",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.20000000",
+    "longitude": "21.73333000"
+  },
+  {
+    "name": "Evijärvi",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "63.36667000",
+    "longitude": "23.48333000"
+  },
+  {
+    "name": "Forssa",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.81462000",
+    "longitude": "23.62146000"
+  },
+  {
+    "name": "Gumböle",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.21948000",
+    "longitude": "24.61684000"
+  },
+  {
+    "name": "Haapajärvi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "63.75000000",
+    "longitude": "25.33333000"
+  },
+  {
+    "name": "Haapavesi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.13333000",
+    "longitude": "25.36667000"
+  },
+  {
+    "name": "Hailuoto",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.00900000",
+    "longitude": "24.71385000"
+  },
+  {
+    "name": "Halikko",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.40000000",
+    "longitude": "23.08333000"
+  },
+  {
+    "name": "Halsua",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.46667000",
+    "longitude": "24.16667000"
+  },
+  {
+    "name": "Hamina",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.56974000",
+    "longitude": "27.19794000"
+  },
+  {
+    "name": "Hankasalmi",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.38333000",
+    "longitude": "26.43333000"
+  },
+  {
+    "name": "Hanko",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "59.83333000",
+    "longitude": "22.95000000"
+  },
+  {
+    "name": "Harjavalta",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.31667000",
+    "longitude": "22.13333000"
+  },
+  {
+    "name": "Hartola",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "61.58333000",
+    "longitude": "26.01667000"
+  },
+  {
+    "name": "Hauho",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "61.17255000",
+    "longitude": "24.56303000"
+  },
+  {
+    "name": "Haukipudas",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.17654000",
+    "longitude": "25.35233000"
+  },
+  {
+    "name": "Haukivuori",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.01753000",
+    "longitude": "27.21906000"
+  },
+  {
+    "name": "Hausjärvi",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.78333000",
+    "longitude": "24.93333000"
+  },
+  {
+    "name": "Heinola",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "61.20564000",
+    "longitude": "26.03811000"
+  },
+  {
+    "name": "Heinävesi",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.43333000",
+    "longitude": "28.60000000"
+  },
+  {
+    "name": "Helsinki",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.16952000",
+    "longitude": "24.93545000"
+  },
+  {
+    "name": "Hietalahti",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.08480000",
+    "longitude": "21.61716000"
+  },
+  {
+    "name": "Himanka",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.06218000",
+    "longitude": "23.65447000"
+  },
+  {
+    "name": "Hirvensalmi",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.63333000",
+    "longitude": "26.80000000"
+  },
+  {
+    "name": "Hollola",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "61.05000000",
+    "longitude": "25.43333000"
+  },
+  {
+    "name": "Houtskär",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.22284000",
+    "longitude": "21.37218000"
+  },
+  {
+    "name": "Huittinen",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.18333000",
+    "longitude": "22.70000000"
+  },
+  {
+    "name": "Humppila",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.93333000",
+    "longitude": "23.36667000"
+  },
+  {
+    "name": "Hyrynsalmi",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.66667000",
+    "longitude": "28.53333000"
+  },
+  {
+    "name": "Hyvinge",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.63333000",
+    "longitude": "24.86667000"
+  },
+  {
+    "name": "Hämeenkoski",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "61.02222000",
+    "longitude": "25.15417000"
+  },
+  {
+    "name": "Hämeenlinna",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.99596000",
+    "longitude": "24.46434000"
+  },
+  {
+    "name": "Ii",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.31735000",
+    "longitude": "25.37310000"
+  },
+  {
+    "name": "Iisalmi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.55915000",
+    "longitude": "27.19067000"
+  },
+  {
+    "name": "Iitti",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.89488000",
+    "longitude": "26.33869000"
+  },
+  {
+    "name": "Ilmajoki",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.73333000",
+    "longitude": "22.56667000"
+  },
+  {
+    "name": "Ilomantsi",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.67162000",
+    "longitude": "30.93276000"
+  },
+  {
+    "name": "Imatra",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.17185000",
+    "longitude": "28.75242000"
+  },
+  {
+    "name": "Inari",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "68.90596000",
+    "longitude": "27.02881000"
+  },
+  {
+    "name": "Ingå",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.04587000",
+    "longitude": "24.00459000"
+  },
+  {
+    "name": "Iniö",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.40000000",
+    "longitude": "21.40000000"
+  },
+  {
+    "name": "Isojoki",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.11319000",
+    "longitude": "21.95884000"
+  },
+  {
+    "name": "Isokyrö",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.01172000",
+    "longitude": "22.33332000"
+  },
+  {
+    "name": "Ivalo",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "68.65986000",
+    "longitude": "27.53891000"
+  },
+  {
+    "name": "Jaala",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "61.05251000",
+    "longitude": "26.48117000"
+  },
+  {
+    "name": "Jakobstad",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.67486000",
+    "longitude": "22.70256000"
+  },
+  {
+    "name": "Jalasjärvi",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.50000000",
+    "longitude": "22.75000000"
+  },
+  {
+    "name": "Janakkala",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.90000000",
+    "longitude": "24.60000000"
+  },
+  {
+    "name": "Joensuu",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.60118000",
+    "longitude": "29.76316000"
+  },
+  {
+    "name": "Jokioinen",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.80162000",
+    "longitude": "23.48004000"
+  },
+  {
+    "name": "Joroinen",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.17823000",
+    "longitude": "27.83165000"
+  },
+  {
+    "name": "Joutsa",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "61.73333000",
+    "longitude": "26.11667000"
+  },
+  {
+    "name": "Joutseno",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.11796000",
+    "longitude": "28.50763000"
+  },
+  {
+    "name": "Juankoski",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.06667000",
+    "longitude": "28.35000000"
+  },
+  {
+    "name": "Jurva",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.68333000",
+    "longitude": "21.98333000"
+  },
+  {
+    "name": "Juuka",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "63.23333000",
+    "longitude": "29.25000000"
+  },
+  {
+    "name": "Juva",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.90000000",
+    "longitude": "27.85000000"
+  },
+  {
+    "name": "Jyväskylä",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.24147000",
+    "longitude": "25.72088000"
+  },
+  {
+    "name": "Jämijärvi",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.81667000",
+    "longitude": "22.70000000"
+  },
+  {
+    "name": "Jämsä",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "61.86420000",
+    "longitude": "25.19002000"
+  },
+  {
+    "name": "Jämsänkoski",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "61.91900000",
+    "longitude": "25.17011000"
+  },
+  {
+    "name": "Jäppilä",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.37899000",
+    "longitude": "27.43372000"
+  },
+  {
+    "name": "Järvenpää",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.47369000",
+    "longitude": "25.08992000"
+  },
+  {
+    "name": "Kaarela",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.25174000",
+    "longitude": "24.88111000"
+  },
+  {
+    "name": "Kaarina",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.40724000",
+    "longitude": "22.36904000"
+  },
+  {
+    "name": "Kaavi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.98333000",
+    "longitude": "28.50000000"
+  },
+  {
+    "name": "Kajaani",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.22728000",
+    "longitude": "27.72846000"
+  },
+  {
+    "name": "Kalajoki",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.25000000",
+    "longitude": "23.95000000"
+  },
+  {
+    "name": "Kallio",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.18427000",
+    "longitude": "24.95034000"
+  },
+  {
+    "name": "Kalvola",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "61.10081000",
+    "longitude": "24.12177000"
+  },
+  {
+    "name": "Kangaslampi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.29563000",
+    "longitude": "28.25289000"
+  },
+  {
+    "name": "Kangasniemi",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.99357000",
+    "longitude": "26.64785000"
+  },
+  {
+    "name": "Kankaanpää",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.80000000",
+    "longitude": "22.41667000"
+  },
+  {
+    "name": "Kannonkoski",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.96667000",
+    "longitude": "25.25000000"
+  },
+  {
+    "name": "Kannus",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.90000000",
+    "longitude": "23.90000000"
+  },
+  {
+    "name": "Karhula",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.52156000",
+    "longitude": "26.93125000"
+  },
+  {
+    "name": "Karijoki",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.30851000",
+    "longitude": "21.70856000"
+  },
+  {
+    "name": "Karinainen",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.66667000",
+    "longitude": "22.76667000"
+  },
+  {
+    "name": "Karis",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.07178000",
+    "longitude": "23.66163000"
+  },
+  {
+    "name": "Karjalohja",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.24015000",
+    "longitude": "23.71789000"
+  },
+  {
+    "name": "Karkkila",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.53418000",
+    "longitude": "24.20977000"
+  },
+  {
+    "name": "Karstula",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.86667000",
+    "longitude": "24.78333000"
+  },
+  {
+    "name": "Karttula",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.89630000",
+    "longitude": "26.97045000"
+  },
+  {
+    "name": "Karvia",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "62.13333000",
+    "longitude": "22.56667000"
+  },
+  {
+    "name": "Kaskinen",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "62.38444000",
+    "longitude": "21.22331000"
+  },
+  {
+    "name": "Kauhajoki",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.43333000",
+    "longitude": "22.18333000"
+  },
+  {
+    "name": "Kauhava",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "63.10299000",
+    "longitude": "23.07129000"
+  },
+  {
+    "name": "Kauniainen",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.21209000",
+    "longitude": "24.72756000"
+  },
+  {
+    "name": "Kaustinen",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.54878000",
+    "longitude": "23.68845000"
+  },
+  {
+    "name": "Keitele",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.18333000",
+    "longitude": "26.36667000"
+  },
+  {
+    "name": "Kellokoski",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.53271000",
+    "longitude": "25.10917000"
+  },
+  {
+    "name": "Kemi",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "65.73641000",
+    "longitude": "24.56371000"
+  },
+  {
+    "name": "Kemijärvi",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "66.71309000",
+    "longitude": "27.43056000"
+  },
+  {
+    "name": "Keminmaa",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "65.80158000",
+    "longitude": "24.54483000"
+  },
+  {
+    "name": "Kempele",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.91314000",
+    "longitude": "25.50339000"
+  },
+  {
+    "name": "Kerava",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.40338000",
+    "longitude": "25.10500000"
+  },
+  {
+    "name": "Kerimäki",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.91069000",
+    "longitude": "29.28228000"
+  },
+  {
+    "name": "Kestilä",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.35002000",
+    "longitude": "26.27921000"
+  },
+  {
+    "name": "Kesälahti",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "61.89752000",
+    "longitude": "29.83494000"
+  },
+  {
+    "name": "Keuruu",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.26667000",
+    "longitude": "24.70000000"
+  },
+  {
+    "name": "Kiihtelysvaara",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.49525000",
+    "longitude": "30.25081000"
+  },
+  {
+    "name": "Kiikala",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.46667000",
+    "longitude": "23.56667000"
+  },
+  {
+    "name": "Kiiminki",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.13139000",
+    "longitude": "25.79744000"
+  },
+  {
+    "name": "Kilo",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.21746000",
+    "longitude": "24.78151000"
+  },
+  {
+    "name": "Kimito",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.16047000",
+    "longitude": "22.72900000"
+  },
+  {
+    "name": "Kinnula",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "63.38333000",
+    "longitude": "24.95000000"
+  },
+  {
+    "name": "Kirkkonummi",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.12381000",
+    "longitude": "24.43853000"
+  },
+  {
+    "name": "Kisko",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.23333000",
+    "longitude": "23.48333000"
+  },
+  {
+    "name": "Kitee",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.10000000",
+    "longitude": "30.15000000"
+  },
+  {
+    "name": "Kittilä",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "67.66474000",
+    "longitude": "24.89356000"
+  },
+  {
+    "name": "Kiukainen",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.21667000",
+    "longitude": "22.08333000"
+  },
+  {
+    "name": "Kiuruvesi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.65000000",
+    "longitude": "26.61667000"
+  },
+  {
+    "name": "Kivijärvi",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "63.11984000",
+    "longitude": "25.07835000"
+  },
+  {
+    "name": "Kokemäki",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.25647000",
+    "longitude": "22.35643000"
+  },
+  {
+    "name": "Kokkola",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.85414000",
+    "longitude": "23.58562000"
+  },
+  {
+    "name": "Kolari",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "67.33047000",
+    "longitude": "23.77785000"
+  },
+  {
+    "name": "Konnevesi",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.61667000",
+    "longitude": "26.31667000"
+  },
+  {
+    "name": "Kontiolahti",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.76023000",
+    "longitude": "29.84711000"
+  },
+  {
+    "name": "Korpilahti",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.01667000",
+    "longitude": "25.55000000"
+  },
+  {
+    "name": "Korsholm",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.11418000",
+    "longitude": "21.68216000"
+  },
+  {
+    "name": "Korsnäs",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "62.78333000",
+    "longitude": "21.20000000"
+  },
+  {
+    "name": "Kortesjärvi",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "63.30000000",
+    "longitude": "23.16667000"
+  },
+  {
+    "name": "Kotka",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.46640000",
+    "longitude": "26.94582000"
+  },
+  {
+    "name": "Koukkuniemi",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.15261000",
+    "longitude": "24.76467000"
+  },
+  {
+    "name": "Kouvola",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.86667000",
+    "longitude": "26.70000000"
+  },
+  {
+    "name": "Kristinestad",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "62.27429000",
+    "longitude": "21.37596000"
+  },
+  {
+    "name": "Kronoby",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.72859000",
+    "longitude": "23.03387000"
+  },
+  {
+    "name": "Kuhmo",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.13333000",
+    "longitude": "29.51667000"
+  },
+  {
+    "name": "Kuhmoinen",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "61.56667000",
+    "longitude": "25.18333000"
+  },
+  {
+    "name": "Kuivaniemi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.57847000",
+    "longitude": "25.18814000"
+  },
+  {
+    "name": "Kullaa",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.46998000",
+    "longitude": "22.16145000"
+  },
+  {
+    "name": "Kuopio",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.89238000",
+    "longitude": "27.67703000"
+  },
+  {
+    "name": "Kuortane",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.80000000",
+    "longitude": "23.50000000"
+  },
+  {
+    "name": "Kurikka",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.61667000",
+    "longitude": "22.41667000"
+  },
+  {
+    "name": "Kustavi",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.54529000",
+    "longitude": "21.35880000"
+  },
+  {
+    "name": "Kuusamo",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.96667000",
+    "longitude": "29.18333000"
+  },
+  {
+    "name": "Kuusjoki",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.51667000",
+    "longitude": "23.20000000"
+  },
+  {
+    "name": "Kyyjärvi",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "63.03333000",
+    "longitude": "24.56667000"
+  },
+  {
+    "name": "Kälviä",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.86067000",
+    "longitude": "23.45289000"
+  },
+  {
+    "name": "Kärkölä",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.61292000",
+    "longitude": "23.94196000"
+  },
+  {
+    "name": "Kärsämäki",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "63.96667000",
+    "longitude": "25.76667000"
+  },
+  {
+    "name": "Köyliö",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.11910000",
+    "longitude": "22.30976000"
+  },
+  {
+    "name": "Lahti",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "60.98267000",
+    "longitude": "25.66151000"
+  },
+  {
+    "name": "Laihia",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "62.97609000",
+    "longitude": "22.01143000"
+  },
+  {
+    "name": "Laitila",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.87575000",
+    "longitude": "21.69765000"
+  },
+  {
+    "name": "Lammi",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "61.08333000",
+    "longitude": "25.01667000"
+  },
+  {
+    "name": "Lapinjärvi",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.62443000",
+    "longitude": "26.19720000"
+  },
+  {
+    "name": "Lapinlahti",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.36667000",
+    "longitude": "27.40000000"
+  },
+  {
+    "name": "Lappajärvi",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "63.20000000",
+    "longitude": "23.63333000"
+  },
+  {
+    "name": "Lappeenranta",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.05871000",
+    "longitude": "28.18871000"
+  },
+  {
+    "name": "Lappi",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.10000000",
+    "longitude": "21.83333000"
+  },
+  {
+    "name": "Lapua",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.96927000",
+    "longitude": "23.00880000"
+  },
+  {
+    "name": "Larsmo",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.75388000",
+    "longitude": "22.74728000"
+  },
+  {
+    "name": "Laukaa",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.41407000",
+    "longitude": "25.95194000"
+  },
+  {
+    "name": "Lauttasaari",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.15896000",
+    "longitude": "24.86797000"
+  },
+  {
+    "name": "Lavia",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.60000000",
+    "longitude": "22.60000000"
+  },
+  {
+    "name": "Lehtimäki",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.78333000",
+    "longitude": "23.91667000"
+  },
+  {
+    "name": "Leivonmäki",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "61.91198000",
+    "longitude": "26.12796000"
+  },
+  {
+    "name": "Lemi",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.06244000",
+    "longitude": "27.80571000"
+  },
+  {
+    "name": "Lemu",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.56667000",
+    "longitude": "21.96667000"
+  },
+  {
+    "name": "Leppävirta",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.49009000",
+    "longitude": "27.78262000"
+  },
+  {
+    "name": "Lestijärvi",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.53333000",
+    "longitude": "24.65000000"
+  },
+  {
+    "name": "Lieksa",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "63.31667000",
+    "longitude": "30.01667000"
+  },
+  {
+    "name": "Lieto",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.51032000",
+    "longitude": "22.46176000"
+  },
+  {
+    "name": "Liljendal",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.57346000",
+    "longitude": "26.05257000"
+  },
+  {
+    "name": "Liminka",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.80985000",
+    "longitude": "25.41545000"
+  },
+  {
+    "name": "Liperi",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.53333000",
+    "longitude": "29.36667000"
+  },
+  {
+    "name": "Lohja",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.24859000",
+    "longitude": "24.06534000"
+  },
+  {
+    "name": "Lohtaja",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "64.02472000",
+    "longitude": "23.50482000"
+  },
+  {
+    "name": "Loppi",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.71667000",
+    "longitude": "24.45000000"
+  },
+  {
+    "name": "Lovisa",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.45659000",
+    "longitude": "26.22505000"
+  },
+  {
+    "name": "Luhanka",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "61.79682000",
+    "longitude": "25.70457000"
+  },
+  {
+    "name": "Lumijoki",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.83744000",
+    "longitude": "25.18607000"
+  },
+  {
+    "name": "Luumäki",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "60.92618000",
+    "longitude": "27.58135000"
+  },
+  {
+    "name": "Luvia",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.36375000",
+    "longitude": "21.62556000"
+  },
+  {
+    "name": "Längelmäki",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.65000000",
+    "longitude": "22.10000000"
+  },
+  {
+    "name": "Maaninka",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.15523000",
+    "longitude": "27.29939000"
+  },
+  {
+    "name": "Malax",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "62.94225000",
+    "longitude": "21.57311000"
+  },
+  {
+    "name": "Marttila",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.58333000",
+    "longitude": "22.90000000"
+  },
+  {
+    "name": "Masku",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.57082000",
+    "longitude": "22.09883000"
+  },
+  {
+    "name": "Mellilä",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.76667000",
+    "longitude": "22.95000000"
+  },
+  {
+    "name": "Mellunkylä",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.23355000",
+    "longitude": "25.09947000"
+  },
+  {
+    "name": "Merijärvi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.30000000",
+    "longitude": "24.45000000"
+  },
+  {
+    "name": "Merikarvia",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.85839000",
+    "longitude": "21.50035000"
+  },
+  {
+    "name": "Merimasku",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.48333000",
+    "longitude": "21.86667000"
+  },
+  {
+    "name": "Miehikkälä",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.66667000",
+    "longitude": "27.70000000"
+  },
+  {
+    "name": "Mietoinen",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.63333000",
+    "longitude": "21.93333000"
+  },
+  {
+    "name": "Mikkeli",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.68857000",
+    "longitude": "27.27227000"
+  },
+  {
+    "name": "Muhos",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.80798000",
+    "longitude": "25.99314000"
+  },
+  {
+    "name": "Multia",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.41667000",
+    "longitude": "24.78333000"
+  },
+  {
+    "name": "Munkkiniemi",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.19861000",
+    "longitude": "24.87772000"
+  },
+  {
+    "name": "Muonio",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "67.95000000",
+    "longitude": "23.70000000"
+  },
+  {
+    "name": "Muurame",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.13333000",
+    "longitude": "25.66667000"
+  },
+  {
+    "name": "Muurla",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.35000000",
+    "longitude": "23.28333000"
+  },
+  {
+    "name": "Mynämäki",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.67915000",
+    "longitude": "21.99274000"
+  },
+  {
+    "name": "Myrskylä",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.66965000",
+    "longitude": "25.84750000"
+  },
+  {
+    "name": "Mäntsälä",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.63333000",
+    "longitude": "25.31667000"
+  },
+  {
+    "name": "Mäntyharju",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.41667000",
+    "longitude": "26.88333000"
+  },
+  {
+    "name": "Naantali",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.46744000",
+    "longitude": "22.02428000"
+  },
+  {
+    "name": "Nagu",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.19375000",
+    "longitude": "21.90972000"
+  },
+  {
+    "name": "Nakkila",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.36667000",
+    "longitude": "22.00000000"
+  },
+  {
+    "name": "Nastola",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "60.95000000",
+    "longitude": "25.93333000"
+  },
+  {
+    "name": "Nilsiä",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.20746000",
+    "longitude": "28.08222000"
+  },
+  {
+    "name": "Nivala",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "63.91667000",
+    "longitude": "24.96667000"
+  },
+  {
+    "name": "Noormarkku",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.59274000",
+    "longitude": "21.86846000"
+  },
+  {
+    "name": "Nousiainen",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.60416000",
+    "longitude": "22.07926000"
+  },
+  {
+    "name": "Nuijamaa",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "60.96011000",
+    "longitude": "28.55104000"
+  },
+  {
+    "name": "Nurmes",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "63.54205000",
+    "longitude": "29.13965000"
+  },
+  {
+    "name": "Nurmijärvi",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.46407000",
+    "longitude": "24.80730000"
+  },
+  {
+    "name": "Nurmo",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.82870000",
+    "longitude": "22.90990000"
+  },
+  {
+    "name": "Nykarleby",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.52277000",
+    "longitude": "22.53073000"
+  },
+  {
+    "name": "Oravais",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.30135000",
+    "longitude": "22.37821000"
+  },
+  {
+    "name": "Orimattila",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "60.80487000",
+    "longitude": "25.72964000"
+  },
+  {
+    "name": "Oripää",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.85000000",
+    "longitude": "22.68333000"
+  },
+  {
+    "name": "Otaniemi",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.18395000",
+    "longitude": "24.82786000"
+  },
+  {
+    "name": "Oulainen",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.26667000",
+    "longitude": "24.80000000"
+  },
+  {
+    "name": "Oulu",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.01236000",
+    "longitude": "25.46816000"
+  },
+  {
+    "name": "Oulunsalo",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.93456000",
+    "longitude": "25.41121000"
+  },
+  {
+    "name": "Outokumpu",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.72685000",
+    "longitude": "29.01592000"
+  },
+  {
+    "name": "Padasjoki",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "61.35000000",
+    "longitude": "25.28333000"
+  },
+  {
+    "name": "Paimio",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.45671000",
+    "longitude": "22.68694000"
+  },
+  {
+    "name": "Paltamo",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.41667000",
+    "longitude": "27.83333000"
+  },
+  {
+    "name": "Pargas",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.30672000",
+    "longitude": "22.30097000"
+  },
+  {
+    "name": "Parikkala",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.55000000",
+    "longitude": "29.50000000"
+  },
+  {
+    "name": "Pedersöre",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.65000000",
+    "longitude": "22.68333000"
+  },
+  {
+    "name": "Pelkosenniemi",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "67.11083000",
+    "longitude": "27.51056000"
+  },
+  {
+    "name": "Pello",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "66.77364000",
+    "longitude": "23.96255000"
+  },
+  {
+    "name": "Perho",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.21667000",
+    "longitude": "24.41667000"
+  },
+  {
+    "name": "Perniö",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.20000000",
+    "longitude": "23.13333000"
+  },
+  {
+    "name": "Pernå",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.44869000",
+    "longitude": "26.03187000"
+  },
+  {
+    "name": "Pertteli",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.43333000",
+    "longitude": "23.26667000"
+  },
+  {
+    "name": "Pertunmaa",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.50000000",
+    "longitude": "26.48333000"
+  },
+  {
+    "name": "Petäjävesi",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.25000000",
+    "longitude": "25.20000000"
+  },
+  {
+    "name": "Pieksämäki",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.30000000",
+    "longitude": "27.13333000"
+  },
+  {
+    "name": "Pielavesi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.23333000",
+    "longitude": "26.75000000"
+  },
+  {
+    "name": "Pihtipudas",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "63.38333000",
+    "longitude": "25.56667000"
+  },
+  {
+    "name": "Piikkiö",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.42481000",
+    "longitude": "22.51601000"
+  },
+  {
+    "name": "Piippola",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.16667000",
+    "longitude": "25.96667000"
+  },
+  {
+    "name": "Pohja",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.09626000",
+    "longitude": "23.52757000"
+  },
+  {
+    "name": "Polvijärvi",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.85000000",
+    "longitude": "29.36667000"
+  },
+  {
+    "name": "Pomarkku",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.69348000",
+    "longitude": "22.00862000"
+  },
+  {
+    "name": "Pori",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.48333000",
+    "longitude": "21.78333000"
+  },
+  {
+    "name": "Pornainen",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.47581000",
+    "longitude": "25.37490000"
+  },
+  {
+    "name": "Porvoo",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.39233000",
+    "longitude": "25.66507000"
+  },
+  {
+    "name": "Posio",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "66.10856000",
+    "longitude": "28.17186000"
+  },
+  {
+    "name": "Pudasjärvi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.38333000",
+    "longitude": "26.91667000"
+  },
+  {
+    "name": "Pukkila",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.65000000",
+    "longitude": "25.56667000"
+  },
+  {
+    "name": "Pulkkila",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.26667000",
+    "longitude": "25.86667000"
+  },
+  {
+    "name": "Punkaharju",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.75883000",
+    "longitude": "29.38843000"
+  },
+  {
+    "name": "Puolanka",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.86667000",
+    "longitude": "27.66667000"
+  },
+  {
+    "name": "Puumala",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.52728000",
+    "longitude": "28.17495000"
+  },
+  {
+    "name": "Pyhtää",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.49349000",
+    "longitude": "26.54346000"
+  },
+  {
+    "name": "Pyhäjoki",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.46667000",
+    "longitude": "24.23333000"
+  },
+  {
+    "name": "Pyhäjärvi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "63.66667000",
+    "longitude": "25.90000000"
+  },
+  {
+    "name": "Pyhäjärvi",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "67.07010000",
+    "longitude": "27.21763000"
+  },
+  {
+    "name": "Pyhäntä",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.10000000",
+    "longitude": "26.31667000"
+  },
+  {
+    "name": "Pyhäranta",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.95000000",
+    "longitude": "21.45000000"
+  },
+  {
+    "name": "Pyhäselkä",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.43333000",
+    "longitude": "29.96667000"
+  },
+  {
+    "name": "Pylkönmäki",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.66667000",
+    "longitude": "24.80000000"
+  },
+  {
+    "name": "Pöytyä",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.76667000",
+    "longitude": "22.66667000"
+  },
+  {
+    "name": "Raahe",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.68333000",
+    "longitude": "24.48333000"
+  },
+  {
+    "name": "Raaseporin",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.00273000",
+    "longitude": "23.55499000"
+  },
+  {
+    "name": "Raisio",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.48592000",
+    "longitude": "22.16895000"
+  },
+  {
+    "name": "Rantasalmi",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.06667000",
+    "longitude": "28.30000000"
+  },
+  {
+    "name": "Rantsila",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.50613000",
+    "longitude": "25.66449000"
+  },
+  {
+    "name": "Ranua",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "65.91667000",
+    "longitude": "26.53333000"
+  },
+  {
+    "name": "Rauma",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.12724000",
+    "longitude": "21.51127000"
+  },
+  {
+    "name": "Rautalampi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.63333000",
+    "longitude": "26.83333000"
+  },
+  {
+    "name": "Rautavaara",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.48333000",
+    "longitude": "28.30000000"
+  },
+  {
+    "name": "Rautjärvi",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.43333000",
+    "longitude": "29.35000000"
+  },
+  {
+    "name": "Reisjärvi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "63.61667000",
+    "longitude": "24.90000000"
+  },
+  {
+    "name": "Renko",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.89563000",
+    "longitude": "24.28785000"
+  },
+  {
+    "name": "Replot",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.22882000",
+    "longitude": "21.41691000"
+  },
+  {
+    "name": "Riihimäki",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.73769000",
+    "longitude": "24.77726000"
+  },
+  {
+    "name": "Ristiina",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.50579000",
+    "longitude": "27.24643000"
+  },
+  {
+    "name": "Ristijärvi",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.50000000",
+    "longitude": "28.21667000"
+  },
+  {
+    "name": "Ristinummi",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.09192000",
+    "longitude": "21.72297000"
+  },
+  {
+    "name": "Rovaniemi",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "66.50000000",
+    "longitude": "25.71667000"
+  },
+  {
+    "name": "Ruokolahti",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.28333000",
+    "longitude": "28.83333000"
+  },
+  {
+    "name": "Ruotsinpyhtää",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.52680000",
+    "longitude": "26.46203000"
+  },
+  {
+    "name": "Rusko",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.53333000",
+    "longitude": "22.21667000"
+  },
+  {
+    "name": "Ruukki",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.66667000",
+    "longitude": "25.10000000"
+  },
+  {
+    "name": "Rymättylä",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.37658000",
+    "longitude": "21.94184000"
+  },
+  {
+    "name": "Rääkkylä",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.31667000",
+    "longitude": "29.61667000"
+  },
+  {
+    "name": "Saari",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.65000000",
+    "longitude": "29.75000000"
+  },
+  {
+    "name": "Saarijärvi",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.70486000",
+    "longitude": "25.25396000"
+  },
+  {
+    "name": "Salla",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "66.83333000",
+    "longitude": "28.66667000"
+  },
+  {
+    "name": "Salo",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.38333000",
+    "longitude": "23.13333000"
+  },
+  {
+    "name": "Sammatti",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.31991000",
+    "longitude": "23.82085000"
+  },
+  {
+    "name": "Sauvo",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.34306000",
+    "longitude": "22.69642000"
+  },
+  {
+    "name": "Savitaipale",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.20000000",
+    "longitude": "27.70000000"
+  },
+  {
+    "name": "Savonlinna",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.86990000",
+    "longitude": "28.87999000"
+  },
+  {
+    "name": "Savonranta",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.18333000",
+    "longitude": "29.20000000"
+  },
+  {
+    "name": "Savukoski",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "67.29250000",
+    "longitude": "28.15806000"
+  },
+  {
+    "name": "Seinäjoki",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.79446000",
+    "longitude": "22.82822000"
+  },
+  {
+    "name": "Sibbo",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.37752000",
+    "longitude": "25.26906000"
+  },
+  {
+    "name": "Sievi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "63.90000000",
+    "longitude": "24.50000000"
+  },
+  {
+    "name": "Siikainen",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.87703000",
+    "longitude": "21.81945000"
+  },
+  {
+    "name": "Siikajoki",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.81455000",
+    "longitude": "24.75924000"
+  },
+  {
+    "name": "Siilinjärvi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.08333000",
+    "longitude": "27.66667000"
+  },
+  {
+    "name": "Simo",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "65.66667000",
+    "longitude": "25.05000000"
+  },
+  {
+    "name": "Siuntio",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.13862000",
+    "longitude": "24.22715000"
+  },
+  {
+    "name": "Sodankylä",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "67.41667000",
+    "longitude": "26.60000000"
+  },
+  {
+    "name": "Soini",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.86667000",
+    "longitude": "24.21667000"
+  },
+  {
+    "name": "Somero",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.61667000",
+    "longitude": "23.53333000"
+  },
+  {
+    "name": "Sonkajärvi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.66667000",
+    "longitude": "27.51667000"
+  },
+  {
+    "name": "Sotkamo",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.13333000",
+    "longitude": "28.41667000"
+  },
+  {
+    "name": "Sulkava",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "61.78691000",
+    "longitude": "28.37299000"
+  },
+  {
+    "name": "Sumiainen",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.65736000",
+    "longitude": "26.04642000"
+  },
+  {
+    "name": "Suolahti",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.56421000",
+    "longitude": "25.85363000"
+  },
+  {
+    "name": "Suomusjärvi",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.35000000",
+    "longitude": "23.65000000"
+  },
+  {
+    "name": "Suomussalmi",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.88685000",
+    "longitude": "28.90778000"
+  },
+  {
+    "name": "Suonenjoki",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.61667000",
+    "longitude": "27.13333000"
+  },
+  {
+    "name": "Sysmä",
+    "countryCode": "FI",
+    "stateCode": "16",
+    "latitude": "61.50000000",
+    "longitude": "25.68333000"
+  },
+  {
+    "name": "Säkylä",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.03333000",
+    "longitude": "22.33333000"
+  },
+  {
+    "name": "Särkisalo",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.11389000",
+    "longitude": "22.95000000"
+  },
+  {
+    "name": "Säynätsalo",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.14025000",
+    "longitude": "25.76948000"
+  },
+  {
+    "name": "Taipalsaari",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "61.15000000",
+    "longitude": "28.05000000"
+  },
+  {
+    "name": "Taivalkoski",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.56667000",
+    "longitude": "28.25000000"
+  },
+  {
+    "name": "Taivassalo",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.56085000",
+    "longitude": "21.61639000"
+  },
+  {
+    "name": "Tammela",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.81035000",
+    "longitude": "23.76823000"
+  },
+  {
+    "name": "Tarvasjoki",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.58333000",
+    "longitude": "22.73333000"
+  },
+  {
+    "name": "Teeriniemi",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.09705000",
+    "longitude": "21.69590000"
+  },
+  {
+    "name": "Tervakoski",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.81412000",
+    "longitude": "24.62594000"
+  },
+  {
+    "name": "Tervo",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.95000000",
+    "longitude": "26.75000000"
+  },
+  {
+    "name": "Tervola",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "66.08333000",
+    "longitude": "24.80000000"
+  },
+  {
+    "name": "Teuva",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.48190000",
+    "longitude": "21.74156000"
+  },
+  {
+    "name": "Tohmajärvi",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.18333000",
+    "longitude": "30.38333000"
+  },
+  {
+    "name": "Toholampi",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.76667000",
+    "longitude": "24.25000000"
+  },
+  {
+    "name": "Toivakka",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.10000000",
+    "longitude": "26.08333000"
+  },
+  {
+    "name": "Tornio",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "65.84811000",
+    "longitude": "24.14662000"
+  },
+  {
+    "name": "Turku",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.45148000",
+    "longitude": "22.26869000"
+  },
+  {
+    "name": "Tuulos",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "61.15000000",
+    "longitude": "24.80000000"
+  },
+  {
+    "name": "Tuupovaara",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "62.48372000",
+    "longitude": "30.62731000"
+  },
+  {
+    "name": "Tuusniemi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.81667000",
+    "longitude": "28.50000000"
+  },
+  {
+    "name": "Tuusula",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.40368000",
+    "longitude": "25.02638000"
+  },
+  {
+    "name": "Tyrnävä",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.76469000",
+    "longitude": "25.65230000"
+  },
+  {
+    "name": "Töysä",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.62803000",
+    "longitude": "23.81828000"
+  },
+  {
+    "name": "Ullava",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.60000000",
+    "longitude": "24.08333000"
+  },
+  {
+    "name": "Ulvila",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.42844000",
+    "longitude": "21.87103000"
+  },
+  {
+    "name": "Utajärvi",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.75000000",
+    "longitude": "26.38333000"
+  },
+  {
+    "name": "Utsjoki",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "69.90864000",
+    "longitude": "27.02843000"
+  },
+  {
+    "name": "Uurainen",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.50000000",
+    "longitude": "25.45000000"
+  },
+  {
+    "name": "Uusikaupunki",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.80043000",
+    "longitude": "21.40841000"
+  },
+  {
+    "name": "Vaala",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.56667000",
+    "longitude": "26.83333000"
+  },
+  {
+    "name": "Vaasa",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.09600000",
+    "longitude": "21.61577000"
+  },
+  {
+    "name": "Vahto",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.60000000",
+    "longitude": "22.30000000"
+  },
+  {
+    "name": "Valtimo",
+    "countryCode": "FI",
+    "stateCode": "13",
+    "latitude": "63.66667000",
+    "longitude": "28.80000000"
+  },
+  {
+    "name": "Vampula",
+    "countryCode": "FI",
+    "stateCode": "17",
+    "latitude": "61.01667000",
+    "longitude": "22.70000000"
+  },
+  {
+    "name": "Vantaa",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.29414000",
+    "longitude": "25.04099000"
+  },
+  {
+    "name": "Varkaus",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.31533000",
+    "longitude": "27.87300000"
+  },
+  {
+    "name": "Varpaisjärvi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.35932000",
+    "longitude": "27.75506000"
+  },
+  {
+    "name": "Vehmaa",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.68333000",
+    "longitude": "21.66667000"
+  },
+  {
+    "name": "Vehmersalmi",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.76101000",
+    "longitude": "28.02853000"
+  },
+  {
+    "name": "Velkua",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.46667000",
+    "longitude": "21.66667000"
+  },
+  {
+    "name": "Vesanto",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "62.93333000",
+    "longitude": "26.41667000"
+  },
+  {
+    "name": "Veteli",
+    "countryCode": "FI",
+    "stateCode": "07",
+    "latitude": "63.47839000",
+    "longitude": "23.78285000"
+  },
+  {
+    "name": "Vieremä",
+    "countryCode": "FI",
+    "stateCode": "11",
+    "latitude": "63.75000000",
+    "longitude": "27.01667000"
+  },
+  {
+    "name": "Vihanti",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.48472000",
+    "longitude": "24.99157000"
+  },
+  {
+    "name": "Vihti",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.41699000",
+    "longitude": "24.31965000"
+  },
+  {
+    "name": "Viitasaari",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "63.06667000",
+    "longitude": "25.86667000"
+  },
+  {
+    "name": "Vimpeli",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "63.16187000",
+    "longitude": "23.81922000"
+  },
+  {
+    "name": "Virojoki",
+    "countryCode": "FI",
+    "stateCode": "09",
+    "latitude": "60.57940000",
+    "longitude": "27.70354000"
+  },
+  {
+    "name": "Virtasalmi",
+    "countryCode": "FI",
+    "stateCode": "04",
+    "latitude": "62.12695000",
+    "longitude": "27.46276000"
+  },
+  {
+    "name": "Vuokatti",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.14466000",
+    "longitude": "28.28196000"
+  },
+  {
+    "name": "Vuolijoki",
+    "countryCode": "FI",
+    "stateCode": "05",
+    "latitude": "64.18538000",
+    "longitude": "26.99547000"
+  },
+  {
+    "name": "Vuosaari",
+    "countryCode": "FI",
+    "stateCode": "18",
+    "latitude": "60.20963000",
+    "longitude": "25.14195000"
+  },
+  {
+    "name": "Vähäkyrö",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.05635000",
+    "longitude": "22.10584000"
+  },
+  {
+    "name": "Västanfjärd",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.05000000",
+    "longitude": "22.68333000"
+  },
+  {
+    "name": "Väståboland",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.29972000",
+    "longitude": "22.30040000"
+  },
+  {
+    "name": "Vörå",
+    "countryCode": "FI",
+    "stateCode": "12",
+    "latitude": "63.13607000",
+    "longitude": "22.25223000"
+  },
+  {
+    "name": "Yli-Ii",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.37181000",
+    "longitude": "25.84580000"
+  },
+  {
+    "name": "Ylihärmä",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "63.15000000",
+    "longitude": "22.78333000"
+  },
+  {
+    "name": "Ylikiiminki",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "65.08333000",
+    "longitude": "26.25000000"
+  },
+  {
+    "name": "Ylistaro",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.93958000",
+    "longitude": "22.51306000"
+  },
+  {
+    "name": "Ylitornio",
+    "countryCode": "FI",
+    "stateCode": "LL",
+    "latitude": "66.30893000",
+    "longitude": "23.67734000"
+  },
+  {
+    "name": "Ylivieska",
+    "countryCode": "FI",
+    "stateCode": "14",
+    "latitude": "64.08333000",
+    "longitude": "24.55000000"
+  },
+  {
+    "name": "Ylämaa",
+    "countryCode": "FI",
+    "stateCode": "02",
+    "latitude": "60.80000000",
+    "longitude": "28.00000000"
+  },
+  {
+    "name": "Yläne",
+    "countryCode": "FI",
+    "stateCode": "19",
+    "latitude": "60.88333000",
+    "longitude": "22.41667000"
+  },
+  {
+    "name": "Ypäjä",
+    "countryCode": "FI",
+    "stateCode": "06",
+    "latitude": "60.80000000",
+    "longitude": "23.28333000"
+  },
+  {
+    "name": "Ähtäri",
+    "countryCode": "FI",
+    "stateCode": "03",
+    "latitude": "62.55403000",
+    "longitude": "24.06186000"
+  },
+  {
+    "name": "Äänekoski",
+    "countryCode": "FI",
+    "stateCode": "08",
+    "latitude": "62.60000000",
+    "longitude": "25.73333000"
+  }
+]

@@ -1,0 +1,1031 @@
+[
+  {
+    "name": "Akurana",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.36500000",
+    "longitude": "80.61722200"
+  },
+  {
+    "name": "Alawatugoda",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.41048962",
+    "longitude": "80.60918933"
+  },
+  {
+    "name": "Ambalangoda",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.23550000",
+    "longitude": "80.05380000"
+  },
+  {
+    "name": "Ambatenna",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.35252855",
+    "longitude": "80.61378113"
+  },
+  {
+    "name": "Ampara",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "7.29754000",
+    "longitude": "81.68202000"
+  },
+  {
+    "name": "Ampara District",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "7.08330000",
+    "longitude": "81.75000000"
+  },
+  {
+    "name": "Anuradhapura",
+    "countryCode": "LK",
+    "stateCode": "7",
+    "latitude": "8.31223000",
+    "longitude": "80.41306000"
+  },
+  {
+    "name": "Anuradhapura District",
+    "countryCode": "LK",
+    "stateCode": "7",
+    "latitude": "8.33333000",
+    "longitude": "80.50000000"
+  },
+  {
+    "name": "Badulla",
+    "countryCode": "LK",
+    "stateCode": "8",
+    "latitude": "6.98020000",
+    "longitude": "81.05770000"
+  },
+  {
+    "name": "Badulla District",
+    "countryCode": "LK",
+    "stateCode": "8",
+    "latitude": "6.98472000",
+    "longitude": "81.05639000"
+  },
+  {
+    "name": "Battaramulla South",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.89640000",
+    "longitude": "79.91810000"
+  },
+  {
+    "name": "Batticaloa",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "7.71020000",
+    "longitude": "81.69240000"
+  },
+  {
+    "name": "Batticaloa District",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "7.75000000",
+    "longitude": "81.49970000"
+  },
+  {
+    "name": "Bentota",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.42598000",
+    "longitude": "79.99575000"
+  },
+  {
+    "name": "Beruwala",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.47880000",
+    "longitude": "79.98280000"
+  },
+  {
+    "name": "Chilaw",
+    "countryCode": "LK",
+    "stateCode": "6",
+    "latitude": "7.57583000",
+    "longitude": "79.79528000"
+  },
+  {
+    "name": "Colombo",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.93548000",
+    "longitude": "79.84868000"
+  },
+  {
+    "name": "Colombo District",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.86640000",
+    "longitude": "80.01660000"
+  },
+  {
+    "name": "Dambulla",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "7.86000000",
+    "longitude": "80.65167000"
+  },
+  {
+    "name": "Daskara",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.20902217",
+    "longitude": "80.57764643"
+  },
+  {
+    "name": "Daulagala",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.22882494",
+    "longitude": "80.57756073"
+  },
+  {
+    "name": "Dehiwala-Mount Lavinia",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.84019000",
+    "longitude": "79.87116000"
+  },
+  {
+    "name": "Delthota",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.18491721",
+    "longitude": "80.70488697"
+  },
+  {
+    "name": "Devinuwara",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "5.92825000",
+    "longitude": "80.58880000"
+  },
+  {
+    "name": "Doluwa",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.18518536",
+    "longitude": "80.60573450"
+  },
+  {
+    "name": "Ella Town",
+    "countryCode": "LK",
+    "stateCode": "8",
+    "latitude": "6.87560000",
+    "longitude": "81.04630000"
+  },
+  {
+    "name": "Eravur Town",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "7.77820000",
+    "longitude": "81.60380000"
+  },
+  {
+    "name": "Galagedara",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.36833300",
+    "longitude": "80.52750000"
+  },
+  {
+    "name": "Galhinna",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.41614200",
+    "longitude": "80.56884200"
+  },
+  {
+    "name": "Galle",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.04610000",
+    "longitude": "80.21030000"
+  },
+  {
+    "name": "Galle District",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.25000000",
+    "longitude": "80.25000000"
+  },
+  {
+    "name": "Gampaha",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "7.08970000",
+    "longitude": "79.99250000"
+  },
+  {
+    "name": "Gampaha District",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "7.13330000",
+    "longitude": "80.00000000"
+  },
+  {
+    "name": "Gampola",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.16430000",
+    "longitude": "80.56960000"
+  },
+  {
+    "name": "Ganga Ihala Korale",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.11455516",
+    "longitude": "80.51448810"
+  },
+  {
+    "name": "Hambantota District",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.25440000",
+    "longitude": "81.11110000"
+  },
+  {
+    "name": "Hanguranketa",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.16666700",
+    "longitude": "80.78333300"
+  },
+  {
+    "name": "Hanwella Ihala",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.90120000",
+    "longitude": "80.08520000"
+  },
+  {
+    "name": "Hapugastalawa",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.05872498",
+    "longitude": "80.57137014"
+  },
+  {
+    "name": "Haputale",
+    "countryCode": "LK",
+    "stateCode": "8",
+    "latitude": "6.76566000",
+    "longitude": "80.95104000"
+  },
+  {
+    "name": "Harispattuwa",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.33016007",
+    "longitude": "80.58765149"
+  },
+  {
+    "name": "Hatharaliyadda",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.33032982",
+    "longitude": "80.47875881"
+  },
+  {
+    "name": "Hatton",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "6.89160000",
+    "longitude": "80.59550000"
+  },
+  {
+    "name": "Hendala",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.99090000",
+    "longitude": "79.88300000"
+  },
+  {
+    "name": "Hikkaduwa",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.14070000",
+    "longitude": "80.10120000"
+  },
+  {
+    "name": "Homagama",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.84879896",
+    "longitude": "80.00467300"
+  },
+  {
+    "name": "Horana South",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.71590000",
+    "longitude": "80.06260000"
+  },
+  {
+    "name": "Horawala Junction",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.48088000",
+    "longitude": "80.12708000"
+  },
+  {
+    "name": "Ja Ela",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "7.07440000",
+    "longitude": "79.89190000"
+  },
+  {
+    "name": "Jaffna",
+    "countryCode": "LK",
+    "stateCode": "4",
+    "latitude": "9.66845000",
+    "longitude": "80.00742000"
+  },
+  {
+    "name": "Jaffna District",
+    "countryCode": "LK",
+    "stateCode": "4",
+    "latitude": "9.75000000",
+    "longitude": "80.08333000"
+  },
+  {
+    "name": "Kadugannawa",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.25470000",
+    "longitude": "80.52420000"
+  },
+  {
+    "name": "Kaduwela",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.93106260",
+    "longitude": "79.97944220"
+  },
+  {
+    "name": "Kalmunai",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "7.40902000",
+    "longitude": "81.83472000"
+  },
+  {
+    "name": "Kalutara",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.58310000",
+    "longitude": "79.95930000"
+  },
+  {
+    "name": "Kandana",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "7.04800000",
+    "longitude": "79.89370000"
+  },
+  {
+    "name": "Kandy",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "7.29060000",
+    "longitude": "80.63360000"
+  },
+  {
+    "name": "Kandy District",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "7.30440000",
+    "longitude": "80.70730000"
+  },
+  {
+    "name": "Kandy Four Gravets",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.28318748",
+    "longitude": "80.63527585"
+  },
+  {
+    "name": "Kataragama",
+    "countryCode": "LK",
+    "stateCode": "8",
+    "latitude": "6.41340000",
+    "longitude": "81.33460000"
+  },
+  {
+    "name": "Katugastota",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.33333300",
+    "longitude": "80.61666700"
+  },
+  {
+    "name": "Katunayaka",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "7.16992000",
+    "longitude": "79.88837000"
+  },
+  {
+    "name": "Kegalle",
+    "countryCode": "LK",
+    "stateCode": "9",
+    "latitude": "7.25230000",
+    "longitude": "80.34360000"
+  },
+  {
+    "name": "Kegalle District",
+    "countryCode": "LK",
+    "stateCode": "9",
+    "latitude": "7.11670000",
+    "longitude": "80.33330000"
+  },
+  {
+    "name": "Kelaniya",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.95530000",
+    "longitude": "79.92200000"
+  },
+  {
+    "name": "Kesbewa",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.78425894",
+    "longitude": "79.94665276"
+  },
+  {
+    "name": "Kilinochchi",
+    "countryCode": "LK",
+    "stateCode": "4",
+    "latitude": "9.39610000",
+    "longitude": "80.39820000"
+  },
+  {
+    "name": "Kilinochchi District",
+    "countryCode": "LK",
+    "stateCode": "4",
+    "latitude": "9.39487000",
+    "longitude": "80.40894000"
+  },
+  {
+    "name": "Koggala",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "5.98860000",
+    "longitude": "80.32860000"
+  },
+  {
+    "name": "Kolonnawa",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.92893463",
+    "longitude": "79.89495168"
+  },
+  {
+    "name": "Kotikawatta",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.92690000",
+    "longitude": "79.90950000"
+  },
+  {
+    "name": "Kotte",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.88932048",
+    "longitude": "79.90359501"
+  },
+  {
+    "name": "Kuliyapitiya",
+    "countryCode": "LK",
+    "stateCode": "6",
+    "latitude": "7.46880000",
+    "longitude": "80.04010000"
+  },
+  {
+    "name": "Kundasale",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.30391594",
+    "longitude": "80.71230408"
+  },
+  {
+    "name": "Kurunegala",
+    "countryCode": "LK",
+    "stateCode": "6",
+    "latitude": "7.48390000",
+    "longitude": "80.36830000"
+  },
+  {
+    "name": "Kurunegala District",
+    "countryCode": "LK",
+    "stateCode": "6",
+    "latitude": "7.75000000",
+    "longitude": "80.25000000"
+  },
+  {
+    "name": "Madawala",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.32833100",
+    "longitude": "80.67355200"
+  },
+  {
+    "name": "Maharagama",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.84954886",
+    "longitude": "79.92507313"
+  },
+  {
+    "name": "Matale",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "7.46980000",
+    "longitude": "80.62170000"
+  },
+  {
+    "name": "Matale District",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "7.65980000",
+    "longitude": "80.70730000"
+  },
+  {
+    "name": "Matara",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "5.94851000",
+    "longitude": "80.53528000"
+  },
+  {
+    "name": "Matara District",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.13290000",
+    "longitude": "80.52800000"
+  },
+  {
+    "name": "Medadumbara",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.30425996",
+    "longitude": "80.77519844"
+  },
+  {
+    "name": "Menikdiwela",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.08333300",
+    "longitude": "80.73333300"
+  },
+  {
+    "name": "Mihintale",
+    "countryCode": "LK",
+    "stateCode": "7",
+    "latitude": "8.35930000",
+    "longitude": "80.51030000"
+  },
+  {
+    "name": "Minipe",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.22638754",
+    "longitude": "81.00116732"
+  },
+  {
+    "name": "Minuwangoda",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "7.16630000",
+    "longitude": "79.95330000"
+  },
+  {
+    "name": "Mirissa city",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "5.94655000",
+    "longitude": "80.45831000"
+  },
+  {
+    "name": "Monaragala",
+    "countryCode": "LK",
+    "stateCode": "8",
+    "latitude": "6.87140000",
+    "longitude": "81.34870000"
+  },
+  {
+    "name": "Moneragala District",
+    "countryCode": "LK",
+    "stateCode": "8",
+    "latitude": "6.66667000",
+    "longitude": "81.33333000"
+  },
+  {
+    "name": "Moratuwa",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.78149272",
+    "longitude": "79.88347117"
+  },
+  {
+    "name": "Mulleriyawa",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.93300000",
+    "longitude": "79.92970000"
+  },
+  {
+    "name": "Nawalapitiya",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.03696481",
+    "longitude": "80.51626688"
+  },
+  {
+    "name": "Negombo",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "7.20830000",
+    "longitude": "79.83580000"
+  },
+  {
+    "name": "Nuwara Eliya",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "6.97078000",
+    "longitude": "80.78286000"
+  },
+  {
+    "name": "Nuwara Eliya District",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "6.97850000",
+    "longitude": "80.71330000"
+  },
+  {
+    "name": "Padukka",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.84794680",
+    "longitude": "80.10153292"
+  },
+  {
+    "name": "Pallekele",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.28333300",
+    "longitude": "80.70000000"
+  },
+  {
+    "name": "Panadura",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.71320000",
+    "longitude": "79.90260000"
+  },
+  {
+    "name": "Panvila",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.40929750",
+    "longitude": "80.73966228"
+  },
+  {
+    "name": "Pasbage Korale",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.01510450",
+    "longitude": "80.54078073"
+  },
+  {
+    "name": "Pathadumbara",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.34931196",
+    "longitude": "80.66303689"
+  },
+  {
+    "name": "Pathahewaheta",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.23139207",
+    "longitude": "80.70848937"
+  },
+  {
+    "name": "Peliyagoda",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.96850000",
+    "longitude": "79.88360000"
+  },
+  {
+    "name": "Peradeniya",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.26666700",
+    "longitude": "80.60000000"
+  },
+  {
+    "name": "Pilimathalawa",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.27000000",
+    "longitude": "80.57000000"
+  },
+  {
+    "name": "Pita Kotte",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.89050000",
+    "longitude": "79.90150000"
+  },
+  {
+    "name": "Point Pedro",
+    "countryCode": "LK",
+    "stateCode": "4",
+    "latitude": "9.81667000",
+    "longitude": "80.23333000"
+  },
+  {
+    "name": "Polonnaruwa",
+    "countryCode": "LK",
+    "stateCode": "7",
+    "latitude": "7.93965000",
+    "longitude": "81.00274000"
+  },
+  {
+    "name": "Polonnaruwa District",
+    "countryCode": "LK",
+    "stateCode": "7",
+    "latitude": "8.00000000",
+    "longitude": "81.00000000"
+  },
+  {
+    "name": "Poojapitiya",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.38093796",
+    "longitude": "80.58913708"
+  },
+  {
+    "name": "Pussellawa",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.10533300",
+    "longitude": "80.63666700"
+  },
+  {
+    "name": "Puttalam",
+    "countryCode": "LK",
+    "stateCode": "6",
+    "latitude": "8.03620000",
+    "longitude": "79.82830000"
+  },
+  {
+    "name": "Puttalam District",
+    "countryCode": "LK",
+    "stateCode": "6",
+    "latitude": "8.04540000",
+    "longitude": "79.93190000"
+  },
+  {
+    "name": "Ratmalana",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.82105987",
+    "longitude": "79.88023083"
+  },
+  {
+    "name": "Ratnapura",
+    "countryCode": "LK",
+    "stateCode": "9",
+    "latitude": "6.68580000",
+    "longitude": "80.40360000"
+  },
+  {
+    "name": "Ratnapura District",
+    "countryCode": "LK",
+    "stateCode": "9",
+    "latitude": "6.58310000",
+    "longitude": "80.58330000"
+  },
+  {
+    "name": "Seethawaka",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.92959912",
+    "longitude": "80.14979867"
+  },
+  {
+    "name": "Sigiriya",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "7.94946000",
+    "longitude": "80.75037000"
+  },
+  {
+    "name": "Sri Jayewardenepura Kotte",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.88297000",
+    "longitude": "79.90708000"
+  },
+  {
+    "name": "Talatuoya",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.25000000",
+    "longitude": "80.68333300"
+  },
+  {
+    "name": "Talawakele",
+    "countryCode": "LK",
+    "stateCode": "2",
+    "latitude": "6.93710000",
+    "longitude": "80.65810000"
+  },
+  {
+    "name": "Talpe",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "5.99990000",
+    "longitude": "80.27870000"
+  },
+  {
+    "name": "Tangalle",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.02338000",
+    "longitude": "80.79738000"
+  },
+  {
+    "name": "Teldeniya",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.30000000",
+    "longitude": "80.76666700"
+  },
+  {
+    "name": "Thimbirigasyaya",
+    "countryCode": "LK",
+    "stateCode": "11",
+    "latitude": "6.90214217",
+    "longitude": "79.86957578"
+  },
+  {
+    "name": "Thumpane",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.36616728",
+    "longitude": "80.51587048"
+  },
+  {
+    "name": "Trincomalee",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "8.57780000",
+    "longitude": "81.22890000"
+  },
+  {
+    "name": "Trincomalee District",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "8.58333000",
+    "longitude": "81.08333000"
+  },
+  {
+    "name": "Udadumbara",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.35000000",
+    "longitude": "80.83333300"
+  },
+  {
+    "name": "Udapalatha",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.11515526",
+    "longitude": "80.60248340"
+  },
+  {
+    "name": "Ududumbara",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.31434839",
+    "longitude": "80.87707756"
+  },
+  {
+    "name": "Udunuwara",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.22777866",
+    "longitude": "80.55894578"
+  },
+  {
+    "name": "Ulapane",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.10277800",
+    "longitude": "80.56111100"
+  },
+  {
+    "name": "Unawatuna",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "6.02120000",
+    "longitude": "80.25030000"
+  },
+  {
+    "name": "Vakarai",
+    "countryCode": "LK",
+    "stateCode": "5",
+    "latitude": "8.13333000",
+    "longitude": "81.43333000"
+  },
+  {
+    "name": "Valvedditturai",
+    "countryCode": "LK",
+    "stateCode": "4",
+    "latitude": "9.81667000",
+    "longitude": "80.16667000"
+  },
+  {
+    "name": "Vavuniya",
+    "countryCode": "LK",
+    "stateCode": "4",
+    "latitude": "8.75140000",
+    "longitude": "80.49710000"
+  },
+  {
+    "name": "Vavuniya District",
+    "countryCode": "LK",
+    "stateCode": "4",
+    "latitude": "8.86134000",
+    "longitude": "80.47576000"
+  },
+  {
+    "name": "Watadeniya",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.19501100",
+    "longitude": "80.55249400"
+  },
+  {
+    "name": "Wattala",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "6.98918000",
+    "longitude": "79.89167000"
+  },
+  {
+    "name": "Wattegama",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.35027800",
+    "longitude": "80.68250000"
+  },
+  {
+    "name": "Welamboda",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.20000000",
+    "longitude": "80.55000000"
+  },
+  {
+    "name": "Weligama",
+    "countryCode": "LK",
+    "stateCode": "3",
+    "latitude": "5.97501000",
+    "longitude": "80.42968000"
+  },
+  {
+    "name": "Welisara",
+    "countryCode": "LK",
+    "stateCode": "1",
+    "latitude": "7.02810000",
+    "longitude": "79.90140000"
+  },
+  {
+    "name": "Wellawaya",
+    "countryCode": "LK",
+    "stateCode": "8",
+    "latitude": "6.73694000",
+    "longitude": "81.10279000"
+  },
+  {
+    "name": "Yatinuwara",
+    "countryCode": "LK",
+    "stateCode": "21",
+    "latitude": "7.28584509",
+    "longitude": "80.53516168"
+  }
+]

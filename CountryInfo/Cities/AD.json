@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Andorra la Vella",
+    "countryCode": "AD",
+    "stateCode": "07",
+    "latitude": "42.50779000",
+    "longitude": "1.52109000"
+  },
+  {
+    "name": "Arinsal",
+    "countryCode": "AD",
+    "stateCode": "04",
+    "latitude": "42.57205000",
+    "longitude": "1.48453000"
+  },
+  {
+    "name": "Canillo",
+    "countryCode": "AD",
+    "stateCode": "02",
+    "latitude": "42.56760000",
+    "longitude": "1.59756000"
+  },
+  {
+    "name": "El Tarter",
+    "countryCode": "AD",
+    "stateCode": "02",
+    "latitude": "42.57952000",
+    "longitude": "1.65362000"
+  },
+  {
+    "name": "Encamp",
+    "countryCode": "AD",
+    "stateCode": "03",
+    "latitude": "42.53474000",
+    "longitude": "1.58014000"
+  },
+  {
+    "name": "Ordino",
+    "countryCode": "AD",
+    "stateCode": "05",
+    "latitude": "42.55623000",
+    "longitude": "1.53319000"
+  },
+  {
+    "name": "Pas de la Casa",
+    "countryCode": "AD",
+    "stateCode": "03",
+    "latitude": "42.54277000",
+    "longitude": "1.73361000"
+  },
+  {
+    "name": "Sant Julià de Lòria",
+    "countryCode": "AD",
+    "stateCode": "06",
+    "latitude": "42.46372000",
+    "longitude": "1.49129000"
+  },
+  {
+    "name": "la Massana",
+    "countryCode": "AD",
+    "stateCode": "04",
+    "latitude": "42.54499000",
+    "longitude": "1.51483000"
+  },
+  {
+    "name": "les Escaldes",
+    "countryCode": "AD",
+    "stateCode": "08",
+    "latitude": "42.50729000",
+    "longitude": "1.53414000"
+  }
+]

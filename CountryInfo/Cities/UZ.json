@@ -1,0 +1,947 @@
+[
+  {
+    "name": "Andijon",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.78206000",
+    "longitude": "72.34424000"
+  },
+  {
+    "name": "Andijon Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.80000000",
+    "longitude": "72.41667000"
+  },
+  {
+    "name": "Angren",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.01667000",
+    "longitude": "70.14361000"
+  },
+  {
+    "name": "Asaka",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.64153000",
+    "longitude": "72.23868000"
+  },
+  {
+    "name": "Asaka Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.66667000",
+    "longitude": "72.25000000"
+  },
+  {
+    "name": "Baliqchi Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.86667000",
+    "longitude": "72.00000000"
+  },
+  {
+    "name": "Bekobod",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "40.22083000",
+    "longitude": "69.26972000"
+  },
+  {
+    "name": "Bektemir",
+    "countryCode": "UZ",
+    "stateCode": "TK",
+    "latitude": "41.20972000",
+    "longitude": "69.33417000"
+  },
+  {
+    "name": "Beruniy",
+    "countryCode": "UZ",
+    "stateCode": "QR",
+    "latitude": "41.69111000",
+    "longitude": "60.75250000"
+  },
+  {
+    "name": "Beshariq",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.43583000",
+    "longitude": "70.61028000"
+  },
+  {
+    "name": "Beshkent",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "38.82139000",
+    "longitude": "65.65306000"
+  },
+  {
+    "name": "Boghot Tumani",
+    "countryCode": "UZ",
+    "stateCode": "XO",
+    "latitude": "41.31495000",
+    "longitude": "60.85327000"
+  },
+  {
+    "name": "Boysun",
+    "countryCode": "UZ",
+    "stateCode": "SU",
+    "latitude": "38.20835000",
+    "longitude": "67.20664000"
+  },
+  {
+    "name": "Bo‘ka",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "40.81108000",
+    "longitude": "69.19417000"
+  },
+  {
+    "name": "Bo‘z Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.66667000",
+    "longitude": "71.91667000"
+  },
+  {
+    "name": "Bukhara",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "39.77472000",
+    "longitude": "64.42861000"
+  },
+  {
+    "name": "Buloqboshi Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.61667000",
+    "longitude": "72.46667000"
+  },
+  {
+    "name": "Bulung’ur",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.76472000",
+    "longitude": "67.27139000"
+  },
+  {
+    "name": "Charxin",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.69667000",
+    "longitude": "66.76861000"
+  },
+  {
+    "name": "Chelak",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.92028000",
+    "longitude": "66.86111000"
+  },
+  {
+    "name": "Chinoz",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "40.93633000",
+    "longitude": "68.76128000"
+  },
+  {
+    "name": "Chirchiq",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.46889000",
+    "longitude": "69.58222000"
+  },
+  {
+    "name": "Chiroqchi",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "39.03361000",
+    "longitude": "66.57222000"
+  },
+  {
+    "name": "Chortoq",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "41.06924000",
+    "longitude": "71.82372000"
+  },
+  {
+    "name": "Chust",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "41.00329000",
+    "longitude": "71.23791000"
+  },
+  {
+    "name": "Dashtobod",
+    "countryCode": "UZ",
+    "stateCode": "JI",
+    "latitude": "40.12694000",
+    "longitude": "68.49444000"
+  },
+  {
+    "name": "Daxbet",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.76389000",
+    "longitude": "66.91250000"
+  },
+  {
+    "name": "Denov",
+    "countryCode": "UZ",
+    "stateCode": "SU",
+    "latitude": "38.26746000",
+    "longitude": "67.89886000"
+  },
+  {
+    "name": "Dŭstlik",
+    "countryCode": "UZ",
+    "stateCode": "JI",
+    "latitude": "40.52472000",
+    "longitude": "68.03583000"
+  },
+  {
+    "name": "Fergana",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.38421000",
+    "longitude": "71.78432000"
+  },
+  {
+    "name": "Gagarin",
+    "countryCode": "UZ",
+    "stateCode": "JI",
+    "latitude": "40.66194000",
+    "longitude": "68.17222000"
+  },
+  {
+    "name": "Galaosiyo",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "39.85778000",
+    "longitude": "64.44833000"
+  },
+  {
+    "name": "Gazli",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "40.13333000",
+    "longitude": "63.45000000"
+  },
+  {
+    "name": "Ghijduwon",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "40.10000000",
+    "longitude": "64.68333000"
+  },
+  {
+    "name": "Guliston",
+    "countryCode": "UZ",
+    "stateCode": "SI",
+    "latitude": "40.48972000",
+    "longitude": "68.78417000"
+  },
+  {
+    "name": "Gurlan",
+    "countryCode": "UZ",
+    "stateCode": "XO",
+    "latitude": "41.84472000",
+    "longitude": "60.39194000"
+  },
+  {
+    "name": "G‘azalkent",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.55806000",
+    "longitude": "69.77083000"
+  },
+  {
+    "name": "G‘uzor",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "38.62083000",
+    "longitude": "66.24806000"
+  },
+  {
+    "name": "Hamza",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.42762000",
+    "longitude": "71.50534000"
+  },
+  {
+    "name": "Haqqulobod",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "40.91667000",
+    "longitude": "72.11667000"
+  },
+  {
+    "name": "Hazorasp",
+    "countryCode": "UZ",
+    "stateCode": "XO",
+    "latitude": "41.31944000",
+    "longitude": "61.07417000"
+  },
+  {
+    "name": "Ishtixon",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.96639000",
+    "longitude": "66.48611000"
+  },
+  {
+    "name": "Iskandar",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.55389000",
+    "longitude": "69.70083000"
+  },
+  {
+    "name": "Izboskan Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.91667000",
+    "longitude": "72.25000000"
+  },
+  {
+    "name": "Jalolkuduk Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.75000000",
+    "longitude": "72.66667000"
+  },
+  {
+    "name": "Jizzax",
+    "countryCode": "UZ",
+    "stateCode": "JI",
+    "latitude": "40.11583000",
+    "longitude": "67.84222000"
+  },
+  {
+    "name": "Jomboy",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.69889000",
+    "longitude": "67.09333000"
+  },
+  {
+    "name": "Juma",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.71611000",
+    "longitude": "66.66417000"
+  },
+  {
+    "name": "Karakul’",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "39.53333000",
+    "longitude": "63.83333000"
+  },
+  {
+    "name": "Kattaqo‘rg‘on",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.89889000",
+    "longitude": "66.25611000"
+  },
+  {
+    "name": "Kegeyli Shahar",
+    "countryCode": "UZ",
+    "stateCode": "QR",
+    "latitude": "42.77667000",
+    "longitude": "59.60778000"
+  },
+  {
+    "name": "Khiwa",
+    "countryCode": "UZ",
+    "stateCode": "XO",
+    "latitude": "41.37833000",
+    "longitude": "60.36389000"
+  },
+  {
+    "name": "Khŭjaobod Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.66667000",
+    "longitude": "72.58333000"
+  },
+  {
+    "name": "Khŭjayli",
+    "countryCode": "UZ",
+    "stateCode": "QR",
+    "latitude": "42.40043000",
+    "longitude": "59.46005000"
+  },
+  {
+    "name": "Kirguli",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.43553000",
+    "longitude": "71.76721000"
+  },
+  {
+    "name": "Kitob",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "39.08425000",
+    "longitude": "66.83318000"
+  },
+  {
+    "name": "Kogon",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "39.72278000",
+    "longitude": "64.55167000"
+  },
+  {
+    "name": "Koson",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "39.03750000",
+    "longitude": "65.58500000"
+  },
+  {
+    "name": "Kosonsoy",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "41.24944000",
+    "longitude": "71.54738000"
+  },
+  {
+    "name": "Kyzyldzhar",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.56667000",
+    "longitude": "70.01667000"
+  },
+  {
+    "name": "Manghit",
+    "countryCode": "UZ",
+    "stateCode": "QR",
+    "latitude": "42.11556000",
+    "longitude": "60.05972000"
+  },
+  {
+    "name": "Marg‘ilon",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.47237000",
+    "longitude": "71.72463000"
+  },
+  {
+    "name": "Marhamat",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.48048000",
+    "longitude": "72.31388000"
+  },
+  {
+    "name": "Marhamat Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.50000000",
+    "longitude": "72.31667000"
+  },
+  {
+    "name": "Muborak",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "39.25528000",
+    "longitude": "65.15278000"
+  },
+  {
+    "name": "Mŭynoq",
+    "countryCode": "UZ",
+    "stateCode": "QR",
+    "latitude": "43.76833000",
+    "longitude": "59.02139000"
+  },
+  {
+    "name": "Namangan",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "40.99830000",
+    "longitude": "71.67257000"
+  },
+  {
+    "name": "Navoiy",
+    "countryCode": "UZ",
+    "stateCode": "NW",
+    "latitude": "40.08444000",
+    "longitude": "65.37917000"
+  },
+  {
+    "name": "Nishon Tumani",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "38.69395000",
+    "longitude": "65.67512000"
+  },
+  {
+    "name": "Novyy Turtkul’",
+    "countryCode": "UZ",
+    "stateCode": "QR",
+    "latitude": "41.55000000",
+    "longitude": "61.01667000"
+  },
+  {
+    "name": "Nukus",
+    "countryCode": "UZ",
+    "stateCode": "QR",
+    "latitude": "42.45306000",
+    "longitude": "59.61028000"
+  },
+  {
+    "name": "Nurota",
+    "countryCode": "UZ",
+    "stateCode": "NW",
+    "latitude": "40.56139000",
+    "longitude": "65.68861000"
+  },
+  {
+    "name": "Ohangaron",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "40.90639000",
+    "longitude": "69.63833000"
+  },
+  {
+    "name": "Olmaliq",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "40.84472000",
+    "longitude": "69.59833000"
+  },
+  {
+    "name": "Olot",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "39.41500000",
+    "longitude": "63.80333000"
+  },
+  {
+    "name": "Oltiariq",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.39194000",
+    "longitude": "71.47417000"
+  },
+  {
+    "name": "Oltinko‘l",
+    "countryCode": "UZ",
+    "stateCode": "QR",
+    "latitude": "43.06874000",
+    "longitude": "58.90372000"
+  },
+  {
+    "name": "Oltinkŭl Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.80000000",
+    "longitude": "72.16667000"
+  },
+  {
+    "name": "Oqtosh",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.92139000",
+    "longitude": "65.92528000"
+  },
+  {
+    "name": "Pakhtaobod Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.93333000",
+    "longitude": "72.50000000"
+  },
+  {
+    "name": "Parkent",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.29444000",
+    "longitude": "69.67639000"
+  },
+  {
+    "name": "Paxtakor",
+    "countryCode": "UZ",
+    "stateCode": "JI",
+    "latitude": "40.31528000",
+    "longitude": "67.95444000"
+  },
+  {
+    "name": "Paxtaobod",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.92936000",
+    "longitude": "72.49687000"
+  },
+  {
+    "name": "Payshanba",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "40.00778000",
+    "longitude": "66.23694000"
+  },
+  {
+    "name": "Peshku Tumani",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "40.41667000",
+    "longitude": "63.83333000"
+  },
+  {
+    "name": "Piskent",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "40.89722000",
+    "longitude": "69.35056000"
+  },
+  {
+    "name": "Pop",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "40.87361000",
+    "longitude": "71.10889000"
+  },
+  {
+    "name": "Qarshi",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "38.86056000",
+    "longitude": "65.78905000"
+  },
+  {
+    "name": "Qibray",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.38972000",
+    "longitude": "69.46500000"
+  },
+  {
+    "name": "Qiziltepa",
+    "countryCode": "UZ",
+    "stateCode": "NW",
+    "latitude": "40.03306000",
+    "longitude": "64.85000000"
+  },
+  {
+    "name": "Qorako’l",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "39.49944000",
+    "longitude": "63.85389000"
+  },
+  {
+    "name": "Qorovulbozor",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "39.50056000",
+    "longitude": "64.79361000"
+  },
+  {
+    "name": "Qo‘qon",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.52861000",
+    "longitude": "70.94250000"
+  },
+  {
+    "name": "Qo‘rg‘ontepa",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.73192000",
+    "longitude": "72.76177000"
+  },
+  {
+    "name": "Quva",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.52204000",
+    "longitude": "72.07292000"
+  },
+  {
+    "name": "Quvasoy",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.29721000",
+    "longitude": "71.98026000"
+  },
+  {
+    "name": "Qŭrghontepa Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.75000000",
+    "longitude": "72.83333000"
+  },
+  {
+    "name": "Qŭshkŭpir",
+    "countryCode": "UZ",
+    "stateCode": "XO",
+    "latitude": "41.53500000",
+    "longitude": "60.34556000"
+  },
+  {
+    "name": "Rishton",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.35667000",
+    "longitude": "71.28472000"
+  },
+  {
+    "name": "Romiton",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "39.92944000",
+    "longitude": "64.37944000"
+  },
+  {
+    "name": "Salor",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.37222000",
+    "longitude": "69.38167000"
+  },
+  {
+    "name": "Samarkand",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.65417000",
+    "longitude": "66.95972000"
+  },
+  {
+    "name": "Shahrikhon Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.71667000",
+    "longitude": "72.06667000"
+  },
+  {
+    "name": "Shahrisabz",
+    "countryCode": "UZ",
+    "stateCode": "QA",
+    "latitude": "39.05778000",
+    "longitude": "66.83417000"
+  },
+  {
+    "name": "Shahrixon",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.71331000",
+    "longitude": "72.05706000"
+  },
+  {
+    "name": "Shofirkon",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "40.12000000",
+    "longitude": "64.50139000"
+  },
+  {
+    "name": "Shohimardon",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "39.98322000",
+    "longitude": "71.80512000"
+  },
+  {
+    "name": "Showot",
+    "countryCode": "UZ",
+    "stateCode": "XO",
+    "latitude": "41.65583000",
+    "longitude": "60.30250000"
+  },
+  {
+    "name": "Sho‘rchi",
+    "countryCode": "UZ",
+    "stateCode": "SU",
+    "latitude": "37.99944000",
+    "longitude": "67.78750000"
+  },
+  {
+    "name": "Sirdaryo",
+    "countryCode": "UZ",
+    "stateCode": "SI",
+    "latitude": "40.84361000",
+    "longitude": "68.66167000"
+  },
+  {
+    "name": "So‘x Tumani",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.04417000",
+    "longitude": "71.09417000"
+  },
+  {
+    "name": "Tashkent",
+    "countryCode": "UZ",
+    "stateCode": "TK",
+    "latitude": "41.26465000",
+    "longitude": "69.21627000"
+  },
+  {
+    "name": "Tirmiz",
+    "countryCode": "UZ",
+    "stateCode": "SU",
+    "latitude": "37.22417000",
+    "longitude": "67.27833000"
+  },
+  {
+    "name": "Toshbuloq",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "40.91617000",
+    "longitude": "71.57819000"
+  },
+  {
+    "name": "Toshloq",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.47722000",
+    "longitude": "71.76778000"
+  },
+  {
+    "name": "To‘rqao‘rg‘on",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "40.99984000",
+    "longitude": "71.51162000"
+  },
+  {
+    "name": "Tŭytepa",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.03210000",
+    "longitude": "69.36253000"
+  },
+  {
+    "name": "Uchqŭrghon Shahri",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "41.11371000",
+    "longitude": "72.07915000"
+  },
+  {
+    "name": "Ulug‘nor Tumani",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.75000000",
+    "longitude": "71.70000000"
+  },
+  {
+    "name": "Urganch",
+    "countryCode": "UZ",
+    "stateCode": "XO",
+    "latitude": "41.55000000",
+    "longitude": "60.63333000"
+  },
+  {
+    "name": "Urgut",
+    "countryCode": "UZ",
+    "stateCode": "SA",
+    "latitude": "39.40222000",
+    "longitude": "67.24306000"
+  },
+  {
+    "name": "Uychi",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "41.08073000",
+    "longitude": "71.92331000"
+  },
+  {
+    "name": "Wobkent",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "40.03028000",
+    "longitude": "64.51500000"
+  },
+  {
+    "name": "Wobkent Tumani",
+    "countryCode": "UZ",
+    "stateCode": "BU",
+    "latitude": "40.00000000",
+    "longitude": "64.50000000"
+  },
+  {
+    "name": "Xo‘jaobod",
+    "countryCode": "UZ",
+    "stateCode": "AN",
+    "latitude": "40.66886000",
+    "longitude": "72.56002000"
+  },
+  {
+    "name": "Yangi Marg‘ilon",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.42722000",
+    "longitude": "71.71889000"
+  },
+  {
+    "name": "Yangiobod",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.11919000",
+    "longitude": "70.09406000"
+  },
+  {
+    "name": "Yangiqo‘rg‘on",
+    "countryCode": "UZ",
+    "stateCode": "NG",
+    "latitude": "41.19474000",
+    "longitude": "71.72385000"
+  },
+  {
+    "name": "Yangirabot",
+    "countryCode": "UZ",
+    "stateCode": "NW",
+    "latitude": "40.02539000",
+    "longitude": "65.96095000"
+  },
+  {
+    "name": "Yangiyer",
+    "countryCode": "UZ",
+    "stateCode": "SI",
+    "latitude": "40.27500000",
+    "longitude": "68.82250000"
+  },
+  {
+    "name": "Yangiyŭl",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.11202000",
+    "longitude": "69.04710000"
+  },
+  {
+    "name": "Yaypan",
+    "countryCode": "UZ",
+    "stateCode": "FA",
+    "latitude": "40.37583000",
+    "longitude": "70.81556000"
+  },
+  {
+    "name": "Zafar",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "40.98333000",
+    "longitude": "68.90000000"
+  },
+  {
+    "name": "Zomin",
+    "countryCode": "UZ",
+    "stateCode": "JI",
+    "latitude": "39.96056000",
+    "longitude": "68.39583000"
+  },
+  {
+    "name": "Ŭrtaowul",
+    "countryCode": "UZ",
+    "stateCode": "TO",
+    "latitude": "41.18667000",
+    "longitude": "69.14528000"
+  }
+]

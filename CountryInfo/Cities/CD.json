@@ -1,0 +1,485 @@
+[
+  {
+    "name": "Aketi",
+    "countryCode": "CD",
+    "stateCode": "BU",
+    "latitude": "2.73877000",
+    "longitude": "23.78326000"
+  },
+  {
+    "name": "Bandundu",
+    "countryCode": "CD",
+    "stateCode": "KL",
+    "latitude": "-3.31687000",
+    "longitude": "17.38063000"
+  },
+  {
+    "name": "Basoko",
+    "countryCode": "CD",
+    "stateCode": "TO",
+    "latitude": "1.23909000",
+    "longitude": "23.61598000"
+  },
+  {
+    "name": "Beni",
+    "countryCode": "CD",
+    "stateCode": "NK",
+    "latitude": "0.49113000",
+    "longitude": "29.47306000"
+  },
+  {
+    "name": "Boende",
+    "countryCode": "CD",
+    "stateCode": "TU",
+    "latitude": "-0.28163000",
+    "longitude": "20.88053000"
+  },
+  {
+    "name": "Bolobo",
+    "countryCode": "CD",
+    "stateCode": "MN",
+    "latitude": "-2.15800000",
+    "longitude": "16.23249000"
+  },
+  {
+    "name": "Boma",
+    "countryCode": "CD",
+    "stateCode": "BC",
+    "latitude": "-5.85098000",
+    "longitude": "13.05364000"
+  },
+  {
+    "name": "Bondo",
+    "countryCode": "CD",
+    "stateCode": "BU",
+    "latitude": "3.81461000",
+    "longitude": "23.68665000"
+  },
+  {
+    "name": "Bongandanga",
+    "countryCode": "CD",
+    "stateCode": "SU",
+    "latitude": "1.50695000",
+    "longitude": "21.07260000"
+  },
+  {
+    "name": "Bosobolo",
+    "countryCode": "CD",
+    "stateCode": "NU",
+    "latitude": "4.18980000",
+    "longitude": "19.88330000"
+  },
+  {
+    "name": "Bukama",
+    "countryCode": "CD",
+    "stateCode": "HL",
+    "latitude": "-9.20443000",
+    "longitude": "25.85475000"
+  },
+  {
+    "name": "Bukavu",
+    "countryCode": "CD",
+    "stateCode": "SK",
+    "latitude": "-2.49077000",
+    "longitude": "28.84281000"
+  },
+  {
+    "name": "Bulungu",
+    "countryCode": "CD",
+    "stateCode": "KL",
+    "latitude": "-4.54437000",
+    "longitude": "18.60364000"
+  },
+  {
+    "name": "Bumba",
+    "countryCode": "CD",
+    "stateCode": "MO",
+    "latitude": "2.18771000",
+    "longitude": "22.46827000"
+  },
+  {
+    "name": "Bunia",
+    "countryCode": "CD",
+    "stateCode": "IT",
+    "latitude": "1.55941000",
+    "longitude": "30.25224000"
+  },
+  {
+    "name": "Businga",
+    "countryCode": "CD",
+    "stateCode": "NU",
+    "latitude": "3.33863000",
+    "longitude": "20.88577000"
+  },
+  {
+    "name": "Buta",
+    "countryCode": "CD",
+    "stateCode": "BU",
+    "latitude": "2.78582000",
+    "longitude": "24.72997000"
+  },
+  {
+    "name": "Butembo",
+    "countryCode": "CD",
+    "stateCode": "NK",
+    "latitude": "0.14164000",
+    "longitude": "29.29117000"
+  },
+  {
+    "name": "Gandajika",
+    "countryCode": "CD",
+    "stateCode": "KE",
+    "latitude": "-6.74504000",
+    "longitude": "23.95328000"
+  },
+  {
+    "name": "Gbadolite",
+    "countryCode": "CD",
+    "stateCode": "NU",
+    "latitude": "4.27900000",
+    "longitude": "21.00284000"
+  },
+  {
+    "name": "Gemena",
+    "countryCode": "CD",
+    "stateCode": "EQ",
+    "latitude": "3.25651000",
+    "longitude": "19.77234000"
+  },
+  {
+    "name": "Goma",
+    "countryCode": "CD",
+    "stateCode": "NK",
+    "latitude": "-1.67409000",
+    "longitude": "29.22845000"
+  },
+  {
+    "name": "Haut Katanga",
+    "countryCode": "CD",
+    "stateCode": "HK",
+    "latitude": "-10.46044000",
+    "longitude": "27.94322000"
+  },
+  {
+    "name": "Ilebo",
+    "countryCode": "CD",
+    "stateCode": "KS",
+    "latitude": "-4.33111000",
+    "longitude": "20.58638000"
+  },
+  {
+    "name": "Inongo",
+    "countryCode": "CD",
+    "stateCode": "MN",
+    "latitude": "-1.92750000",
+    "longitude": "18.28810000"
+  },
+  {
+    "name": "Isiro",
+    "countryCode": "CD",
+    "stateCode": "HU",
+    "latitude": "2.77391000",
+    "longitude": "27.61603000"
+  },
+  {
+    "name": "Kabalo",
+    "countryCode": "CD",
+    "stateCode": "TA",
+    "latitude": "-6.05255000",
+    "longitude": "26.91430000"
+  },
+  {
+    "name": "Kabare",
+    "countryCode": "CD",
+    "stateCode": "SK",
+    "latitude": "-2.49682000",
+    "longitude": "28.79081000"
+  },
+  {
+    "name": "Kabinda",
+    "countryCode": "CD",
+    "stateCode": "KE",
+    "latitude": "-6.13791000",
+    "longitude": "24.48179000"
+  },
+  {
+    "name": "Kalemie",
+    "countryCode": "CD",
+    "stateCode": "TA",
+    "latitude": "-5.94749000",
+    "longitude": "29.19471000"
+  },
+  {
+    "name": "Kambove",
+    "countryCode": "CD",
+    "stateCode": "HK",
+    "latitude": "-10.87352000",
+    "longitude": "26.59746000"
+  },
+  {
+    "name": "Kamina",
+    "countryCode": "CD",
+    "stateCode": "HL",
+    "latitude": "-8.73508000",
+    "longitude": "24.99798000"
+  },
+  {
+    "name": "Kampene",
+    "countryCode": "CD",
+    "stateCode": "MA",
+    "latitude": "-3.59678000",
+    "longitude": "26.66715000"
+  },
+  {
+    "name": "Kasangulu",
+    "countryCode": "CD",
+    "stateCode": "BC",
+    "latitude": "-4.58330000",
+    "longitude": "15.16554000"
+  },
+  {
+    "name": "Kasongo",
+    "countryCode": "CD",
+    "stateCode": "MA",
+    "latitude": "-4.42741000",
+    "longitude": "26.66656000"
+  },
+  {
+    "name": "Kasongo-Lunda",
+    "countryCode": "CD",
+    "stateCode": "KG",
+    "latitude": "-6.47833000",
+    "longitude": "16.81735000"
+  },
+  {
+    "name": "Kikwit",
+    "countryCode": "CD",
+    "stateCode": "KL",
+    "latitude": "-5.04098000",
+    "longitude": "18.81619000"
+  },
+  {
+    "name": "Kindu",
+    "countryCode": "CD",
+    "stateCode": "MA",
+    "latitude": "-2.94373000",
+    "longitude": "25.92237000"
+  },
+  {
+    "name": "Kinshasa",
+    "countryCode": "CD",
+    "stateCode": "KN",
+    "latitude": "-4.32758000",
+    "longitude": "15.31357000"
+  },
+  {
+    "name": "Kipushi",
+    "countryCode": "CD",
+    "stateCode": "HK",
+    "latitude": "-11.76097000",
+    "longitude": "27.25135000"
+  },
+  {
+    "name": "Kisangani",
+    "countryCode": "CD",
+    "stateCode": "TO",
+    "latitude": "0.51528000",
+    "longitude": "25.19099000"
+  },
+  {
+    "name": "Kongolo",
+    "countryCode": "CD",
+    "stateCode": "TA",
+    "latitude": "-5.38532000",
+    "longitude": "27.00029000"
+  },
+  {
+    "name": "Libenge",
+    "countryCode": "CD",
+    "stateCode": "SU",
+    "latitude": "3.65332000",
+    "longitude": "18.63566000"
+  },
+  {
+    "name": "Likasi",
+    "countryCode": "CD",
+    "stateCode": "HK",
+    "latitude": "-10.98303000",
+    "longitude": "26.73840000"
+  },
+  {
+    "name": "Lisala",
+    "countryCode": "CD",
+    "stateCode": "EQ",
+    "latitude": "2.15127000",
+    "longitude": "21.51672000"
+  },
+  {
+    "name": "Lodja",
+    "countryCode": "CD",
+    "stateCode": "SA",
+    "latitude": "-3.52105000",
+    "longitude": "23.60050000"
+  },
+  {
+    "name": "Lubao",
+    "countryCode": "CD",
+    "stateCode": "LO",
+    "latitude": "-5.38771000",
+    "longitude": "25.74885000"
+  },
+  {
+    "name": "Lubumbashi",
+    "countryCode": "CD",
+    "stateCode": "HK",
+    "latitude": "-11.66089000",
+    "longitude": "27.47938000"
+  },
+  {
+    "name": "Luebo",
+    "countryCode": "CD",
+    "stateCode": "KS",
+    "latitude": "-5.35218000",
+    "longitude": "21.42192000"
+  },
+  {
+    "name": "Lukolela",
+    "countryCode": "CD",
+    "stateCode": "EQ",
+    "latitude": "-1.06046000",
+    "longitude": "17.18210000"
+  },
+  {
+    "name": "Lusambo",
+    "countryCode": "CD",
+    "stateCode": "SA",
+    "latitude": "-4.97503000",
+    "longitude": "23.44391000"
+  },
+  {
+    "name": "Mangai",
+    "countryCode": "CD",
+    "stateCode": "KL",
+    "latitude": "-4.02328000",
+    "longitude": "19.53385000"
+  },
+  {
+    "name": "Masina",
+    "countryCode": "CD",
+    "stateCode": "KN",
+    "latitude": "-4.38361000",
+    "longitude": "15.39139000"
+  },
+  {
+    "name": "Matadi",
+    "countryCode": "CD",
+    "stateCode": "BC",
+    "latitude": "-5.83861000",
+    "longitude": "13.46306000"
+  },
+  {
+    "name": "Mbandaka",
+    "countryCode": "CD",
+    "stateCode": "EQ",
+    "latitude": "0.04865000",
+    "longitude": "18.26034000"
+  },
+  {
+    "name": "Mbanza-Ngungu",
+    "countryCode": "CD",
+    "stateCode": "BC",
+    "latitude": "-5.25837000",
+    "longitude": "14.85838000"
+  },
+  {
+    "name": "Mbuji-Mayi",
+    "countryCode": "CD",
+    "stateCode": "KE",
+    "latitude": "-6.13603000",
+    "longitude": "23.58979000"
+  },
+  {
+    "name": "Moanda",
+    "countryCode": "CD",
+    "stateCode": "BC",
+    "latitude": "-5.92753000",
+    "longitude": "12.37148000"
+  },
+  {
+    "name": "Mushie",
+    "countryCode": "CD",
+    "stateCode": "MN",
+    "latitude": "-3.01728000",
+    "longitude": "16.92238000"
+  },
+  {
+    "name": "Mweka",
+    "countryCode": "CD",
+    "stateCode": "KS",
+    "latitude": "-4.85187000",
+    "longitude": "21.55950000"
+  },
+  {
+    "name": "Mwene-Ditu",
+    "countryCode": "CD",
+    "stateCode": "LO",
+    "latitude": "-7.00906000",
+    "longitude": "23.45278000"
+  },
+  {
+    "name": "Nioki",
+    "countryCode": "CD",
+    "stateCode": "MN",
+    "latitude": "-2.72037000",
+    "longitude": "17.69001000"
+  },
+  {
+    "name": "Sake",
+    "countryCode": "CD",
+    "stateCode": "NK",
+    "latitude": "-1.57386000",
+    "longitude": "29.04339000"
+  },
+  {
+    "name": "Tshela",
+    "countryCode": "CD",
+    "stateCode": "BC",
+    "latitude": "-4.99707000",
+    "longitude": "12.94840000"
+  },
+  {
+    "name": "Tshikapa",
+    "countryCode": "CD",
+    "stateCode": "KS",
+    "latitude": "-6.41621000",
+    "longitude": "20.79995000"
+  },
+  {
+    "name": "Uvira",
+    "countryCode": "CD",
+    "stateCode": "SK",
+    "latitude": "-3.39534000",
+    "longitude": "29.13779000"
+  },
+  {
+    "name": "Wamba",
+    "countryCode": "CD",
+    "stateCode": "HU",
+    "latitude": "2.14838000",
+    "longitude": "27.99466000"
+  },
+  {
+    "name": "Watsa",
+    "countryCode": "CD",
+    "stateCode": "HU",
+    "latitude": "3.03716000",
+    "longitude": "29.53551000"
+  },
+  {
+    "name": "Yangambi",
+    "countryCode": "CD",
+    "stateCode": "TO",
+    "latitude": "0.76755000",
+    "longitude": "24.43973000"
+  }
+]

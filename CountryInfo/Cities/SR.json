@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Albina",
+    "countryCode": "SR",
+    "stateCode": "MA",
+    "latitude": "5.49788000",
+    "longitude": "-54.05522000"
+  },
+  {
+    "name": "Brokopondo",
+    "countryCode": "SR",
+    "stateCode": "BR",
+    "latitude": "5.05594000",
+    "longitude": "-54.98043000"
+  },
+  {
+    "name": "Brownsweg",
+    "countryCode": "SR",
+    "stateCode": "BR",
+    "latitude": "5.00435000",
+    "longitude": "-55.15333000"
+  },
+  {
+    "name": "Groningen",
+    "countryCode": "SR",
+    "stateCode": "SA",
+    "latitude": "5.80000000",
+    "longitude": "-55.46667000"
+  },
+  {
+    "name": "Lelydorp",
+    "countryCode": "SR",
+    "stateCode": "WA",
+    "latitude": "5.70000000",
+    "longitude": "-55.23333000"
+  },
+  {
+    "name": "Mariënburg",
+    "countryCode": "SR",
+    "stateCode": "CM",
+    "latitude": "5.87722000",
+    "longitude": "-55.04322000"
+  },
+  {
+    "name": "Moengo",
+    "countryCode": "SR",
+    "stateCode": "MA",
+    "latitude": "5.61411000",
+    "longitude": "-54.40121000"
+  },
+  {
+    "name": "Nieuw Amsterdam",
+    "countryCode": "SR",
+    "stateCode": "CM",
+    "latitude": "5.88573000",
+    "longitude": "-55.08871000"
+  },
+  {
+    "name": "Nieuw Nickerie",
+    "countryCode": "SR",
+    "stateCode": "NI",
+    "latitude": "5.92606000",
+    "longitude": "-56.97297000"
+  },
+  {
+    "name": "Onverwacht",
+    "countryCode": "SR",
+    "stateCode": "PR",
+    "latitude": "5.58983000",
+    "longitude": "-55.19462000"
+  },
+  {
+    "name": "Paramaribo",
+    "countryCode": "SR",
+    "stateCode": "PM",
+    "latitude": "5.86638000",
+    "longitude": "-55.16682000"
+  },
+  {
+    "name": "Totness",
+    "countryCode": "SR",
+    "stateCode": "CR",
+    "latitude": "5.87618000",
+    "longitude": "-56.32572000"
+  },
+  {
+    "name": "Wageningen",
+    "countryCode": "SR",
+    "stateCode": "NI",
+    "latitude": "5.76010000",
+    "longitude": "-56.66523000"
+  }
+]

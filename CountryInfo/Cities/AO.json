@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Belas",
+    "countryCode": "AO",
+    "stateCode": "LUA",
+    "latitude": "-9.06875000",
+    "longitude": "13.16072000"
+  },
+  {
+    "name": "Benguela",
+    "countryCode": "AO",
+    "stateCode": "BGU",
+    "latitude": "-12.57626000",
+    "longitude": "13.40547000"
+  },
+  {
+    "name": "Cabinda",
+    "countryCode": "AO",
+    "stateCode": "CAB",
+    "latitude": "-5.55000000",
+    "longitude": "12.20000000"
+  },
+  {
+    "name": "Caconda",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-13.73333000",
+    "longitude": "15.06667000"
+  },
+  {
+    "name": "Caluquembe",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-13.92093000",
+    "longitude": "14.53476000"
+  },
+  {
+    "name": "Camabatela",
+    "countryCode": "AO",
+    "stateCode": "CNO",
+    "latitude": "-8.18812000",
+    "longitude": "15.37495000"
+  },
+  {
+    "name": "Camacupa",
+    "countryCode": "AO",
+    "stateCode": "BIE",
+    "latitude": "-12.01667000",
+    "longitude": "17.48333000"
+  },
+  {
+    "name": "Catabola",
+    "countryCode": "AO",
+    "stateCode": "BIE",
+    "latitude": "-12.15000000",
+    "longitude": "17.28333000"
+  },
+  {
+    "name": "Catumbela",
+    "countryCode": "AO",
+    "stateCode": "BGU",
+    "latitude": "-12.43002000",
+    "longitude": "13.54677000"
+  },
+  {
+    "name": "Caxito",
+    "countryCode": "AO",
+    "stateCode": "BGO",
+    "latitude": "-8.57848000",
+    "longitude": "13.66425000"
+  },
+  {
+    "name": "Cazaji",
+    "countryCode": "AO",
+    "stateCode": "LSU",
+    "latitude": "-11.06715000",
+    "longitude": "20.70148000"
+  },
+  {
+    "name": "Caála",
+    "countryCode": "AO",
+    "stateCode": "HUA",
+    "latitude": "-12.85250000",
+    "longitude": "15.56056000"
+  },
+  {
+    "name": "Chela",
+    "countryCode": "AO",
+    "stateCode": "HUA",
+    "latitude": "-12.30261000",
+    "longitude": "15.43358000"
+  },
+  {
+    "name": "Chibia",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-15.23657000",
+    "longitude": "13.88468000"
+  },
+  {
+    "name": "Chicomba",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-14.30788000",
+    "longitude": "14.98672000"
+  },
+  {
+    "name": "Chipindo",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-13.86830000",
+    "longitude": "15.73277000"
+  },
+  {
+    "name": "Chissamba",
+    "countryCode": "AO",
+    "stateCode": "BIE",
+    "latitude": "-12.16667000",
+    "longitude": "17.33333000"
+  },
+  {
+    "name": "Cuito",
+    "countryCode": "AO",
+    "stateCode": "BIE",
+    "latitude": "-12.38333000",
+    "longitude": "16.93333000"
+  },
+  {
+    "name": "Cuvango",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-14.27693000",
+    "longitude": "16.31475000"
+  },
+  {
+    "name": "Gambos",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-15.80926000",
+    "longitude": "14.07661000"
+  },
+  {
+    "name": "Huambo",
+    "countryCode": "AO",
+    "stateCode": "HUA",
+    "latitude": "-12.77611000",
+    "longitude": "15.73917000"
+  },
+  {
+    "name": "Humpata",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-15.07250000",
+    "longitude": "13.36771000"
+  },
+  {
+    "name": "Icolo e Bengo",
+    "countryCode": "AO",
+    "stateCode": "LUA",
+    "latitude": "-9.24191000",
+    "longitude": "13.73549000"
+  },
+  {
+    "name": "Jamba",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-14.76294000",
+    "longitude": "15.83493000"
+  },
+  {
+    "name": "Lobito",
+    "countryCode": "AO",
+    "stateCode": "BGU",
+    "latitude": "-12.36440000",
+    "longitude": "13.53601000"
+  },
+  {
+    "name": "Longonjo",
+    "countryCode": "AO",
+    "stateCode": "HUA",
+    "latitude": "-12.90667000",
+    "longitude": "15.25333000"
+  },
+  {
+    "name": "Luanda",
+    "countryCode": "AO",
+    "stateCode": "LUA",
+    "latitude": "-8.83682000",
+    "longitude": "13.23432000"
+  },
+  {
+    "name": "Luau",
+    "countryCode": "AO",
+    "stateCode": "MOX",
+    "latitude": "-10.70727000",
+    "longitude": "22.22466000"
+  },
+  {
+    "name": "Lubango",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-14.91717000",
+    "longitude": "13.49250000"
+  },
+  {
+    "name": "Lucapa",
+    "countryCode": "AO",
+    "stateCode": "LNO",
+    "latitude": "-8.68337000",
+    "longitude": "20.27045000"
+  },
+  {
+    "name": "Luena",
+    "countryCode": "AO",
+    "stateCode": "MOX",
+    "latitude": "-11.78333000",
+    "longitude": "19.91667000"
+  },
+  {
+    "name": "Lumeje",
+    "countryCode": "AO",
+    "stateCode": "MOX",
+    "latitude": "-11.55000000",
+    "longitude": "20.78333000"
+  },
+  {
+    "name": "Léua",
+    "countryCode": "AO",
+    "stateCode": "MOX",
+    "latitude": "-11.65000000",
+    "longitude": "20.45000000"
+  },
+  {
+    "name": "Malanje",
+    "countryCode": "AO",
+    "stateCode": "MAL",
+    "latitude": "-9.54015000",
+    "longitude": "16.34096000"
+  },
+  {
+    "name": "Matala",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-15.23967000",
+    "longitude": "15.17246000"
+  },
+  {
+    "name": "Mbanza Congo",
+    "countryCode": "AO",
+    "stateCode": "ZAI",
+    "latitude": "-6.26703000",
+    "longitude": "14.24010000"
+  },
+  {
+    "name": "Menongue",
+    "countryCode": "AO",
+    "stateCode": "CCU",
+    "latitude": "-14.65850000",
+    "longitude": "17.69099000"
+  },
+  {
+    "name": "N'zeto",
+    "countryCode": "AO",
+    "stateCode": "ZAI",
+    "latitude": "-7.23116000",
+    "longitude": "12.86660000"
+  },
+  {
+    "name": "N’dalatando",
+    "countryCode": "AO",
+    "stateCode": "CNO",
+    "latitude": "-9.29782000",
+    "longitude": "14.91162000"
+  },
+  {
+    "name": "Ondjiva",
+    "countryCode": "AO",
+    "stateCode": "CNN",
+    "latitude": "-17.06667000",
+    "longitude": "15.73333000"
+  },
+  {
+    "name": "Quibala",
+    "countryCode": "AO",
+    "stateCode": "CUS",
+    "latitude": "-10.73366000",
+    "longitude": "14.97995000"
+  },
+  {
+    "name": "Quilengues",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-13.99213000",
+    "longitude": "13.76705000"
+  },
+  {
+    "name": "Quipungo",
+    "countryCode": "AO",
+    "stateCode": "HUI",
+    "latitude": "-15.12203000",
+    "longitude": "14.55953000"
+  },
+  {
+    "name": "Saurimo",
+    "countryCode": "AO",
+    "stateCode": "LSU",
+    "latitude": "-9.66078000",
+    "longitude": "20.39155000"
+  },
+  {
+    "name": "Soio",
+    "countryCode": "AO",
+    "stateCode": "ZAI",
+    "latitude": "-6.13490000",
+    "longitude": "12.36894000"
+  },
+  {
+    "name": "Sumbe",
+    "countryCode": "AO",
+    "stateCode": "CUS",
+    "latitude": "-11.20605000",
+    "longitude": "13.84371000"
+  },
+  {
+    "name": "Uacu Cungo",
+    "countryCode": "AO",
+    "stateCode": "CUS",
+    "latitude": "-11.35669000",
+    "longitude": "15.11719000"
+  },
+  {
+    "name": "Uíge",
+    "countryCode": "AO",
+    "stateCode": "UIG",
+    "latitude": "-7.60874000",
+    "longitude": "15.06131000"
+  }
+]

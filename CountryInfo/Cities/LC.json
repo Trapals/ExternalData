@@ -1,0 +1,3369 @@
+[
+  {
+    "name": "Active Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01940000",
+    "longitude": "-60.97767000"
+  },
+  {
+    "name": "Agard Lands/Morne Dudon",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00768000",
+    "longitude": "-60.96462000"
+  },
+  {
+    "name": "Almondale",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01848000",
+    "longitude": "-60.96162000"
+  },
+  {
+    "name": "Annus",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.77449000",
+    "longitude": "-61.00511000"
+  },
+  {
+    "name": "Anse Canot",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.90871000",
+    "longitude": "-60.90440000"
+  },
+  {
+    "name": "Anse Chastanet",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.86426000",
+    "longitude": "-61.07016000"
+  },
+  {
+    "name": "Anse Cochon",
+    "countryCode": "LC",
+    "stateCode": "12",
+    "latitude": "13.92261000",
+    "longitude": "-61.05250000"
+  },
+  {
+    "name": "Anse Galet",
+    "countryCode": "LC",
+    "stateCode": "12",
+    "latitude": "13.93221000",
+    "longitude": "-61.04290000"
+  },
+  {
+    "name": "Anse Ger",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.79567000",
+    "longitude": "-60.91567000"
+  },
+  {
+    "name": "Anse La Raye",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94619000",
+    "longitude": "-61.03879000"
+  },
+  {
+    "name": "Anse La Verdue",
+    "countryCode": "LC",
+    "stateCode": "12",
+    "latitude": "13.90964000",
+    "longitude": "-61.04755000"
+  },
+  {
+    "name": "Athens",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.90574000",
+    "longitude": "-60.89184000"
+  },
+  {
+    "name": "Au Leon",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.95245000",
+    "longitude": "-60.90456000"
+  },
+  {
+    "name": "Au Tabor",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94540000",
+    "longitude": "-61.04112000"
+  },
+  {
+    "name": "Au Tabor Hill",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94457000",
+    "longitude": "-61.03559000"
+  },
+  {
+    "name": "Augier",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.76669000",
+    "longitude": "-60.98063000"
+  },
+  {
+    "name": "Aurendel Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00069000",
+    "longitude": "-60.98670000"
+  },
+  {
+    "name": "Babonneau Proper",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00535000",
+    "longitude": "-60.94640000"
+  },
+  {
+    "name": "Bagatelle",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99797000",
+    "longitude": "-60.98156000"
+  },
+  {
+    "name": "Balata",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01471000",
+    "longitude": "-60.95167000"
+  },
+  {
+    "name": "Balca",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.77117000",
+    "longitude": "-61.02389000"
+  },
+  {
+    "name": "Balca/En Leur Ba",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.77638000",
+    "longitude": "-61.01931000"
+  },
+  {
+    "name": "Balembouche",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.75992000",
+    "longitude": "-61.02840000"
+  },
+  {
+    "name": "Banannes Bay",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01087000",
+    "longitude": "-61.00135000"
+  },
+  {
+    "name": "Banse",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.79211000",
+    "longitude": "-60.99282000"
+  },
+  {
+    "name": "Banse La Grace",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.78150000",
+    "longitude": "-60.99840000"
+  },
+  {
+    "name": "Bara Bara",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.95911000",
+    "longitude": "-60.93414000"
+  },
+  {
+    "name": "Barnard Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01423000",
+    "longitude": "-60.98924000"
+  },
+  {
+    "name": "Barons Drive/Coin De L'Anse",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85138000",
+    "longitude": "-61.05939000"
+  },
+  {
+    "name": "Barre Denis",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.96809000",
+    "longitude": "-60.99073000"
+  },
+  {
+    "name": "Barre Duchaussee",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.96190000",
+    "longitude": "-60.99678000"
+  },
+  {
+    "name": "Barre St.Joseph",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.97247000",
+    "longitude": "-61.01829000"
+  },
+  {
+    "name": "Bazile",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.91082000",
+    "longitude": "-60.92430000"
+  },
+  {
+    "name": "Beane Field",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.73976000",
+    "longitude": "-60.94741000"
+  },
+  {
+    "name": "Beasejour/Myers Bridge",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.82147000",
+    "longitude": "-61.03396000"
+  },
+  {
+    "name": "Beauchamp",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81778000",
+    "longitude": "-60.91528000"
+  },
+  {
+    "name": "Beausejour",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.07647000",
+    "longitude": "-60.93780000"
+  },
+  {
+    "name": "Beausejour",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.75229000",
+    "longitude": "-60.95519000"
+  },
+  {
+    "name": "Beausejour/Fostin'S Development",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.07445000",
+    "longitude": "-60.92929000"
+  },
+  {
+    "name": "Beausejour/Ndc",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.07733000",
+    "longitude": "-60.92683000"
+  },
+  {
+    "name": "Belair",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.95283000",
+    "longitude": "-60.99747000"
+  },
+  {
+    "name": "Bella Rosa",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00777000",
+    "longitude": "-60.99628000"
+  },
+  {
+    "name": "Bella Rosa",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.07711000",
+    "longitude": "-60.94568000"
+  },
+  {
+    "name": "Belle Plaine",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.82700000",
+    "longitude": "-61.03127000"
+  },
+  {
+    "name": "Belle Vue",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80510000",
+    "longitude": "-61.03615000"
+  },
+  {
+    "name": "Belle Vue",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.08470000",
+    "longitude": "-60.94342000"
+  },
+  {
+    "name": "Belle Vue",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.79218000",
+    "longitude": "-60.95379000"
+  },
+  {
+    "name": "Belle Vue Estate",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.08840000",
+    "longitude": "-60.94613000"
+  },
+  {
+    "name": "Bellefond",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.82753000",
+    "longitude": "-61.04269000"
+  },
+  {
+    "name": "Belmont",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.95044000",
+    "longitude": "-60.93276000"
+  },
+  {
+    "name": "Belvedere",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.83440000",
+    "longitude": "-61.01771000"
+  },
+  {
+    "name": "Belvedere",
+    "countryCode": "LC",
+    "stateCode": "12",
+    "latitude": "13.89122000",
+    "longitude": "-61.05550000"
+  },
+  {
+    "name": "Bexon",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.96077000",
+    "longitude": "-60.97497000"
+  },
+  {
+    "name": "Bisee",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.02429000",
+    "longitude": "-60.97445000"
+  },
+  {
+    "name": "Bishop'S Gap",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00019000",
+    "longitude": "-60.98498000"
+  },
+  {
+    "name": "Bissee",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.02255000",
+    "longitude": "-60.97489000"
+  },
+  {
+    "name": "Black Bay",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.74330000",
+    "longitude": "-60.98272000"
+  },
+  {
+    "name": "Black Mallet",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00457000",
+    "longitude": "-60.98811000"
+  },
+  {
+    "name": "Blanchard",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80616000",
+    "longitude": "-60.94630000"
+  },
+  {
+    "name": "Bocage",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00199000",
+    "longitude": "-60.96954000"
+  },
+  {
+    "name": "Boguis",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.01548000",
+    "longitude": "-60.92089000"
+  },
+  {
+    "name": "Boguis/Desa Blond",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.01057000",
+    "longitude": "-60.92565000"
+  },
+  {
+    "name": "Bois Catchet",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00399000",
+    "longitude": "-60.99437000"
+  },
+  {
+    "name": "Bois D'Inde",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94148000",
+    "longitude": "-61.00966000"
+  },
+  {
+    "name": "Bois D'Inde",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.83650000",
+    "longitude": "-61.03491000"
+  },
+  {
+    "name": "Bois D'Orange",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05803000",
+    "longitude": "-60.95992000"
+  },
+  {
+    "name": "Bois D'Ornange/Trouya",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06198000",
+    "longitude": "-60.96914000"
+  },
+  {
+    "name": "Bois Dinde",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80463000",
+    "longitude": "-61.04952000"
+  },
+  {
+    "name": "Bois Joli",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.92020000",
+    "longitude": "-60.91409000"
+  },
+  {
+    "name": "Bois Patat",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00892000",
+    "longitude": "-60.98214000"
+  },
+  {
+    "name": "Bongalo",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.76666000",
+    "longitude": "-61.02991000"
+  },
+  {
+    "name": "Bonneterre",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06994000",
+    "longitude": "-60.94146000"
+  },
+  {
+    "name": "Bonneterre Gardens",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06737000",
+    "longitude": "-60.93393000"
+  },
+  {
+    "name": "Bordelais",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.89552000",
+    "longitude": "-60.90092000"
+  },
+  {
+    "name": "Bosquet D'Or",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.92886000",
+    "longitude": "-60.91127000"
+  },
+  {
+    "name": "Bouton",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.87936000",
+    "longitude": "-61.06449000"
+  },
+  {
+    "name": "Bruceville/Shanty Town",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.72558000",
+    "longitude": "-60.94907000"
+  },
+  {
+    "name": "Cabiche/Babonneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00583000",
+    "longitude": "-60.95432000"
+  },
+  {
+    "name": "Cacoa",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.77889000",
+    "longitude": "-60.93862000"
+  },
+  {
+    "name": "Cacoa/Babonneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.98875000",
+    "longitude": "-60.95113000"
+  },
+  {
+    "name": "Caffiere",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.78409000",
+    "longitude": "-61.03554000"
+  },
+  {
+    "name": "Caico/Millet",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.91948000",
+    "longitude": "-60.99264000"
+  },
+  {
+    "name": "Calvary",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01391000",
+    "longitude": "-60.98664000"
+  },
+  {
+    "name": "Calvary/Calvaire",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85035000",
+    "longitude": "-61.05620000"
+  },
+  {
+    "name": "Canaries",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.90224000",
+    "longitude": "-61.06459000"
+  },
+  {
+    "name": "Canelles",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.78515000",
+    "longitude": "-60.91789000"
+  },
+  {
+    "name": "Cantonement",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.75665000",
+    "longitude": "-60.97662000"
+  },
+  {
+    "name": "Cap Estate",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.09410000",
+    "longitude": "-60.93592000"
+  },
+  {
+    "name": "Cap Estate/Becune Point",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.09270000",
+    "longitude": "-60.95161000"
+  },
+  {
+    "name": "Cap Estate/Caribbean Park",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.10019000",
+    "longitude": "-60.92446000"
+  },
+  {
+    "name": "Cap Estate/Golf Park",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.09998000",
+    "longitude": "-60.93705000"
+  },
+  {
+    "name": "Cap Estate/Lower Saline Point",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.10515000",
+    "longitude": "-60.94310000"
+  },
+  {
+    "name": "Cap Estate/Mon Du Cap",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.10554000",
+    "longitude": "-60.93758000"
+  },
+  {
+    "name": "Cap Estate/Ranch Site",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.10437000",
+    "longitude": "-60.93360000"
+  },
+  {
+    "name": "Cap Estate/Saddlec Back",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.10023000",
+    "longitude": "-60.94246000"
+  },
+  {
+    "name": "Cap Estate/Upper Saline Point",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.10740000",
+    "longitude": "-60.94487000"
+  },
+  {
+    "name": "Capital Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99307000",
+    "longitude": "-60.99097000"
+  },
+  {
+    "name": "Carellie",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01889000",
+    "longitude": "-60.96851000"
+  },
+  {
+    "name": "Carierre",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.78514000",
+    "longitude": "-60.96721000"
+  },
+  {
+    "name": "Cas En Bas",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.08328000",
+    "longitude": "-60.93209000"
+  },
+  {
+    "name": "Castries",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99570000",
+    "longitude": "-61.00614000"
+  },
+  {
+    "name": "Catin",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.77694000",
+    "longitude": "-60.97973000"
+  },
+  {
+    "name": "Caye Manje'",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06629000",
+    "longitude": "-60.93560000"
+  },
+  {
+    "name": "Cazuca",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80002000",
+    "longitude": "-60.90481000"
+  },
+  {
+    "name": "Cedars",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00601000",
+    "longitude": "-60.98232000"
+  },
+  {
+    "name": "Cedars/Chu Tigre",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.76995000",
+    "longitude": "-61.04716000"
+  },
+  {
+    "name": "Cenac",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.87207000",
+    "longitude": "-61.04243000"
+  },
+  {
+    "name": "Chalon",
+    "countryCode": "LC",
+    "stateCode": "12",
+    "latitude": "13.92018000",
+    "longitude": "-61.04412000"
+  },
+  {
+    "name": "Champen Estate",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.93575000",
+    "longitude": "-61.02991000"
+  },
+  {
+    "name": "Chase Gardens",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01481000",
+    "longitude": "-60.97395000"
+  },
+  {
+    "name": "Chassin/Babonneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99100000",
+    "longitude": "-60.92187000"
+  },
+  {
+    "name": "Chateau Belair",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.81830000",
+    "longitude": "-61.05350000"
+  },
+  {
+    "name": "Chique/Blanchard",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80120000",
+    "longitude": "-60.94970000"
+  },
+  {
+    "name": "Choiseul",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.77273000",
+    "longitude": "-61.04931000"
+  },
+  {
+    "name": "Choppin Ridge/Sarot",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.95597000",
+    "longitude": "-60.98624000"
+  },
+  {
+    "name": "Christian Hill",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.77354000",
+    "longitude": "-61.04694000"
+  },
+  {
+    "name": "Ciceron",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99296000",
+    "longitude": "-61.00878000"
+  },
+  {
+    "name": "City",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00946000",
+    "longitude": "-60.99027000"
+  },
+  {
+    "name": "City Gate/La Clery",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.02124000",
+    "longitude": "-60.98149000"
+  },
+  {
+    "name": "Cocoa Dan",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.73087000",
+    "longitude": "-60.97195000"
+  },
+  {
+    "name": "Colombette",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.86861000",
+    "longitude": "-61.04990000"
+  },
+  {
+    "name": "Compar",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.83586000",
+    "longitude": "-61.05934000"
+  },
+  {
+    "name": "Conway/Waterfront",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01389000",
+    "longitude": "-60.99055000"
+  },
+  {
+    "name": "Coolie Town",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.95684000",
+    "longitude": "-61.01437000"
+  },
+  {
+    "name": "Coolie Town",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.85429000",
+    "longitude": "-60.91380000"
+  },
+  {
+    "name": "Coolie Town",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.76911000",
+    "longitude": "-60.96680000"
+  },
+  {
+    "name": "Corinth",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04710000",
+    "longitude": "-60.96046000"
+  },
+  {
+    "name": "Corinth Estate",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04336000",
+    "longitude": "-60.95388000"
+  },
+  {
+    "name": "Corinth/La Bel Lair",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04469000",
+    "longitude": "-60.94484000"
+  },
+  {
+    "name": "Coubaril",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00223000",
+    "longitude": "-61.00919000"
+  },
+  {
+    "name": "Cresslands",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85999000",
+    "longitude": "-61.04032000"
+  },
+  {
+    "name": "Crownlands/Marc",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.95174000",
+    "longitude": "-60.97150000"
+  },
+  {
+    "name": "Cul De Sac",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.98084000",
+    "longitude": "-61.00645000"
+  },
+  {
+    "name": "Daban",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.80490000",
+    "longitude": "-61.00435000"
+  },
+  {
+    "name": "Dacretin",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.79617000",
+    "longitude": "-61.03574000"
+  },
+  {
+    "name": "Darling Road",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01355000",
+    "longitude": "-60.98779000"
+  },
+  {
+    "name": "Dauphin",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05647000",
+    "longitude": "-60.90188000"
+  },
+  {
+    "name": "De Mailly",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.79649000",
+    "longitude": "-60.94938000"
+  },
+  {
+    "name": "Debreuil",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.79033000",
+    "longitude": "-61.02585000"
+  },
+  {
+    "name": "Deglos",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.97727000",
+    "longitude": "-60.97329000"
+  },
+  {
+    "name": "Delaide",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.92993000",
+    "longitude": "-60.90584000"
+  },
+  {
+    "name": "Delcer",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80121000",
+    "longitude": "-61.05892000"
+  },
+  {
+    "name": "Delomel",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80338000",
+    "longitude": "-60.92927000"
+  },
+  {
+    "name": "Dennery",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.91409000",
+    "longitude": "-60.89132000"
+  },
+  {
+    "name": "Dennery By Pass",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.91164000",
+    "longitude": "-60.89454000"
+  },
+  {
+    "name": "Dennery By Pass/Green Mountain",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.91094000",
+    "longitude": "-60.89810000"
+  },
+  {
+    "name": "Dennery By Pass/Rocky Lane",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.91443000",
+    "longitude": "-60.90017000"
+  },
+  {
+    "name": "Dennery By Pass/White Rock Gardens",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.91424000",
+    "longitude": "-60.89333000"
+  },
+  {
+    "name": "Dennery Village",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.91099000",
+    "longitude": "-60.89122000"
+  },
+  {
+    "name": "Derierre Bois",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.76807000",
+    "longitude": "-60.97725000"
+  },
+  {
+    "name": "Derierre Fort/Old Victoria Road",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99474000",
+    "longitude": "-60.98513000"
+  },
+  {
+    "name": "Derierre Morne",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.74126000",
+    "longitude": "-60.96057000"
+  },
+  {
+    "name": "Derniere Riviere",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.95679000",
+    "longitude": "-60.92578000"
+  },
+  {
+    "name": "Derniere Riviere/Fond Maricient",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.95130000",
+    "longitude": "-60.92218000"
+  },
+  {
+    "name": "Derniere Riviere/Mardi Gras/Morne Caca Cochon",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.96288000",
+    "longitude": "-60.92029000"
+  },
+  {
+    "name": "Derniere Riviere/Morne Panache",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.95252000",
+    "longitude": "-60.92919000"
+  },
+  {
+    "name": "Derriere Lagoon",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94168000",
+    "longitude": "-61.01891000"
+  },
+  {
+    "name": "Derriere Morne",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80916000",
+    "longitude": "-61.05101000"
+  },
+  {
+    "name": "Des Barras",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "13.99949000",
+    "longitude": "-60.90166000"
+  },
+  {
+    "name": "Des Barras/Cacolie",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.01687000",
+    "longitude": "-60.90097000"
+  },
+  {
+    "name": "Des Blanchard",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81155000",
+    "longitude": "-60.93423000"
+  },
+  {
+    "name": "Despinoze",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.94971000",
+    "longitude": "-60.91182000"
+  },
+  {
+    "name": "Desrameaux",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.03681000",
+    "longitude": "-60.92697000"
+  },
+  {
+    "name": "Desruisseaux",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.79640000",
+    "longitude": "-60.93540000"
+  },
+  {
+    "name": "Deville",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.81372000",
+    "longitude": "-61.05049000"
+  },
+  {
+    "name": "Diamond/Diamond Estate",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85168000",
+    "longitude": "-61.04352000"
+  },
+  {
+    "name": "Docamel/La Resource",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.74202000",
+    "longitude": "-60.95604000"
+  },
+  {
+    "name": "Dubonnaire",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.92808000",
+    "longitude": "-60.92336000"
+  },
+  {
+    "name": "Dubrassay",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.98382000",
+    "longitude": "-60.97154000"
+  },
+  {
+    "name": "Dugard",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80386000",
+    "longitude": "-61.02831000"
+  },
+  {
+    "name": "Dugard",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81090000",
+    "longitude": "-60.91415000"
+  },
+  {
+    "name": "Dupre",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.79435000",
+    "longitude": "-61.02947000"
+  },
+  {
+    "name": "Durandeau",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.92277000",
+    "longitude": "-60.99512000"
+  },
+  {
+    "name": "Eau Piquant/St Urbain",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.76025000",
+    "longitude": "-60.94012000"
+  },
+  {
+    "name": "En Bamboo",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.78155000",
+    "longitude": "-60.94763000"
+  },
+  {
+    "name": "En Pois Doux/Babonneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.98853000",
+    "longitude": "-60.94099000"
+  },
+  {
+    "name": "Enbar Pwin",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.91175000",
+    "longitude": "-60.99266000"
+  },
+  {
+    "name": "Entrepot",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99978000",
+    "longitude": "-60.97953000"
+  },
+  {
+    "name": "Escap",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.83031000",
+    "longitude": "-60.89673000"
+  },
+  {
+    "name": "Esperance",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80775000",
+    "longitude": "-61.05331000"
+  },
+  {
+    "name": "Esperance",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.84562000",
+    "longitude": "-61.03713000"
+  },
+  {
+    "name": "Esperance",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.78854000",
+    "longitude": "-60.96108000"
+  },
+  {
+    "name": "Etangs",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.81902000",
+    "longitude": "-61.04056000"
+  },
+  {
+    "name": "Faux A Chaud",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00878000",
+    "longitude": "-60.99558000"
+  },
+  {
+    "name": "Ferrand",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.98684000",
+    "longitude": "-60.98494000"
+  },
+  {
+    "name": "Floissac/Marc",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.96283000",
+    "longitude": "-60.95880000"
+  },
+  {
+    "name": "Fond Assau/Babonneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99491000",
+    "longitude": "-60.93626000"
+  },
+  {
+    "name": "Fond Berange",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.78238000",
+    "longitude": "-61.00346000"
+  },
+  {
+    "name": "Fond Bernier",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85845000",
+    "longitude": "-61.05949000"
+  },
+  {
+    "name": "Fond Cacoa",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85442000",
+    "longitude": "-61.05077000"
+  },
+  {
+    "name": "Fond Canie",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99195000",
+    "longitude": "-60.95954000"
+  },
+  {
+    "name": "Fond Capeche",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.77449000",
+    "longitude": "-60.94835000"
+  },
+  {
+    "name": "Fond D'Lor/Dugard",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81069000",
+    "longitude": "-60.92119000"
+  },
+  {
+    "name": "Fond Doux",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.82096000",
+    "longitude": "-61.04952000"
+  },
+  {
+    "name": "Fond Estate",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.84243000",
+    "longitude": "-60.91862000"
+  },
+  {
+    "name": "Fond Gens Libre",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.80791000",
+    "longitude": "-61.06259000"
+  },
+  {
+    "name": "Fond Sabot",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.77659000",
+    "longitude": "-60.95546000"
+  },
+  {
+    "name": "Fond/Desruisseaux",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.79421000",
+    "longitude": "-60.94128000"
+  },
+  {
+    "name": "Forestiere",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.97775000",
+    "longitude": "-60.95766000"
+  },
+  {
+    "name": "Franciou",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80400000",
+    "longitude": "-61.05448000"
+  },
+  {
+    "name": "Gadette",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.95937000",
+    "longitude": "-60.91029000"
+  },
+  {
+    "name": "Garrand",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.00424000",
+    "longitude": "-60.93270000"
+  },
+  {
+    "name": "Gayabois",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.78643000",
+    "longitude": "-61.01835000"
+  },
+  {
+    "name": "Gentil",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.76816000",
+    "longitude": "-60.98877000"
+  },
+  {
+    "name": "George Charles Boulevard",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00499000",
+    "longitude": "-60.98673000"
+  },
+  {
+    "name": "Getrine",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.78192000",
+    "longitude": "-61.00741000"
+  },
+  {
+    "name": "Girard",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00004000",
+    "longitude": "-60.95960000"
+  },
+  {
+    "name": "Giraud",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.79254000",
+    "longitude": "-61.00843000"
+  },
+  {
+    "name": "Goergeville",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01311000",
+    "longitude": "-60.98446000"
+  },
+  {
+    "name": "Gomier",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81485000",
+    "longitude": "-60.95252000"
+  },
+  {
+    "name": "Goodlands",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99121000",
+    "longitude": "-60.99840000"
+  },
+  {
+    "name": "Gouette",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80650000",
+    "longitude": "-60.93964000"
+  },
+  {
+    "name": "Grace",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.77678000",
+    "longitude": "-60.96637000"
+  },
+  {
+    "name": "Grand Riviere",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.03546000",
+    "longitude": "-60.95152000"
+  },
+  {
+    "name": "Grande Ravine",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.94263000",
+    "longitude": "-60.93404000"
+  },
+  {
+    "name": "Grande Riviere",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93306000",
+    "longitude": "-60.93239000"
+  },
+  {
+    "name": "Grande Riviere/Assou Canal",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.03975000",
+    "longitude": "-60.95121000"
+  },
+  {
+    "name": "Grande Riviere/Des Branch",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93383000",
+    "longitude": "-60.93499000"
+  },
+  {
+    "name": "Grande Riviere/En Leur Morne/Discompere",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93223000",
+    "longitude": "-60.93461000"
+  },
+  {
+    "name": "Grande Riviere/Funier",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93240000",
+    "longitude": "-60.93305000"
+  },
+  {
+    "name": "Grande Riviere/Ingle Woods",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.03091000",
+    "longitude": "-60.95592000"
+  },
+  {
+    "name": "Grande Riviere/Morne Caca Cochon",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.92960000",
+    "longitude": "-60.93794000"
+  },
+  {
+    "name": "Grande Riviere/Morne Serpent",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.03509000",
+    "longitude": "-60.96060000"
+  },
+  {
+    "name": "Grande Riviere/Norbert",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04317000",
+    "longitude": "-60.94933000"
+  },
+  {
+    "name": "Grande Riviere/Piat",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.03926000",
+    "longitude": "-60.94361000"
+  },
+  {
+    "name": "Grande Riviere/White Rock",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.03618000",
+    "longitude": "-60.95556000"
+  },
+  {
+    "name": "Grass Street",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00706000",
+    "longitude": "-60.98763000"
+  },
+  {
+    "name": "Green Gold",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99603000",
+    "longitude": "-60.95284000"
+  },
+  {
+    "name": "Gros Islet",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06667000",
+    "longitude": "-60.95000000"
+  },
+  {
+    "name": "Gros Islet Town",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.08080000",
+    "longitude": "-60.95312000"
+  },
+  {
+    "name": "Gros Islet/Edge Water",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.07912000",
+    "longitude": "-60.94973000"
+  },
+  {
+    "name": "Guesneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99084000",
+    "longitude": "-60.96486000"
+  },
+  {
+    "name": "H'Erelle",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.75599000",
+    "longitude": "-60.98698000"
+  },
+  {
+    "name": "Hewanorra Orchard",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.74486000",
+    "longitude": "-60.97284000"
+  },
+  {
+    "name": "Hill 20/Babonneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99941000",
+    "longitude": "-60.94988000"
+  },
+  {
+    "name": "Hillcrest Gardens",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01115000",
+    "longitude": "-60.97083000"
+  },
+  {
+    "name": "Honeymoon Beach",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.77746000",
+    "longitude": "-60.90493000"
+  },
+  {
+    "name": "Hope Estate",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.76477000",
+    "longitude": "-60.95831000"
+  },
+  {
+    "name": "Hospital Road",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00914000",
+    "longitude": "-60.99906000"
+  },
+  {
+    "name": "Independence City",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00199000",
+    "longitude": "-60.97879000"
+  },
+  {
+    "name": "Industrial Estate",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.74096000",
+    "longitude": "-60.97393000"
+  },
+  {
+    "name": "Industry",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.79127000",
+    "longitude": "-61.05992000"
+  },
+  {
+    "name": "Jacmel",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94796000",
+    "longitude": "-61.01297000"
+  },
+  {
+    "name": "Jalousie",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.82811000",
+    "longitude": "-61.05891000"
+  },
+  {
+    "name": "Jean Baptiste",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94704000",
+    "longitude": "-61.01578000"
+  },
+  {
+    "name": "John Compton Highway",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01909000",
+    "longitude": "-60.99110000"
+  },
+  {
+    "name": "Joyeux",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.78313000",
+    "longitude": "-60.96068000"
+  },
+  {
+    "name": "Kennedy Highway/Laborie Bypass",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.75380000",
+    "longitude": "-60.99594000"
+  },
+  {
+    "name": "L'Anse Road",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01875000",
+    "longitude": "-60.98799000"
+  },
+  {
+    "name": "L'Eau Mineau",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80672000",
+    "longitude": "-60.92103000"
+  },
+  {
+    "name": "L'Hermitage",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06521000",
+    "longitude": "-60.93967000"
+  },
+  {
+    "name": "La Carierre",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01806000",
+    "longitude": "-60.98723000"
+  },
+  {
+    "name": "La Caye",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93290000",
+    "longitude": "-60.90434000"
+  },
+  {
+    "name": "La Clery",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01846000",
+    "longitude": "-60.98422000"
+  },
+  {
+    "name": "La Courville",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81056000",
+    "longitude": "-60.92766000"
+  },
+  {
+    "name": "La Croix Chabourgh",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.01147000",
+    "longitude": "-60.94025000"
+  },
+  {
+    "name": "La Croix Maingot",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.96569000",
+    "longitude": "-61.00582000"
+  },
+  {
+    "name": "La Fargue",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.77197000",
+    "longitude": "-61.04124000"
+  },
+  {
+    "name": "La Guerre",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.02191000",
+    "longitude": "-60.92491000"
+  },
+  {
+    "name": "La Guerre/Chicken Back Street",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.02387000",
+    "longitude": "-60.93108000"
+  },
+  {
+    "name": "La Haut",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.79207000",
+    "longitude": "-61.00014000"
+  },
+  {
+    "name": "La Haut",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.86276000",
+    "longitude": "-61.05584000"
+  },
+  {
+    "name": "La Pansee",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01368000",
+    "longitude": "-60.98187000"
+  },
+  {
+    "name": "La Pearle",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85740000",
+    "longitude": "-61.04760000"
+  },
+  {
+    "name": "La Pelle",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.94096000",
+    "longitude": "-60.90569000"
+  },
+  {
+    "name": "La Perle",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.76483000",
+    "longitude": "-61.02088000"
+  },
+  {
+    "name": "La Pointe",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.79443000",
+    "longitude": "-61.06497000"
+  },
+  {
+    "name": "La Pointe",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.91525000",
+    "longitude": "-60.88830000"
+  },
+  {
+    "name": "La Pointe",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.84593000",
+    "longitude": "-60.89332000"
+  },
+  {
+    "name": "La Resource",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.74799000",
+    "longitude": "-60.96237000"
+  },
+  {
+    "name": "La Ressource",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.94293000",
+    "longitude": "-60.91585000"
+  },
+  {
+    "name": "La Retraite",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.75944000",
+    "longitude": "-60.96632000"
+  },
+  {
+    "name": "La Tille",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.82744000",
+    "longitude": "-60.91716000"
+  },
+  {
+    "name": "La Toc",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00824000",
+    "longitude": "-61.00404000"
+  },
+  {
+    "name": "La Tourney/Cedar Heights",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.74114000",
+    "longitude": "-60.96517000"
+  },
+  {
+    "name": "La Trielle",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94014000",
+    "longitude": "-60.99729000"
+  },
+  {
+    "name": "Labayee",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.94044000",
+    "longitude": "-60.97316000"
+  },
+  {
+    "name": "Laborie",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.75000000",
+    "longitude": "-60.98333000"
+  },
+  {
+    "name": "Lamaze",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80649000",
+    "longitude": "-61.01906000"
+  },
+  {
+    "name": "Lastic Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00755000",
+    "longitude": "-60.98321000"
+  },
+  {
+    "name": "Le Riche",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.78365000",
+    "longitude": "-61.04815000"
+  },
+  {
+    "name": "Lenny Hill",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85059000",
+    "longitude": "-61.05906000"
+  },
+  {
+    "name": "Leslie Land",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00752000",
+    "longitude": "-60.98674000"
+  },
+  {
+    "name": "Lezy",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80372000",
+    "longitude": "-60.93906000"
+  },
+  {
+    "name": "Lombard",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.85772000",
+    "longitude": "-60.91510000"
+  },
+  {
+    "name": "Londonderry",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.77623000",
+    "longitude": "-61.01362000"
+  },
+  {
+    "name": "Lumiere",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93928000",
+    "longitude": "-60.88889000"
+  },
+  {
+    "name": "Macdomel",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.77497000",
+    "longitude": "-60.98508000"
+  },
+  {
+    "name": "Maganier",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.79450000",
+    "longitude": "-60.98513000"
+  },
+  {
+    "name": "Mahaut",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.84391000",
+    "longitude": "-60.95397000"
+  },
+  {
+    "name": "Mailly Motete",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.81788000",
+    "longitude": "-61.02772000"
+  },
+  {
+    "name": "Malgretoute",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.84199000",
+    "longitude": "-60.90411000"
+  },
+  {
+    "name": "Malgretoute",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.84233000",
+    "longitude": "-61.05998000"
+  },
+  {
+    "name": "Mamiku",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.86744000",
+    "longitude": "-60.90184000"
+  },
+  {
+    "name": "Marc",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.95688000",
+    "longitude": "-60.95724000"
+  },
+  {
+    "name": "Marchand",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00415000",
+    "longitude": "-60.98532000"
+  },
+  {
+    "name": "Marigot",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.96212000",
+    "longitude": "-61.02205000"
+  },
+  {
+    "name": "Marisule",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04621000",
+    "longitude": "-60.97063000"
+  },
+  {
+    "name": "Marisule/Bon Air",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05062000",
+    "longitude": "-60.97124000"
+  },
+  {
+    "name": "Marisule/East Winds",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05407000",
+    "longitude": "-60.96849000"
+  },
+  {
+    "name": "Marisule/La Brellotte",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05710000",
+    "longitude": "-60.97183000"
+  },
+  {
+    "name": "Marisule/Top Of The World",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04385000",
+    "longitude": "-60.96885000"
+  },
+  {
+    "name": "Marquis Estate",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.02960000",
+    "longitude": "-60.90732000"
+  },
+  {
+    "name": "Martin",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.78941000",
+    "longitude": "-61.04542000"
+  },
+  {
+    "name": "Massacre",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94872000",
+    "longitude": "-61.03544000"
+  },
+  {
+    "name": "Massade",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.08292000",
+    "longitude": "-60.94946000"
+  },
+  {
+    "name": "Maynard Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00314000",
+    "longitude": "-60.98966000"
+  },
+  {
+    "name": "Miami/Bexon",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.92295000",
+    "longitude": "-60.96945000"
+  },
+  {
+    "name": "Micoud",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81667000",
+    "longitude": "-60.90000000"
+  },
+  {
+    "name": "Migny",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.84166000",
+    "longitude": "-61.01808000"
+  },
+  {
+    "name": "Millet",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.90985000",
+    "longitude": "-60.98884000"
+  },
+  {
+    "name": "Mocha",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.83117000",
+    "longitude": "-61.02503000"
+  },
+  {
+    "name": "Mon Repos",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.85865000",
+    "longitude": "-60.89591000"
+  },
+  {
+    "name": "Monchy",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05502000",
+    "longitude": "-60.92623000"
+  },
+  {
+    "name": "Monchy/Careffe",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05930000",
+    "longitude": "-60.95069000"
+  },
+  {
+    "name": "Monchy/Cletus Village",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05137000",
+    "longitude": "-60.92380000"
+  },
+  {
+    "name": "Monchy/La Borne",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04628000",
+    "longitude": "-60.91961000"
+  },
+  {
+    "name": "Monchy/La Borne/Sans Souci",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04504000",
+    "longitude": "-60.89961000"
+  },
+  {
+    "name": "Monchy/La Retraite",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06421000",
+    "longitude": "-60.94564000"
+  },
+  {
+    "name": "Monchy/Lafeuillee",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05950000",
+    "longitude": "-60.94086000"
+  },
+  {
+    "name": "Monchy/Lawi Fwen",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05802000",
+    "longitude": "-60.92906000"
+  },
+  {
+    "name": "Monchy/Malgretoute",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04108000",
+    "longitude": "-60.91912000"
+  },
+  {
+    "name": "Monchy/Moulin A Vent",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06283000",
+    "longitude": "-60.95025000"
+  },
+  {
+    "name": "Monchy/Ravine Macock",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04789000",
+    "longitude": "-60.92511000"
+  },
+  {
+    "name": "Monchy/Riviere Mitan",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04987000",
+    "longitude": "-60.94029000"
+  },
+  {
+    "name": "Monchy/Ti Dauphin",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04081000",
+    "longitude": "-60.93225000"
+  },
+  {
+    "name": "Monchy/Vieux Sucreic",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.04996000",
+    "longitude": "-60.94992000"
+  },
+  {
+    "name": "Monchy/Vieux Sucreic/Bois D'Inde",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05613000",
+    "longitude": "-60.95151000"
+  },
+  {
+    "name": "Monchy/Vieux Sucreic/Careffe",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.05652000",
+    "longitude": "-60.94948000"
+  },
+  {
+    "name": "Mongiraud",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06287000",
+    "longitude": "-60.95722000"
+  },
+  {
+    "name": "Mongouge",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80301000",
+    "longitude": "-61.04524000"
+  },
+  {
+    "name": "Monier",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.02951000",
+    "longitude": "-60.94098000"
+  },
+  {
+    "name": "Monkey Town Ciceron",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.98885000",
+    "longitude": "-61.00615000"
+  },
+  {
+    "name": "Monzie",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80669000",
+    "longitude": "-61.02297000"
+  },
+  {
+    "name": "Moreau",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.82676000",
+    "longitude": "-60.94238000"
+  },
+  {
+    "name": "Morne Assau/Babonneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99079000",
+    "longitude": "-60.93241000"
+  },
+  {
+    "name": "Morne Bonin",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.83174000",
+    "longitude": "-61.03285000"
+  },
+  {
+    "name": "Morne Cayenne",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.78349000",
+    "longitude": "-60.95506000"
+  },
+  {
+    "name": "Morne Ciseaux",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.93597000",
+    "longitude": "-61.00330000"
+  },
+  {
+    "name": "Morne Citon",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.03004000",
+    "longitude": "-60.92813000"
+  },
+  {
+    "name": "Morne D'Or",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94931000",
+    "longitude": "-61.00601000"
+  },
+  {
+    "name": "Morne Dudon",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01194000",
+    "longitude": "-60.96378000"
+  },
+  {
+    "name": "Morne Gomier",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.76552000",
+    "longitude": "-60.99524000"
+  },
+  {
+    "name": "Morne Jacques",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.81162000",
+    "longitude": "-61.03165000"
+  },
+  {
+    "name": "Morne La Croix",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.81762000",
+    "longitude": "-61.06146000"
+  },
+  {
+    "name": "Morne Lastic/Desruisseaux",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.86628000",
+    "longitude": "-61.05894000"
+  },
+  {
+    "name": "Morne Le Blanc",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.75868000",
+    "longitude": "-60.99913000"
+  },
+  {
+    "name": "Morne Panache",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.92167000",
+    "longitude": "-60.93654000"
+  },
+  {
+    "name": "Morne Road",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00544000",
+    "longitude": "-60.99693000"
+  },
+  {
+    "name": "Morne Rouge/Marc",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.95838000",
+    "longitude": "-60.96972000"
+  },
+  {
+    "name": "Morne Sion",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.79246000",
+    "longitude": "-61.05467000"
+  },
+  {
+    "name": "Morne Vert",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.77899000",
+    "longitude": "-60.97617000"
+  },
+  {
+    "name": "Morne Vient",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80646000",
+    "longitude": "-60.95241000"
+  },
+  {
+    "name": "Motete",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.81325000",
+    "longitude": "-61.02320000"
+  },
+  {
+    "name": "Moule A Chique",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.71458000",
+    "longitude": "-60.94835000"
+  },
+  {
+    "name": "Mount Pleasant",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01494000",
+    "longitude": "-60.98576000"
+  },
+  {
+    "name": "Myette Gardens",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81862000",
+    "longitude": "-60.90440000"
+  },
+  {
+    "name": "New Development",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.86176000",
+    "longitude": "-61.04791000"
+  },
+  {
+    "name": "New Field/Fiette",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.78815000",
+    "longitude": "-61.05216000"
+  },
+  {
+    "name": "New Village",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01104000",
+    "longitude": "-60.98456000"
+  },
+  {
+    "name": "New Village",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.82446000",
+    "longitude": "-60.89864000"
+  },
+  {
+    "name": "Obrier",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.76831000",
+    "longitude": "-60.97313000"
+  },
+  {
+    "name": "Odsan",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.97479000",
+    "longitude": "-60.98319000"
+  },
+  {
+    "name": "Olibo",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.77628000",
+    "longitude": "-60.99931000"
+  },
+  {
+    "name": "Paix Bouche",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.01755000",
+    "longitude": "-60.93852000"
+  },
+  {
+    "name": "Paix Bouche",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81556000",
+    "longitude": "-60.94073000"
+  },
+  {
+    "name": "Palmiste",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85843000",
+    "longitude": "-61.05575000"
+  },
+  {
+    "name": "Palmiste Estate",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.85377000",
+    "longitude": "-60.96007000"
+  },
+  {
+    "name": "Parc Estate",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.79639000",
+    "longitude": "-61.01613000"
+  },
+  {
+    "name": "Parker'S Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00378000",
+    "longitude": "-60.99049000"
+  },
+  {
+    "name": "Patience",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.85000000",
+    "longitude": "-60.90874000"
+  },
+  {
+    "name": "Patterson'S Gap",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00655000",
+    "longitude": "-60.98473000"
+  },
+  {
+    "name": "Pavee",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00282000",
+    "longitude": "-60.99191000"
+  },
+  {
+    "name": "Peart'S Gap",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01035000",
+    "longitude": "-60.98598000"
+  },
+  {
+    "name": "Perou",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.95960000",
+    "longitude": "-61.00726000"
+  },
+  {
+    "name": "Piaye",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.75628000",
+    "longitude": "-61.02279000"
+  },
+  {
+    "name": "Pierrot",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.76857000",
+    "longitude": "-60.94381000"
+  },
+  {
+    "name": "Pigeon Island",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.08965000",
+    "longitude": "-60.95724000"
+  },
+  {
+    "name": "Planard",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80521000",
+    "longitude": "-60.91540000"
+  },
+  {
+    "name": "Plat Pays",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.84085000",
+    "longitude": "-61.05571000"
+  },
+  {
+    "name": "Plateau",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.02612000",
+    "longitude": "-60.93474000"
+  },
+  {
+    "name": "Plut",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.77417000",
+    "longitude": "-60.96076000"
+  },
+  {
+    "name": "Pointe Seraphine",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01575000",
+    "longitude": "-60.99305000"
+  },
+  {
+    "name": "Pomme",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.75792000",
+    "longitude": "-60.98147000"
+  },
+  {
+    "name": "Ponyon",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.79639000",
+    "longitude": "-61.04360000"
+  },
+  {
+    "name": "Praslin",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.87545000",
+    "longitude": "-60.89717000"
+  },
+  {
+    "name": "Quarte Chemins",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99136000",
+    "longitude": "-60.97630000"
+  },
+  {
+    "name": "Rabot",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.83380000",
+    "longitude": "-61.04540000"
+  },
+  {
+    "name": "Rameau",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.83055000",
+    "longitude": "-60.92375000"
+  },
+  {
+    "name": "Raveneau",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.81018000",
+    "longitude": "-61.04642000"
+  },
+  {
+    "name": "Ravine Chabot",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00051000",
+    "longitude": "-60.97617000"
+  },
+  {
+    "name": "Ravine Claire",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85262000",
+    "longitude": "-61.02892000"
+  },
+  {
+    "name": "Ravine Poisson",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.93156000",
+    "longitude": "-60.96849000"
+  },
+  {
+    "name": "Ravine Touterelle",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00325000",
+    "longitude": "-60.98806000"
+  },
+  {
+    "name": "Reduit",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06829000",
+    "longitude": "-60.96145000"
+  },
+  {
+    "name": "Reduit Orchard",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06594000",
+    "longitude": "-60.95340000"
+  },
+  {
+    "name": "Reduit Park",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06622000",
+    "longitude": "-60.95560000"
+  },
+  {
+    "name": "Resinard/Babonneau",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00289000",
+    "longitude": "-60.94200000"
+  },
+  {
+    "name": "Reunion",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.77861000",
+    "longitude": "-61.04531000"
+  },
+  {
+    "name": "Riche Fond",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93644000",
+    "longitude": "-60.92026000"
+  },
+  {
+    "name": "Riche Fond/La Belle Vie",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93782000",
+    "longitude": "-60.92908000"
+  },
+  {
+    "name": "Riche Fond/New Village",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93648000",
+    "longitude": "-60.92394000"
+  },
+  {
+    "name": "River Doree",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.76769000",
+    "longitude": "-61.03646000"
+  },
+  {
+    "name": "Riverside Road",
+    "countryCode": "LC",
+    "stateCode": "12",
+    "latitude": "13.89408000",
+    "longitude": "-61.04989000"
+  },
+  {
+    "name": "Roblot",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.80323000",
+    "longitude": "-61.02297000"
+  },
+  {
+    "name": "Rock Hall",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00009000",
+    "longitude": "-60.98928000"
+  },
+  {
+    "name": "Rodney Bay",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.07292000",
+    "longitude": "-60.95443000"
+  },
+  {
+    "name": "Rodney Heights",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.06731000",
+    "longitude": "-60.94906000"
+  },
+  {
+    "name": "Rose Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00816000",
+    "longitude": "-60.98560000"
+  },
+  {
+    "name": "Roseau Valley",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.95317000",
+    "longitude": "-61.02676000"
+  },
+  {
+    "name": "Ruby Estate",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85812000",
+    "longitude": "-61.04983000"
+  },
+  {
+    "name": "Saint Marie Road",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.85444000",
+    "longitude": "-60.91803000"
+  },
+  {
+    "name": "Saltibus",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.81211000",
+    "longitude": "-61.00982000"
+  },
+  {
+    "name": "San Soucis",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01695000",
+    "longitude": "-60.98985000"
+  },
+  {
+    "name": "Sand De Feu",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.92781000",
+    "longitude": "-60.98026000"
+  },
+  {
+    "name": "Saphire",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.75670000",
+    "longitude": "-61.01209000"
+  },
+  {
+    "name": "Sarot",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.94212000",
+    "longitude": "-60.98489000"
+  },
+  {
+    "name": "Saut",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81272000",
+    "longitude": "-60.94375000"
+  },
+  {
+    "name": "Sauzay",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.77743000",
+    "longitude": "-61.03368000"
+  },
+  {
+    "name": "Savannes",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.77098000",
+    "longitude": "-60.92017000"
+  },
+  {
+    "name": "Savannesgeorge/Constitution",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.77855000",
+    "longitude": "-61.05139000"
+  },
+  {
+    "name": "Soufriere Estate",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85174000",
+    "longitude": "-61.05420000"
+  },
+  {
+    "name": "Soufrière",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85616000",
+    "longitude": "-61.05660000"
+  },
+  {
+    "name": "St Helen Estate",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.78735000",
+    "longitude": "-60.90726000"
+  },
+  {
+    "name": "St Jude'S Highway",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.75867000",
+    "longitude": "-60.97360000"
+  },
+  {
+    "name": "St Lawrence",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.93852000",
+    "longitude": "-61.02503000"
+  },
+  {
+    "name": "St Lawrence Estate",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.94236000",
+    "longitude": "-61.04248000"
+  },
+  {
+    "name": "St Phillip",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.84432000",
+    "longitude": "-61.02766000"
+  },
+  {
+    "name": "St. Joseph Estate",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.90066000",
+    "longitude": "-60.91444000"
+  },
+  {
+    "name": "Stonefield",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.84513000",
+    "longitude": "-61.05990000"
+  },
+  {
+    "name": "Sulphur Springs",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.84002000",
+    "longitude": "-61.04512000"
+  },
+  {
+    "name": "Summersdale",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.02582000",
+    "longitude": "-60.97644000"
+  },
+  {
+    "name": "Sunbilt",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00561000",
+    "longitude": "-60.97922000"
+  },
+  {
+    "name": "Sunny Acres",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.02810000",
+    "longitude": "-60.97361000"
+  },
+  {
+    "name": "Talvern",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99578000",
+    "longitude": "-60.94410000"
+  },
+  {
+    "name": "Tapion",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01383000",
+    "longitude": "-61.00489000"
+  },
+  {
+    "name": "Tete Chemin",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.89092000",
+    "longitude": "-60.99785000"
+  },
+  {
+    "name": "Tete Morne",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.76160000",
+    "longitude": "-61.03397000"
+  },
+  {
+    "name": "Tete Morne/Morne Andrew",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.77114000",
+    "longitude": "-60.95194000"
+  },
+  {
+    "name": "Thamazo",
+    "countryCode": "LC",
+    "stateCode": "05",
+    "latitude": "13.93245000",
+    "longitude": "-60.94786000"
+  },
+  {
+    "name": "The Morne",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99778000",
+    "longitude": "-60.99620000"
+  },
+  {
+    "name": "Theodrine",
+    "countryCode": "LC",
+    "stateCode": "12",
+    "latitude": "13.92878000",
+    "longitude": "-61.04972000"
+  },
+  {
+    "name": "Ti Boug",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.83744000",
+    "longitude": "-61.02460000"
+  },
+  {
+    "name": "Ti Colon",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.97071000",
+    "longitude": "-61.00229000"
+  },
+  {
+    "name": "Ti Delcer",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.83386000",
+    "longitude": "-61.06410000"
+  },
+  {
+    "name": "Ti Riviere",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.83006000",
+    "longitude": "-60.93774000"
+  },
+  {
+    "name": "Ti Rocher",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.99490000",
+    "longitude": "-60.97110000"
+  },
+  {
+    "name": "Ti Rocher",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81734000",
+    "longitude": "-60.92858000"
+  },
+  {
+    "name": "Toraille",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85704000",
+    "longitude": "-61.03296000"
+  },
+  {
+    "name": "Town",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85491000",
+    "longitude": "-61.05764000"
+  },
+  {
+    "name": "Town",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.72835000",
+    "longitude": "-60.95408000"
+  },
+  {
+    "name": "Trois Piton",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.98890000",
+    "longitude": "-60.97259000"
+  },
+  {
+    "name": "Trou Cochan/Marc",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.94220000",
+    "longitude": "-60.96199000"
+  },
+  {
+    "name": "Trou Florent/Marc",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "13.94525000",
+    "longitude": "-60.95382000"
+  },
+  {
+    "name": "Trou Rouge",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00602000",
+    "longitude": "-60.98950000"
+  },
+  {
+    "name": "Troumassee",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.80892000",
+    "longitude": "-60.90341000"
+  },
+  {
+    "name": "Union",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.02907000",
+    "longitude": "-60.96480000"
+  },
+  {
+    "name": "Union Terrace",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.02654000",
+    "longitude": "-60.95710000"
+  },
+  {
+    "name": "Union Vale",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.81103000",
+    "longitude": "-61.05686000"
+  },
+  {
+    "name": "Union/Ti Morne",
+    "countryCode": "LC",
+    "stateCode": "06",
+    "latitude": "14.02283000",
+    "longitude": "-60.95272000"
+  },
+  {
+    "name": "Vanard",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.93558000",
+    "longitude": "-60.99363000"
+  },
+  {
+    "name": "Venus",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.91558000",
+    "longitude": "-61.01676000"
+  },
+  {
+    "name": "Victoria",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.81116000",
+    "longitude": "-61.03963000"
+  },
+  {
+    "name": "Vide Bouteille",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.02439000",
+    "longitude": "-60.98066000"
+  },
+  {
+    "name": "Vieux Fort",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.71667000",
+    "longitude": "-60.95000000"
+  },
+  {
+    "name": "Vieux Fort/Laborie Highway",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.73197000",
+    "longitude": "-60.95477000"
+  },
+  {
+    "name": "Vige'",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.78692000",
+    "longitude": "-60.93550000"
+  },
+  {
+    "name": "Vigie",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.02053000",
+    "longitude": "-60.99611000"
+  },
+  {
+    "name": "Village",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.93939000",
+    "longitude": "-61.04150000"
+  },
+  {
+    "name": "Village",
+    "countryCode": "LC",
+    "stateCode": "03",
+    "latitude": "13.77464000",
+    "longitude": "-61.05020000"
+  },
+  {
+    "name": "Village",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.74927000",
+    "longitude": "-60.99375000"
+  },
+  {
+    "name": "Village",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.81904000",
+    "longitude": "-60.89692000"
+  },
+  {
+    "name": "Village",
+    "countryCode": "LC",
+    "stateCode": "12",
+    "latitude": "13.90526000",
+    "longitude": "-61.06108000"
+  },
+  {
+    "name": "Village/Petite Bourgh",
+    "countryCode": "LC",
+    "stateCode": "01",
+    "latitude": "13.93801000",
+    "longitude": "-61.04184000"
+  },
+  {
+    "name": "Volet",
+    "countryCode": "LC",
+    "stateCode": "08",
+    "latitude": "13.82626000",
+    "longitude": "-60.90789000"
+  },
+  {
+    "name": "Warwick/Daban",
+    "countryCode": "LC",
+    "stateCode": "07",
+    "latitude": "13.81084000",
+    "longitude": "-61.00047000"
+  },
+  {
+    "name": "Waterworks",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00498000",
+    "longitude": "-60.97635000"
+  },
+  {
+    "name": "Westall Group/The Mangue",
+    "countryCode": "LC",
+    "stateCode": "11",
+    "latitude": "13.72707000",
+    "longitude": "-60.95312000"
+  },
+  {
+    "name": "Wilton'S Yard/Grave Yard",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.00968000",
+    "longitude": "-60.98639000"
+  },
+  {
+    "name": "Yorke Hill",
+    "countryCode": "LC",
+    "stateCode": "02",
+    "latitude": "14.01694000",
+    "longitude": "-60.97919000"
+  },
+  {
+    "name": "Zenon",
+    "countryCode": "LC",
+    "stateCode": "10",
+    "latitude": "13.85953000",
+    "longitude": "-61.03394000"
+  }
+]

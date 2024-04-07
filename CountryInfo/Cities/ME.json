@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Andrijevica",
+    "countryCode": "ME",
+    "stateCode": "01",
+    "latitude": "42.73389000",
+    "longitude": "19.79194000"
+  },
+  {
+    "name": "Bar",
+    "countryCode": "ME",
+    "stateCode": "02",
+    "latitude": "42.09306000",
+    "longitude": "19.10028000"
+  },
+  {
+    "name": "Berane",
+    "countryCode": "ME",
+    "stateCode": "03",
+    "latitude": "42.84250000",
+    "longitude": "19.87333000"
+  },
+  {
+    "name": "Bijelo Polje",
+    "countryCode": "ME",
+    "stateCode": "04",
+    "latitude": "43.03834000",
+    "longitude": "19.74758000"
+  },
+  {
+    "name": "Budva",
+    "countryCode": "ME",
+    "stateCode": "05",
+    "latitude": "42.28639000",
+    "longitude": "18.84000000"
+  },
+  {
+    "name": "Cetinje",
+    "countryCode": "ME",
+    "stateCode": "06",
+    "latitude": "42.39063000",
+    "longitude": "18.91417000"
+  },
+  {
+    "name": "Danilovgrad",
+    "countryCode": "ME",
+    "stateCode": "07",
+    "latitude": "42.55384000",
+    "longitude": "19.14608000"
+  },
+  {
+    "name": "Dobrota",
+    "countryCode": "ME",
+    "stateCode": "10",
+    "latitude": "42.45417000",
+    "longitude": "18.76833000"
+  },
+  {
+    "name": "Golubovci",
+    "countryCode": "ME",
+    "stateCode": "16",
+    "latitude": "42.33500000",
+    "longitude": "19.23111000"
+  },
+  {
+    "name": "Goričani",
+    "countryCode": "ME",
+    "stateCode": "16",
+    "latitude": "42.33222000",
+    "longitude": "19.21194000"
+  },
+  {
+    "name": "Gusinje",
+    "countryCode": "ME",
+    "stateCode": "22",
+    "latitude": "42.56194000",
+    "longitude": "19.83389000"
+  },
+  {
+    "name": "Kolašin",
+    "countryCode": "ME",
+    "stateCode": "09",
+    "latitude": "42.82229000",
+    "longitude": "19.51653000"
+  },
+  {
+    "name": "Kotor",
+    "countryCode": "ME",
+    "stateCode": "10",
+    "latitude": "42.42067000",
+    "longitude": "18.76825000"
+  },
+  {
+    "name": "Mataguži",
+    "countryCode": "ME",
+    "stateCode": "16",
+    "latitude": "42.32361000",
+    "longitude": "19.27278000"
+  },
+  {
+    "name": "Mojanovići",
+    "countryCode": "ME",
+    "stateCode": "16",
+    "latitude": "42.34167000",
+    "longitude": "19.22139000"
+  },
+  {
+    "name": "Mojkovac",
+    "countryCode": "ME",
+    "stateCode": "11",
+    "latitude": "42.96044000",
+    "longitude": "19.58330000"
+  },
+  {
+    "name": "Nikšić",
+    "countryCode": "ME",
+    "stateCode": "12",
+    "latitude": "42.77310000",
+    "longitude": "18.94446000"
+  },
+  {
+    "name": "Petrovac na Moru",
+    "countryCode": "ME",
+    "stateCode": "05",
+    "latitude": "42.20556000",
+    "longitude": "18.94250000"
+  },
+  {
+    "name": "Plav",
+    "countryCode": "ME",
+    "stateCode": "13",
+    "latitude": "42.59694000",
+    "longitude": "19.94556000"
+  },
+  {
+    "name": "Pljevlja",
+    "countryCode": "ME",
+    "stateCode": "14",
+    "latitude": "43.35670000",
+    "longitude": "19.35843000"
+  },
+  {
+    "name": "Plužine",
+    "countryCode": "ME",
+    "stateCode": "15",
+    "latitude": "43.15278000",
+    "longitude": "18.83944000"
+  },
+  {
+    "name": "Podgorica",
+    "countryCode": "ME",
+    "stateCode": "16",
+    "latitude": "42.44111000",
+    "longitude": "19.26361000"
+  },
+  {
+    "name": "Prčanj",
+    "countryCode": "ME",
+    "stateCode": "10",
+    "latitude": "42.45750000",
+    "longitude": "18.74222000"
+  },
+  {
+    "name": "Risan",
+    "countryCode": "ME",
+    "stateCode": "10",
+    "latitude": "42.51500000",
+    "longitude": "18.69556000"
+  },
+  {
+    "name": "Rožaje",
+    "countryCode": "ME",
+    "stateCode": "17",
+    "latitude": "42.83299000",
+    "longitude": "20.16652000"
+  },
+  {
+    "name": "Spuž",
+    "countryCode": "ME",
+    "stateCode": "07",
+    "latitude": "42.51500000",
+    "longitude": "19.19500000"
+  },
+  {
+    "name": "Stari Bar",
+    "countryCode": "ME",
+    "stateCode": "02",
+    "latitude": "42.09700000",
+    "longitude": "19.13600000"
+  },
+  {
+    "name": "Sutomore",
+    "countryCode": "ME",
+    "stateCode": "02",
+    "latitude": "42.14278000",
+    "longitude": "19.04667000"
+  },
+  {
+    "name": "Tivat",
+    "countryCode": "ME",
+    "stateCode": "19",
+    "latitude": "42.43639000",
+    "longitude": "18.69611000"
+  },
+  {
+    "name": "Tuzi",
+    "countryCode": "ME",
+    "stateCode": "16",
+    "latitude": "42.36556000",
+    "longitude": "19.33139000"
+  },
+  {
+    "name": "Ulcinj",
+    "countryCode": "ME",
+    "stateCode": "20",
+    "latitude": "41.92936000",
+    "longitude": "19.22436000"
+  },
+  {
+    "name": "Šavnik",
+    "countryCode": "ME",
+    "stateCode": "18",
+    "latitude": "42.95639000",
+    "longitude": "19.09667000"
+  },
+  {
+    "name": "Šušanj",
+    "countryCode": "ME",
+    "stateCode": "02",
+    "latitude": "42.11556000",
+    "longitude": "19.08833000"
+  },
+  {
+    "name": "Žabljak",
+    "countryCode": "ME",
+    "stateCode": "21",
+    "latitude": "43.15423000",
+    "longitude": "19.12325000"
+  }
+]

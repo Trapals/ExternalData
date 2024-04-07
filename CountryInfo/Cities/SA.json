@@ -1,0 +1,3943 @@
+[
+  {
+    "name": "Abha",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "18.21666667",
+    "longitude": "42.50000000"
+  },
+  {
+    "name": "Abha",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "18.21639000",
+    "longitude": "42.50528000"
+  },
+  {
+    "name": "Abqaiq",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.93402000",
+    "longitude": "49.66880000"
+  },
+  {
+    "name": "Abu Dhiba",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.19890000",
+    "longitude": "39.55780000"
+  },
+  {
+    "name": "Abu Hisani",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.73060000",
+    "longitude": "39.78330000"
+  },
+  {
+    "name": "Abu Hisani",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.73060000",
+    "longitude": "39.78330000"
+  },
+  {
+    "name": "Abu Qirfah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.76670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Abu Qirfah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.76670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Abu Radif",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.61860000",
+    "longitude": "43.13110000"
+  },
+  {
+    "name": "Abu Shu`ayb",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.58330000",
+    "longitude": "39.70000000"
+  },
+  {
+    "name": "Abu Shu`ayb",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.58330000",
+    "longitude": "39.70000000"
+  },
+  {
+    "name": "Abu `Urwah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.65000000",
+    "longitude": "39.70000000"
+  },
+  {
+    "name": "Abu `Urwah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.65000000",
+    "longitude": "39.70000000"
+  },
+  {
+    "name": "Abyar 'Ali",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.41666667",
+    "longitude": "39.55000000"
+  },
+  {
+    "name": "Abū Shayţānah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.86670000",
+    "longitude": "38.36670000"
+  },
+  {
+    "name": "Abū ‘Arīsh",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.96887000",
+    "longitude": "42.83251000"
+  },
+  {
+    "name": "Ad Dabbah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.71670000",
+    "longitude": "39.83330000"
+  },
+  {
+    "name": "Ad Dabbah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.71670000",
+    "longitude": "39.83330000"
+  },
+  {
+    "name": "Ad Darb",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "17.72285000",
+    "longitude": "42.25261000"
+  },
+  {
+    "name": "Ad Dawh",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.77220000",
+    "longitude": "39.70140000"
+  },
+  {
+    "name": "Ad Dawh",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.77220000",
+    "longitude": "39.70140000"
+  },
+  {
+    "name": "Ad Dawādimī",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.50772000",
+    "longitude": "44.39237000"
+  },
+  {
+    "name": "Ad Dilam",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "23.99104000",
+    "longitude": "47.16181000"
+  },
+  {
+    "name": "Ad Dulu`",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.76670000",
+    "longitude": "39.53330000"
+  },
+  {
+    "name": "Ad Dur",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.81670000",
+    "longitude": "39.76670000"
+  },
+  {
+    "name": "Ad Dur",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.81670000",
+    "longitude": "39.76670000"
+  },
+  {
+    "name": "Ad Dur`iyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.58420000",
+    "longitude": "42.84310000"
+  },
+  {
+    "name": "Adh Dhagharir",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.67780000",
+    "longitude": "42.95920000"
+  },
+  {
+    "name": "Adh Dhibiyah",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "26.02700000",
+    "longitude": "43.15700000"
+  },
+  {
+    "name": "Afif",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "23.90650000",
+    "longitude": "42.91724000"
+  },
+  {
+    "name": "Ain AlBaraha",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.75806000",
+    "longitude": "43.77389000"
+  },
+  {
+    "name": "Al Adl",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.44361000",
+    "longitude": "39.85611000"
+  },
+  {
+    "name": "Al Adl",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.44361000",
+    "longitude": "39.85611000"
+  },
+  {
+    "name": "Al Akhal",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.31560000",
+    "longitude": "39.85940000"
+  },
+  {
+    "name": "Al Arţāwīyah",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "26.50387000",
+    "longitude": "45.34813000"
+  },
+  {
+    "name": "Al Ashraf",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.52360000",
+    "longitude": "39.61670000"
+  },
+  {
+    "name": "Al Ashraf",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.52360000",
+    "longitude": "39.61670000"
+  },
+  {
+    "name": "Al Awjām",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.56324000",
+    "longitude": "49.94331000"
+  },
+  {
+    "name": "Al Badawi",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.63330000",
+    "longitude": "42.86500000"
+  },
+  {
+    "name": "Al Bahah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "20.01288000",
+    "longitude": "41.46767000"
+  },
+  {
+    "name": "Al Bahah",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "20.01288000",
+    "longitude": "41.46767000"
+  },
+  {
+    "name": "Al Balad",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.48780000",
+    "longitude": "39.19360000"
+  },
+  {
+    "name": "Al Balad",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.48780000",
+    "longitude": "39.19360000"
+  },
+  {
+    "name": "Al Barabir",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.52030000",
+    "longitude": "39.63250000"
+  },
+  {
+    "name": "Al Barabir",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.52030000",
+    "longitude": "39.63250000"
+  },
+  {
+    "name": "Al Bardiyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.04390000",
+    "longitude": "39.60610000"
+  },
+  {
+    "name": "Al Baţţālīyah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.43333000",
+    "longitude": "49.63333000"
+  },
+  {
+    "name": "Al Bi'ar",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.64972222",
+    "longitude": "39.67027778"
+  },
+  {
+    "name": "Al Bi'ar",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.64972222",
+    "longitude": "39.67027778"
+  },
+  {
+    "name": "Al Biqa'",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.38861111",
+    "longitude": "38.59888889"
+  },
+  {
+    "name": "Al Bir",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "25.30000000",
+    "longitude": "45.96670000"
+  },
+  {
+    "name": "Al Birk",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "18.21631000",
+    "longitude": "41.53593000"
+  },
+  {
+    "name": "Al Birk",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "18.21631000",
+    "longitude": "41.53593000"
+  },
+  {
+    "name": "Al Bukayrīyah",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "26.13915000",
+    "longitude": "43.65782000"
+  },
+  {
+    "name": "Al Buraykah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.78610000",
+    "longitude": "39.71670000"
+  },
+  {
+    "name": "Al Buraykah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.78610000",
+    "longitude": "39.71670000"
+  },
+  {
+    "name": "Al Bustan",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.27830000",
+    "longitude": "39.24280000"
+  },
+  {
+    "name": "Al Faqirah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.42170000",
+    "longitude": "39.70970000"
+  },
+  {
+    "name": "Al Fawwarah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.83280000",
+    "longitude": "40.16110000"
+  },
+  {
+    "name": "Al Fawwarah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.83280000",
+    "longitude": "40.16110000"
+  },
+  {
+    "name": "Al Faydah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.98440000",
+    "longitude": "39.38470000"
+  },
+  {
+    "name": "Al Faydah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.98440000",
+    "longitude": "39.38470000"
+  },
+  {
+    "name": "Al Fazz",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.98330000",
+    "longitude": "39.52220000"
+  },
+  {
+    "name": "Al Fazz",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.98330000",
+    "longitude": "39.52220000"
+  },
+  {
+    "name": "Al Furaysh",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.22000000",
+    "longitude": "39.28140000"
+  },
+  {
+    "name": "Al Fuwayliq",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "26.44360000",
+    "longitude": "43.25164000"
+  },
+  {
+    "name": "Al Fuwayliq",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "26.44360000",
+    "longitude": "43.25164000"
+  },
+  {
+    "name": "Al Gharith",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.60000000",
+    "longitude": "41.88330000"
+  },
+  {
+    "name": "Al Gharith",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.60000000",
+    "longitude": "41.88330000"
+  },
+  {
+    "name": "Al Ghassalah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.45000000",
+    "longitude": "39.86670000"
+  },
+  {
+    "name": "Al Ghassalah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.45000000",
+    "longitude": "39.86670000"
+  },
+  {
+    "name": "Al Ghulah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.95000000",
+    "longitude": "39.31670000"
+  },
+  {
+    "name": "Al Ghulah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.95000000",
+    "longitude": "39.31670000"
+  },
+  {
+    "name": "Al Hada",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.36860000",
+    "longitude": "40.28470000"
+  },
+  {
+    "name": "Al Hadrur",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.54360000",
+    "longitude": "42.86720000"
+  },
+  {
+    "name": "Al Hadā",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.36753000",
+    "longitude": "40.28694000"
+  },
+  {
+    "name": "Al Hair",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.39072000",
+    "longitude": "46.98677000"
+  },
+  {
+    "name": "Al Halaqah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.35000000",
+    "longitude": "40.45000000"
+  },
+  {
+    "name": "Al Halaqah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.35000000",
+    "longitude": "40.45000000"
+  },
+  {
+    "name": "Al Hamimah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.51670000",
+    "longitude": "39.63330000"
+  },
+  {
+    "name": "Al Hamimah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.51670000",
+    "longitude": "39.63330000"
+  },
+  {
+    "name": "Al Hanashah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.55810000",
+    "longitude": "42.76530000"
+  },
+  {
+    "name": "Al Harani",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.77500000",
+    "longitude": "42.90970000"
+  },
+  {
+    "name": "Al Harra', Makkah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.95000000",
+    "longitude": "39.48333333"
+  },
+  {
+    "name": "Al Harra', Makkah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.95000000",
+    "longitude": "39.48333333"
+  },
+  {
+    "name": "Al Hasamah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.68333333",
+    "longitude": "42.92694444"
+  },
+  {
+    "name": "Al Hawiyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.42415000",
+    "longitude": "40.49303000"
+  },
+  {
+    "name": "Al Hawiyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.42415000",
+    "longitude": "40.49303000"
+  },
+  {
+    "name": "Al Hijfar",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.54440000",
+    "longitude": "42.84720000"
+  },
+  {
+    "name": "Al Hufūf",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.36467000",
+    "longitude": "49.58764000"
+  },
+  {
+    "name": "Al Isawiyah",
+    "countryCode": "SA",
+    "stateCode": "12",
+    "latitude": "30.71681000",
+    "longitude": "37.97767000"
+  },
+  {
+    "name": "Al Iskan",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.40000000",
+    "longitude": "39.78330000"
+  },
+  {
+    "name": "Al Iskan",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.40000000",
+    "longitude": "39.78330000"
+  },
+  {
+    "name": "Al Jabriyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.25000000",
+    "longitude": "38.51670000"
+  },
+  {
+    "name": "Al Jadi",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.64500000",
+    "longitude": "42.99470000"
+  },
+  {
+    "name": "Al Jadidah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.67030000",
+    "longitude": "40.12640000"
+  },
+  {
+    "name": "Al Jadidah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.67030000",
+    "longitude": "40.12640000"
+  },
+  {
+    "name": "Al Jafr",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.37736000",
+    "longitude": "49.72154000"
+  },
+  {
+    "name": "Al Jami`ah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.46670000",
+    "longitude": "39.25000000"
+  },
+  {
+    "name": "Al Jami`ah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.46670000",
+    "longitude": "39.25000000"
+  },
+  {
+    "name": "Al Jarādīyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.57946000",
+    "longitude": "42.91240000"
+  },
+  {
+    "name": "Al Jawah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.95670000",
+    "longitude": "43.02970000"
+  },
+  {
+    "name": "Al Jid`",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.93330000",
+    "longitude": "39.58330000"
+  },
+  {
+    "name": "Al Jid`",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.93330000",
+    "longitude": "39.58330000"
+  },
+  {
+    "name": "Al Jirbah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.92640000",
+    "longitude": "42.88610000"
+  },
+  {
+    "name": "Al Jissah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.33330000",
+    "longitude": "40.30000000"
+  },
+  {
+    "name": "Al Ju`ranah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.56670000",
+    "longitude": "39.95000000"
+  },
+  {
+    "name": "Al Ju`ranah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.56670000",
+    "longitude": "39.95000000"
+  },
+  {
+    "name": "Al Jubayl",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "27.01740000",
+    "longitude": "49.62251000"
+  },
+  {
+    "name": "Al Jumūm",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.61694000",
+    "longitude": "39.69806000"
+  },
+  {
+    "name": "Al Jurayfah",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "25.52932000",
+    "longitude": "45.25644000"
+  },
+  {
+    "name": "Al Karbus",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.87330000",
+    "longitude": "42.63170000"
+  },
+  {
+    "name": "Al Kawahilah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.96140000",
+    "longitude": "42.67250000"
+  },
+  {
+    "name": "Al Khadra', Jizan",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.58583333",
+    "longitude": "42.96333333"
+  },
+  {
+    "name": "Al Khadra', Makkah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.46777778",
+    "longitude": "39.90472222"
+  },
+  {
+    "name": "Al Khadra', Makkah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.46777778",
+    "longitude": "39.90472222"
+  },
+  {
+    "name": "Al Khafjī",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "28.43905000",
+    "longitude": "48.49132000"
+  },
+  {
+    "name": "Al Khalas",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.70000000",
+    "longitude": "39.80000000"
+  },
+  {
+    "name": "Al Khalas",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.70000000",
+    "longitude": "39.80000000"
+  },
+  {
+    "name": "Al Khamrah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.43330000",
+    "longitude": "39.46670000"
+  },
+  {
+    "name": "Al Khamrah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.43330000",
+    "longitude": "39.46670000"
+  },
+  {
+    "name": "Al Kharabah, Jizan",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.75580000",
+    "longitude": "42.95470000"
+  },
+  {
+    "name": "Al Kharadilah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.92720000",
+    "longitude": "42.62640000"
+  },
+  {
+    "name": "Al Kharj",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.15541000",
+    "longitude": "47.33457000"
+  },
+  {
+    "name": "Al Kharma'",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.90000000",
+    "longitude": "38.90000000"
+  },
+  {
+    "name": "Al Khashabiyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.94030000",
+    "longitude": "42.64310000"
+  },
+  {
+    "name": "Al Khaydar",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.46940000",
+    "longitude": "40.63060000"
+  },
+  {
+    "name": "Al Khaydar",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.46940000",
+    "longitude": "40.63060000"
+  },
+  {
+    "name": "Al Khayf",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.68330000",
+    "longitude": "39.73330000"
+  },
+  {
+    "name": "Al Khayf",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.68330000",
+    "longitude": "39.73330000"
+  },
+  {
+    "name": "Al Khubah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.78860000",
+    "longitude": "43.22190000"
+  },
+  {
+    "name": "Al Khulasah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.68330000",
+    "longitude": "39.91670000"
+  },
+  {
+    "name": "Al Khulasah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.68330000",
+    "longitude": "39.91670000"
+  },
+  {
+    "name": "Al Kidwah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.78330000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Al Kidwah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.78330000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Al Kirs",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.57720000",
+    "longitude": "42.94750000"
+  },
+  {
+    "name": "Al Kura`",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.80000000",
+    "longitude": "39.13330000"
+  },
+  {
+    "name": "Al Kura`",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.80000000",
+    "longitude": "39.13330000"
+  },
+  {
+    "name": "Al Luqiyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.66060000",
+    "longitude": "43.04000000"
+  },
+  {
+    "name": "Al Ma`ayin",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.61080000",
+    "longitude": "43.14720000"
+  },
+  {
+    "name": "Al Ma`rash",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.13330000",
+    "longitude": "40.60000000"
+  },
+  {
+    "name": "Al Ma`rash",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.13330000",
+    "longitude": "40.60000000"
+  },
+  {
+    "name": "Al Madaya",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.76970000",
+    "longitude": "42.73110000"
+  },
+  {
+    "name": "Al Madiq, Al Madinah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.32220000",
+    "longitude": "39.62030000"
+  },
+  {
+    "name": "Al Madiq, Makkah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.67580000",
+    "longitude": "40.13080000"
+  },
+  {
+    "name": "Al Madiq, Makkah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.67580000",
+    "longitude": "40.13080000"
+  },
+  {
+    "name": "Al Maghal",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.96670000",
+    "longitude": "39.55000000"
+  },
+  {
+    "name": "Al Maghal",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.96670000",
+    "longitude": "39.55000000"
+  },
+  {
+    "name": "Al Mahjar",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.43330000",
+    "longitude": "39.20000000"
+  },
+  {
+    "name": "Al Mahjar",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.43330000",
+    "longitude": "39.20000000"
+  },
+  {
+    "name": "Al Majāridah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "19.12361111",
+    "longitude": "41.91111111"
+  },
+  {
+    "name": "Al Majāridah",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "19.12361000",
+    "longitude": "41.91111000"
+  },
+  {
+    "name": "Al Malbanah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.18330000",
+    "longitude": "39.51670000"
+  },
+  {
+    "name": "Al Mali",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.79530000",
+    "longitude": "42.95360000"
+  },
+  {
+    "name": "Al Maqrah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.26670000",
+    "longitude": "39.95000000"
+  },
+  {
+    "name": "Al Maqrah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.26670000",
+    "longitude": "39.95000000"
+  },
+  {
+    "name": "Al Markaz",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.40000000",
+    "longitude": "49.73333000"
+  },
+  {
+    "name": "Al Masarrah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.36670000",
+    "longitude": "40.46670000"
+  },
+  {
+    "name": "Al Masarrah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.36670000",
+    "longitude": "40.46670000"
+  },
+  {
+    "name": "Al Masfalah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.41670000",
+    "longitude": "39.81670000"
+  },
+  {
+    "name": "Al Masfalah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.41670000",
+    "longitude": "39.81670000"
+  },
+  {
+    "name": "Al Mashayikh",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.35000000",
+    "longitude": "40.33330000"
+  },
+  {
+    "name": "Al Mashayikh",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.35000000",
+    "longitude": "40.33330000"
+  },
+  {
+    "name": "Al Mathnah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.26666667",
+    "longitude": "40.38333333"
+  },
+  {
+    "name": "Al Mathnah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.26666667",
+    "longitude": "40.38333333"
+  },
+  {
+    "name": "Al Mayasam",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.94780000",
+    "longitude": "42.72110000"
+  },
+  {
+    "name": "Al Mindak",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "20.15880000",
+    "longitude": "41.28337000"
+  },
+  {
+    "name": "Al Mindak",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "20.15888889",
+    "longitude": "41.28333333"
+  },
+  {
+    "name": "Al Mithnab",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "25.86012000",
+    "longitude": "44.22228000"
+  },
+  {
+    "name": "Al Mubarak",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.70000000",
+    "longitude": "39.90000000"
+  },
+  {
+    "name": "Al Mubarak",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.70000000",
+    "longitude": "39.90000000"
+  },
+  {
+    "name": "Al Mubarraz",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.40768000",
+    "longitude": "49.59028000"
+  },
+  {
+    "name": "Al Mudawwarah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.26670000",
+    "longitude": "39.96670000"
+  },
+  {
+    "name": "Al Mudawwarah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.26670000",
+    "longitude": "39.96670000"
+  },
+  {
+    "name": "Al Mufrihat",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.35000000",
+    "longitude": "39.41670000"
+  },
+  {
+    "name": "Al Mulayha'",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.80000000",
+    "longitude": "40.35000000"
+  },
+  {
+    "name": "Al Mulayha'",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.80000000",
+    "longitude": "40.35000000"
+  },
+  {
+    "name": "Al Multasa",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.08330000",
+    "longitude": "38.15000000"
+  },
+  {
+    "name": "Al Munayzilah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.38333000",
+    "longitude": "49.66667000"
+  },
+  {
+    "name": "Al Mundassah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.63330000",
+    "longitude": "39.74860000"
+  },
+  {
+    "name": "Al Mundassah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.63330000",
+    "longitude": "39.74860000"
+  },
+  {
+    "name": "Al Muqayti`",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.54860000",
+    "longitude": "39.78610000"
+  },
+  {
+    "name": "Al Muqayti`",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.54860000",
+    "longitude": "39.78610000"
+  },
+  {
+    "name": "Al Muqr",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.00000000",
+    "longitude": "39.38330000"
+  },
+  {
+    "name": "Al Muqr",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.00000000",
+    "longitude": "39.38330000"
+  },
+  {
+    "name": "Al Musayjid",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.08330000",
+    "longitude": "39.10000000"
+  },
+  {
+    "name": "Al Muwayh",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.43333000",
+    "longitude": "41.75829000"
+  },
+  {
+    "name": "Al Muwayh",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.43333000",
+    "longitude": "41.75829000"
+  },
+  {
+    "name": "Al Muţayrifī",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.47878000",
+    "longitude": "49.55824000"
+  },
+  {
+    "name": "Al Qa'im",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.71944444",
+    "longitude": "42.97666667"
+  },
+  {
+    "name": "Al Qadimah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.35000000",
+    "longitude": "39.15000000"
+  },
+  {
+    "name": "Al Qadimah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.35000000",
+    "longitude": "39.15000000"
+  },
+  {
+    "name": "Al Qahab",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "18.92560000",
+    "longitude": "41.95500000"
+  },
+  {
+    "name": "Al Qahab",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "18.92560000",
+    "longitude": "41.95500000"
+  },
+  {
+    "name": "Al Qararah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.42890000",
+    "longitude": "39.82810000"
+  },
+  {
+    "name": "Al Qararah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.42890000",
+    "longitude": "39.82810000"
+  },
+  {
+    "name": "Al Qaryat",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.46670000",
+    "longitude": "39.20000000"
+  },
+  {
+    "name": "Al Qaryat",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.46670000",
+    "longitude": "39.20000000"
+  },
+  {
+    "name": "Al Qawba`iyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.66670000",
+    "longitude": "39.98330000"
+  },
+  {
+    "name": "Al Qawba`iyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.66670000",
+    "longitude": "39.98330000"
+  },
+  {
+    "name": "Al Qaţīf",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.56542000",
+    "longitude": "50.00890000"
+  },
+  {
+    "name": "Al Qirshan",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.56670000",
+    "longitude": "39.70000000"
+  },
+  {
+    "name": "Al Qirshan",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.56670000",
+    "longitude": "39.70000000"
+  },
+  {
+    "name": "Al Qu`tubah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.93330000",
+    "longitude": "40.36670000"
+  },
+  {
+    "name": "Al Qu`tubah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.93330000",
+    "longitude": "40.36670000"
+  },
+  {
+    "name": "Al Qufayf",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.83330000",
+    "longitude": "40.45000000"
+  },
+  {
+    "name": "Al Qufayf",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.83330000",
+    "longitude": "40.45000000"
+  },
+  {
+    "name": "Al Quful",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.67330000",
+    "longitude": "43.07890000"
+  },
+  {
+    "name": "Al Qurayb",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.97500000",
+    "longitude": "42.72530000"
+  },
+  {
+    "name": "Al Qurayn",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.48333000",
+    "longitude": "49.60000000"
+  },
+  {
+    "name": "Al Qushashiyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.43330000",
+    "longitude": "39.83330000"
+  },
+  {
+    "name": "Al Qushashiyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.43330000",
+    "longitude": "39.83330000"
+  },
+  {
+    "name": "Al Quwah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.79940000",
+    "longitude": "43.22500000"
+  },
+  {
+    "name": "Al Qārah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.41667000",
+    "longitude": "49.66667000"
+  },
+  {
+    "name": "Al Thybiyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "26.02700000",
+    "longitude": "43.15700000"
+  },
+  {
+    "name": "Al Thybiyah",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "26.02700000",
+    "longitude": "43.15700000"
+  },
+  {
+    "name": "Al Ubaylah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "21.98417000",
+    "longitude": "50.93966000"
+  },
+  {
+    "name": "Al Ukhaydir",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.93330000",
+    "longitude": "40.01670000"
+  },
+  {
+    "name": "Al Ukhaydir",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.93330000",
+    "longitude": "40.01670000"
+  },
+  {
+    "name": "Al Waht",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.23330000",
+    "longitude": "40.35000000"
+  },
+  {
+    "name": "Al Waht",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.23330000",
+    "longitude": "40.35000000"
+  },
+  {
+    "name": "Al Wajh",
+    "countryCode": "SA",
+    "stateCode": "07",
+    "latitude": "26.24551000",
+    "longitude": "36.45249000"
+  },
+  {
+    "name": "Al Wasili",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.94690000",
+    "longitude": "42.69030000"
+  },
+  {
+    "name": "Al Wuday",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.17890000",
+    "longitude": "39.54810000"
+  },
+  {
+    "name": "Al `Awali",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.45000000",
+    "longitude": "39.61670000"
+  },
+  {
+    "name": "Al `Ulayin",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "17.15000000",
+    "longitude": "43.17080000"
+  },
+  {
+    "name": "Al `Uqul",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.50000000",
+    "longitude": "39.81670000"
+  },
+  {
+    "name": "Al `Usaylah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.92030000",
+    "longitude": "42.73530000"
+  },
+  {
+    "name": "Al Ābār",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.09810000",
+    "longitude": "39.91030000"
+  },
+  {
+    "name": "Al Ābār",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.09810000",
+    "longitude": "39.91030000"
+  },
+  {
+    "name": "Al-Awamiyah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.58333300",
+    "longitude": "49.98333300"
+  },
+  {
+    "name": "Al-Awjam",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.55830000",
+    "longitude": "49.95030000"
+  },
+  {
+    "name": "Al-Haditha",
+    "countryCode": "SA",
+    "stateCode": "12",
+    "latitude": "31.45601100",
+    "longitude": "37.14814000"
+  },
+  {
+    "name": "Al-Jafr",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "25.41666667",
+    "longitude": "49.61666667"
+  },
+  {
+    "name": "Al-Mubarraz",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.44160000",
+    "longitude": "49.66420000"
+  },
+  {
+    "name": "Al-Ula",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "26.60853000",
+    "longitude": "37.92316000"
+  },
+  {
+    "name": "An Najamiyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.56470000",
+    "longitude": "42.94390000"
+  },
+  {
+    "name": "An Nimāş",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "19.14547000",
+    "longitude": "42.12009000"
+  },
+  {
+    "name": "Ar Rabwah as Sufla",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.95530000",
+    "longitude": "39.43670000"
+  },
+  {
+    "name": "Ar Rabwah as Sufla",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.95530000",
+    "longitude": "39.43670000"
+  },
+  {
+    "name": "Ar Rafah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.51670000",
+    "longitude": "40.20000000"
+  },
+  {
+    "name": "Ar Rafah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.51670000",
+    "longitude": "40.20000000"
+  },
+  {
+    "name": "Ar Rass",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "25.86666667",
+    "longitude": "43.50000000"
+  },
+  {
+    "name": "Ar Rass",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "25.86944000",
+    "longitude": "43.49730000"
+  },
+  {
+    "name": "Ar Rawdah ash Shamaliyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.73330000",
+    "longitude": "39.96670000"
+  },
+  {
+    "name": "Ar Rawdah ash Shamaliyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.73330000",
+    "longitude": "39.96670000"
+  },
+  {
+    "name": "Ar Rayn",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "23.54995000",
+    "longitude": "45.50463000"
+  },
+  {
+    "name": "Ar Rudaymah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.76670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Ar Rudaymah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.76670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Ar Rukubah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.62220000",
+    "longitude": "42.96750000"
+  },
+  {
+    "name": "Arar",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "30.98333333",
+    "longitude": "41.01666667"
+  },
+  {
+    "name": "Arar",
+    "countryCode": "SA",
+    "stateCode": "08",
+    "latitude": "30.97531000",
+    "longitude": "41.03808000"
+  },
+  {
+    "name": "Arya`",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.08560000",
+    "longitude": "40.62390000"
+  },
+  {
+    "name": "Arya`",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.08560000",
+    "longitude": "40.62390000"
+  },
+  {
+    "name": "As Sadayir",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.25000000",
+    "longitude": "39.18330000"
+  },
+  {
+    "name": "As Sadr",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.51890000",
+    "longitude": "40.19750000"
+  },
+  {
+    "name": "As Sadr",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.51890000",
+    "longitude": "40.19750000"
+  },
+  {
+    "name": "As Saffānīyah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "27.97083000",
+    "longitude": "48.73000000"
+  },
+  {
+    "name": "As Safra'",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.01277778",
+    "longitude": "38.92277778"
+  },
+  {
+    "name": "As Salamiyah",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.20154000",
+    "longitude": "47.28872000"
+  },
+  {
+    "name": "As Samd ash Shamali",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.67500000",
+    "longitude": "39.75000000"
+  },
+  {
+    "name": "As Samd ash Shamali",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.67500000",
+    "longitude": "39.75000000"
+  },
+  {
+    "name": "As Sayl al Kabir",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.62640000",
+    "longitude": "40.41530000"
+  },
+  {
+    "name": "As Sayl al Kabir",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.62640000",
+    "longitude": "40.41530000"
+  },
+  {
+    "name": "As Sayl as Saghir",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.50640000",
+    "longitude": "40.48220000"
+  },
+  {
+    "name": "As Sayl as Saghir",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.50640000",
+    "longitude": "40.48220000"
+  },
+  {
+    "name": "As Sifyani",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.47560000",
+    "longitude": "39.84310000"
+  },
+  {
+    "name": "As Sifyani",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.47560000",
+    "longitude": "39.84310000"
+  },
+  {
+    "name": "As Sudayrah, Makkah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.36190000",
+    "longitude": "40.85470000"
+  },
+  {
+    "name": "As Sudayrah, Makkah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.36190000",
+    "longitude": "40.85470000"
+  },
+  {
+    "name": "As Sulayyil",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "20.46067000",
+    "longitude": "45.57792000"
+  },
+  {
+    "name": "As Sumariyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.92140000",
+    "longitude": "39.61780000"
+  },
+  {
+    "name": "As Suwadah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.13390000",
+    "longitude": "40.51170000"
+  },
+  {
+    "name": "As Suwadah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.13390000",
+    "longitude": "40.51170000"
+  },
+  {
+    "name": "As Suwayriqiyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.35000000",
+    "longitude": "40.31670000"
+  },
+  {
+    "name": "Ash Shafā",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.07210000",
+    "longitude": "40.31185000"
+  },
+  {
+    "name": "Ash Shajwah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.66440000",
+    "longitude": "40.01140000"
+  },
+  {
+    "name": "Ash Shajwah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.66440000",
+    "longitude": "40.01140000"
+  },
+  {
+    "name": "Ash Shamiyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.84110000",
+    "longitude": "39.52440000"
+  },
+  {
+    "name": "Ash Shamiyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.84110000",
+    "longitude": "39.52440000"
+  },
+  {
+    "name": "Ash Shara'i`",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.46305556",
+    "longitude": "39.94611111"
+  },
+  {
+    "name": "Ash Shara'i`",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.46305556",
+    "longitude": "39.94611111"
+  },
+  {
+    "name": "Ash Shaybi",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.69580000",
+    "longitude": "39.94170000"
+  },
+  {
+    "name": "Ash Shaybi",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.69580000",
+    "longitude": "39.94170000"
+  },
+  {
+    "name": "Ash Shi`b",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.96890000",
+    "longitude": "39.48610000"
+  },
+  {
+    "name": "Ash Shi`b",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.96890000",
+    "longitude": "39.48610000"
+  },
+  {
+    "name": "Ash Shishah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.35030000",
+    "longitude": "39.89190000"
+  },
+  {
+    "name": "Ash Shishah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.35030000",
+    "longitude": "39.89190000"
+  },
+  {
+    "name": "Ash Shufayyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.81670000",
+    "longitude": "39.15000000"
+  },
+  {
+    "name": "Ash Shumaysi",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.58330000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Ash Shumaysi",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.58330000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Ash Shuqayq",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "17.70305556",
+    "longitude": "42.02944444"
+  },
+  {
+    "name": "Ash Shuwaybit",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.37970000",
+    "longitude": "40.51940000"
+  },
+  {
+    "name": "Ash Shuwaybit",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.37970000",
+    "longitude": "40.51940000"
+  },
+  {
+    "name": "Asira",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.33330000",
+    "longitude": "38.63330000"
+  },
+  {
+    "name": "At Tan`im",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.48250000",
+    "longitude": "39.80500000"
+  },
+  {
+    "name": "At Tan`im",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.48250000",
+    "longitude": "39.80500000"
+  },
+  {
+    "name": "At Tarfa'",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.70638889",
+    "longitude": "39.87138889"
+  },
+  {
+    "name": "At Tarfa'",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.70638889",
+    "longitude": "39.87138889"
+  },
+  {
+    "name": "At Turqi",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.94920000",
+    "longitude": "39.41310000"
+  },
+  {
+    "name": "At Turqi",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.94920000",
+    "longitude": "39.41310000"
+  },
+  {
+    "name": "At Tūbī",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.55778000",
+    "longitude": "49.99167000"
+  },
+  {
+    "name": "Az Zaymah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.61860000",
+    "longitude": "40.11330000"
+  },
+  {
+    "name": "Az Zaymah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.61860000",
+    "longitude": "40.11330000"
+  },
+  {
+    "name": "Az Zilal",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.48890000",
+    "longitude": "39.59420000"
+  },
+  {
+    "name": "Az Zilal",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.48890000",
+    "longitude": "39.59420000"
+  },
+  {
+    "name": "Az Zughbah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.71670000",
+    "longitude": "39.94580000"
+  },
+  {
+    "name": "Az Zughbah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.71670000",
+    "longitude": "39.94580000"
+  },
+  {
+    "name": "Az Zulfī",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "26.29945000",
+    "longitude": "44.81542000"
+  },
+  {
+    "name": "Az Zurra`",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.91060000",
+    "longitude": "39.40000000"
+  },
+  {
+    "name": "Az Zurra`",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.91060000",
+    "longitude": "39.40000000"
+  },
+  {
+    "name": "Az Zuwayb",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.91670000",
+    "longitude": "39.96940000"
+  },
+  {
+    "name": "Az Zuwayb",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.91670000",
+    "longitude": "39.96940000"
+  },
+  {
+    "name": "Aţ Ţaraf",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.36232000",
+    "longitude": "49.72757000"
+  },
+  {
+    "name": "Badr Ḩunayn",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.78292000",
+    "longitude": "38.79047000"
+  },
+  {
+    "name": "Bahrat al Qadimah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.41330000",
+    "longitude": "39.49390000"
+  },
+  {
+    "name": "Bahrat al Qadimah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.41330000",
+    "longitude": "39.49390000"
+  },
+  {
+    "name": "Bahwil",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.42940000",
+    "longitude": "39.42940000"
+  },
+  {
+    "name": "Bahwil",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.42940000",
+    "longitude": "39.42940000"
+  },
+  {
+    "name": "Bakhshat Yamani",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.89860000",
+    "longitude": "42.59890000"
+  },
+  {
+    "name": "Baq`a'",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.21666667",
+    "longitude": "38.71666667"
+  },
+  {
+    "name": "Baranah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.55420000",
+    "longitude": "39.82220000"
+  },
+  {
+    "name": "Baranah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.55420000",
+    "longitude": "39.82220000"
+  },
+  {
+    "name": "Bartiyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.28330000",
+    "longitude": "38.58330000"
+  },
+  {
+    "name": "Barzah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.98000000",
+    "longitude": "39.67560000"
+  },
+  {
+    "name": "Barzah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.98000000",
+    "longitude": "39.67560000"
+  },
+  {
+    "name": "Bashm",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.48220000",
+    "longitude": "39.82080000"
+  },
+  {
+    "name": "Bashm",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.48220000",
+    "longitude": "39.82080000"
+  },
+  {
+    "name": "Bi'r al Mashi",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.21666667",
+    "longitude": "39.55000000"
+  },
+  {
+    "name": "Birkah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.82030000",
+    "longitude": "38.85970000"
+  },
+  {
+    "name": "Buraidah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "26.33333333",
+    "longitude": "43.96666667"
+  },
+  {
+    "name": "Buraidah",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "26.33333333",
+    "longitude": "43.96666667"
+  },
+  {
+    "name": "Buraydah",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "26.32599000",
+    "longitude": "43.97497000"
+  },
+  {
+    "name": "Buraykah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.34440000",
+    "longitude": "39.32000000"
+  },
+  {
+    "name": "Buraykah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.34440000",
+    "longitude": "39.32000000"
+  },
+  {
+    "name": "Burayman",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.63750000",
+    "longitude": "39.22640000"
+  },
+  {
+    "name": "Burayman",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.63750000",
+    "longitude": "39.22640000"
+  },
+  {
+    "name": "CITY GHRAN",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.97380000",
+    "longitude": "39.36820000"
+  },
+  {
+    "name": "CITY GHRAN",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.97380000",
+    "longitude": "39.36820000"
+  },
+  {
+    "name": "Dabyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.42470000",
+    "longitude": "39.44610000"
+  },
+  {
+    "name": "Dabyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.42470000",
+    "longitude": "39.44610000"
+  },
+  {
+    "name": "Dahaban",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.93333333",
+    "longitude": "39.11666667"
+  },
+  {
+    "name": "Dahaban",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.93333333",
+    "longitude": "39.11666667"
+  },
+  {
+    "name": "Dammam",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.43442000",
+    "longitude": "50.10326000"
+  },
+  {
+    "name": "Dawadmi",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.50772000",
+    "longitude": "44.39237000"
+  },
+  {
+    "name": "Dhahran",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.28864000",
+    "longitude": "50.11396000"
+  },
+  {
+    "name": "Diriyah",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.75187000",
+    "longitude": "46.53874000"
+  },
+  {
+    "name": "Duba",
+    "countryCode": "SA",
+    "stateCode": "07",
+    "latitude": "27.35134000",
+    "longitude": "35.69014000"
+  },
+  {
+    "name": "Dughaybjah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.59030000",
+    "longitude": "41.35970000"
+  },
+  {
+    "name": "Dughaybjah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.59030000",
+    "longitude": "41.35970000"
+  },
+  {
+    "name": "Dukhnah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "25.35621000",
+    "longitude": "43.62268000"
+  },
+  {
+    "name": "Dukhnah",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "25.35621000",
+    "longitude": "43.62268000"
+  },
+  {
+    "name": "Far`",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.81670000",
+    "longitude": "38.86670000"
+  },
+  {
+    "name": "Farasān",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.70222000",
+    "longitude": "42.11833000"
+  },
+  {
+    "name": "Fayd",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.91720000",
+    "longitude": "39.38830000"
+  },
+  {
+    "name": "Fayd",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.91720000",
+    "longitude": "39.38830000"
+  },
+  {
+    "name": "Fiji",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.26666667",
+    "longitude": "38.56666667"
+  },
+  {
+    "name": "Ghawiyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.56500000",
+    "longitude": "43.11080000"
+  },
+  {
+    "name": "Ghran",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.98027000",
+    "longitude": "39.36521000"
+  },
+  {
+    "name": "Ghran",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.98027000",
+    "longitude": "39.36521000"
+  },
+  {
+    "name": "Ha'il",
+    "countryCode": "SA",
+    "stateCode": "06",
+    "latitude": "27.52188000",
+    "longitude": "41.69073000"
+  },
+  {
+    "name": "Ha'il ",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "27.51666667",
+    "longitude": "41.68333333"
+  },
+  {
+    "name": "Hadda'",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.45027778",
+    "longitude": "39.55444444"
+  },
+  {
+    "name": "Hadda'",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.45027778",
+    "longitude": "39.55444444"
+  },
+  {
+    "name": "Haddat ash Sham",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.79670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Haddat ash Sham",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.79670000",
+    "longitude": "39.68330000"
+  },
+  {
+    "name": "Hadhah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.65250000",
+    "longitude": "40.01420000"
+  },
+  {
+    "name": "Hadhah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.65250000",
+    "longitude": "40.01420000"
+  },
+  {
+    "name": "Hafar Al-Batin",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "28.43279000",
+    "longitude": "45.97077000"
+  },
+  {
+    "name": "Hajrah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "20.23333333",
+    "longitude": "41.05000000"
+  },
+  {
+    "name": "Hajrah",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "20.23333333",
+    "longitude": "41.05000000"
+  },
+  {
+    "name": "Hajur",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "23.01780000",
+    "longitude": "39.73030000"
+  },
+  {
+    "name": "Hajur",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "23.01780000",
+    "longitude": "39.73030000"
+  },
+  {
+    "name": "Halamah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.95420000",
+    "longitude": "39.70280000"
+  },
+  {
+    "name": "Halamah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.95420000",
+    "longitude": "39.70280000"
+  },
+  {
+    "name": "Halat Ammar",
+    "countryCode": "SA",
+    "stateCode": "12",
+    "latitude": "29.15944444",
+    "longitude": "36.07500000"
+  },
+  {
+    "name": "Hamayyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.98940000",
+    "longitude": "43.16030000"
+  },
+  {
+    "name": "Hamdah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.76190000",
+    "longitude": "42.92220000"
+  },
+  {
+    "name": "Haradh",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "24.14555556",
+    "longitude": "49.06527778"
+  },
+  {
+    "name": "Harmah",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "25.91666667",
+    "longitude": "45.33333333"
+  },
+  {
+    "name": "Harthiyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.25000000",
+    "longitude": "38.55000000"
+  },
+  {
+    "name": "Hasa, Al Madinah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.28333333",
+    "longitude": "38.60000000"
+  },
+  {
+    "name": "Haylat Radi al Baham",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.08390000",
+    "longitude": "39.72500000"
+  },
+  {
+    "name": "Husayniyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.86666667",
+    "longitude": "38.90000000"
+  },
+  {
+    "name": "Husnah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.80000000",
+    "longitude": "39.59166667"
+  },
+  {
+    "name": "Husnah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.80000000",
+    "longitude": "39.59166667"
+  },
+  {
+    "name": "Jadidah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.81670000",
+    "longitude": "38.83330000"
+  },
+  {
+    "name": "Jalajil",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "25.66666667",
+    "longitude": "45.45000000"
+  },
+  {
+    "name": "Jarwal",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.43330000",
+    "longitude": "39.81670000"
+  },
+  {
+    "name": "Jarwal",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.43330000",
+    "longitude": "39.81670000"
+  },
+  {
+    "name": "Jeddah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.54238000",
+    "longitude": "39.19797000"
+  },
+  {
+    "name": "Jeddah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.54277778",
+    "longitude": "39.17277778"
+  },
+  {
+    "name": "Jizan",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.88917000",
+    "longitude": "42.55111000"
+  },
+  {
+    "name": "Jubbah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "28.00620000",
+    "longitude": "40.94160000"
+  },
+  {
+    "name": "Jubbah",
+    "countryCode": "SA",
+    "stateCode": "06",
+    "latitude": "28.00620000",
+    "longitude": "40.94160000"
+  },
+  {
+    "name": "Juha, Saudi Arabia",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.66940000",
+    "longitude": "42.89220000"
+  },
+  {
+    "name": "Julayjilah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.50000000",
+    "longitude": "49.60000000"
+  },
+  {
+    "name": "Julayyil",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.95830000",
+    "longitude": "39.75830000"
+  },
+  {
+    "name": "Julayyil",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.95830000",
+    "longitude": "39.75830000"
+  },
+  {
+    "name": "Ka`lul",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.89750000",
+    "longitude": "42.84670000"
+  },
+  {
+    "name": "Khabath Sa`id",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.99780000",
+    "longitude": "42.73220000"
+  },
+  {
+    "name": "Khalfah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.55470000",
+    "longitude": "43.08940000"
+  },
+  {
+    "name": "Khamis Mushait",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "18.30000000",
+    "longitude": "42.73333333"
+  },
+  {
+    "name": "Khamis Mushait",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "18.30000000",
+    "longitude": "42.73333000"
+  },
+  {
+    "name": "Khatib, Saudi Arabia",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.89610000",
+    "longitude": "41.85750000"
+  },
+  {
+    "name": "Khayf Fadil",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.26670000",
+    "longitude": "38.56670000"
+  },
+  {
+    "name": "Khobar",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.27944000",
+    "longitude": "50.20833000"
+  },
+  {
+    "name": "Khumrah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.37280000",
+    "longitude": "39.22610000"
+  },
+  {
+    "name": "Khumrah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.37280000",
+    "longitude": "39.22610000"
+  },
+  {
+    "name": "Khumsiyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.77140000",
+    "longitude": "42.80190000"
+  },
+  {
+    "name": "Khushaym",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.88000000",
+    "longitude": "43.13720000"
+  },
+  {
+    "name": "Kulakh",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.29640000",
+    "longitude": "40.79690000"
+  },
+  {
+    "name": "Kulakh",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.29640000",
+    "longitude": "40.79690000"
+  },
+  {
+    "name": "Layla",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "22.28330000",
+    "longitude": "46.73330000"
+  },
+  {
+    "name": "Ma`riyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "18.85000000",
+    "longitude": "41.96670000"
+  },
+  {
+    "name": "Ma`riyah",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "18.85000000",
+    "longitude": "41.96670000"
+  },
+  {
+    "name": "Madrakah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.97970000",
+    "longitude": "39.98750000"
+  },
+  {
+    "name": "Madrakah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.97970000",
+    "longitude": "39.98750000"
+  },
+  {
+    "name": "Madsus",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.35000000",
+    "longitude": "38.55000000"
+  },
+  {
+    "name": "Mafruq",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.52220000",
+    "longitude": "40.17940000"
+  },
+  {
+    "name": "Mafruq",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.52220000",
+    "longitude": "40.17940000"
+  },
+  {
+    "name": "Mahatah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.83330000",
+    "longitude": "43.16670000"
+  },
+  {
+    "name": "Mahattat al Hafah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.75000000",
+    "longitude": "39.30000000"
+  },
+  {
+    "name": "Malakan",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.21580000",
+    "longitude": "39.95030000"
+  },
+  {
+    "name": "Malakan",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.21580000",
+    "longitude": "39.95030000"
+  },
+  {
+    "name": "Malgocta",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.99777778",
+    "longitude": "42.67388889"
+  },
+  {
+    "name": "Manfuha",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.59611111",
+    "longitude": "46.72722222"
+  },
+  {
+    "name": "Maqrah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.41670000",
+    "longitude": "38.70000000"
+  },
+  {
+    "name": "Maqshush",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.58330000",
+    "longitude": "38.60000000"
+  },
+  {
+    "name": "Marāt",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "25.07064000",
+    "longitude": "45.45775000"
+  },
+  {
+    "name": "Masahili",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.03330000",
+    "longitude": "38.23330000"
+  },
+  {
+    "name": "Mashajji",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.73890000",
+    "longitude": "39.96670000"
+  },
+  {
+    "name": "Mashajji",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.73890000",
+    "longitude": "39.96670000"
+  },
+  {
+    "name": "Masihat Mahd al Hayl",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.94170000",
+    "longitude": "39.88610000"
+  },
+  {
+    "name": "Masihat Mahd al Hayl",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.94170000",
+    "longitude": "39.88610000"
+  },
+  {
+    "name": "Maskar",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.75000000",
+    "longitude": "40.31640000"
+  },
+  {
+    "name": "Maskar",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.75000000",
+    "longitude": "40.31640000"
+  },
+  {
+    "name": "Mastoorah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.11090000",
+    "longitude": "38.85068889"
+  },
+  {
+    "name": "Matiyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.54170000",
+    "longitude": "39.81940000"
+  },
+  {
+    "name": "Matiyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.54170000",
+    "longitude": "39.81940000"
+  },
+  {
+    "name": "Mawarah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.20000000",
+    "longitude": "38.43330000"
+  },
+  {
+    "name": "Mawqaq",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "27.38398000",
+    "longitude": "41.17635000"
+  },
+  {
+    "name": "Mawqaq",
+    "countryCode": "SA",
+    "stateCode": "06",
+    "latitude": "27.38398000",
+    "longitude": "41.17635000"
+  },
+  {
+    "name": "Mecca",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.42664000",
+    "longitude": "39.82563000"
+  },
+  {
+    "name": "Mecca",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.42250000",
+    "longitude": "39.82611111"
+  },
+  {
+    "name": "Medina",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.46861000",
+    "longitude": "39.61417000"
+  },
+  {
+    "name": "Mifa",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "18.89170000",
+    "longitude": "41.96330000"
+  },
+  {
+    "name": "Mifa",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "18.89170000",
+    "longitude": "41.96330000"
+  },
+  {
+    "name": "Milhah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.05000000",
+    "longitude": "38.30000000"
+  },
+  {
+    "name": "Mina",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.41333333",
+    "longitude": "39.89333333"
+  },
+  {
+    "name": "Mina",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.41333333",
+    "longitude": "39.89333333"
+  },
+  {
+    "name": "Mislīyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "17.45988000",
+    "longitude": "42.55720000"
+  },
+  {
+    "name": "Mizhirah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.82611000",
+    "longitude": "42.73333000"
+  },
+  {
+    "name": "Mukambal",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.59360000",
+    "longitude": "43.03280000"
+  },
+  {
+    "name": "Mulayjah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "27.27103000",
+    "longitude": "48.42419000"
+  },
+  {
+    "name": "Munayzir",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "18.94640000",
+    "longitude": "41.91640000"
+  },
+  {
+    "name": "Munayzir",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "18.94640000",
+    "longitude": "41.91640000"
+  },
+  {
+    "name": "Mundaraq",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.75420000",
+    "longitude": "43.14890000"
+  },
+  {
+    "name": "Murshidiyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.48890000",
+    "longitude": "39.79440000"
+  },
+  {
+    "name": "Murshidiyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.48890000",
+    "longitude": "39.79440000"
+  },
+  {
+    "name": "Mushrif",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.62920000",
+    "longitude": "41.35670000"
+  },
+  {
+    "name": "Mushrif",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.62920000",
+    "longitude": "41.35670000"
+  },
+  {
+    "name": "Muwassam",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.41670000",
+    "longitude": "42.82580000"
+  },
+  {
+    "name": "Najan",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.07746000",
+    "longitude": "47.16590000"
+  },
+  {
+    "name": "Najran",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "17.49170000",
+    "longitude": "44.13220000"
+  },
+  {
+    "name": "Najrān",
+    "countryCode": "SA",
+    "stateCode": "10",
+    "latitude": "17.49326000",
+    "longitude": "44.12766000"
+  },
+  {
+    "name": "Nariyah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "27.46990000",
+    "longitude": "48.48440000"
+  },
+  {
+    "name": "Nisab",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "29.19274000",
+    "longitude": "44.71598000"
+  },
+  {
+    "name": "Nisab",
+    "countryCode": "SA",
+    "stateCode": "08",
+    "latitude": "29.19274000",
+    "longitude": "44.71598000"
+  },
+  {
+    "name": "Nughayshiyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.21670000",
+    "longitude": "40.75000000"
+  },
+  {
+    "name": "Nughayshiyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.21670000",
+    "longitude": "40.75000000"
+  },
+  {
+    "name": "Nujayl",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.26670000",
+    "longitude": "38.65000000"
+  },
+  {
+    "name": "Nuzlat al Faqin",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.00000000",
+    "longitude": "39.41670000"
+  },
+  {
+    "name": "Nuzlat al Faqin",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.00000000",
+    "longitude": "39.41670000"
+  },
+  {
+    "name": "Qaba'",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.40000000",
+    "longitude": "39.65000000"
+  },
+  {
+    "name": "Qaisumah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "28.31117000",
+    "longitude": "46.12729000"
+  },
+  {
+    "name": "Qal‘at Bīshah",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "20.00054000",
+    "longitude": "42.60520000"
+  },
+  {
+    "name": "Qiba",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "27.40285000",
+    "longitude": "44.32770000"
+  },
+  {
+    "name": "Qiba",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "27.40285000",
+    "longitude": "44.32770000"
+  },
+  {
+    "name": "Qitabir",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "17.33330000",
+    "longitude": "43.25000000"
+  },
+  {
+    "name": "Qiya",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.06670000",
+    "longitude": "41.01670000"
+  },
+  {
+    "name": "Qiya",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.06670000",
+    "longitude": "41.01670000"
+  },
+  {
+    "name": "Qufar",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "27.41534000",
+    "longitude": "41.61903000"
+  },
+  {
+    "name": "Qufar",
+    "countryCode": "SA",
+    "stateCode": "06",
+    "latitude": "27.41534000",
+    "longitude": "41.61903000"
+  },
+  {
+    "name": "Qurayyat",
+    "countryCode": "SA",
+    "stateCode": "12",
+    "latitude": "31.33176000",
+    "longitude": "37.34282000"
+  },
+  {
+    "name": "Quwayda'",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.73333333",
+    "longitude": "42.89027778"
+  },
+  {
+    "name": "Quwayzah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.49030000",
+    "longitude": "39.27670000"
+  },
+  {
+    "name": "Quwayzah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.49030000",
+    "longitude": "39.27670000"
+  },
+  {
+    "name": "Rabwah Ghran",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.98330000",
+    "longitude": "39.41670000"
+  },
+  {
+    "name": "Rabwah Ghran",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.98330000",
+    "longitude": "39.41670000"
+  },
+  {
+    "name": "Rahwan",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.83330000",
+    "longitude": "43.21670000"
+  },
+  {
+    "name": "Raqiyah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.76670000",
+    "longitude": "40.35000000"
+  },
+  {
+    "name": "Raqiyah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.76670000",
+    "longitude": "40.35000000"
+  },
+  {
+    "name": "Rawkhah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.94780000",
+    "longitude": "42.79330000"
+  },
+  {
+    "name": "Rayyis",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.56670000",
+    "longitude": "38.60000000"
+  },
+  {
+    "name": "Raḩīmah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.70791000",
+    "longitude": "50.06194000"
+  },
+  {
+    "name": "Riyadh",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.68773000",
+    "longitude": "46.72185000"
+  },
+  {
+    "name": "Rābigh",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.79856000",
+    "longitude": "39.03493000"
+  },
+  {
+    "name": "Sabt Al Alayah",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "19.70000000",
+    "longitude": "41.91667000"
+  },
+  {
+    "name": "Sabuhah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.58330000",
+    "longitude": "40.11670000"
+  },
+  {
+    "name": "Sabuhah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.58330000",
+    "longitude": "40.11670000"
+  },
+  {
+    "name": "Sadiliyah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.92640000",
+    "longitude": "42.83000000"
+  },
+  {
+    "name": "Sakakah",
+    "countryCode": "SA",
+    "stateCode": "12",
+    "latitude": "29.96974000",
+    "longitude": "40.20641000"
+  },
+  {
+    "name": "Salamah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.97530000",
+    "longitude": "42.75640000"
+  },
+  {
+    "name": "Sayhāt",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.47500000",
+    "longitude": "50.04166667"
+  },
+  {
+    "name": "Sha`tha'",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.23333333",
+    "longitude": "38.53333333"
+  },
+  {
+    "name": "Shi`b `amir",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.43330000",
+    "longitude": "39.83330000"
+  },
+  {
+    "name": "Shi`b `amir",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.43330000",
+    "longitude": "39.83330000"
+  },
+  {
+    "name": "Shira`ayn",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.28330000",
+    "longitude": "40.78330000"
+  },
+  {
+    "name": "Shira`ayn",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.28330000",
+    "longitude": "40.78330000"
+  },
+  {
+    "name": "Sidi Hamzah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.50000000",
+    "longitude": "39.61670000"
+  },
+  {
+    "name": "Simira",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.49418000",
+    "longitude": "42.12494000"
+  },
+  {
+    "name": "Simira",
+    "countryCode": "SA",
+    "stateCode": "06",
+    "latitude": "26.49418000",
+    "longitude": "42.12494000"
+  },
+  {
+    "name": "Sulaym",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.58330000",
+    "longitude": "39.63330000"
+  },
+  {
+    "name": "Sulaym",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.58330000",
+    "longitude": "39.63330000"
+  },
+  {
+    "name": "Sulţānah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.49258000",
+    "longitude": "39.58572000"
+  },
+  {
+    "name": "Sumaymah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.25000000",
+    "longitude": "39.16670000"
+  },
+  {
+    "name": "Sumaymah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.25000000",
+    "longitude": "39.16670000"
+  },
+  {
+    "name": "Suq Suwayq",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.36670000",
+    "longitude": "38.45000000"
+  },
+  {
+    "name": "Suqubiya",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.23330000",
+    "longitude": "38.50000000"
+  },
+  {
+    "name": "Suwadah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.03330000",
+    "longitude": "38.20000000"
+  },
+  {
+    "name": "Suways",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.95000000",
+    "longitude": "39.96670000"
+  },
+  {
+    "name": "Suways",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.95000000",
+    "longitude": "39.96670000"
+  },
+  {
+    "name": "Sājir",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "25.18251000",
+    "longitude": "44.59964000"
+  },
+  {
+    "name": "Ta'if",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.27028000",
+    "longitude": "40.41583000"
+  },
+  {
+    "name": "Ta'if",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.26666667",
+    "longitude": "40.41666667"
+  },
+  {
+    "name": "Tabarjal",
+    "countryCode": "SA",
+    "stateCode": "12",
+    "latitude": "30.50000000",
+    "longitude": "38.21670000"
+  },
+  {
+    "name": "Tabuk",
+    "countryCode": "SA",
+    "stateCode": "07",
+    "latitude": "28.39980000",
+    "longitude": "36.57151000"
+  },
+  {
+    "name": "Tabālah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "19.95000000",
+    "longitude": "42.40000000"
+  },
+  {
+    "name": "Tabālah",
+    "countryCode": "SA",
+    "stateCode": "14",
+    "latitude": "19.95000000",
+    "longitude": "42.40000000"
+  },
+  {
+    "name": "Tanūmah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "27.10000000",
+    "longitude": "44.13333333"
+  },
+  {
+    "name": "Tanūmah",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "27.10000000",
+    "longitude": "44.13333000"
+  },
+  {
+    "name": "Tharwah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.51670000",
+    "longitude": "39.61670000"
+  },
+  {
+    "name": "Tharwah",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.51670000",
+    "longitude": "39.61670000"
+  },
+  {
+    "name": "Thuwal",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "22.28333333",
+    "longitude": "39.10000000"
+  },
+  {
+    "name": "Thuwal",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "22.28333333",
+    "longitude": "39.10000000"
+  },
+  {
+    "name": "Tumayr",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "25.70347000",
+    "longitude": "45.86835000"
+  },
+  {
+    "name": "Turabah",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.21406000",
+    "longitude": "41.63310000"
+  },
+  {
+    "name": "Turaif",
+    "countryCode": "SA",
+    "stateCode": "08",
+    "latitude": "31.67252000",
+    "longitude": "38.66374000"
+  },
+  {
+    "name": "Tārūt",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.57330000",
+    "longitude": "50.04028000"
+  },
+  {
+    "name": "Udhailiyah",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.13330000",
+    "longitude": "49.30000000"
+  },
+  {
+    "name": "Umm Lajj",
+    "countryCode": "SA",
+    "stateCode": "07",
+    "latitude": "25.02126000",
+    "longitude": "37.26850000"
+  },
+  {
+    "name": "Umm Radamah",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "28.67985000",
+    "longitude": "44.69549000"
+  },
+  {
+    "name": "Umm Radamah",
+    "countryCode": "SA",
+    "stateCode": "08",
+    "latitude": "28.67985000",
+    "longitude": "44.69549000"
+  },
+  {
+    "name": "Umm as Sāhik",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.65361000",
+    "longitude": "49.91639000"
+  },
+  {
+    "name": "Uqair",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "25.64310000",
+    "longitude": "50.21440000"
+  },
+  {
+    "name": "Usfan",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.92306000",
+    "longitude": "39.35594000"
+  },
+  {
+    "name": "Usfan",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.92306000",
+    "longitude": "39.35594000"
+  },
+  {
+    "name": "Wadi al Jalil",
+    "countryCode": "SA",
+    "stateCode": "02",
+    "latitude": "21.46670000",
+    "longitude": "39.85000000"
+  },
+  {
+    "name": "Wadi al Jalil",
+    "countryCode": "SA",
+    "stateCode": "11",
+    "latitude": "21.46670000",
+    "longitude": "39.85000000"
+  },
+  {
+    "name": "Wasitah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.88330000",
+    "longitude": "38.90000000"
+  },
+  {
+    "name": "Wed Alnkil",
+    "countryCode": "SA",
+    "stateCode": "05",
+    "latitude": "25.42670000",
+    "longitude": "42.83430000"
+  },
+  {
+    "name": "Yanbu",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.08954000",
+    "longitude": "38.06180000"
+  },
+  {
+    "name": "`Ajmiyah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.21670000",
+    "longitude": "38.50000000"
+  },
+  {
+    "name": "`Alya'",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.82360000",
+    "longitude": "38.88330000"
+  },
+  {
+    "name": "`Ushash",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "23.50000000",
+    "longitude": "38.91670000"
+  },
+  {
+    "name": "`Ushayrah",
+    "countryCode": "SA",
+    "stateCode": "03",
+    "latitude": "24.01860000",
+    "longitude": "39.67310000"
+  },
+  {
+    "name": "shokhaibٍ",
+    "countryCode": "SA",
+    "stateCode": "01",
+    "latitude": "24.49023000",
+    "longitude": "46.26871000"
+  },
+  {
+    "name": "Şabyā",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "17.14950000",
+    "longitude": "42.62537000"
+  },
+  {
+    "name": "Şafwá",
+    "countryCode": "SA",
+    "stateCode": "04",
+    "latitude": "26.64970000",
+    "longitude": "49.95522000"
+  },
+  {
+    "name": "Şuwayr",
+    "countryCode": "SA",
+    "stateCode": "12",
+    "latitude": "30.11713000",
+    "longitude": "40.38925000"
+  },
+  {
+    "name": "Şāmitah",
+    "countryCode": "SA",
+    "stateCode": "09",
+    "latitude": "16.59601000",
+    "longitude": "42.94435000"
+  },
+  {
+    "name": "Ţubarjal",
+    "countryCode": "SA",
+    "stateCode": "12",
+    "latitude": "30.49987000",
+    "longitude": "38.21603000"
+  }
+]

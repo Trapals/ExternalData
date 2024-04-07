@@ -1,0 +1,2200 @@
+[
+  {
+    "name": "Adelaide",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.70747000",
+    "longitude": "26.29564000"
+  },
+  {
+    "name": "Albertina",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.20544000",
+    "longitude": "21.58001000"
+  },
+  {
+    "name": "Alberton",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.26786000",
+    "longitude": "28.12225000"
+  },
+  {
+    "name": "Alfred Nzo District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-30.66803000",
+    "longitude": "29.15490000"
+  },
+  {
+    "name": "Alice",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.78749000",
+    "longitude": "26.83440000"
+  },
+  {
+    "name": "Aliwal North",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-30.69366000",
+    "longitude": "26.71141000"
+  },
+  {
+    "name": "Allanridge",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.75431000",
+    "longitude": "26.64382000"
+  },
+  {
+    "name": "Amajuba District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-27.73558000",
+    "longitude": "30.13537000"
+  },
+  {
+    "name": "Amathole District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.55895000",
+    "longitude": "27.45919000"
+  },
+  {
+    "name": "Arniston",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.66739000",
+    "longitude": "20.23086000"
+  },
+  {
+    "name": "Atlantis",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.56668000",
+    "longitude": "18.48335000"
+  },
+  {
+    "name": "Balfour",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.66331000",
+    "longitude": "28.59016000"
+  },
+  {
+    "name": "Ballito",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.53897000",
+    "longitude": "31.21439000"
+  },
+  {
+    "name": "Barberton",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.78842000",
+    "longitude": "31.05319000"
+  },
+  {
+    "name": "Barkly West",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-28.53537000",
+    "longitude": "24.52151000"
+  },
+  {
+    "name": "Beaufort West",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-32.35671000",
+    "longitude": "22.58295000"
+  },
+  {
+    "name": "Belfast",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.68991000",
+    "longitude": "30.03504000"
+  },
+  {
+    "name": "Benoni",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.18848000",
+    "longitude": "28.32078000"
+  },
+  {
+    "name": "Berea",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.85185000",
+    "longitude": "30.99337000"
+  },
+  {
+    "name": "Bergvliet",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.04746000",
+    "longitude": "18.45250000"
+  },
+  {
+    "name": "Bethal",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.45794000",
+    "longitude": "29.46553000"
+  },
+  {
+    "name": "Bethlehem",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.23078000",
+    "longitude": "28.30707000"
+  },
+  {
+    "name": "Bhisho",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.84721000",
+    "longitude": "27.44218000"
+  },
+  {
+    "name": "Bloemfontein",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-29.12107000",
+    "longitude": "26.21400000"
+  },
+  {
+    "name": "Bloemhof",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-27.64685000",
+    "longitude": "25.60697000"
+  },
+  {
+    "name": "Bochum",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.28609000",
+    "longitude": "29.13964000"
+  },
+  {
+    "name": "Bojanala Platinum District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.42612000",
+    "longitude": "27.22430000"
+  },
+  {
+    "name": "Boksburg",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.21197000",
+    "longitude": "28.25958000"
+  },
+  {
+    "name": "Bothaville",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.38870000",
+    "longitude": "26.61701000"
+  },
+  {
+    "name": "Botshabelo",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-29.26737000",
+    "longitude": "26.72595000"
+  },
+  {
+    "name": "Brakpan",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.23656000",
+    "longitude": "28.36938000"
+  },
+  {
+    "name": "Brandfort",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.70008000",
+    "longitude": "26.45968000"
+  },
+  {
+    "name": "Brandvlei",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-30.46532000",
+    "longitude": "20.48659000"
+  },
+  {
+    "name": "Bredasdorp",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.53215000",
+    "longitude": "20.04031000"
+  },
+  {
+    "name": "Breyten",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.30176000",
+    "longitude": "29.98696000"
+  },
+  {
+    "name": "Brits",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.63473000",
+    "longitude": "27.78022000"
+  },
+  {
+    "name": "Bronkhorstspruit",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.81015000",
+    "longitude": "28.74248000"
+  },
+  {
+    "name": "Buffalo City Metropolitan Municipality",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.95141000",
+    "longitude": "27.61164000"
+  },
+  {
+    "name": "Burgersdorp",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-30.99766000",
+    "longitude": "26.32862000"
+  },
+  {
+    "name": "Butterworth",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.33083000",
+    "longitude": "28.14981000"
+  },
+  {
+    "name": "Cacadu District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.06583000",
+    "longitude": "24.77583000"
+  },
+  {
+    "name": "Caledon",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.22997000",
+    "longitude": "19.42650000"
+  },
+  {
+    "name": "Calitzdorp",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.52755000",
+    "longitude": "21.67620000"
+  },
+  {
+    "name": "Calvinia",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-31.47069000",
+    "longitude": "19.77601000"
+  },
+  {
+    "name": "Cape Town",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.92584000",
+    "longitude": "18.42322000"
+  },
+  {
+    "name": "Cape Winelands District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.32249000",
+    "longitude": "19.68998000"
+  },
+  {
+    "name": "Capricorn District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.48163000",
+    "longitude": "29.18350000"
+  },
+  {
+    "name": "Carletonville",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.36094000",
+    "longitude": "27.39767000"
+  },
+  {
+    "name": "Carnarvon",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-30.96827000",
+    "longitude": "22.13303000"
+  },
+  {
+    "name": "Carolina",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.06927000",
+    "longitude": "30.11489000"
+  },
+  {
+    "name": "Central Karoo District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-32.62812000",
+    "longitude": "22.21192000"
+  },
+  {
+    "name": "Centurion",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.85891000",
+    "longitude": "28.18577000"
+  },
+  {
+    "name": "Ceres",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.36889000",
+    "longitude": "19.31095000"
+  },
+  {
+    "name": "Chris Hani District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.79033000",
+    "longitude": "26.43965000"
+  },
+  {
+    "name": "Christiana",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-27.91402000",
+    "longitude": "25.16111000"
+  },
+  {
+    "name": "City of Cape Town",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.91667000",
+    "longitude": "18.41667000"
+  },
+  {
+    "name": "City of Johannesburg Metropolitan Municipality",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.17673000",
+    "longitude": "27.96353000"
+  },
+  {
+    "name": "City of Tshwane Metropolitan Municipality",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.65985000",
+    "longitude": "28.44343000"
+  },
+  {
+    "name": "Clanwilliam",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-32.18173000",
+    "longitude": "18.89217000"
+  },
+  {
+    "name": "Claremont",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.98056000",
+    "longitude": "18.46528000"
+  },
+  {
+    "name": "Clocolan",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.91367000",
+    "longitude": "27.56555000"
+  },
+  {
+    "name": "Colesberg",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-30.71999000",
+    "longitude": "25.09718000"
+  },
+  {
+    "name": "Constantia",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.03139000",
+    "longitude": "18.41833000"
+  },
+  {
+    "name": "Cradock",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.16422000",
+    "longitude": "25.61918000"
+  },
+  {
+    "name": "Cullinan",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.67088000",
+    "longitude": "28.52364000"
+  },
+  {
+    "name": "Daniëlskuil",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-28.18873000",
+    "longitude": "23.53951000"
+  },
+  {
+    "name": "De Aar",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-30.64966000",
+    "longitude": "24.01230000"
+  },
+  {
+    "name": "De Rust",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.49035000",
+    "longitude": "22.53523000"
+  },
+  {
+    "name": "Delmas",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.14660000",
+    "longitude": "28.68322000"
+  },
+  {
+    "name": "Deneysville",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-26.89080000",
+    "longitude": "28.09707000"
+  },
+  {
+    "name": "Diepsloot",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.93312000",
+    "longitude": "28.01213000"
+  },
+  {
+    "name": "Dordrecht",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.37200000",
+    "longitude": "27.04878000"
+  },
+  {
+    "name": "Dr Kenneth Kaunda District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.80678000",
+    "longitude": "26.56926000"
+  },
+  {
+    "name": "Dr Ruth Segomotsi Mompati District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.63765000",
+    "longitude": "24.27462000"
+  },
+  {
+    "name": "Driefontein",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-27.01770000",
+    "longitude": "30.44979000"
+  },
+  {
+    "name": "Duiwelskloof",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.69339000",
+    "longitude": "30.14002000"
+  },
+  {
+    "name": "Dundee",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.16678000",
+    "longitude": "30.23371000"
+  },
+  {
+    "name": "Durban",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.85790000",
+    "longitude": "31.02920000"
+  },
+  {
+    "name": "East London",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.01529000",
+    "longitude": "27.91162000"
+  },
+  {
+    "name": "Eastleigh",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.12965000",
+    "longitude": "28.15541000"
+  },
+  {
+    "name": "Eden District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.82139000",
+    "longitude": "22.01263000"
+  },
+  {
+    "name": "Eden Glen",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.13230000",
+    "longitude": "28.16859000"
+  },
+  {
+    "name": "Eden Glen Ext 60",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.12593000",
+    "longitude": "28.16500000"
+  },
+  {
+    "name": "Edenvale",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.14095000",
+    "longitude": "28.15247000"
+  },
+  {
+    "name": "Ehlanzeni District",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.35100000",
+    "longitude": "31.36100000"
+  },
+  {
+    "name": "Ekangala",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.69619000",
+    "longitude": "28.74918000"
+  },
+  {
+    "name": "Ekurhuleni Metropolitan Municipality",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.19890000",
+    "longitude": "28.31262000"
+  },
+  {
+    "name": "Ekuvukeni",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.46752000",
+    "longitude": "30.15513000"
+  },
+  {
+    "name": "Elliot",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.33333000",
+    "longitude": "27.85000000"
+  },
+  {
+    "name": "Empangeni",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.76197000",
+    "longitude": "31.89329000"
+  },
+  {
+    "name": "Ermelo",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.53333000",
+    "longitude": "29.98333000"
+  },
+  {
+    "name": "Eshowe",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.88649000",
+    "longitude": "31.46990000"
+  },
+  {
+    "name": "Fezile Dabi District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.33918000",
+    "longitude": "27.71927000"
+  },
+  {
+    "name": "Fochville",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.48862000",
+    "longitude": "27.49387000"
+  },
+  {
+    "name": "Fort Beaufort",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.77477000",
+    "longitude": "26.63376000"
+  },
+  {
+    "name": "Frances Baard District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-28.30003000",
+    "longitude": "24.38188000"
+  },
+  {
+    "name": "Frankfort",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.27888000",
+    "longitude": "28.49696000"
+  },
+  {
+    "name": "Fraserburg",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-31.91566000",
+    "longitude": "21.51335000"
+  },
+  {
+    "name": "Ga-Kgapane",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.64378000",
+    "longitude": "30.22324000"
+  },
+  {
+    "name": "Ga-Rankuwa",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.61692000",
+    "longitude": "27.99471000"
+  },
+  {
+    "name": "George",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.96300000",
+    "longitude": "22.46173000"
+  },
+  {
+    "name": "Gert Sibande District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.67100000",
+    "longitude": "29.92953000"
+  },
+  {
+    "name": "Giyani",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.30246000",
+    "longitude": "30.71868000"
+  },
+  {
+    "name": "Glencoe",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.17827000",
+    "longitude": "30.14702000"
+  },
+  {
+    "name": "Graaff-Reinet",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.25215000",
+    "longitude": "24.53075000"
+  },
+  {
+    "name": "Grabouw",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.15152000",
+    "longitude": "19.01509000"
+  },
+  {
+    "name": "Grahamstown",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.30422000",
+    "longitude": "26.53276000"
+  },
+  {
+    "name": "Greytown",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.06415000",
+    "longitude": "30.59279000"
+  },
+  {
+    "name": "Hardys Memories of Africa",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.90539000",
+    "longitude": "20.71690000"
+  },
+  {
+    "name": "Harrismith",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.27276000",
+    "longitude": "29.12946000"
+  },
+  {
+    "name": "Heidelberg",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.50476000",
+    "longitude": "28.35921000"
+  },
+  {
+    "name": "Heilbron",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.28115000",
+    "longitude": "27.97090000"
+  },
+  {
+    "name": "Hendrina",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.15881000",
+    "longitude": "29.71528000"
+  },
+  {
+    "name": "Hennenman",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.97654000",
+    "longitude": "27.02423000"
+  },
+  {
+    "name": "Hermanus",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.41870000",
+    "longitude": "19.23446000"
+  },
+  {
+    "name": "Hluhluwe",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.01895000",
+    "longitude": "32.26762000"
+  },
+  {
+    "name": "Hoopstad",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.83273000",
+    "longitude": "25.90833000"
+  },
+  {
+    "name": "Howick",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.47795000",
+    "longitude": "30.23057000"
+  },
+  {
+    "name": "Ilinge",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.97676000",
+    "longitude": "27.04267000"
+  },
+  {
+    "name": "Jan Kempdorp",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-27.92246000",
+    "longitude": "24.83051000"
+  },
+  {
+    "name": "Joe Gqabi District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-30.94178000",
+    "longitude": "27.06053000"
+  },
+  {
+    "name": "Johannesburg",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.20227000",
+    "longitude": "28.04363000"
+  },
+  {
+    "name": "John Taolo Gaetsewe District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-27.04549000",
+    "longitude": "23.04706000"
+  },
+  {
+    "name": "Kathu",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-27.69569000",
+    "longitude": "23.04929000"
+  },
+  {
+    "name": "Kenhardt",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-29.34574000",
+    "longitude": "21.15786000"
+  },
+  {
+    "name": "Kimberley",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-28.73226000",
+    "longitude": "24.76232000"
+  },
+  {
+    "name": "Kirkwood",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.39829000",
+    "longitude": "25.44279000"
+  },
+  {
+    "name": "Klerksdorp",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.85213000",
+    "longitude": "26.66672000"
+  },
+  {
+    "name": "Knysna",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.03627000",
+    "longitude": "23.04713000"
+  },
+  {
+    "name": "Kokstad",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-30.54723000",
+    "longitude": "29.42412000"
+  },
+  {
+    "name": "Komatipoort",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.43321000",
+    "longitude": "31.95478000"
+  },
+  {
+    "name": "Koppies",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.24179000",
+    "longitude": "27.57422000"
+  },
+  {
+    "name": "Koster",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.86301000",
+    "longitude": "26.89756000"
+  },
+  {
+    "name": "Kraaifontein",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.84808000",
+    "longitude": "18.71723000"
+  },
+  {
+    "name": "Kriel",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.27391000",
+    "longitude": "29.22530000"
+  },
+  {
+    "name": "Kroonstad",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.65036000",
+    "longitude": "27.23488000"
+  },
+  {
+    "name": "Krugersdorp",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.08577000",
+    "longitude": "27.77515000"
+  },
+  {
+    "name": "Kruisfontein",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-34.00333000",
+    "longitude": "24.73142000"
+  },
+  {
+    "name": "Kuruman",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-27.45240000",
+    "longitude": "23.43246000"
+  },
+  {
+    "name": "Kutloanong",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.83333000",
+    "longitude": "26.75000000"
+  },
+  {
+    "name": "KwaDukuza",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.32816000",
+    "longitude": "31.28954000"
+  },
+  {
+    "name": "Ladismith",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.49331000",
+    "longitude": "21.26755000"
+  },
+  {
+    "name": "Lady Frere",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.70312000",
+    "longitude": "27.23290000"
+  },
+  {
+    "name": "Ladybrand",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-29.19448000",
+    "longitude": "27.45739000"
+  },
+  {
+    "name": "Lansdowne",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.98735000",
+    "longitude": "18.49746000"
+  },
+  {
+    "name": "Lebowakgomo",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-24.20000000",
+    "longitude": "29.50000000"
+  },
+  {
+    "name": "Lejweleputswa District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.23982000",
+    "longitude": "26.12649000"
+  },
+  {
+    "name": "Lichtenburg",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.15200000",
+    "longitude": "26.15968000"
+  },
+  {
+    "name": "Lindley",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.87910000",
+    "longitude": "27.91348000"
+  },
+  {
+    "name": "Louis Trichardt",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.04385000",
+    "longitude": "29.90319000"
+  },
+  {
+    "name": "Lydenburg",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.09598000",
+    "longitude": "30.44393000"
+  },
+  {
+    "name": "Mabopane",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.49768000",
+    "longitude": "28.10065000"
+  },
+  {
+    "name": "Mahikeng",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.86522000",
+    "longitude": "25.64421000"
+  },
+  {
+    "name": "Maile",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.44152000",
+    "longitude": "27.28165000"
+  },
+  {
+    "name": "Malmesbury",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.46080000",
+    "longitude": "18.72714000"
+  },
+  {
+    "name": "Mangaung Metropolitan Municipality",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-29.15627000",
+    "longitude": "26.35116000"
+  },
+  {
+    "name": "Mankoeng",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.90000000",
+    "longitude": "29.81667000"
+  },
+  {
+    "name": "Margate",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-30.86360000",
+    "longitude": "30.37052000"
+  },
+  {
+    "name": "Marquard",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.66449000",
+    "longitude": "27.43048000"
+  },
+  {
+    "name": "Middelburg",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.49285000",
+    "longitude": "25.00633000"
+  },
+  {
+    "name": "Middelburg",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.77507000",
+    "longitude": "29.46482000"
+  },
+  {
+    "name": "Midrand",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.98953000",
+    "longitude": "28.12843000"
+  },
+  {
+    "name": "Midstream",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.91849000",
+    "longitude": "28.19881000"
+  },
+  {
+    "name": "Mmabatho",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.85000000",
+    "longitude": "25.63333000"
+  },
+  {
+    "name": "Modderfontein",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.08909000",
+    "longitude": "28.16534000"
+  },
+  {
+    "name": "Modimolle",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-24.70000000",
+    "longitude": "28.40000000"
+  },
+  {
+    "name": "Mokopane",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-24.19436000",
+    "longitude": "29.00974000"
+  },
+  {
+    "name": "Molteno",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.39675000",
+    "longitude": "26.36246000"
+  },
+  {
+    "name": "Mondlo",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-27.98299000",
+    "longitude": "30.71769000"
+  },
+  {
+    "name": "Montagu",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.78664000",
+    "longitude": "20.12106000"
+  },
+  {
+    "name": "Mooirivier",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.20824000",
+    "longitude": "29.99460000"
+  },
+  {
+    "name": "Moorreesburg",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.15388000",
+    "longitude": "18.66031000"
+  },
+  {
+    "name": "Mopani District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.76661000",
+    "longitude": "30.83600000"
+  },
+  {
+    "name": "Mossel Bay",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.18307000",
+    "longitude": "22.14605000"
+  },
+  {
+    "name": "Mpophomeni",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.56822000",
+    "longitude": "30.18618000"
+  },
+  {
+    "name": "Mpumalanga",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.81292000",
+    "longitude": "30.63646000"
+  },
+  {
+    "name": "Mthatha",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.58893000",
+    "longitude": "28.78443000"
+  },
+  {
+    "name": "Mtubatuba",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.41789000",
+    "longitude": "32.18483000"
+  },
+  {
+    "name": "Muldersdriseloop",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.03673000",
+    "longitude": "27.83798000"
+  },
+  {
+    "name": "Musina",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-22.34881000",
+    "longitude": "30.04074000"
+  },
+  {
+    "name": "Namakwa District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-30.53561000",
+    "longitude": "19.42892000"
+  },
+  {
+    "name": "Ndwedwe",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.51686000",
+    "longitude": "30.92687000"
+  },
+  {
+    "name": "Nelson Mandela Bay Metropolitan Municipality",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.80399000",
+    "longitude": "25.49213000"
+  },
+  {
+    "name": "Nelspruit",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.47448000",
+    "longitude": "30.97033000"
+  },
+  {
+    "name": "Newcastle",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-27.75796000",
+    "longitude": "29.93180000"
+  },
+  {
+    "name": "Newlands",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.97846000",
+    "longitude": "18.44810000"
+  },
+  {
+    "name": "Ngaka Modiri Molema District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.95559000",
+    "longitude": "25.80782000"
+  },
+  {
+    "name": "Nigel",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.43138000",
+    "longitude": "28.47713000"
+  },
+  {
+    "name": "Nkangala District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.71222000",
+    "longitude": "29.42431000"
+  },
+  {
+    "name": "Nkowakowa",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.88782000",
+    "longitude": "30.28708000"
+  },
+  {
+    "name": "Noupoort",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-31.18736000",
+    "longitude": "24.94991000"
+  },
+  {
+    "name": "OR Tambo District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.46740000",
+    "longitude": "29.05247000"
+  },
+  {
+    "name": "Orange Farm",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.48333000",
+    "longitude": "27.86667000"
+  },
+  {
+    "name": "Orania",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-29.81381000",
+    "longitude": "24.41205000"
+  },
+  {
+    "name": "Orkney",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.98023000",
+    "longitude": "26.67272000"
+  },
+  {
+    "name": "Oudtshoorn",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.60047000",
+    "longitude": "22.19955000"
+  },
+  {
+    "name": "Overberg District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.26131000",
+    "longitude": "19.93985000"
+  },
+  {
+    "name": "Paarl",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.73378000",
+    "longitude": "18.97523000"
+  },
+  {
+    "name": "Pampierstad",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-27.78324000",
+    "longitude": "24.68768000"
+  },
+  {
+    "name": "Parys",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-26.90330000",
+    "longitude": "27.45727000"
+  },
+  {
+    "name": "Phalaborwa",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.94299000",
+    "longitude": "31.14107000"
+  },
+  {
+    "name": "Phuthaditjhaba",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.52423000",
+    "longitude": "28.81582000"
+  },
+  {
+    "name": "Piet Retief",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-27.00706000",
+    "longitude": "30.81323000"
+  },
+  {
+    "name": "Pietermaritzburg",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.61679000",
+    "longitude": "30.39278000"
+  },
+  {
+    "name": "Piketberg",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-32.90323000",
+    "longitude": "18.75704000"
+  },
+  {
+    "name": "Pixley ka Seme District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-30.28920000",
+    "longitude": "23.25818000"
+  },
+  {
+    "name": "Plettenberg Bay",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.05274000",
+    "longitude": "23.37160000"
+  },
+  {
+    "name": "Pofadder",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-29.12830000",
+    "longitude": "19.39492000"
+  },
+  {
+    "name": "Polokwane",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.90449000",
+    "longitude": "29.46885000"
+  },
+  {
+    "name": "Port Alfred",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.58601000",
+    "longitude": "26.88329000"
+  },
+  {
+    "name": "Port Elizabeth",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.96109000",
+    "longitude": "25.61494000"
+  },
+  {
+    "name": "Port Saint John’s",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.62291000",
+    "longitude": "29.54477000"
+  },
+  {
+    "name": "Port Shepstone",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-30.74137000",
+    "longitude": "30.45499000"
+  },
+  {
+    "name": "Postmasburg",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-28.33392000",
+    "longitude": "23.06541000"
+  },
+  {
+    "name": "Potchefstroom",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.71667000",
+    "longitude": "27.10000000"
+  },
+  {
+    "name": "Pretoria",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.74486000",
+    "longitude": "28.18783000"
+  },
+  {
+    "name": "Prieska",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-29.66803000",
+    "longitude": "22.74251000"
+  },
+  {
+    "name": "Prince Albert",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.22476000",
+    "longitude": "22.02673000"
+  },
+  {
+    "name": "Queensdale",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.87101000",
+    "longitude": "26.97862000"
+  },
+  {
+    "name": "Queenstown",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-31.89756000",
+    "longitude": "26.87533000"
+  },
+  {
+    "name": "Randburg",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.09410000",
+    "longitude": "28.00123000"
+  },
+  {
+    "name": "Randfontein",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.18440000",
+    "longitude": "27.70203000"
+  },
+  {
+    "name": "Reitz",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.80138000",
+    "longitude": "28.42726000"
+  },
+  {
+    "name": "Retreat",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.05515000",
+    "longitude": "18.47617000"
+  },
+  {
+    "name": "Richards Bay",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.78301000",
+    "longitude": "32.03768000"
+  },
+  {
+    "name": "Richmond",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.87196000",
+    "longitude": "30.27235000"
+  },
+  {
+    "name": "Ritchie",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-29.03801000",
+    "longitude": "24.60278000"
+  },
+  {
+    "name": "Riversdale",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.09345000",
+    "longitude": "21.25725000"
+  },
+  {
+    "name": "Robertson",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.80342000",
+    "longitude": "19.88537000"
+  },
+  {
+    "name": "Rondebosch",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.96333000",
+    "longitude": "18.47639000"
+  },
+  {
+    "name": "Roodepoort",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.16250000",
+    "longitude": "27.87250000"
+  },
+  {
+    "name": "Rosebank",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.95556000",
+    "longitude": "18.47417000"
+  },
+  {
+    "name": "Rustenburg",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.66756000",
+    "longitude": "27.24208000"
+  },
+  {
+    "name": "Saldanha",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.01167000",
+    "longitude": "17.94420000"
+  },
+  {
+    "name": "Sasolburg",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-26.81358000",
+    "longitude": "27.81695000"
+  },
+  {
+    "name": "Schweizer-Reneke",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-27.18871000",
+    "longitude": "25.32931000"
+  },
+  {
+    "name": "Scottburgh",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-30.28666000",
+    "longitude": "30.75316000"
+  },
+  {
+    "name": "Secunda",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.55000000",
+    "longitude": "29.16667000"
+  },
+  {
+    "name": "Sedibeng District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.56686000",
+    "longitude": "28.18277000"
+  },
+  {
+    "name": "Sekhukhune District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-24.82806000",
+    "longitude": "29.83803000"
+  },
+  {
+    "name": "Senekal",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.31971000",
+    "longitude": "27.62082000"
+  },
+  {
+    "name": "Sisonke District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-30.11082000",
+    "longitude": "29.66009000"
+  },
+  {
+    "name": "Siyabuswa",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.11319000",
+    "longitude": "29.04454000"
+  },
+  {
+    "name": "Siyanda District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-28.00013000",
+    "longitude": "21.18459000"
+  },
+  {
+    "name": "Somerset East",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.72173000",
+    "longitude": "25.58804000"
+  },
+  {
+    "name": "Soweto",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.26781000",
+    "longitude": "27.85849000"
+  },
+  {
+    "name": "Springbok",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-29.66434000",
+    "longitude": "17.88650000"
+  },
+  {
+    "name": "Springs",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.25000000",
+    "longitude": "28.40000000"
+  },
+  {
+    "name": "Standerton",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.93366000",
+    "longitude": "29.24152000"
+  },
+  {
+    "name": "Stellenbosch",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.93462000",
+    "longitude": "18.86676000"
+  },
+  {
+    "name": "Stilfontein",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.84493000",
+    "longitude": "26.76829000"
+  },
+  {
+    "name": "Stutterheim",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.57076000",
+    "longitude": "27.42396000"
+  },
+  {
+    "name": "Sundumbili",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.13371000",
+    "longitude": "31.39752000"
+  },
+  {
+    "name": "Sunset Beach",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.85395000",
+    "longitude": "18.49231000"
+  },
+  {
+    "name": "Swellendam",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-34.02262000",
+    "longitude": "20.44171000"
+  },
+  {
+    "name": "Tembisa",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-25.99636000",
+    "longitude": "28.22680000"
+  },
+  {
+    "name": "Thaba Nchu",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-29.20932000",
+    "longitude": "26.83898000"
+  },
+  {
+    "name": "Thabazimbi",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-24.59165000",
+    "longitude": "27.41155000"
+  },
+  {
+    "name": "Thabo Mofutsanyana District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.24378000",
+    "longitude": "28.34077000"
+  },
+  {
+    "name": "Theunissen",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.41098000",
+    "longitude": "26.70107000"
+  },
+  {
+    "name": "Thohoyandou",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-22.94564000",
+    "longitude": "30.48497000"
+  },
+  {
+    "name": "Thulamahashi",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-24.72459000",
+    "longitude": "31.19939000"
+  },
+  {
+    "name": "Tzaneen",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-23.83322000",
+    "longitude": "30.16351000"
+  },
+  {
+    "name": "Ugu District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-30.54365000",
+    "longitude": "30.27480000"
+  },
+  {
+    "name": "Uitenhage",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.75757000",
+    "longitude": "25.39710000"
+  },
+  {
+    "name": "Ulundi",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.33523000",
+    "longitude": "31.41617000"
+  },
+  {
+    "name": "Upington",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-28.44776000",
+    "longitude": "21.25612000"
+  },
+  {
+    "name": "Utrecht",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-27.65862000",
+    "longitude": "30.32166000"
+  },
+  {
+    "name": "Van Wyksvlei",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-30.35101000",
+    "longitude": "21.82498000"
+  },
+  {
+    "name": "Vanderbijlpark",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.71171000",
+    "longitude": "27.83795000"
+  },
+  {
+    "name": "Ventersburg",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.08561000",
+    "longitude": "27.13814000"
+  },
+  {
+    "name": "Vereeniging",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.67313000",
+    "longitude": "27.92615000"
+  },
+  {
+    "name": "Vhembe District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-22.75467000",
+    "longitude": "30.19360000"
+  },
+  {
+    "name": "Viljoenskroon",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.20841000",
+    "longitude": "26.94855000"
+  },
+  {
+    "name": "Villiers",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.03026000",
+    "longitude": "28.60061000"
+  },
+  {
+    "name": "Virginia",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.10391000",
+    "longitude": "26.86593000"
+  },
+  {
+    "name": "Volksrust",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-27.36541000",
+    "longitude": "29.88175000"
+  },
+  {
+    "name": "Vrede",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.42573000",
+    "longitude": "29.16585000"
+  },
+  {
+    "name": "Vredefort",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.00805000",
+    "longitude": "27.36460000"
+  },
+  {
+    "name": "Vredenburg",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-32.90719000",
+    "longitude": "17.98997000"
+  },
+  {
+    "name": "Vredendal",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-31.66833000",
+    "longitude": "18.50119000"
+  },
+  {
+    "name": "Vryburg",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-26.95659000",
+    "longitude": "24.72840000"
+  },
+  {
+    "name": "Vryheid",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-27.76952000",
+    "longitude": "30.79165000"
+  },
+  {
+    "name": "Warmbaths",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-24.88333000",
+    "longitude": "28.28333000"
+  },
+  {
+    "name": "Warrenton",
+    "countryCode": "ZA",
+    "stateCode": "NC",
+    "latitude": "-28.11396000",
+    "longitude": "24.84753000"
+  },
+  {
+    "name": "Waterberg District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "LP",
+    "latitude": "-24.20514000",
+    "longitude": "27.97870000"
+  },
+  {
+    "name": "Welkom",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.97742000",
+    "longitude": "26.73506000"
+  },
+  {
+    "name": "Wellington",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.63981000",
+    "longitude": "19.01120000"
+  },
+  {
+    "name": "Wesselsbron",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-27.85490000",
+    "longitude": "26.36583000"
+  },
+  {
+    "name": "West Coast District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-32.09506000",
+    "longitude": "18.62695000"
+  },
+  {
+    "name": "West Rand District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.24565000",
+    "longitude": "27.55538000"
+  },
+  {
+    "name": "Westonaria",
+    "countryCode": "ZA",
+    "stateCode": "GP",
+    "latitude": "-26.31905000",
+    "longitude": "27.64860000"
+  },
+  {
+    "name": "White River",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.33177000",
+    "longitude": "31.01166000"
+  },
+  {
+    "name": "Whittlesea",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-32.17588000",
+    "longitude": "26.82437000"
+  },
+  {
+    "name": "Willowmore",
+    "countryCode": "ZA",
+    "stateCode": "EC",
+    "latitude": "-33.29265000",
+    "longitude": "23.48954000"
+  },
+  {
+    "name": "Winburg",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-28.51805000",
+    "longitude": "27.00933000"
+  },
+  {
+    "name": "Witbank",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-25.87133000",
+    "longitude": "29.23323000"
+  },
+  {
+    "name": "Wolmaransstad",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-27.19740000",
+    "longitude": "25.98311000"
+  },
+  {
+    "name": "Worcester",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.64651000",
+    "longitude": "19.44852000"
+  },
+  {
+    "name": "Xhariep District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-29.84311000",
+    "longitude": "25.83286000"
+  },
+  {
+    "name": "Zastron",
+    "countryCode": "ZA",
+    "stateCode": "FS",
+    "latitude": "-30.30225000",
+    "longitude": "27.08395000"
+  },
+  {
+    "name": "Zeerust",
+    "countryCode": "ZA",
+    "stateCode": "NW",
+    "latitude": "-25.53695000",
+    "longitude": "26.07512000"
+  },
+  {
+    "name": "Zoar",
+    "countryCode": "ZA",
+    "stateCode": "WC",
+    "latitude": "-33.49560000",
+    "longitude": "21.44373000"
+  },
+  {
+    "name": "Zululand District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-27.81139000",
+    "longitude": "31.29426000"
+  },
+  {
+    "name": "eMbalenhle",
+    "countryCode": "ZA",
+    "stateCode": "MP",
+    "latitude": "-26.53333000",
+    "longitude": "29.06667000"
+  },
+  {
+    "name": "eMkhomazi",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-30.20674000",
+    "longitude": "30.79776000"
+  },
+  {
+    "name": "eSikhaleni",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.87097000",
+    "longitude": "31.89961000"
+  },
+  {
+    "name": "eThekwini Metropolitan Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.86670000",
+    "longitude": "31.01670000"
+  },
+  {
+    "name": "iLembe District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.27326000",
+    "longitude": "31.14253000"
+  },
+  {
+    "name": "uMgungundlovu District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-29.50927000",
+    "longitude": "30.19838000"
+  },
+  {
+    "name": "uMkhanyakude District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-27.62236000",
+    "longitude": "32.32945000"
+  },
+  {
+    "name": "uMzinyathi District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.58570000",
+    "longitude": "30.55883000"
+  },
+  {
+    "name": "uThukela District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.71920000",
+    "longitude": "29.65799000"
+  },
+  {
+    "name": "uThungulu District Municipality",
+    "countryCode": "ZA",
+    "stateCode": "KZN",
+    "latitude": "-28.70046000",
+    "longitude": "31.51527000"
+  }
+]

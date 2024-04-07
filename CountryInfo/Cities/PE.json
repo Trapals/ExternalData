@@ -1,0 +1,3383 @@
+[
+  {
+    "name": "Abancay",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-13.63389000",
+    "longitude": "-72.88139000"
+  },
+  {
+    "name": "Acarí",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.42393000",
+    "longitude": "-74.61361000"
+  },
+  {
+    "name": "Acolla",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.73193000",
+    "longitude": "-75.54634000"
+  },
+  {
+    "name": "Aguas Verdes",
+    "countryCode": "PE",
+    "stateCode": "TUM",
+    "latitude": "-3.48139000",
+    "longitude": "-80.24500000"
+  },
+  {
+    "name": "Ambo",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-10.13083000",
+    "longitude": "-76.20472000"
+  },
+  {
+    "name": "Andahuaylas",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-13.65556000",
+    "longitude": "-73.38722000"
+  },
+  {
+    "name": "Andoas",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-2.90250000",
+    "longitude": "-76.40250000"
+  },
+  {
+    "name": "Anta",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.47056000",
+    "longitude": "-72.14833000"
+  },
+  {
+    "name": "Arequipa",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-16.39889000",
+    "longitude": "-71.53500000"
+  },
+  {
+    "name": "Ascope",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.71444000",
+    "longitude": "-79.10778000"
+  },
+  {
+    "name": "Asentamiento Humano Nicolas de Pierola",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.93573000",
+    "longitude": "-76.70611000"
+  },
+  {
+    "name": "Asuncion",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.18987000",
+    "longitude": "-77.39878000"
+  },
+  {
+    "name": "Atalaya",
+    "countryCode": "PE",
+    "stateCode": "UCA",
+    "latitude": "-10.38980000",
+    "longitude": "-73.21977000"
+  },
+  {
+    "name": "Atuncolla",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.68333000",
+    "longitude": "-70.15000000"
+  },
+  {
+    "name": "Ayabaca",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.63983000",
+    "longitude": "-79.71491000"
+  },
+  {
+    "name": "Ayacucho",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-13.15878000",
+    "longitude": "-74.22321000"
+  },
+  {
+    "name": "Ayaviri",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-14.88639000",
+    "longitude": "-70.58889000"
+  },
+  {
+    "name": "Ayna",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-12.65000000",
+    "longitude": "-73.91667000"
+  },
+  {
+    "name": "Azángaro",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-14.90843000",
+    "longitude": "-70.19616000"
+  },
+  {
+    "name": "Bagua Grande",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-5.75611000",
+    "longitude": "-78.44111000"
+  },
+  {
+    "name": "Bambamarca",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-6.68333000",
+    "longitude": "-78.53333000"
+  },
+  {
+    "name": "Barranca",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-10.75000000",
+    "longitude": "-77.76667000"
+  },
+  {
+    "name": "Bellavista",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-5.66417000",
+    "longitude": "-78.67722000"
+  },
+  {
+    "name": "Bellavista",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-7.05614000",
+    "longitude": "-76.59110000"
+  },
+  {
+    "name": "Bernal",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.45000000",
+    "longitude": "-80.75000000"
+  },
+  {
+    "name": "Borja",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-4.43333333",
+    "longitude": "-77.55000000"
+  },
+  {
+    "name": "Buenos Aires",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.26083000",
+    "longitude": "-79.96417000"
+  },
+  {
+    "name": "Caballococha",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-3.90583333",
+    "longitude": "-70.51638889"
+  },
+  {
+    "name": "Cahuanuyo",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.34147000",
+    "longitude": "-71.46311000"
+  },
+  {
+    "name": "Cajabamba",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-7.61667000",
+    "longitude": "-78.05000000"
+  },
+  {
+    "name": "Cajamarca",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-7.16378000",
+    "longitude": "-78.50027000"
+  },
+  {
+    "name": "Cajaruro",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-5.73639000",
+    "longitude": "-78.42556000"
+  },
+  {
+    "name": "Calana",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.94167000",
+    "longitude": "-70.18694000"
+  },
+  {
+    "name": "Calca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.33333000",
+    "longitude": "-71.95000000"
+  },
+  {
+    "name": "Caleta de Carquín",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.09250000",
+    "longitude": "-77.62667000"
+  },
+  {
+    "name": "Callanca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.18137000",
+    "longitude": "-71.14070000"
+  },
+  {
+    "name": "Callao",
+    "countryCode": "PE",
+    "stateCode": "CAL",
+    "latitude": "-12.05659000",
+    "longitude": "-77.11814000"
+  },
+  {
+    "name": "Camaná",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-16.62375000",
+    "longitude": "-72.71055000"
+  },
+  {
+    "name": "Campoverde",
+    "countryCode": "PE",
+    "stateCode": "UCA",
+    "latitude": "-8.47533000",
+    "longitude": "-74.80709000"
+  },
+  {
+    "name": "Candarave",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.26778000",
+    "longitude": "-70.24944000"
+  },
+  {
+    "name": "Cape Pantoja",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-0.96435000",
+    "longitude": "-75.18144000"
+  },
+  {
+    "name": "Carhuamayo",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-10.91667000",
+    "longitude": "-76.03333000"
+  },
+  {
+    "name": "Carhuaz",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.28194000",
+    "longitude": "-77.64472000"
+  },
+  {
+    "name": "Carlos Fermin Fitzcarrald",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.04415000",
+    "longitude": "-77.24168000"
+  },
+  {
+    "name": "Carás",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.04692000",
+    "longitude": "-77.80901000"
+  },
+  {
+    "name": "Cascas",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.48333000",
+    "longitude": "-78.81667000"
+  },
+  {
+    "name": "Catacaos",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.26667000",
+    "longitude": "-80.68333000"
+  },
+  {
+    "name": "Ccaquiracunca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.27683000",
+    "longitude": "-71.45026000"
+  },
+  {
+    "name": "Ccolo",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.50611000",
+    "longitude": "-71.49184000"
+  },
+  {
+    "name": "Ccuntuma",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.12540000",
+    "longitude": "-71.41216000"
+  },
+  {
+    "name": "Celendín",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-6.86590000",
+    "longitude": "-78.14585000"
+  },
+  {
+    "name": "Cerro de Pasco",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.66748000",
+    "longitude": "-76.25668000"
+  },
+  {
+    "name": "Chachapoyas",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-6.23169000",
+    "longitude": "-77.86903000"
+  },
+  {
+    "name": "Chancay",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.57139000",
+    "longitude": "-77.26722000"
+  },
+  {
+    "name": "Chanchamayo",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.05000000",
+    "longitude": "-75.31667000"
+  },
+  {
+    "name": "Chaupimarca",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.40696000",
+    "longitude": "-76.46168000"
+  },
+  {
+    "name": "Chazuta",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.57087000",
+    "longitude": "-76.13753000"
+  },
+  {
+    "name": "Checacupe",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.02694000",
+    "longitude": "-71.45278000"
+  },
+  {
+    "name": "Checca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.47278000",
+    "longitude": "-71.39389000"
+  },
+  {
+    "name": "Chepen",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.14367000",
+    "longitude": "-79.45674000"
+  },
+  {
+    "name": "Chicama",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.84472000",
+    "longitude": "-79.14694000"
+  },
+  {
+    "name": "Chiclayo",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.77137000",
+    "longitude": "-79.84088000"
+  },
+  {
+    "name": "Chignayhua",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.24610000",
+    "longitude": "-71.44442000"
+  },
+  {
+    "name": "Chilca",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.52111000",
+    "longitude": "-76.73722000"
+  },
+  {
+    "name": "Chimbote",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.08528000",
+    "longitude": "-78.57833000"
+  },
+  {
+    "name": "Chincha Alta",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-13.40985000",
+    "longitude": "-76.13235000"
+  },
+  {
+    "name": "Chinchero",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.39222000",
+    "longitude": "-72.04778000"
+  },
+  {
+    "name": "Chipispaya",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.49790000",
+    "longitude": "-70.21714000"
+  },
+  {
+    "name": "Chivay",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.63833000",
+    "longitude": "-71.60111000"
+  },
+  {
+    "name": "Chocope",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.79139000",
+    "longitude": "-79.22167000"
+  },
+  {
+    "name": "Chongoyape",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.64056000",
+    "longitude": "-79.38917000"
+  },
+  {
+    "name": "Chosica",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.94306000",
+    "longitude": "-76.70944000"
+  },
+  {
+    "name": "Chota",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-6.55000000",
+    "longitude": "-78.65000000"
+  },
+  {
+    "name": "Chulucanas",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.09250000",
+    "longitude": "-80.16250000"
+  },
+  {
+    "name": "Chupaca",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-12.06667000",
+    "longitude": "-75.28333000"
+  },
+  {
+    "name": "Chuquitira",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.28891000",
+    "longitude": "-70.04363000"
+  },
+  {
+    "name": "Cocachacra",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-17.08833000",
+    "longitude": "-71.75750000"
+  },
+  {
+    "name": "Coishco",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.02306000",
+    "longitude": "-78.61556000"
+  },
+  {
+    "name": "Combapata",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.10111000",
+    "longitude": "-71.42944000"
+  },
+  {
+    "name": "Concepción",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.91762000",
+    "longitude": "-75.31401000"
+  },
+  {
+    "name": "Conchopata",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.46968000",
+    "longitude": "-71.19843000"
+  },
+  {
+    "name": "Condorcanqui",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-4.16515000",
+    "longitude": "-78.03840000"
+  },
+  {
+    "name": "Coracora",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-15.03333000",
+    "longitude": "-73.78333000"
+  },
+  {
+    "name": "Cotahuasi",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.21306000",
+    "longitude": "-72.88861000"
+  },
+  {
+    "name": "Cullcuyre",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.09272000",
+    "longitude": "-71.33119000"
+  },
+  {
+    "name": "Cusco",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.52264000",
+    "longitude": "-71.96734000"
+  },
+  {
+    "name": "Desaguadero",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-16.56556000",
+    "longitude": "-69.04167000"
+  },
+  {
+    "name": "El Alto",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.26851000",
+    "longitude": "-81.21719000"
+  },
+  {
+    "name": "El Collao",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-16.72641000",
+    "longitude": "-69.75515000"
+  },
+  {
+    "name": "El Dorado",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.56298000",
+    "longitude": "-76.74130000"
+  },
+  {
+    "name": "Eten",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.90806000",
+    "longitude": "-79.86417000"
+  },
+  {
+    "name": "Ferreñafe",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.63889000",
+    "longitude": "-79.78889000"
+  },
+  {
+    "name": "Gran Chimu",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.57976000",
+    "longitude": "-78.64718000"
+  },
+  {
+    "name": "Guadalupe",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.25000000",
+    "longitude": "-79.48333000"
+  },
+  {
+    "name": "Hacienda Huancane",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.82327000",
+    "longitude": "-70.88540000"
+  },
+  {
+    "name": "Huacaybamba",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-8.99480000",
+    "longitude": "-76.81027000"
+  },
+  {
+    "name": "Huacho",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.10667000",
+    "longitude": "-77.60500000"
+  },
+  {
+    "name": "Hualmay",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.09639000",
+    "longitude": "-77.61389000"
+  },
+  {
+    "name": "Huamachuco",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.80000000",
+    "longitude": "-78.06667000"
+  },
+  {
+    "name": "Huancabamba",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.23861000",
+    "longitude": "-79.45056000"
+  },
+  {
+    "name": "Huancavelica",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-12.78261000",
+    "longitude": "-74.97266000"
+  },
+  {
+    "name": "Huancayo",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-12.06513000",
+    "longitude": "-75.20486000"
+  },
+  {
+    "name": "Huanta",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-12.93333000",
+    "longitude": "-74.25000000"
+  },
+  {
+    "name": "Huaral",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.49500000",
+    "longitude": "-77.20778000"
+  },
+  {
+    "name": "Huarancante",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.76803000",
+    "longitude": "-71.45952000"
+  },
+  {
+    "name": "Huaraz",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.52779000",
+    "longitude": "-77.52778000"
+  },
+  {
+    "name": "Huarichancara",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.63972000",
+    "longitude": "-71.06111000"
+  },
+  {
+    "name": "Huarmey",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-10.06806000",
+    "longitude": "-78.15222000"
+  },
+  {
+    "name": "Huasahuasi",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.26527000",
+    "longitude": "-75.64722000"
+  },
+  {
+    "name": "Huaura",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.07000000",
+    "longitude": "-77.59944000"
+  },
+  {
+    "name": "Huayna Alcalde",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.26989000",
+    "longitude": "-71.09599000"
+  },
+  {
+    "name": "Huaytara",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-13.65616000",
+    "longitude": "-75.09234000"
+  },
+  {
+    "name": "Huayucachi",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-12.13333000",
+    "longitude": "-75.23333000"
+  },
+  {
+    "name": "Huicungo",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-7.31860000",
+    "longitude": "-76.77556000"
+  },
+  {
+    "name": "Huánuco",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.93062000",
+    "longitude": "-76.24223000"
+  },
+  {
+    "name": "Iberia",
+    "countryCode": "PE",
+    "stateCode": "MDD",
+    "latitude": "-11.35000000",
+    "longitude": "-69.58333000"
+  },
+  {
+    "name": "Ica",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.06777000",
+    "longitude": "-75.72861000"
+  },
+  {
+    "name": "Ilabaya",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.42083000",
+    "longitude": "-70.51333000"
+  },
+  {
+    "name": "Ilave",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-16.08333000",
+    "longitude": "-69.66667000"
+  },
+  {
+    "name": "Ilo",
+    "countryCode": "PE",
+    "stateCode": "MOQ",
+    "latitude": "-17.63185000",
+    "longitude": "-71.34108000"
+  },
+  {
+    "name": "Imperial",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-13.05927000",
+    "longitude": "-76.35269000"
+  },
+  {
+    "name": "Independencia",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.99000000",
+    "longitude": "-77.04583000"
+  },
+  {
+    "name": "Indiana",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-3.50142700",
+    "longitude": "-73.04809600"
+  },
+  {
+    "name": "Iquitos",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-3.73333333",
+    "longitude": "-73.25000000"
+  },
+  {
+    "name": "Jatun Orcochiri",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.75003000",
+    "longitude": "-71.34641000"
+  },
+  {
+    "name": "Jauja",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.77584000",
+    "longitude": "-75.49656000"
+  },
+  {
+    "name": "Jayanca",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.39083000",
+    "longitude": "-79.82194000"
+  },
+  {
+    "name": "Jayobamba",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.09425000",
+    "longitude": "-71.33922000"
+  },
+  {
+    "name": "Jayune",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.56277000",
+    "longitude": "-71.30312000"
+  },
+  {
+    "name": "Jaén",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-5.70729000",
+    "longitude": "-78.80785000"
+  },
+  {
+    "name": "Jeberos",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-5.28333000",
+    "longitude": "-76.28333000"
+  },
+  {
+    "name": "Jenaro Herrera",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-4.90741000",
+    "longitude": "-73.66779000"
+  },
+  {
+    "name": "Jepelacio",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.11667000",
+    "longitude": "-76.95000000"
+  },
+  {
+    "name": "Jorge Basadre",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.57919000",
+    "longitude": "-70.73083000"
+  },
+  {
+    "name": "Juanjuí",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-7.17697000",
+    "longitude": "-76.72774000"
+  },
+  {
+    "name": "Julcan",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.17238000",
+    "longitude": "-78.46356000"
+  },
+  {
+    "name": "Juli",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-16.21667000",
+    "longitude": "-69.45000000"
+  },
+  {
+    "name": "Juliaca",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.50000000",
+    "longitude": "-70.13333000"
+  },
+  {
+    "name": "Junín",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.15895000",
+    "longitude": "-75.99304000"
+  },
+  {
+    "name": "La Breita",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.25691000",
+    "longitude": "-80.88599000"
+  },
+  {
+    "name": "La Huaca",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.91167000",
+    "longitude": "-80.96000000"
+  },
+  {
+    "name": "La Oroya",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.51893000",
+    "longitude": "-75.89935000"
+  },
+  {
+    "name": "La Peca",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-5.61111000",
+    "longitude": "-78.43500000"
+  },
+  {
+    "name": "La Rinconada",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-14.63126000",
+    "longitude": "-69.44638000"
+  },
+  {
+    "name": "La Unión",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.82702000",
+    "longitude": "-76.80199000"
+  },
+  {
+    "name": "La Unión",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.40232000",
+    "longitude": "-80.74224000"
+  },
+  {
+    "name": "Lagunas",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-5.22694000",
+    "longitude": "-75.67528000"
+  },
+  {
+    "name": "Lamas",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.41667000",
+    "longitude": "-76.53333000"
+  },
+  {
+    "name": "Lambayeque",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.70111000",
+    "longitude": "-79.90611000"
+  },
+  {
+    "name": "Lampa",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.35000000",
+    "longitude": "-70.36667000"
+  },
+  {
+    "name": "Langui",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.43194000",
+    "longitude": "-71.27306000"
+  },
+  {
+    "name": "Laredo",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.08965000",
+    "longitude": "-78.96020000"
+  },
+  {
+    "name": "Las Lomas",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.65333000",
+    "longitude": "-80.24667000"
+  },
+  {
+    "name": "Lauricocha",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-10.20055000",
+    "longitude": "-76.70359000"
+  },
+  {
+    "name": "Layo",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.49361000",
+    "longitude": "-71.15500000"
+  },
+  {
+    "name": "Lima",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.04318000",
+    "longitude": "-77.02824000"
+  },
+  {
+    "name": "Lima Pampa",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.08976000",
+    "longitude": "-71.33664000"
+  },
+  {
+    "name": "Llata",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.41667000",
+    "longitude": "-76.78333000"
+  },
+  {
+    "name": "Llongasora",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.63951000",
+    "longitude": "-71.29921000"
+  },
+  {
+    "name": "Lluta",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-16.01472000",
+    "longitude": "-72.01417000"
+  },
+  {
+    "name": "Los Aquijes",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.09667000",
+    "longitude": "-75.69083000"
+  },
+  {
+    "name": "Macusani",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-14.08333000",
+    "longitude": "-70.43333000"
+  },
+  {
+    "name": "Mala",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.65806000",
+    "longitude": "-76.63083000"
+  },
+  {
+    "name": "Maranganí",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.35672000",
+    "longitude": "-71.16924000"
+  },
+  {
+    "name": "Maras",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.33500000",
+    "longitude": "-72.15667000"
+  },
+  {
+    "name": "Marcavelica",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.87778000",
+    "longitude": "-80.70528000"
+  },
+  {
+    "name": "Matucana",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.85000000",
+    "longitude": "-76.40000000"
+  },
+  {
+    "name": "Mazamari",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.32583000",
+    "longitude": "-74.53083000"
+  },
+  {
+    "name": "Minas de Marcona",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-15.21194000",
+    "longitude": "-75.11028000"
+  },
+  {
+    "name": "Moche",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.17111000",
+    "longitude": "-79.00917000"
+  },
+  {
+    "name": "Mochumí",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.54364000",
+    "longitude": "-79.86217000"
+  },
+  {
+    "name": "Mollendo",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-17.02306000",
+    "longitude": "-72.01472000"
+  },
+  {
+    "name": "Monsefú",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.87431000",
+    "longitude": "-79.86871000"
+  },
+  {
+    "name": "Moquegua",
+    "countryCode": "PE",
+    "stateCode": "MOQ",
+    "latitude": "-17.19832000",
+    "longitude": "-70.93567000"
+  },
+  {
+    "name": "Morococha",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.59972000",
+    "longitude": "-76.14111000"
+  },
+  {
+    "name": "Morropon",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.25000000",
+    "longitude": "-80.00000000"
+  },
+  {
+    "name": "Mosoc Cancha",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.28514000",
+    "longitude": "-71.08773000"
+  },
+  {
+    "name": "Mosoc Llacta",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.12000000",
+    "longitude": "-71.47278000"
+  },
+  {
+    "name": "Motupe",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.15194000",
+    "longitude": "-79.71417000"
+  },
+  {
+    "name": "Moyobamba",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.03416000",
+    "longitude": "-76.97168000"
+  },
+  {
+    "name": "Máncora",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.10778000",
+    "longitude": "-81.04750000"
+  },
+  {
+    "name": "Mórrope",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.53536000",
+    "longitude": "-80.01104000"
+  },
+  {
+    "name": "Nauta",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-4.50833333",
+    "longitude": "-73.58333333"
+  },
+  {
+    "name": "Nazca",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.83098000",
+    "longitude": "-74.93895000"
+  },
+  {
+    "name": "Nuevo Imperial",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-13.07541000",
+    "longitude": "-76.31719000"
+  },
+  {
+    "name": "Ollantaytambo",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.25722000",
+    "longitude": "-72.26306000"
+  },
+  {
+    "name": "Olmos",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-5.98472000",
+    "longitude": "-79.74528000"
+  },
+  {
+    "name": "Orcopampa",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.26611000",
+    "longitude": "-72.34167000"
+  },
+  {
+    "name": "Orcotuna",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.96886000",
+    "longitude": "-75.30780000"
+  },
+  {
+    "name": "Oropesa",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.59278000",
+    "longitude": "-71.77194000"
+  },
+  {
+    "name": "Otuzco",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.90000000",
+    "longitude": "-78.58333000"
+  },
+  {
+    "name": "Oxapampa",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.57750000",
+    "longitude": "-75.40167000"
+  },
+  {
+    "name": "Oyon",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-10.75869000",
+    "longitude": "-76.87634000"
+  },
+  {
+    "name": "Oyotún",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.84438000",
+    "longitude": "-79.30093000"
+  },
+  {
+    "name": "Pacanga",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.16667000",
+    "longitude": "-79.50000000"
+  },
+  {
+    "name": "Pacasmayo",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.40056000",
+    "longitude": "-79.57139000"
+  },
+  {
+    "name": "Pacocha",
+    "countryCode": "PE",
+    "stateCode": "MOQ",
+    "latitude": "-17.64604000",
+    "longitude": "-71.34481000"
+  },
+  {
+    "name": "Padre Abad",
+    "countryCode": "PE",
+    "stateCode": "UCA",
+    "latitude": "-8.79680000",
+    "longitude": "-75.42850000"
+  },
+  {
+    "name": "Paiján",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.73291000",
+    "longitude": "-79.30150000"
+  },
+  {
+    "name": "Paita",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.08917000",
+    "longitude": "-81.11444000"
+  },
+  {
+    "name": "Palpa",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.53361000",
+    "longitude": "-75.18556000"
+  },
+  {
+    "name": "Pampamarca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.14639000",
+    "longitude": "-71.45944000"
+  },
+  {
+    "name": "Pampas",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-12.39490000",
+    "longitude": "-74.86687000"
+  },
+  {
+    "name": "Pangoa",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-12.11667000",
+    "longitude": "-73.00000000"
+  },
+  {
+    "name": "Papayal",
+    "countryCode": "PE",
+    "stateCode": "TUM",
+    "latitude": "-4.07771000",
+    "longitude": "-80.73690000"
+  },
+  {
+    "name": "Paracas",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-13.86667000",
+    "longitude": "-76.26667000"
+  },
+  {
+    "name": "Paramonga",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-10.66667000",
+    "longitude": "-77.83333000"
+  },
+  {
+    "name": "Pativilca",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-10.70000000",
+    "longitude": "-77.78333000"
+  },
+  {
+    "name": "Paucar Del Sara Sara",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-15.12275000",
+    "longitude": "-73.26177000"
+  },
+  {
+    "name": "Paucartambo",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.31522000",
+    "longitude": "-71.59364000"
+  },
+  {
+    "name": "Paucartambo",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.77326000",
+    "longitude": "-75.81109000"
+  },
+  {
+    "name": "Perené",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-10.94510000",
+    "longitude": "-75.22394000"
+  },
+  {
+    "name": "Picota",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.92033000",
+    "longitude": "-76.33142000"
+  },
+  {
+    "name": "Picsi",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.71778000",
+    "longitude": "-79.76972000"
+  },
+  {
+    "name": "Pilcomay",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-12.04722000",
+    "longitude": "-75.24931000"
+  },
+  {
+    "name": "Pimentel",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.83667000",
+    "longitude": "-79.93417000"
+  },
+  {
+    "name": "Pisac",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.42250000",
+    "longitude": "-71.84667000"
+  },
+  {
+    "name": "Pisco",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-13.71029000",
+    "longitude": "-76.20538000"
+  },
+  {
+    "name": "Piura",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.19449000",
+    "longitude": "-80.63282000"
+  },
+  {
+    "name": "Pomabamba",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.83333000",
+    "longitude": "-77.46667000"
+  },
+  {
+    "name": "Provincia de Abancay",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-13.66667000",
+    "longitude": "-72.91667000"
+  },
+  {
+    "name": "Provincia de Acobamba",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-12.75000000",
+    "longitude": "-74.66667000"
+  },
+  {
+    "name": "Provincia de Acomayo",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.91667000",
+    "longitude": "-71.66667000"
+  },
+  {
+    "name": "Provincia de Aija",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.83333000",
+    "longitude": "-77.66667000"
+  },
+  {
+    "name": "Provincia de Ambo",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-10.16667000",
+    "longitude": "-76.16667000"
+  },
+  {
+    "name": "Provincia de Andahuaylas",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-13.66667000",
+    "longitude": "-73.41667000"
+  },
+  {
+    "name": "Provincia de Angaraes",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-13.00000000",
+    "longitude": "-74.75000000"
+  },
+  {
+    "name": "Provincia de Anta",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.50000000",
+    "longitude": "-72.33333000"
+  },
+  {
+    "name": "Provincia de Antabamba",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-14.41667000",
+    "longitude": "-72.75000000"
+  },
+  {
+    "name": "Provincia de Antonio Raymondi",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.08333000",
+    "longitude": "-77.08333000"
+  },
+  {
+    "name": "Provincia de Arequipa",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-16.33333000",
+    "longitude": "-71.50000000"
+  },
+  {
+    "name": "Provincia de Ayabaca",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.75000000",
+    "longitude": "-79.83333000"
+  },
+  {
+    "name": "Provincia de Aymaraes",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-14.41667000",
+    "longitude": "-73.25000000"
+  },
+  {
+    "name": "Provincia de Azángaro",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-14.83333000",
+    "longitude": "-70.16667000"
+  },
+  {
+    "name": "Provincia de Bagua",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-5.09006000",
+    "longitude": "-78.39972000"
+  },
+  {
+    "name": "Provincia de Bolognesi",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-10.10723000",
+    "longitude": "-77.14804000"
+  },
+  {
+    "name": "Provincia de Bolívar",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.33333000",
+    "longitude": "-77.75000000"
+  },
+  {
+    "name": "Provincia de Bongará",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-5.68341000",
+    "longitude": "-77.87308000"
+  },
+  {
+    "name": "Provincia de Cajabamba",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-7.50000000",
+    "longitude": "-78.16667000"
+  },
+  {
+    "name": "Provincia de Cajamarca",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-7.33333000",
+    "longitude": "-78.41667000"
+  },
+  {
+    "name": "Provincia de Cajatambo",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-10.66667000",
+    "longitude": "-77.00000000"
+  },
+  {
+    "name": "Provincia de Calca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.00000000",
+    "longitude": "-72.16667000"
+  },
+  {
+    "name": "Provincia de Camaná",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-16.41667000",
+    "longitude": "-72.83333000"
+  },
+  {
+    "name": "Provincia de Canas",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.41083000",
+    "longitude": "-71.33694000"
+  },
+  {
+    "name": "Provincia de Canchis",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.08194000",
+    "longitude": "-71.18556000"
+  },
+  {
+    "name": "Provincia de Cangallo",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-13.57300000",
+    "longitude": "-74.38900000"
+  },
+  {
+    "name": "Provincia de Canta",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.46667000",
+    "longitude": "-76.61667000"
+  },
+  {
+    "name": "Provincia de Carabaya",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-13.83333000",
+    "longitude": "-70.25000000"
+  },
+  {
+    "name": "Provincia de Caravelí",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.58333000",
+    "longitude": "-74.00000000"
+  },
+  {
+    "name": "Provincia de Carhuaz",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.31700000",
+    "longitude": "-77.55100000"
+  },
+  {
+    "name": "Provincia de Casma",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.47638000",
+    "longitude": "-78.24738000"
+  },
+  {
+    "name": "Provincia de Castilla",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.58333000",
+    "longitude": "-72.41667000"
+  },
+  {
+    "name": "Provincia de Castrovirreyna",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-13.14535000",
+    "longitude": "-75.40598000"
+  },
+  {
+    "name": "Provincia de Caylloma",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.66667000",
+    "longitude": "-71.58333000"
+  },
+  {
+    "name": "Provincia de Cañete",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.75000000",
+    "longitude": "-76.33333000"
+  },
+  {
+    "name": "Provincia de Celendín",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-6.83333000",
+    "longitude": "-78.25000000"
+  },
+  {
+    "name": "Provincia de Chachapoyas",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-6.27480000",
+    "longitude": "-77.81067000"
+  },
+  {
+    "name": "Provincia de Chiclayo",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.76667000",
+    "longitude": "-79.85000000"
+  },
+  {
+    "name": "Provincia de Chincha",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-13.31791000",
+    "longitude": "-75.93930000"
+  },
+  {
+    "name": "Provincia de Chota",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-6.38332000",
+    "longitude": "-79.18055000"
+  },
+  {
+    "name": "Provincia de Chucuito",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-16.60545000",
+    "longitude": "-69.35761000"
+  },
+  {
+    "name": "Provincia de Chumbivilcas",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.41667000",
+    "longitude": "-72.00000000"
+  },
+  {
+    "name": "Provincia de Chupaca",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-12.30000000",
+    "longitude": "-75.43300000"
+  },
+  {
+    "name": "Provincia de Churcampa",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-12.60000000",
+    "longitude": "-74.52000000"
+  },
+  {
+    "name": "Provincia de Concepción",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.75000000",
+    "longitude": "-75.00000000"
+  },
+  {
+    "name": "Provincia de Condesuyos",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.58333000",
+    "longitude": "-72.83333000"
+  },
+  {
+    "name": "Provincia de Contralmirante Villar",
+    "countryCode": "PE",
+    "stateCode": "TUM",
+    "latitude": "-4.00000000",
+    "longitude": "-80.75000000"
+  },
+  {
+    "name": "Provincia de Contumazá",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-7.33333000",
+    "longitude": "-78.91667000"
+  },
+  {
+    "name": "Provincia de Coronel Portillo",
+    "countryCode": "PE",
+    "stateCode": "UCA",
+    "latitude": "-9.50000000",
+    "longitude": "-73.33333000"
+  },
+  {
+    "name": "Provincia de Corongo",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.58333000",
+    "longitude": "-77.91667000"
+  },
+  {
+    "name": "Provincia de Cotabambas",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-14.00000000",
+    "longitude": "-72.20000000"
+  },
+  {
+    "name": "Provincia de Cusco",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.50000000",
+    "longitude": "-72.00000000"
+  },
+  {
+    "name": "Provincia de Cutervo",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-6.36667000",
+    "longitude": "-78.85000000"
+  },
+  {
+    "name": "Provincia de Daniel Carrión",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.50000000",
+    "longitude": "-76.50000000"
+  },
+  {
+    "name": "Provincia de Dos de Mayo",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.91667000",
+    "longitude": "-76.75000000"
+  },
+  {
+    "name": "Provincia de Espinar",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.75000000",
+    "longitude": "-71.41667000"
+  },
+  {
+    "name": "Provincia de Ferreñafe",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.33333000",
+    "longitude": "-79.50000000"
+  },
+  {
+    "name": "Provincia de General Sánchez Cerro",
+    "countryCode": "PE",
+    "stateCode": "MOQ",
+    "latitude": "-16.50000000",
+    "longitude": "-70.66667000"
+  },
+  {
+    "name": "Provincia de Grau",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-14.00000000",
+    "longitude": "-72.58333000"
+  },
+  {
+    "name": "Provincia de Hualgayoc",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-6.68000000",
+    "longitude": "-78.53000000"
+  },
+  {
+    "name": "Provincia de Huallaga",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.75664000",
+    "longitude": "-76.90143000"
+  },
+  {
+    "name": "Provincia de Huamalíes",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.25000000",
+    "longitude": "-76.50000000"
+  },
+  {
+    "name": "Provincia de Huamanga",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-13.20000000",
+    "longitude": "-74.25000000"
+  },
+  {
+    "name": "Provincia de Huanca Sancos",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-14.07600000",
+    "longitude": "-74.42800000"
+  },
+  {
+    "name": "Provincia de Huancabamba",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.50000000",
+    "longitude": "-79.58333000"
+  },
+  {
+    "name": "Provincia de Huancané",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.16667000",
+    "longitude": "-69.58333000"
+  },
+  {
+    "name": "Provincia de Huancavelica",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-12.66667000",
+    "longitude": "-75.25000000"
+  },
+  {
+    "name": "Provincia de Huancayo",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-12.17319000",
+    "longitude": "-75.16169000"
+  },
+  {
+    "name": "Provincia de Huanta",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-12.50000000",
+    "longitude": "-74.16667000"
+  },
+  {
+    "name": "Provincia de Huaral",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.25000000",
+    "longitude": "-76.91667000"
+  },
+  {
+    "name": "Provincia de Huaraz",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.56109000",
+    "longitude": "-77.64605000"
+  },
+  {
+    "name": "Provincia de Huari",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.33333000",
+    "longitude": "-77.16667000"
+  },
+  {
+    "name": "Provincia de Huarmey",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.91667000",
+    "longitude": "-78.00000000"
+  },
+  {
+    "name": "Provincia de Huarochirí",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.91667000",
+    "longitude": "-76.41667000"
+  },
+  {
+    "name": "Provincia de Huaylas",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.91667000",
+    "longitude": "-77.83333000"
+  },
+  {
+    "name": "Provincia de Huánuco",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.66667000",
+    "longitude": "-76.08333000"
+  },
+  {
+    "name": "Provincia de Ica",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.33861000",
+    "longitude": "-75.64833000"
+  },
+  {
+    "name": "Provincia de Ilo",
+    "countryCode": "PE",
+    "stateCode": "MOQ",
+    "latitude": "-17.49694000",
+    "longitude": "-71.16722000"
+  },
+  {
+    "name": "Provincia de Islay",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-17.00000000",
+    "longitude": "-71.83333000"
+  },
+  {
+    "name": "Provincia de Jauja",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.72600000",
+    "longitude": "-75.54700000"
+  },
+  {
+    "name": "Provincia de Jaén",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-5.71074000",
+    "longitude": "-79.00438000"
+  },
+  {
+    "name": "Provincia de Junín",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.08333000",
+    "longitude": "-76.00000000"
+  },
+  {
+    "name": "Provincia de La Convención",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-12.00000000",
+    "longitude": "-73.00000000"
+  },
+  {
+    "name": "Provincia de La Mar",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-12.91667000",
+    "longitude": "-73.83333000"
+  },
+  {
+    "name": "Provincia de La Unión",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.00000000",
+    "longitude": "-72.83333000"
+  },
+  {
+    "name": "Provincia de Lamas",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.33333000",
+    "longitude": "-76.66667000"
+  },
+  {
+    "name": "Provincia de Lambayeque",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.08333000",
+    "longitude": "-80.08333000"
+  },
+  {
+    "name": "Provincia de Lampa",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.41667000",
+    "longitude": "-70.58333000"
+  },
+  {
+    "name": "Provincia de Leoncio Prado",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.16667000",
+    "longitude": "-76.00000000"
+  },
+  {
+    "name": "Provincia de Lucanas",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-14.50000000",
+    "longitude": "-74.33333000"
+  },
+  {
+    "name": "Provincia de Luya",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-6.41667000",
+    "longitude": "-78.00000000"
+  },
+  {
+    "name": "Provincia de Manú",
+    "countryCode": "PE",
+    "stateCode": "MDD",
+    "latitude": "-12.25000000",
+    "longitude": "-71.00000000"
+  },
+  {
+    "name": "Provincia de Marañón",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-8.75000000",
+    "longitude": "-76.66667000"
+  },
+  {
+    "name": "Provincia de Mariscal Cáceres",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-7.27390000",
+    "longitude": "-77.18216000"
+  },
+  {
+    "name": "Provincia de Mariscal Luzuriaga",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.83333000",
+    "longitude": "-77.25000000"
+  },
+  {
+    "name": "Provincia de Mariscal Nieto",
+    "countryCode": "PE",
+    "stateCode": "MOQ",
+    "latitude": "-17.08361000",
+    "longitude": "-71.00333000"
+  },
+  {
+    "name": "Provincia de Melgar",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-14.75000000",
+    "longitude": "-70.75000000"
+  },
+  {
+    "name": "Provincia de Moyobamba",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-5.75000000",
+    "longitude": "-77.25000000"
+  },
+  {
+    "name": "Provincia de Nazca",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-15.00000000",
+    "longitude": "-75.08333000"
+  },
+  {
+    "name": "Provincia de Otuzco",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.90457000",
+    "longitude": "-78.56362000"
+  },
+  {
+    "name": "Provincia de Oxapampa",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.33333000",
+    "longitude": "-75.08333000"
+  },
+  {
+    "name": "Provincia de Pacasmayo",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.25000000",
+    "longitude": "-79.50000000"
+  },
+  {
+    "name": "Provincia de Pachitea",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.95262000",
+    "longitude": "-75.81390000"
+  },
+  {
+    "name": "Provincia de Paita",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.10189000",
+    "longitude": "-81.09695000"
+  },
+  {
+    "name": "Provincia de Pallasca",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.33333000",
+    "longitude": "-77.91667000"
+  },
+  {
+    "name": "Provincia de Palpa",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.41667000",
+    "longitude": "-75.16667000"
+  },
+  {
+    "name": "Provincia de Parinacochas",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-15.02965000",
+    "longitude": "-73.63487000"
+  },
+  {
+    "name": "Provincia de Paruro",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.91667000",
+    "longitude": "-71.91667000"
+  },
+  {
+    "name": "Provincia de Pasco",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.66667000",
+    "longitude": "-76.08333000"
+  },
+  {
+    "name": "Provincia de Pataz",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.25000000",
+    "longitude": "-77.33333000"
+  },
+  {
+    "name": "Provincia de Paucartambo",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.16667000",
+    "longitude": "-71.41667000"
+  },
+  {
+    "name": "Provincia de Pisco",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-13.80377000",
+    "longitude": "-75.94264000"
+  },
+  {
+    "name": "Provincia de Piura",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.21416000",
+    "longitude": "-80.40617000"
+  },
+  {
+    "name": "Provincia de Pomabamba",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.82311000",
+    "longitude": "-77.47559000"
+  },
+  {
+    "name": "Provincia de Puno",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-16.00000000",
+    "longitude": "-70.00000000"
+  },
+  {
+    "name": "Provincia de Quispicanchis",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.41667000",
+    "longitude": "-71.00000000"
+  },
+  {
+    "name": "Provincia de Recuay",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-10.00000000",
+    "longitude": "-77.41667000"
+  },
+  {
+    "name": "Provincia de Rioja",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.00000000",
+    "longitude": "-77.41667000"
+  },
+  {
+    "name": "Provincia de Rodríguez de Mendoza",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-6.33333000",
+    "longitude": "-77.41667000"
+  },
+  {
+    "name": "Provincia de San Ignacio",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-5.08333000",
+    "longitude": "-79.00000000"
+  },
+  {
+    "name": "Provincia de San Martín",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.58333000",
+    "longitude": "-76.16667000"
+  },
+  {
+    "name": "Provincia de San Miguel",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-7.00000000",
+    "longitude": "-79.00000000"
+  },
+  {
+    "name": "Provincia de Sandia",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-13.83333000",
+    "longitude": "-69.33333000"
+  },
+  {
+    "name": "Provincia de Santa",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.00000000",
+    "longitude": "-78.25000000"
+  },
+  {
+    "name": "Provincia de Santa Cruz",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-6.83333000",
+    "longitude": "-79.00000000"
+  },
+  {
+    "name": "Provincia de Santiago de Chuco",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.33333000",
+    "longitude": "-78.25000000"
+  },
+  {
+    "name": "Provincia de Satipo",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.50000000",
+    "longitude": "-74.25000000"
+  },
+  {
+    "name": "Provincia de Sihuas",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.50000000",
+    "longitude": "-77.50000000"
+  },
+  {
+    "name": "Provincia de Sucre",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-14.10300000",
+    "longitude": "-73.78600000"
+  },
+  {
+    "name": "Provincia de Sullana",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.50000000",
+    "longitude": "-80.66667000"
+  },
+  {
+    "name": "Provincia de Tacna",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.83333000",
+    "longitude": "-70.50000000"
+  },
+  {
+    "name": "Provincia de Tahuamanú",
+    "countryCode": "PE",
+    "stateCode": "MDD",
+    "latitude": "-11.25000000",
+    "longitude": "-70.50000000"
+  },
+  {
+    "name": "Provincia de Talara",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.41667000",
+    "longitude": "-81.08333000"
+  },
+  {
+    "name": "Provincia de Tambopata",
+    "countryCode": "PE",
+    "stateCode": "MDD",
+    "latitude": "-12.19948000",
+    "longitude": "-70.05006000"
+  },
+  {
+    "name": "Provincia de Tarata",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.41667000",
+    "longitude": "-70.08333000"
+  },
+  {
+    "name": "Provincia de Tarma",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.40562000",
+    "longitude": "-75.69129000"
+  },
+  {
+    "name": "Provincia de Tayacaja",
+    "countryCode": "PE",
+    "stateCode": "HUV",
+    "latitude": "-12.25000000",
+    "longitude": "-74.75000000"
+  },
+  {
+    "name": "Provincia de Trujillo",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.08333000",
+    "longitude": "-78.91667000"
+  },
+  {
+    "name": "Provincia de Tumbes",
+    "countryCode": "PE",
+    "stateCode": "TUM",
+    "latitude": "-3.75000000",
+    "longitude": "-80.41667000"
+  },
+  {
+    "name": "Provincia de Urubamba",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.25000000",
+    "longitude": "-72.33333000"
+  },
+  {
+    "name": "Provincia de Vilcas Huamán",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-13.63200000",
+    "longitude": "-73.88800000"
+  },
+  {
+    "name": "Provincia de Víctor Fajardo",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-13.75000000",
+    "longitude": "-74.33333000"
+  },
+  {
+    "name": "Provincia de Yauli",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.66667000",
+    "longitude": "-76.16667000"
+  },
+  {
+    "name": "Provincia de Yauyos",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.41667000",
+    "longitude": "-76.00000000"
+  },
+  {
+    "name": "Provincia de Yungay",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.16667000",
+    "longitude": "-77.75000000"
+  },
+  {
+    "name": "Provincia de Zarumilla",
+    "countryCode": "PE",
+    "stateCode": "TUM",
+    "latitude": "-3.66667000",
+    "longitude": "-80.25000000"
+  },
+  {
+    "name": "Pucallpa",
+    "countryCode": "PE",
+    "stateCode": "UCA",
+    "latitude": "-8.37915000",
+    "longitude": "-74.55387000"
+  },
+  {
+    "name": "Pucara",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.97993000",
+    "longitude": "-71.45988000"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.18806000",
+    "longitude": "-79.51528000"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-5.71667000",
+    "longitude": "-79.88333000"
+  },
+  {
+    "name": "Puerto Inca",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.36696000",
+    "longitude": "-75.08958000"
+  },
+  {
+    "name": "Puerto Maldonado",
+    "countryCode": "PE",
+    "stateCode": "MDD",
+    "latitude": "-12.59331000",
+    "longitude": "-69.18913000"
+  },
+  {
+    "name": "Puerto Santa",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.98772000",
+    "longitude": "-78.64727000"
+  },
+  {
+    "name": "Puerto Supe",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-10.80135000",
+    "longitude": "-77.74333000"
+  },
+  {
+    "name": "Pujocucho",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.15778000",
+    "longitude": "-70.35222000"
+  },
+  {
+    "name": "Punchana",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-3.71666667",
+    "longitude": "-73.23333333"
+  },
+  {
+    "name": "Puno",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.84220000",
+    "longitude": "-70.01990000"
+  },
+  {
+    "name": "Punta de Bombón",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-17.17190000",
+    "longitude": "-71.79240000"
+  },
+  {
+    "name": "Puquio",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-14.70000000",
+    "longitude": "-74.13333000"
+  },
+  {
+    "name": "Purus",
+    "countryCode": "PE",
+    "stateCode": "UCA",
+    "latitude": "-10.37331000",
+    "longitude": "-71.58231000"
+  },
+  {
+    "name": "Qquea",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.05417000",
+    "longitude": "-71.38583000"
+  },
+  {
+    "name": "Querecotillo",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.83778000",
+    "longitude": "-80.64556000"
+  },
+  {
+    "name": "Queromarca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.18391000",
+    "longitude": "-71.38343000"
+  },
+  {
+    "name": "Quilahuani",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.31778000",
+    "longitude": "-70.25806000"
+  },
+  {
+    "name": "Quilmaná",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.94860000",
+    "longitude": "-76.38112000"
+  },
+  {
+    "name": "Quiruvilca",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.96667000",
+    "longitude": "-78.20000000"
+  },
+  {
+    "name": "Reque",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.86556000",
+    "longitude": "-79.81778000"
+  },
+  {
+    "name": "Requena",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-6.74797000",
+    "longitude": "-75.05491000"
+  },
+  {
+    "name": "Ricardo Palma",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.91978000",
+    "longitude": "-76.65610000"
+  },
+  {
+    "name": "Rioja",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.05675000",
+    "longitude": "-77.16651000"
+  },
+  {
+    "name": "Río Grande",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.51600000",
+    "longitude": "-75.19933000"
+  },
+  {
+    "name": "Salaverry",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.22100000",
+    "longitude": "-78.97698000"
+  },
+  {
+    "name": "Salinera Colán",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.03333000",
+    "longitude": "-81.06667000"
+  },
+  {
+    "name": "Salitral",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.85722000",
+    "longitude": "-80.68111000"
+  },
+  {
+    "name": "Salvación",
+    "countryCode": "PE",
+    "stateCode": "MDD",
+    "latitude": "-12.83605000",
+    "longitude": "-71.36490000"
+  },
+  {
+    "name": "San Agustin",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.97195000",
+    "longitude": "-75.25562000"
+  },
+  {
+    "name": "San Antonio De Putina",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-14.71175000",
+    "longitude": "-69.61559000"
+  },
+  {
+    "name": "San Antonio del Estrecho",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-2.45012000",
+    "longitude": "-72.66896000"
+  },
+  {
+    "name": "San Bartolo",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.38333000",
+    "longitude": "-76.78333000"
+  },
+  {
+    "name": "San Clemente",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-13.66667000",
+    "longitude": "-76.15000000"
+  },
+  {
+    "name": "San Ignacio",
+    "countryCode": "PE",
+    "stateCode": "CAJ",
+    "latitude": "-5.14583000",
+    "longitude": "-79.00139000"
+  },
+  {
+    "name": "San Isidro",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.11667000",
+    "longitude": "-77.05000000"
+  },
+  {
+    "name": "San Jerónimo",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-13.65138000",
+    "longitude": "-73.36388000"
+  },
+  {
+    "name": "San Jerónimo",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.95591000",
+    "longitude": "-75.28411000"
+  },
+  {
+    "name": "San José",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.73813000",
+    "longitude": "-79.82750000"
+  },
+  {
+    "name": "San Juan Bautista",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.01083000",
+    "longitude": "-75.73583000"
+  },
+  {
+    "name": "San Lorenzo",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-4.81667000",
+    "longitude": "-76.60000000"
+  },
+  {
+    "name": "San Luis",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.07674000",
+    "longitude": "-76.99435000"
+  },
+  {
+    "name": "San Miguel",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-13.01250000",
+    "longitude": "-73.98083000"
+  },
+  {
+    "name": "San Miguel de Cauri",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-10.13818000",
+    "longitude": "-76.62288000"
+  },
+  {
+    "name": "San Pablo",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.20278000",
+    "longitude": "-71.31556000"
+  },
+  {
+    "name": "San Pablo",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-4.01922000",
+    "longitude": "-71.10281000"
+  },
+  {
+    "name": "San Pedro de Cajas",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.25061000",
+    "longitude": "-75.86116000"
+  },
+  {
+    "name": "San Pedro de Lloc",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.42890000",
+    "longitude": "-79.50416000"
+  },
+  {
+    "name": "San Ramón",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.12417000",
+    "longitude": "-75.35733000"
+  },
+  {
+    "name": "San Roman",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.83333000",
+    "longitude": "-70.50000000"
+  },
+  {
+    "name": "San Vicente de Cañete",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-13.07556000",
+    "longitude": "-76.38528000"
+  },
+  {
+    "name": "Sanchez Carrion",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.78538000",
+    "longitude": "-77.92586000"
+  },
+  {
+    "name": "Santa Ana",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-12.86667000",
+    "longitude": "-72.71667000"
+  },
+  {
+    "name": "Santa Lucía",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.69788000",
+    "longitude": "-70.60610000"
+  },
+  {
+    "name": "Santa María",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.00538000",
+    "longitude": "-76.89329000"
+  },
+  {
+    "name": "Santa Rosa",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.75772000",
+    "longitude": "-79.82747000"
+  },
+  {
+    "name": "Santiago",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.18469000",
+    "longitude": "-75.71124000"
+  },
+  {
+    "name": "Santiago de Cao",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-7.95889000",
+    "longitude": "-79.23917000"
+  },
+  {
+    "name": "Santiago de Chuco",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.14099000",
+    "longitude": "-78.17329000"
+  },
+  {
+    "name": "Santiago de Surco",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-12.13588000",
+    "longitude": "-77.00742000"
+  },
+  {
+    "name": "Santo Tomas",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.44556000",
+    "longitude": "-72.08417000"
+  },
+  {
+    "name": "Saposoa",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.93395000",
+    "longitude": "-76.77158000"
+  },
+  {
+    "name": "Satipo",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.25222000",
+    "longitude": "-74.63861000"
+  },
+  {
+    "name": "Sayán",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.13333000",
+    "longitude": "-77.19460000"
+  },
+  {
+    "name": "Saña",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.91888000",
+    "longitude": "-79.58200000"
+  },
+  {
+    "name": "Sechura",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.55694000",
+    "longitude": "-80.82222000"
+  },
+  {
+    "name": "Sicaya",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-12.03333000",
+    "longitude": "-75.28333000"
+  },
+  {
+    "name": "Sicuani",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.26944000",
+    "longitude": "-71.22611000"
+  },
+  {
+    "name": "Sisa",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.61085000",
+    "longitude": "-76.69302000"
+  },
+  {
+    "name": "Soritor",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.13917000",
+    "longitude": "-77.10389000"
+  },
+  {
+    "name": "Subtanjalla",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-14.01889000",
+    "longitude": "-75.75806000"
+  },
+  {
+    "name": "Sullana",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.90389000",
+    "longitude": "-80.68528000"
+  },
+  {
+    "name": "Supe",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-10.79750000",
+    "longitude": "-77.71306000"
+  },
+  {
+    "name": "Tabalosos",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.35000000",
+    "longitude": "-76.68333000"
+  },
+  {
+    "name": "Tacna",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-18.01465000",
+    "longitude": "-70.25362000"
+  },
+  {
+    "name": "Talara",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.57722000",
+    "longitude": "-81.27194000"
+  },
+  {
+    "name": "Talavera",
+    "countryCode": "PE",
+    "stateCode": "APU",
+    "latitude": "-13.65306000",
+    "longitude": "-73.42917000"
+  },
+  {
+    "name": "Tambo",
+    "countryCode": "PE",
+    "stateCode": "AYA",
+    "latitude": "-14.79847000",
+    "longitude": "-73.92438000"
+  },
+  {
+    "name": "Tambo Grande",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-4.92694000",
+    "longitude": "-80.34472000"
+  },
+  {
+    "name": "Tambopata",
+    "countryCode": "PE",
+    "stateCode": "MDD",
+    "latitude": "-12.67191000",
+    "longitude": "-69.35547000"
+  },
+  {
+    "name": "Tamshiyacu",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-4.00320000",
+    "longitude": "-73.15850000"
+  },
+  {
+    "name": "Taquile",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-15.76667000",
+    "longitude": "-69.68333000"
+  },
+  {
+    "name": "Tarapoto",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-6.50139000",
+    "longitude": "-76.36556000"
+  },
+  {
+    "name": "Tarata",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.47444000",
+    "longitude": "-70.03278000"
+  },
+  {
+    "name": "Tarma",
+    "countryCode": "PE",
+    "stateCode": "JUN",
+    "latitude": "-11.41899000",
+    "longitude": "-75.68992000"
+  },
+  {
+    "name": "Tingo María",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.29532000",
+    "longitude": "-75.99574000"
+  },
+  {
+    "name": "Tinta",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.14500000",
+    "longitude": "-71.40694000"
+  },
+  {
+    "name": "Tinyahuarco",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.76771000",
+    "longitude": "-76.27523000"
+  },
+  {
+    "name": "Tocache",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-8.18770000",
+    "longitude": "-76.52046000"
+  },
+  {
+    "name": "Torata",
+    "countryCode": "PE",
+    "stateCode": "MOQ",
+    "latitude": "-17.07694000",
+    "longitude": "-70.84333000"
+  },
+  {
+    "name": "Totoral",
+    "countryCode": "PE",
+    "stateCode": "TAC",
+    "latitude": "-17.40620000",
+    "longitude": "-70.36464000"
+  },
+  {
+    "name": "Trujillo",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.11599000",
+    "longitude": "-79.02998000"
+  },
+  {
+    "name": "Tumbes",
+    "countryCode": "PE",
+    "stateCode": "TUM",
+    "latitude": "-3.56694000",
+    "longitude": "-80.45153000"
+  },
+  {
+    "name": "Tungasuca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.16389000",
+    "longitude": "-71.47667000"
+  },
+  {
+    "name": "Túcume",
+    "countryCode": "PE",
+    "stateCode": "LAM",
+    "latitude": "-6.50637000",
+    "longitude": "-79.85725000"
+  },
+  {
+    "name": "Uchiza",
+    "countryCode": "PE",
+    "stateCode": "SAM",
+    "latitude": "-8.45917000",
+    "longitude": "-76.46333000"
+  },
+  {
+    "name": "Urb. Santo Domingo",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.87655000",
+    "longitude": "-77.03345000"
+  },
+  {
+    "name": "Urcos",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.68611000",
+    "longitude": "-71.62278000"
+  },
+  {
+    "name": "Urubamba",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-13.30472000",
+    "longitude": "-72.11583000"
+  },
+  {
+    "name": "Utcubamba",
+    "countryCode": "PE",
+    "stateCode": "AMA",
+    "latitude": "-5.77031000",
+    "longitude": "-78.32850000"
+  },
+  {
+    "name": "Vice",
+    "countryCode": "PE",
+    "stateCode": "PIU",
+    "latitude": "-5.41667000",
+    "longitude": "-80.78333000"
+  },
+  {
+    "name": "Villa Rica",
+    "countryCode": "PE",
+    "stateCode": "PAS",
+    "latitude": "-10.73944000",
+    "longitude": "-75.26972000"
+  },
+  {
+    "name": "Villa Tupac Amaru",
+    "countryCode": "PE",
+    "stateCode": "ICA",
+    "latitude": "-13.71135000",
+    "longitude": "-76.14980000"
+  },
+  {
+    "name": "Viru",
+    "countryCode": "PE",
+    "stateCode": "LAL",
+    "latitude": "-8.52199000",
+    "longitude": "-78.60355000"
+  },
+  {
+    "name": "Vizcachane",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-15.80861000",
+    "longitude": "-71.20111000"
+  },
+  {
+    "name": "Végueta",
+    "countryCode": "PE",
+    "stateCode": "LIM",
+    "latitude": "-11.02253000",
+    "longitude": "-77.64378000"
+  },
+  {
+    "name": "Yanacancha",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-10.24111000",
+    "longitude": "-76.64556000"
+  },
+  {
+    "name": "Yanaoca",
+    "countryCode": "PE",
+    "stateCode": "CUS",
+    "latitude": "-14.21806000",
+    "longitude": "-71.43167000"
+  },
+  {
+    "name": "Yarowilca",
+    "countryCode": "PE",
+    "stateCode": "HUC",
+    "latitude": "-9.80263000",
+    "longitude": "-76.59516000"
+  },
+  {
+    "name": "Yauya",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-8.98333000",
+    "longitude": "-77.30000000"
+  },
+  {
+    "name": "Yungay",
+    "countryCode": "PE",
+    "stateCode": "ANC",
+    "latitude": "-9.13833000",
+    "longitude": "-77.74361000"
+  },
+  {
+    "name": "Yunguyo",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-16.25000000",
+    "longitude": "-69.08333000"
+  },
+  {
+    "name": "Yura",
+    "countryCode": "PE",
+    "stateCode": "ARE",
+    "latitude": "-16.25223000",
+    "longitude": "-71.67969000"
+  },
+  {
+    "name": "Yurimaguas",
+    "countryCode": "PE",
+    "stateCode": "LOR",
+    "latitude": "-5.90000000",
+    "longitude": "-76.08333333"
+  },
+  {
+    "name": "Zarumilla",
+    "countryCode": "PE",
+    "stateCode": "TUM",
+    "latitude": "-3.50306000",
+    "longitude": "-80.27306000"
+  },
+  {
+    "name": "Zorritos",
+    "countryCode": "PE",
+    "stateCode": "TUM",
+    "latitude": "-3.68046000",
+    "longitude": "-80.67819000"
+  },
+  {
+    "name": "Ñuñoa",
+    "countryCode": "PE",
+    "stateCode": "PUN",
+    "latitude": "-14.47788000",
+    "longitude": "-70.63583000"
+  }
+]

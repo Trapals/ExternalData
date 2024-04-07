@@ -1,0 +1,520 @@
+[
+  {
+    "name": "Akrahreppur",
+    "countryCode": "IS",
+    "stateCode": "5",
+    "latitude": "65.35505000",
+    "longitude": "-18.79572000"
+  },
+  {
+    "name": "Akranes",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.32179000",
+    "longitude": "-22.07490000"
+  },
+  {
+    "name": "Akureyri",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.68353000",
+    "longitude": "-18.08780000"
+  },
+  {
+    "name": "Bláskógabyggð",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "64.41667000",
+    "longitude": "-20.33333000"
+  },
+  {
+    "name": "Borgarbyggð",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.71446000",
+    "longitude": "-21.23788000"
+  },
+  {
+    "name": "Borgarfjarðarhreppur",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "65.43401000",
+    "longitude": "-13.82933000"
+  },
+  {
+    "name": "Borgarnes",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.53834000",
+    "longitude": "-21.92064000"
+  },
+  {
+    "name": "Breiðdalshreppur",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "64.83333000",
+    "longitude": "-14.25000000"
+  },
+  {
+    "name": "Dalabyggð",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "65.10121000",
+    "longitude": "-21.72871000"
+  },
+  {
+    "name": "Dalvík",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.97018000",
+    "longitude": "-18.52861000"
+  },
+  {
+    "name": "Dalvíkurbyggð",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.87318000",
+    "longitude": "-18.60844000"
+  },
+  {
+    "name": "Egilsstaðir",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "65.26687000",
+    "longitude": "-14.39485000"
+  },
+  {
+    "name": "Eskifjörður",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "65.07306000",
+    "longitude": "-14.01525000"
+  },
+  {
+    "name": "Eyja- og Miklaholtshreppur",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.85846000",
+    "longitude": "-22.54557000"
+  },
+  {
+    "name": "Eyjafjarðarsveit",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.33333000",
+    "longitude": "-18.16667000"
+  },
+  {
+    "name": "Fjallabyggð",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "66.05962000",
+    "longitude": "-18.78220000"
+  },
+  {
+    "name": "Fjarðabyggð",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "65.08333000",
+    "longitude": "-14.00000000"
+  },
+  {
+    "name": "Fljótsdalshreppur",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "64.85275000",
+    "longitude": "-15.25680000"
+  },
+  {
+    "name": "Fljótsdalshérað",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "65.25020000",
+    "longitude": "-15.37211000"
+  },
+  {
+    "name": "Flóahreppur",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "63.89569000",
+    "longitude": "-20.80159000"
+  },
+  {
+    "name": "Garðabær",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.08865000",
+    "longitude": "-21.92298000"
+  },
+  {
+    "name": "Garður",
+    "countryCode": "IS",
+    "stateCode": "2",
+    "latitude": "64.06558000",
+    "longitude": "-22.64656000"
+  },
+  {
+    "name": "Grindavík",
+    "countryCode": "IS",
+    "stateCode": "2",
+    "latitude": "63.83849000",
+    "longitude": "-22.43931000"
+  },
+  {
+    "name": "Grímsnes- og Grafningshreppur",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "64.08533000",
+    "longitude": "-20.96710000"
+  },
+  {
+    "name": "Grýtubakkahreppur",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.98333000",
+    "longitude": "-18.11667000"
+  },
+  {
+    "name": "Hafnarfjörður",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.06710000",
+    "longitude": "-21.93774000"
+  },
+  {
+    "name": "Helgafellssveit",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.99069000",
+    "longitude": "-22.78948000"
+  },
+  {
+    "name": "Hrunamannahreppur",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "64.40944000",
+    "longitude": "-19.72237000"
+  },
+  {
+    "name": "Hvalfjarðarsveit",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.44265000",
+    "longitude": "-21.61086000"
+  },
+  {
+    "name": "Hveragerði",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "64.00039000",
+    "longitude": "-21.18602000"
+  },
+  {
+    "name": "Höfn",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "64.25388000",
+    "longitude": "-15.21212000"
+  },
+  {
+    "name": "Hörgársveit",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.64828000",
+    "longitude": "-18.49599000"
+  },
+  {
+    "name": "Húnaþing Vestra",
+    "countryCode": "IS",
+    "stateCode": "5",
+    "latitude": "65.25000000",
+    "longitude": "-20.91667000"
+  },
+  {
+    "name": "Húsavík",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "66.04148000",
+    "longitude": "-17.33834000"
+  },
+  {
+    "name": "Keflavík",
+    "countryCode": "IS",
+    "stateCode": "2",
+    "latitude": "64.00492000",
+    "longitude": "-22.56242000"
+  },
+  {
+    "name": "Kjósarhreppur",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.30644000",
+    "longitude": "-21.49919000"
+  },
+  {
+    "name": "Kópavogur",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.11234000",
+    "longitude": "-21.91298000"
+  },
+  {
+    "name": "Langanesbyggð",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "66.05186000",
+    "longitude": "-15.18969000"
+  },
+  {
+    "name": "Laugar",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.72159000",
+    "longitude": "-17.37352000"
+  },
+  {
+    "name": "Mosfellsbaer",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.15000000",
+    "longitude": "-21.65000000"
+  },
+  {
+    "name": "Mosfellsbær",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.16667000",
+    "longitude": "-21.70000000"
+  },
+  {
+    "name": "Mýrdalshreppur",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "63.50000000",
+    "longitude": "-19.00000000"
+  },
+  {
+    "name": "Neskaupstaður",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "65.14819000",
+    "longitude": "-13.68368000"
+  },
+  {
+    "name": "Reykhólahreppur",
+    "countryCode": "IS",
+    "stateCode": "4",
+    "latitude": "65.60990000",
+    "longitude": "-22.33324000"
+  },
+  {
+    "name": "Reykjanesbær",
+    "countryCode": "IS",
+    "stateCode": "2",
+    "latitude": "63.99813000",
+    "longitude": "-22.56111000"
+  },
+  {
+    "name": "Reykjavík",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.13548000",
+    "longitude": "-21.89541000"
+  },
+  {
+    "name": "Reyðarfjörður",
+    "countryCode": "IS",
+    "stateCode": "7",
+    "latitude": "65.03164000",
+    "longitude": "-14.21832000"
+  },
+  {
+    "name": "Sandgerði",
+    "countryCode": "IS",
+    "stateCode": "2",
+    "latitude": "64.03762000",
+    "longitude": "-22.70799000"
+  },
+  {
+    "name": "Sauðárkrókur",
+    "countryCode": "IS",
+    "stateCode": "5",
+    "latitude": "65.74611000",
+    "longitude": "-19.63944000"
+  },
+  {
+    "name": "Selfoss",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "63.93311000",
+    "longitude": "-20.99712000"
+  },
+  {
+    "name": "Seltjarnarnes",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.15309000",
+    "longitude": "-21.99499000"
+  },
+  {
+    "name": "Siglufjörður",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "66.15198000",
+    "longitude": "-18.90815000"
+  },
+  {
+    "name": "Skaftárhreppur",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "63.95948000",
+    "longitude": "-18.14491000"
+  },
+  {
+    "name": "Skagabyggð",
+    "countryCode": "IS",
+    "stateCode": "5",
+    "latitude": "65.95000000",
+    "longitude": "-20.25000000"
+  },
+  {
+    "name": "Skeiða- og Gnúpverjahreppur",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "64.34738000",
+    "longitude": "-19.37757000"
+  },
+  {
+    "name": "Skorradalshreppur",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.51667000",
+    "longitude": "-21.50000000"
+  },
+  {
+    "name": "Skútustaðahreppur",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.17177000",
+    "longitude": "-16.77890000"
+  },
+  {
+    "name": "Snæfellsbær",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.86667000",
+    "longitude": "-23.50000000"
+  },
+  {
+    "name": "Strandabyggð",
+    "countryCode": "IS",
+    "stateCode": "4",
+    "latitude": "65.77455000",
+    "longitude": "-21.95725000"
+  },
+  {
+    "name": "Stykkishólmur",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "65.07537000",
+    "longitude": "-22.72977000"
+  },
+  {
+    "name": "Svalbarðsstrandarhreppur",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.74138000",
+    "longitude": "-18.03513000"
+  },
+  {
+    "name": "Sveitarfélagið Skagafjörður",
+    "countryCode": "IS",
+    "stateCode": "5",
+    "latitude": "65.50018000",
+    "longitude": "-19.44566000"
+  },
+  {
+    "name": "Tjörneshreppur",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "66.11667000",
+    "longitude": "-17.20000000"
+  },
+  {
+    "name": "Tálknafjarðarhreppur",
+    "countryCode": "IS",
+    "stateCode": "4",
+    "latitude": "65.61667000",
+    "longitude": "-23.88333000"
+  },
+  {
+    "name": "Vestmannaeyjabær",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "63.43877000",
+    "longitude": "-20.26900000"
+  },
+  {
+    "name": "Vestmannaeyjar",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "63.44273000",
+    "longitude": "-20.27339000"
+  },
+  {
+    "name": "Vogar",
+    "countryCode": "IS",
+    "stateCode": "2",
+    "latitude": "63.98160000",
+    "longitude": "-22.38473000"
+  },
+  {
+    "name": "Álftanes",
+    "countryCode": "IS",
+    "stateCode": "1",
+    "latitude": "64.10000000",
+    "longitude": "-22.01667000"
+  },
+  {
+    "name": "Ásahreppur",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "63.87589000",
+    "longitude": "-20.59484000"
+  },
+  {
+    "name": "Ísafjarðarbær",
+    "countryCode": "IS",
+    "stateCode": "4",
+    "latitude": "66.07586000",
+    "longitude": "-23.12794000"
+  },
+  {
+    "name": "Ísafjörður",
+    "countryCode": "IS",
+    "stateCode": "4",
+    "latitude": "66.07475000",
+    "longitude": "-23.13498000"
+  },
+  {
+    "name": "Ólafsvík",
+    "countryCode": "IS",
+    "stateCode": "3",
+    "latitude": "64.89429000",
+    "longitude": "-23.70918000"
+  },
+  {
+    "name": "Þingeyjarsveit",
+    "countryCode": "IS",
+    "stateCode": "6",
+    "latitude": "65.37229000",
+    "longitude": "-17.59927000"
+  },
+  {
+    "name": "Þorlákshöfn",
+    "countryCode": "IS",
+    "stateCode": "8",
+    "latitude": "63.85591000",
+    "longitude": "-21.38337000"
+  }
+]

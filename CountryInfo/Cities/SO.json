@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Afgooye",
+    "countryCode": "SO",
+    "stateCode": "SH",
+    "latitude": "2.13810000",
+    "longitude": "45.12120000"
+  },
+  {
+    "name": "Baardheere",
+    "countryCode": "SO",
+    "stateCode": "GE",
+    "latitude": "2.34464000",
+    "longitude": "42.27644000"
+  },
+  {
+    "name": "Baidoa",
+    "countryCode": "SO",
+    "stateCode": "BY",
+    "latitude": "3.11383000",
+    "longitude": "43.64980000"
+  },
+  {
+    "name": "Bandarbeyla",
+    "countryCode": "SO",
+    "stateCode": "BR",
+    "latitude": "9.49420000",
+    "longitude": "50.81220000"
+  },
+  {
+    "name": "Bargaal",
+    "countryCode": "SO",
+    "stateCode": "BR",
+    "latitude": "11.28636000",
+    "longitude": "51.07730000"
+  },
+  {
+    "name": "Beledweyne",
+    "countryCode": "SO",
+    "stateCode": "HI",
+    "latitude": "4.73583000",
+    "longitude": "45.20361000"
+  },
+  {
+    "name": "Bereeda",
+    "countryCode": "SO",
+    "stateCode": "BR",
+    "latitude": "11.87037000",
+    "longitude": "51.05795000"
+  },
+  {
+    "name": "Bosaso",
+    "countryCode": "SO",
+    "stateCode": "BR",
+    "latitude": "11.28421000",
+    "longitude": "49.18158000"
+  },
+  {
+    "name": "Burao",
+    "countryCode": "SO",
+    "stateCode": "TO",
+    "latitude": "9.52213000",
+    "longitude": "45.53363000"
+  },
+  {
+    "name": "Buulobarde",
+    "countryCode": "SO",
+    "stateCode": "HI",
+    "latitude": "3.85375000",
+    "longitude": "45.56744000"
+  },
+  {
+    "name": "Buur Gaabo",
+    "countryCode": "SO",
+    "stateCode": "JH",
+    "latitude": "-1.21917000",
+    "longitude": "41.83725000"
+  },
+  {
+    "name": "Buurhakaba",
+    "countryCode": "SO",
+    "stateCode": "BY",
+    "latitude": "2.80257000",
+    "longitude": "44.07805000"
+  },
+  {
+    "name": "Cadale",
+    "countryCode": "SO",
+    "stateCode": "SD",
+    "latitude": "2.76030000",
+    "longitude": "46.32220000"
+  },
+  {
+    "name": "Caluula",
+    "countryCode": "SO",
+    "stateCode": "BR",
+    "latitude": "11.96611000",
+    "longitude": "50.75694000"
+  },
+  {
+    "name": "Ceek",
+    "countryCode": "SO",
+    "stateCode": "TO",
+    "latitude": "8.99907000",
+    "longitude": "45.35824000"
+  },
+  {
+    "name": "Ceelbuur",
+    "countryCode": "SO",
+    "stateCode": "GA",
+    "latitude": "4.68501000",
+    "longitude": "46.61760000"
+  },
+  {
+    "name": "Ceeldheer",
+    "countryCode": "SO",
+    "stateCode": "GA",
+    "latitude": "3.84878000",
+    "longitude": "47.18064000"
+  },
+  {
+    "name": "Ceerigaabo",
+    "countryCode": "SO",
+    "stateCode": "SA",
+    "latitude": "10.61616000",
+    "longitude": "47.36795000"
+  },
+  {
+    "name": "Dhuusamarreeb",
+    "countryCode": "SO",
+    "stateCode": "GA",
+    "latitude": "5.53597000",
+    "longitude": "46.38666000"
+  },
+  {
+    "name": "Dujuuma",
+    "countryCode": "SO",
+    "stateCode": "JD",
+    "latitude": "1.25311000",
+    "longitude": "42.57377000"
+  },
+  {
+    "name": "Eyl",
+    "countryCode": "SO",
+    "stateCode": "NU",
+    "latitude": "7.98030000",
+    "longitude": "49.81640000"
+  },
+  {
+    "name": "Gaalkacyo",
+    "countryCode": "SO",
+    "stateCode": "MU",
+    "latitude": "6.76972000",
+    "longitude": "47.43083000"
+  },
+  {
+    "name": "Garbahaarrey",
+    "countryCode": "SO",
+    "stateCode": "GE",
+    "latitude": "3.32892000",
+    "longitude": "42.22091000"
+  },
+  {
+    "name": "Garoowe",
+    "countryCode": "SO",
+    "stateCode": "NU",
+    "latitude": "8.40207000",
+    "longitude": "48.48284000"
+  },
+  {
+    "name": "Hobyo",
+    "countryCode": "SO",
+    "stateCode": "MU",
+    "latitude": "5.35050000",
+    "longitude": "48.52680000"
+  },
+  {
+    "name": "Iskushuban",
+    "countryCode": "SO",
+    "stateCode": "BR",
+    "latitude": "10.28370000",
+    "longitude": "50.23000000"
+  },
+  {
+    "name": "Jalalaqsi",
+    "countryCode": "SO",
+    "stateCode": "HI",
+    "latitude": "3.37660000",
+    "longitude": "45.59960000"
+  },
+  {
+    "name": "Jamaame",
+    "countryCode": "SO",
+    "stateCode": "JH",
+    "latitude": "0.06968000",
+    "longitude": "42.74497000"
+  },
+  {
+    "name": "Jawhar",
+    "countryCode": "SO",
+    "stateCode": "SD",
+    "latitude": "2.78087000",
+    "longitude": "45.50048000"
+  },
+  {
+    "name": "Jilib",
+    "countryCode": "SO",
+    "stateCode": "JD",
+    "latitude": "0.48829000",
+    "longitude": "42.78535000"
+  },
+  {
+    "name": "Kismayo",
+    "countryCode": "SO",
+    "stateCode": "JH",
+    "latitude": "-0.35817000",
+    "longitude": "42.54536000"
+  },
+  {
+    "name": "Las Khorey",
+    "countryCode": "SO",
+    "stateCode": "SA",
+    "latitude": "11.15950000",
+    "longitude": "48.19670000"
+  },
+  {
+    "name": "Luuq",
+    "countryCode": "SO",
+    "stateCode": "GE",
+    "latitude": "3.80315000",
+    "longitude": "42.54417000"
+  },
+  {
+    "name": "Mahaddayweyne",
+    "countryCode": "SO",
+    "stateCode": "SD",
+    "latitude": "2.97260000",
+    "longitude": "45.53470000"
+  },
+  {
+    "name": "Marka",
+    "countryCode": "SO",
+    "stateCode": "SH",
+    "latitude": "1.71594000",
+    "longitude": "44.77166000"
+  },
+  {
+    "name": "Mogadishu",
+    "countryCode": "SO",
+    "stateCode": "BN",
+    "latitude": "2.03711000",
+    "longitude": "45.34375000"
+  },
+  {
+    "name": "Oodweyne",
+    "countryCode": "SO",
+    "stateCode": "TO",
+    "latitude": "9.40920000",
+    "longitude": "45.06397000"
+  },
+  {
+    "name": "Qandala",
+    "countryCode": "SO",
+    "stateCode": "BR",
+    "latitude": "11.47197000",
+    "longitude": "49.87282000"
+  },
+  {
+    "name": "Qoryooley",
+    "countryCode": "SO",
+    "stateCode": "SH",
+    "latitude": "1.78784000",
+    "longitude": "44.52999000"
+  },
+  {
+    "name": "Saacow",
+    "countryCode": "SO",
+    "stateCode": "JD",
+    "latitude": "1.62794000",
+    "longitude": "42.44067000"
+  },
+  {
+    "name": "Tayeeglow",
+    "countryCode": "SO",
+    "stateCode": "BK",
+    "latitude": "4.01897000",
+    "longitude": "44.51111000"
+  },
+  {
+    "name": "Waajid",
+    "countryCode": "SO",
+    "stateCode": "BK",
+    "latitude": "3.80958000",
+    "longitude": "43.24627000"
+  },
+  {
+    "name": "Wanlaweyn",
+    "countryCode": "SO",
+    "stateCode": "SH",
+    "latitude": "2.61850000",
+    "longitude": "44.89380000"
+  },
+  {
+    "name": "Xarardheere",
+    "countryCode": "SO",
+    "stateCode": "MU",
+    "latitude": "4.65440000",
+    "longitude": "47.85750000"
+  },
+  {
+    "name": "Xuddur",
+    "countryCode": "SO",
+    "stateCode": "BK",
+    "latitude": "4.12129000",
+    "longitude": "43.88945000"
+  },
+  {
+    "name": "Yeed",
+    "countryCode": "SO",
+    "stateCode": "BK",
+    "latitude": "4.55000000",
+    "longitude": "43.03333000"
+  }
+]

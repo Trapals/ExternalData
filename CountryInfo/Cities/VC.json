@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Barrouallie",
+    "countryCode": "VC",
+    "stateCode": "05",
+    "latitude": "13.23676000",
+    "longitude": "-61.27275000"
+  },
+  {
+    "name": "Biabou",
+    "countryCode": "VC",
+    "stateCode": "01",
+    "latitude": "13.19430000",
+    "longitude": "-61.13904000"
+  },
+  {
+    "name": "Byera Village",
+    "countryCode": "VC",
+    "stateCode": "01",
+    "latitude": "13.25636000",
+    "longitude": "-61.11954000"
+  },
+  {
+    "name": "Chateaubelair",
+    "countryCode": "VC",
+    "stateCode": "03",
+    "latitude": "13.29069000",
+    "longitude": "-61.24043000"
+  },
+  {
+    "name": "Georgetown",
+    "countryCode": "VC",
+    "stateCode": "01",
+    "latitude": "13.28054000",
+    "longitude": "-61.11850000"
+  },
+  {
+    "name": "Kingstown",
+    "countryCode": "VC",
+    "stateCode": "04",
+    "latitude": "13.15527000",
+    "longitude": "-61.22742000"
+  },
+  {
+    "name": "Kingstown Park",
+    "countryCode": "VC",
+    "stateCode": "04",
+    "latitude": "13.15924000",
+    "longitude": "-61.23161000"
+  },
+  {
+    "name": "Layou",
+    "countryCode": "VC",
+    "stateCode": "02",
+    "latitude": "13.20175000",
+    "longitude": "-61.27014000"
+  },
+  {
+    "name": "Port Elizabeth",
+    "countryCode": "VC",
+    "stateCode": "06",
+    "latitude": "13.01102000",
+    "longitude": "-61.23548000"
+  }
+]

@@ -1,0 +1,3817 @@
+[
+  {
+    "name": "Agalteca",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.45000000",
+    "longitude": "-87.26667000"
+  },
+  {
+    "name": "Agua Azul",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "14.91667000",
+    "longitude": "-87.96667000"
+  },
+  {
+    "name": "Agua Azul Rancho",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "14.90000000",
+    "longitude": "-87.95000000"
+  },
+  {
+    "name": "Agua Blanca Sur",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.25000000",
+    "longitude": "-87.88333000"
+  },
+  {
+    "name": "Agua Caliente",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.88333000",
+    "longitude": "-88.81667000"
+  },
+  {
+    "name": "Agua Fría",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.46889000",
+    "longitude": "-87.55111000"
+  },
+  {
+    "name": "Agualote",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.33528000",
+    "longitude": "-88.55306000"
+  },
+  {
+    "name": "Aguanqueterique",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "13.98606000",
+    "longitude": "-87.64622000"
+  },
+  {
+    "name": "Aguas del Padre",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.56667000",
+    "longitude": "-87.88333000"
+  },
+  {
+    "name": "Ahuas",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.46923000",
+    "longitude": "-84.34479000"
+  },
+  {
+    "name": "Ajuterique",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.38333000",
+    "longitude": "-87.70000000"
+  },
+  {
+    "name": "Alauca",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.84020000",
+    "longitude": "-86.69526000"
+  },
+  {
+    "name": "Alianza",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.44815000",
+    "longitude": "-87.68643000"
+  },
+  {
+    "name": "Alubarén",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.78226000",
+    "longitude": "-87.46990000"
+  },
+  {
+    "name": "Amapala",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.29222000",
+    "longitude": "-87.65389000"
+  },
+  {
+    "name": "Antigua Ocotepeque",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.40000000",
+    "longitude": "-89.20000000"
+  },
+  {
+    "name": "Apacilagua",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.45821000",
+    "longitude": "-87.01122000"
+  },
+  {
+    "name": "Arada",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.85000000",
+    "longitude": "-88.30000000"
+  },
+  {
+    "name": "Aramecina",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.74222000",
+    "longitude": "-87.71028000"
+  },
+  {
+    "name": "Araulí",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.95000000",
+    "longitude": "-86.55000000"
+  },
+  {
+    "name": "Arenal",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.35000000",
+    "longitude": "-86.83333000"
+  },
+  {
+    "name": "Arimís",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.78333000",
+    "longitude": "-86.00000000"
+  },
+  {
+    "name": "Arizona",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.63333000",
+    "longitude": "-87.31667000"
+  },
+  {
+    "name": "Armenia",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.46667000",
+    "longitude": "-86.36667000"
+  },
+  {
+    "name": "Armenta",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.50000000",
+    "longitude": "-88.05000000"
+  },
+  {
+    "name": "Atenas de San Cristóbal",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.68333000",
+    "longitude": "-87.31667000"
+  },
+  {
+    "name": "Atima",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.93333000",
+    "longitude": "-88.48333000"
+  },
+  {
+    "name": "Auas",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.48333000",
+    "longitude": "-84.33333000"
+  },
+  {
+    "name": "Auka",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "14.94087000",
+    "longitude": "-83.83229000"
+  },
+  {
+    "name": "Ayapa",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.11174000",
+    "longitude": "-87.17557000"
+  },
+  {
+    "name": "Azacualpa",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.71667000",
+    "longitude": "-88.10000000"
+  },
+  {
+    "name": "Baja Mar",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.88851000",
+    "longitude": "-87.85547000"
+  },
+  {
+    "name": "Balfate",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.75709000",
+    "longitude": "-86.29048000"
+  },
+  {
+    "name": "Baracoa",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.76667000",
+    "longitude": "-87.85000000"
+  },
+  {
+    "name": "Barra Patuca",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.80000000",
+    "longitude": "-84.28333000"
+  },
+  {
+    "name": "Bejuco",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.13333000",
+    "longitude": "-87.93333000"
+  },
+  {
+    "name": "Belén",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.50834000",
+    "longitude": "-88.42819000"
+  },
+  {
+    "name": "Belén Gualcho",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.48333000",
+    "longitude": "-88.80000000"
+  },
+  {
+    "name": "Berlín",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.83333000",
+    "longitude": "-88.50000000"
+  },
+  {
+    "name": "Bonito Oriental",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.74641000",
+    "longitude": "-85.73610000"
+  },
+  {
+    "name": "Brus Laguna",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.75000000",
+    "longitude": "-84.48333000"
+  },
+  {
+    "name": "Buenos Aires",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.03333000",
+    "longitude": "-88.96667000"
+  },
+  {
+    "name": "Bálsamo Oriental",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.48333000",
+    "longitude": "-86.33333000"
+  },
+  {
+    "name": "Cabañas",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.76000000",
+    "longitude": "-89.06000000"
+  },
+  {
+    "name": "Cabañas",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "13.99419000",
+    "longitude": "-88.02864000"
+  },
+  {
+    "name": "Callejones",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.16667000",
+    "longitude": "-88.65000000"
+  },
+  {
+    "name": "Camalote",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.33333000",
+    "longitude": "-88.33333000"
+  },
+  {
+    "name": "Camasca",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.00000000",
+    "longitude": "-88.38333000"
+  },
+  {
+    "name": "Campamento",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.55000000",
+    "longitude": "-86.65000000"
+  },
+  {
+    "name": "Candelaria",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.06072000",
+    "longitude": "-88.55913000"
+  },
+  {
+    "name": "Cane",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.28333000",
+    "longitude": "-87.66667000"
+  },
+  {
+    "name": "Carbajales",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.51667000",
+    "longitude": "-86.35000000"
+  },
+  {
+    "name": "Caridad",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.81562000",
+    "longitude": "-87.68121000"
+  },
+  {
+    "name": "Casa Quemada",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.11667000",
+    "longitude": "-88.08333000"
+  },
+  {
+    "name": "Casa Quemada",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.26667000",
+    "longitude": "-88.55000000"
+  },
+  {
+    "name": "Catacamas",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.60384000",
+    "longitude": "-85.54261000"
+  },
+  {
+    "name": "Cañaveral",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "14.98333000",
+    "longitude": "-88.01667000"
+  },
+  {
+    "name": "Cedros",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.50464000",
+    "longitude": "-87.21680000"
+  },
+  {
+    "name": "Ceguaca",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.80000000",
+    "longitude": "-88.20000000"
+  },
+  {
+    "name": "Cerro Blanco",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.66667000",
+    "longitude": "-87.78333000"
+  },
+  {
+    "name": "Cerro Grande",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.81667000",
+    "longitude": "-87.25000000"
+  },
+  {
+    "name": "Chalmeca",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.10000000",
+    "longitude": "-88.68333000"
+  },
+  {
+    "name": "Chinacla",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.18289000",
+    "longitude": "-87.95395000"
+  },
+  {
+    "name": "Chinda",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.11667000",
+    "longitude": "-88.20000000"
+  },
+  {
+    "name": "Chivana",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.75000000",
+    "longitude": "-87.98333000"
+  },
+  {
+    "name": "Choloma",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.64000000",
+    "longitude": "-87.92000000"
+  },
+  {
+    "name": "Choluteca",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.28261000",
+    "longitude": "-87.20119000"
+  },
+  {
+    "name": "Chotepe",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.41667000",
+    "longitude": "-87.98333000"
+  },
+  {
+    "name": "Ciudad Choluteca",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.30028000",
+    "longitude": "-87.19083000"
+  },
+  {
+    "name": "Cofradía",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.40000000",
+    "longitude": "-88.15000000"
+  },
+  {
+    "name": "Cofradía",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.21667000",
+    "longitude": "-87.18333000"
+  },
+  {
+    "name": "Cololaca",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.31189000",
+    "longitude": "-88.87720000"
+  },
+  {
+    "name": "Colomoncagua",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "13.97245000",
+    "longitude": "-88.27673000"
+  },
+  {
+    "name": "Comayagua",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.48412000",
+    "longitude": "-87.60060000"
+  },
+  {
+    "name": "Concepción",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.88077000",
+    "longitude": "-88.87919000"
+  },
+  {
+    "name": "Concepción",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.04725000",
+    "longitude": "-88.31942000"
+  },
+  {
+    "name": "Concepción",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.52383000",
+    "longitude": "-89.19371000"
+  },
+  {
+    "name": "Concepción de Guasistagua",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.60000000",
+    "longitude": "-87.65000000"
+  },
+  {
+    "name": "Concepción de María",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.22363000",
+    "longitude": "-86.96244000"
+  },
+  {
+    "name": "Concepción de la Barranca",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.16667000",
+    "longitude": "-88.71667000"
+  },
+  {
+    "name": "Concepción del Norte",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.20227000",
+    "longitude": "-88.13728000"
+  },
+  {
+    "name": "Concepción del Sur",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.81263000",
+    "longitude": "-88.15316000"
+  },
+  {
+    "name": "Concordia",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.61667000",
+    "longitude": "-86.65000000"
+  },
+  {
+    "name": "Copán",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.83333000",
+    "longitude": "-89.15000000"
+  },
+  {
+    "name": "Copán Ruinas",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.92000000",
+    "longitude": "-89.15000000"
+  },
+  {
+    "name": "Corocito",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.75000000",
+    "longitude": "-85.78333000"
+  },
+  {
+    "name": "Corozal",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.80000000",
+    "longitude": "-86.71667000"
+  },
+  {
+    "name": "Corpus",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.28889000",
+    "longitude": "-87.03472000"
+  },
+  {
+    "name": "Corquín",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.56667000",
+    "longitude": "-88.86667000"
+  },
+  {
+    "name": "Correderos",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.41667000",
+    "longitude": "-88.45000000"
+  },
+  {
+    "name": "Coxen Hole",
+    "countryCode": "HN",
+    "stateCode": "IB",
+    "latitude": "16.31759000",
+    "longitude": "-86.53793000"
+  },
+  {
+    "name": "Coyoles Central",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.40000000",
+    "longitude": "-86.66667000"
+  },
+  {
+    "name": "Cucuyagua",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.65000000",
+    "longitude": "-88.86667000"
+  },
+  {
+    "name": "Curarén",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.83000000",
+    "longitude": "-87.57000000"
+  },
+  {
+    "name": "Cusuna",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.85000000",
+    "longitude": "-85.23333000"
+  },
+  {
+    "name": "Cuyalí",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.88333000",
+    "longitude": "-86.55000000"
+  },
+  {
+    "name": "Cuyamel",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.66667000",
+    "longitude": "-88.20000000"
+  },
+  {
+    "name": "Danlí",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.03333000",
+    "longitude": "-86.58333000"
+  },
+  {
+    "name": "Distrito Central",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.14975000",
+    "longitude": "-87.24806000"
+  },
+  {
+    "name": "Dolores",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.86667000",
+    "longitude": "-88.83333000"
+  },
+  {
+    "name": "Dolores",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.26188000",
+    "longitude": "-88.35787000"
+  },
+  {
+    "name": "Dolores Merendón",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.55095000",
+    "longitude": "-89.12493000"
+  },
+  {
+    "name": "Dulce Nombre",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.85552000",
+    "longitude": "-88.83856000"
+  },
+  {
+    "name": "Dulce Nombre de Culmí",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.10000000",
+    "longitude": "-85.53333000"
+  },
+  {
+    "name": "Duyure",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.63333000",
+    "longitude": "-86.81667000"
+  },
+  {
+    "name": "El Achiotal",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.08333000",
+    "longitude": "-88.75000000"
+  },
+  {
+    "name": "El Agua Dulcita",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.70000000",
+    "longitude": "-87.75000000"
+  },
+  {
+    "name": "El Benque",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.03333000",
+    "longitude": "-86.46667000"
+  },
+  {
+    "name": "El Bálsamo",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.06667000",
+    "longitude": "-87.46667000"
+  },
+  {
+    "name": "El Chichicaste",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.06667000",
+    "longitude": "-86.30000000"
+  },
+  {
+    "name": "El Chimbo",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.13333000",
+    "longitude": "-87.11667000"
+  },
+  {
+    "name": "El Ciruelo",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.30000000",
+    "longitude": "-88.50000000"
+  },
+  {
+    "name": "El Corozal",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.06667000",
+    "longitude": "-88.61667000"
+  },
+  {
+    "name": "El Corpus",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.30464000",
+    "longitude": "-87.00970000"
+  },
+  {
+    "name": "El Corpus",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.70000000",
+    "longitude": "-88.91667000"
+  },
+  {
+    "name": "El Cubolero",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.46667000",
+    "longitude": "-87.66667000"
+  },
+  {
+    "name": "El Escanito",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.66667000",
+    "longitude": "-87.10000000"
+  },
+  {
+    "name": "El Escaño de Tepale",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.75000000",
+    "longitude": "-87.06667000"
+  },
+  {
+    "name": "El Guante",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.55000000",
+    "longitude": "-87.10000000"
+  },
+  {
+    "name": "El Guantillo",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.60000000",
+    "longitude": "-87.30000000"
+  },
+  {
+    "name": "El Guapinol",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.76667000",
+    "longitude": "-87.46667000"
+  },
+  {
+    "name": "El Guayabito",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.83333000",
+    "longitude": "-86.03333000"
+  },
+  {
+    "name": "El Juncal",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.45000000",
+    "longitude": "-86.43333000"
+  },
+  {
+    "name": "El Llano",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.15000000",
+    "longitude": "-87.88333000"
+  },
+  {
+    "name": "El Lolo",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.11667000",
+    "longitude": "-87.26667000"
+  },
+  {
+    "name": "El Marañón",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.40000000",
+    "longitude": "-88.05000000"
+  },
+  {
+    "name": "El Milagro",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.40000000",
+    "longitude": "-87.96667000"
+  },
+  {
+    "name": "El Mochito",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.86667000",
+    "longitude": "-88.08333000"
+  },
+  {
+    "name": "El Negrito",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.31667000",
+    "longitude": "-87.70000000"
+  },
+  {
+    "name": "El Níspero",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.75957000",
+    "longitude": "-88.34438000"
+  },
+  {
+    "name": "El Obraje",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.15417000",
+    "longitude": "-87.13083000"
+  },
+  {
+    "name": "El Obraje",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.00000000",
+    "longitude": "-86.43333000"
+  },
+  {
+    "name": "El Ocote",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.41667000",
+    "longitude": "-86.56667000"
+  },
+  {
+    "name": "El Ocotón",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.03333000",
+    "longitude": "-88.88333000"
+  },
+  {
+    "name": "El Olivar",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.08333000",
+    "longitude": "-87.88333000"
+  },
+  {
+    "name": "El Paraíso",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.04217000",
+    "longitude": "-88.98045000"
+  },
+  {
+    "name": "El Paraíso",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.85381000",
+    "longitude": "-86.53094000"
+  },
+  {
+    "name": "El Pedernal",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.70000000",
+    "longitude": "-87.11667000"
+  },
+  {
+    "name": "El Perico",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.08333000",
+    "longitude": "-88.10000000"
+  },
+  {
+    "name": "El Pino",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.70000000",
+    "longitude": "-86.93333000"
+  },
+  {
+    "name": "El Plan",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.28333000",
+    "longitude": "-87.96667000"
+  },
+  {
+    "name": "El Porvenir",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.75000000",
+    "longitude": "-86.93333000"
+  },
+  {
+    "name": "El Porvenir",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.58333000",
+    "longitude": "-87.88333000"
+  },
+  {
+    "name": "El Porvenir",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.83333000",
+    "longitude": "-87.93333000"
+  },
+  {
+    "name": "El Porvenir",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.72009000",
+    "longitude": "-87.21039000"
+  },
+  {
+    "name": "El Progreso",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.42762000",
+    "longitude": "-87.77396000"
+  },
+  {
+    "name": "El Puente",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.28333000",
+    "longitude": "-87.11667000"
+  },
+  {
+    "name": "El Rancho",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.68333000",
+    "longitude": "-87.50000000"
+  },
+  {
+    "name": "El Rancho",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.66667000",
+    "longitude": "-87.95000000"
+  },
+  {
+    "name": "El Rincón",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.58333000",
+    "longitude": "-87.93333000"
+  },
+  {
+    "name": "El Rosario",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.57500000",
+    "longitude": "-87.74306000"
+  },
+  {
+    "name": "El Rosario",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.88720000",
+    "longitude": "-86.68764000"
+  },
+  {
+    "name": "El Rusio",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.46667000",
+    "longitude": "-86.36667000"
+  },
+  {
+    "name": "El Sauce",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.52850000",
+    "longitude": "-87.66571000"
+  },
+  {
+    "name": "El Socorro",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.63333000",
+    "longitude": "-87.91667000"
+  },
+  {
+    "name": "El Suyatal",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.51667000",
+    "longitude": "-87.21667000"
+  },
+  {
+    "name": "El Tablón",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.03333000",
+    "longitude": "-87.16667000"
+  },
+  {
+    "name": "El Terrero",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.06667000",
+    "longitude": "-87.06667000"
+  },
+  {
+    "name": "El Tigre",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "14.93333000",
+    "longitude": "-87.98333000"
+  },
+  {
+    "name": "El Triunfo",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.08024000",
+    "longitude": "-87.01780000"
+  },
+  {
+    "name": "El Triunfo de la Cruz",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.76667000",
+    "longitude": "-87.43333000"
+  },
+  {
+    "name": "El Tránsito",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.38333000",
+    "longitude": "-88.91667000"
+  },
+  {
+    "name": "El Tular",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.46639000",
+    "longitude": "-87.51528000"
+  },
+  {
+    "name": "El Zapotal del Norte",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.51667000",
+    "longitude": "-88.05000000"
+  },
+  {
+    "name": "Elíxir",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.48333000",
+    "longitude": "-86.30000000"
+  },
+  {
+    "name": "Erandique",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.23333000",
+    "longitude": "-88.46667000"
+  },
+  {
+    "name": "Esparta",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.66291000",
+    "longitude": "-87.25622000"
+  },
+  {
+    "name": "Esquipulas del Norte",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.27763000",
+    "longitude": "-86.55760000"
+  },
+  {
+    "name": "Esquías",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.73333000",
+    "longitude": "-87.36667000"
+  },
+  {
+    "name": "Flores",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.28333000",
+    "longitude": "-87.56667000"
+  },
+  {
+    "name": "Florida",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.03333000",
+    "longitude": "-88.83333000"
+  },
+  {
+    "name": "Francia",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.85000000",
+    "longitude": "-85.58333000"
+  },
+  {
+    "name": "Fraternidad",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.58087000",
+    "longitude": "-89.07740000"
+  },
+  {
+    "name": "French Harbor",
+    "countryCode": "HN",
+    "stateCode": "IB",
+    "latitude": "16.35000000",
+    "longitude": "-86.43333000"
+  },
+  {
+    "name": "Goascorán",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.58333000",
+    "longitude": "-87.61667000"
+  },
+  {
+    "name": "Gracias",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.59028000",
+    "longitude": "-88.58194000"
+  },
+  {
+    "name": "Guacamaya",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.01667000",
+    "longitude": "-88.15000000"
+  },
+  {
+    "name": "Guaimaca",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.53333000",
+    "longitude": "-86.81667000"
+  },
+  {
+    "name": "Guaimitas",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.50000000",
+    "longitude": "-87.71667000"
+  },
+  {
+    "name": "Guajiquiro",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.06982000",
+    "longitude": "-87.77451000"
+  },
+  {
+    "name": "Gualaco",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.02521000",
+    "longitude": "-86.07076000"
+  },
+  {
+    "name": "Gualala",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.98000000",
+    "longitude": "-88.17000000"
+  },
+  {
+    "name": "Gualcince",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.12869000",
+    "longitude": "-88.56812000"
+  },
+  {
+    "name": "Gualjoco",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.95000000",
+    "longitude": "-88.23333000"
+  },
+  {
+    "name": "Guanaja",
+    "countryCode": "HN",
+    "stateCode": "IB",
+    "latitude": "16.44795000",
+    "longitude": "-85.89431000"
+  },
+  {
+    "name": "Guarita",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.20784000",
+    "longitude": "-88.85161000"
+  },
+  {
+    "name": "Guarizama",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.91667000",
+    "longitude": "-86.33333000"
+  },
+  {
+    "name": "Guata",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.15133000",
+    "longitude": "-86.37624000"
+  },
+  {
+    "name": "Guayape",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.71667000",
+    "longitude": "-86.83333000"
+  },
+  {
+    "name": "Güinope",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.88333000",
+    "longitude": "-86.93333000"
+  },
+  {
+    "name": "Humuya",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.25000000",
+    "longitude": "-87.66667000"
+  },
+  {
+    "name": "Ilama",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.06667000",
+    "longitude": "-88.21667000"
+  },
+  {
+    "name": "Intibucá",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.43000000",
+    "longitude": "-88.17000000"
+  },
+  {
+    "name": "Iralaya",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.00000000",
+    "longitude": "-83.23333000"
+  },
+  {
+    "name": "Iriona",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.59079000",
+    "longitude": "-85.20549000"
+  },
+  {
+    "name": "Jacaleapa",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.01667000",
+    "longitude": "-86.66667000"
+  },
+  {
+    "name": "Jamalteca",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.70000000",
+    "longitude": "-87.58333000"
+  },
+  {
+    "name": "Jano",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.07902000",
+    "longitude": "-86.51521000"
+  },
+  {
+    "name": "Jericó",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.95000000",
+    "longitude": "-85.96667000"
+  },
+  {
+    "name": "Jesús de Otoro",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.48333000",
+    "longitude": "-87.98333000"
+  },
+  {
+    "name": "Jiquinlaca",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.00000000",
+    "longitude": "-88.35000000"
+  },
+  {
+    "name": "Joconal",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.35444000",
+    "longitude": "-88.63556000"
+  },
+  {
+    "name": "Jocón",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.28333000",
+    "longitude": "-86.96667000"
+  },
+  {
+    "name": "José Santos Guardiola",
+    "countryCode": "HN",
+    "stateCode": "IB",
+    "latitude": "16.41765000",
+    "longitude": "-86.30631000"
+  },
+  {
+    "name": "Juan Francisco Bulnes",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.91676000",
+    "longitude": "-84.90990000"
+  },
+  {
+    "name": "Jutiapa",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.69586000",
+    "longitude": "-86.50414000"
+  },
+  {
+    "name": "Jutiapa",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.98333000",
+    "longitude": "-86.40000000"
+  },
+  {
+    "name": "Juticalpa",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.66667000",
+    "longitude": "-86.21944000"
+  },
+  {
+    "name": "Jutiquile",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.71667000",
+    "longitude": "-86.08333000"
+  },
+  {
+    "name": "Jícaro Galán",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.53167000",
+    "longitude": "-87.43889000"
+  },
+  {
+    "name": "La Alianza",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.51222000",
+    "longitude": "-87.72444000"
+  },
+  {
+    "name": "La Brea",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.80000000",
+    "longitude": "-85.96667000"
+  },
+  {
+    "name": "La Campa",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.47280000",
+    "longitude": "-88.56090000"
+  },
+  {
+    "name": "La Ceiba",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.75971000",
+    "longitude": "-86.78221000"
+  },
+  {
+    "name": "La Concepción",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.70000000",
+    "longitude": "-86.23333000"
+  },
+  {
+    "name": "La Criba",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.45361000",
+    "longitude": "-87.41333000"
+  },
+  {
+    "name": "La Encarnación",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.66667000",
+    "longitude": "-89.04742000"
+  },
+  {
+    "name": "La Entrada",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.05000000",
+    "longitude": "-88.73333000"
+  },
+  {
+    "name": "La Ermita",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.46667000",
+    "longitude": "-87.06667000"
+  },
+  {
+    "name": "La Esperanza",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.63333000",
+    "longitude": "-85.76667000"
+  },
+  {
+    "name": "La Esperanza",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.31111000",
+    "longitude": "-88.18056000"
+  },
+  {
+    "name": "La Estancia",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.05000000",
+    "longitude": "-86.35000000"
+  },
+  {
+    "name": "La Estancia",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.28333000",
+    "longitude": "-87.55000000"
+  },
+  {
+    "name": "La Flecha",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.28333000",
+    "longitude": "-88.48333000"
+  },
+  {
+    "name": "La Guacamaya",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.25000000",
+    "longitude": "-87.80000000"
+  },
+  {
+    "name": "La Guama",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "14.88333000",
+    "longitude": "-87.93333000"
+  },
+  {
+    "name": "La Guata",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.08333000",
+    "longitude": "-86.38333000"
+  },
+  {
+    "name": "La Huesa",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.58333000",
+    "longitude": "-87.88333000"
+  },
+  {
+    "name": "La Iguala",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.66441000",
+    "longitude": "-88.46360000"
+  },
+  {
+    "name": "La Jigua",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.10000000",
+    "longitude": "-88.76000000"
+  },
+  {
+    "name": "La Jutosa",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.63333000",
+    "longitude": "-88.00000000"
+  },
+  {
+    "name": "La Labor",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.48333000",
+    "longitude": "-89.00000000"
+  },
+  {
+    "name": "La Libertad",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.88000000",
+    "longitude": "-87.55000000"
+  },
+  {
+    "name": "La Libertad",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.70662000",
+    "longitude": "-87.50421000"
+  },
+  {
+    "name": "La Libertad",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.80000000",
+    "longitude": "-88.58333000"
+  },
+  {
+    "name": "La Lima",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.43333000",
+    "longitude": "-87.91667000"
+  },
+  {
+    "name": "La Masica",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.59865000",
+    "longitude": "-87.13500000"
+  },
+  {
+    "name": "La Mina",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.31667000",
+    "longitude": "-87.83333000"
+  },
+  {
+    "name": "La Paz",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.31944000",
+    "longitude": "-87.67917000"
+  },
+  {
+    "name": "La Playona",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.11667000",
+    "longitude": "-88.98333000"
+  },
+  {
+    "name": "La Rosa",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.35000000",
+    "longitude": "-87.06667000"
+  },
+  {
+    "name": "La Sabana",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.36667000",
+    "longitude": "-87.93333000"
+  },
+  {
+    "name": "La Sarrosa",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.23333000",
+    "longitude": "-87.83333000"
+  },
+  {
+    "name": "La Trinidad",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.70000000",
+    "longitude": "-87.66286000"
+  },
+  {
+    "name": "La Trinidad",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.10000000",
+    "longitude": "-87.20000000"
+  },
+  {
+    "name": "La Unión",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.71667000",
+    "longitude": "-87.00000000"
+  },
+  {
+    "name": "La Unión",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.69350000",
+    "longitude": "-88.94734000"
+  },
+  {
+    "name": "La Unión",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.81667000",
+    "longitude": "-88.40000000"
+  },
+  {
+    "name": "La Unión",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.09759000",
+    "longitude": "-86.68910000"
+  },
+  {
+    "name": "La Venta",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.73113000",
+    "longitude": "-87.32874000"
+  },
+  {
+    "name": "La Virtud",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.07156000",
+    "longitude": "-88.68584000"
+  },
+  {
+    "name": "La Zumbadora",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.01667000",
+    "longitude": "-88.90000000"
+  },
+  {
+    "name": "Laguna Seca",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.70000000",
+    "longitude": "-86.10000000"
+  },
+  {
+    "name": "Laguna Verde",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.20000000",
+    "longitude": "-88.16667000"
+  },
+  {
+    "name": "Lamaní",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.20000000",
+    "longitude": "-87.61667000"
+  },
+  {
+    "name": "Langue",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.62083000",
+    "longitude": "-87.65250000"
+  },
+  {
+    "name": "Las Flores",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.67930000",
+    "longitude": "-88.65040000"
+  },
+  {
+    "name": "Las Lajas",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.90000000",
+    "longitude": "-87.58333000"
+  },
+  {
+    "name": "Las Tejeras",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.80000000",
+    "longitude": "-88.60000000"
+  },
+  {
+    "name": "Las Trojes",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.06667000",
+    "longitude": "-85.98333000"
+  },
+  {
+    "name": "Las Vegas",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.86636000",
+    "longitude": "-88.07233000"
+  },
+  {
+    "name": "Las Vegas",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.01667000",
+    "longitude": "-87.45000000"
+  },
+  {
+    "name": "Las Vegas, Santa Barbara",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.87649000",
+    "longitude": "-88.07473000"
+  },
+  {
+    "name": "Las Ánimas",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.25000000",
+    "longitude": "-86.56667000"
+  },
+  {
+    "name": "Lauterique",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "13.86425000",
+    "longitude": "-87.65792000"
+  },
+  {
+    "name": "Lejamaní",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.36667000",
+    "longitude": "-87.70000000"
+  },
+  {
+    "name": "Lepaera",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.78333000",
+    "longitude": "-88.58333000"
+  },
+  {
+    "name": "Lepaterique",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.05590000",
+    "longitude": "-87.47908000"
+  },
+  {
+    "name": "Limón",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.79664000",
+    "longitude": "-85.50805000"
+  },
+  {
+    "name": "Liure",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.53583000",
+    "longitude": "-87.09194000"
+  },
+  {
+    "name": "Loma Alta",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.39667000",
+    "longitude": "-88.55972000"
+  },
+  {
+    "name": "Lomitas",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.10000000",
+    "longitude": "-87.21667000"
+  },
+  {
+    "name": "Los Caminos",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "14.95000000",
+    "longitude": "-87.96667000"
+  },
+  {
+    "name": "Los Llanitos",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.28694000",
+    "longitude": "-87.33444000"
+  },
+  {
+    "name": "Los Naranjos",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "14.90000000",
+    "longitude": "-88.05000000"
+  },
+  {
+    "name": "Los Planes",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.05000000",
+    "longitude": "-88.01667000"
+  },
+  {
+    "name": "Los Tangos",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.15000000",
+    "longitude": "-88.68333000"
+  },
+  {
+    "name": "Lucerna",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.55000000",
+    "longitude": "-88.93333000"
+  },
+  {
+    "name": "Macuelizo",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.26000000",
+    "longitude": "-88.66000000"
+  },
+  {
+    "name": "Magdalena",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "13.92452000",
+    "longitude": "-88.36675000"
+  },
+  {
+    "name": "Mangulile",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.06667000",
+    "longitude": "-86.80000000"
+  },
+  {
+    "name": "Manto",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.91667000",
+    "longitude": "-86.38333000"
+  },
+  {
+    "name": "Mapulaca",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.04293000",
+    "longitude": "-88.62440000"
+  },
+  {
+    "name": "Maraita",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.87197000",
+    "longitude": "-87.05633000"
+  },
+  {
+    "name": "Marale",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.94113000",
+    "longitude": "-87.09892000"
+  },
+  {
+    "name": "Marcala",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.14845000",
+    "longitude": "-88.02405000"
+  },
+  {
+    "name": "Marcovia",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.28806000",
+    "longitude": "-87.30972000"
+  },
+  {
+    "name": "Masaguara",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.40428000",
+    "longitude": "-87.98247000"
+  },
+  {
+    "name": "Mata de Plátano",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.60000000",
+    "longitude": "-87.28333000"
+  },
+  {
+    "name": "Mateo",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.08333000",
+    "longitude": "-87.31667000"
+  },
+  {
+    "name": "Mercedes",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.31667000",
+    "longitude": "-88.98333000"
+  },
+  {
+    "name": "Mercedes de Oriente",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "13.90937000",
+    "longitude": "-87.77795000"
+  },
+  {
+    "name": "Mezapa",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.58333000",
+    "longitude": "-87.65000000"
+  },
+  {
+    "name": "Meámbar",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.82047000",
+    "longitude": "-87.78424000"
+  },
+  {
+    "name": "Minas de Oro",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.80000000",
+    "longitude": "-87.35000000"
+  },
+  {
+    "name": "Mojimán",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.26667000",
+    "longitude": "-87.60000000"
+  },
+  {
+    "name": "Monjarás",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.20056000",
+    "longitude": "-87.37417000"
+  },
+  {
+    "name": "Monterrey",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.58333000",
+    "longitude": "-87.88333000"
+  },
+  {
+    "name": "Morazán",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.31667000",
+    "longitude": "-87.60000000"
+  },
+  {
+    "name": "Morocelí",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.11667000",
+    "longitude": "-86.86667000"
+  },
+  {
+    "name": "Morolica",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.56800000",
+    "longitude": "-86.88821000"
+  },
+  {
+    "name": "Municipio de Sabá",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.48654000",
+    "longitude": "-86.16322000"
+  },
+  {
+    "name": "Municipio de San Francisco de La Paz",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.84183000",
+    "longitude": "-86.11819000"
+  },
+  {
+    "name": "Municipio de Texiguat",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.66372000",
+    "longitude": "-87.03479000"
+  },
+  {
+    "name": "Nacaome",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.52209000",
+    "longitude": "-87.52477000"
+  },
+  {
+    "name": "Naco",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.38333000",
+    "longitude": "-88.18333000"
+  },
+  {
+    "name": "Namasigüe",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.20472000",
+    "longitude": "-87.13889000"
+  },
+  {
+    "name": "Naranjito",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.95000000",
+    "longitude": "-88.68333000"
+  },
+  {
+    "name": "Nombre de Jesús",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.35000000",
+    "longitude": "-86.68333000"
+  },
+  {
+    "name": "Nueva Arcadia",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.08000000",
+    "longitude": "-88.69000000"
+  },
+  {
+    "name": "Nueva Armenia",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.79556000",
+    "longitude": "-86.49845000"
+  },
+  {
+    "name": "Nueva Armenia",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.75000000",
+    "longitude": "-87.15307000"
+  },
+  {
+    "name": "Nueva Esperanza",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.26667000",
+    "longitude": "-87.60000000"
+  },
+  {
+    "name": "Nueva Frontera",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.21000000",
+    "longitude": "-88.56000000"
+  },
+  {
+    "name": "Nueva Jalapa",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.91667000",
+    "longitude": "-88.33333000"
+  },
+  {
+    "name": "Nueva Ocotepeque",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.43333000",
+    "longitude": "-89.18333000"
+  },
+  {
+    "name": "Nuevo Celilac",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.97554000",
+    "longitude": "-88.36726000"
+  },
+  {
+    "name": "Nuevo Chamelecón",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.38333000",
+    "longitude": "-88.01667000"
+  },
+  {
+    "name": "Ocote Paulino",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.41667000",
+    "longitude": "-87.60000000"
+  },
+  {
+    "name": "Ojo de Agua",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.01667000",
+    "longitude": "-86.35000000"
+  },
+  {
+    "name": "Ojojona",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.93389000",
+    "longitude": "-87.29583000"
+  },
+  {
+    "name": "Ojos de Agua",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.79498000",
+    "longitude": "-87.65010000"
+  },
+  {
+    "name": "Ojos de Agua",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.70000000",
+    "longitude": "-88.81667000"
+  },
+  {
+    "name": "Olanchito",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.48131000",
+    "longitude": "-86.57415000"
+  },
+  {
+    "name": "Omoa",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.76667000",
+    "longitude": "-88.03333000"
+  },
+  {
+    "name": "Opatoro",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.02451000",
+    "longitude": "-87.87982000"
+  },
+  {
+    "name": "Orica",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.80645000",
+    "longitude": "-86.95760000"
+  },
+  {
+    "name": "Orocuina",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.48167000",
+    "longitude": "-87.10500000"
+  },
+  {
+    "name": "Oropolí",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.81667000",
+    "longitude": "-86.81667000"
+  },
+  {
+    "name": "Oropéndolas",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.01667000",
+    "longitude": "-87.93333000"
+  },
+  {
+    "name": "Paptalaya",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.50000000",
+    "longitude": "-84.31667000"
+  },
+  {
+    "name": "Patuca",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.36000000",
+    "longitude": "-85.97000000"
+  },
+  {
+    "name": "Paujiles",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.10000000",
+    "longitude": "-87.35000000"
+  },
+  {
+    "name": "Pespire",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.59222000",
+    "longitude": "-87.36167000"
+  },
+  {
+    "name": "Petoa",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.26667000",
+    "longitude": "-88.28333000"
+  },
+  {
+    "name": "Peña Blanca",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.53333000",
+    "longitude": "-88.05000000"
+  },
+  {
+    "name": "Pimienta",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.26500000",
+    "longitude": "-87.96667000"
+  },
+  {
+    "name": "Pimienta Vieja",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.23333000",
+    "longitude": "-87.96667000"
+  },
+  {
+    "name": "Pinalejo",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.38333000",
+    "longitude": "-88.40000000"
+  },
+  {
+    "name": "Piraera",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.06261000",
+    "longitude": "-88.46319000"
+  },
+  {
+    "name": "Potrerillos",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.55000000",
+    "longitude": "-87.86667000"
+  },
+  {
+    "name": "Potrerillos",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.21000000",
+    "longitude": "-87.95000000"
+  },
+  {
+    "name": "Potrerillos",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.04478000",
+    "longitude": "-86.76201000"
+  },
+  {
+    "name": "Prieta",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.58060000",
+    "longitude": "-86.13664000"
+  },
+  {
+    "name": "Protección",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.03333000",
+    "longitude": "-88.65000000"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.00000000",
+    "longitude": "-88.75000000"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.28333000",
+    "longitude": "-88.01667000"
+  },
+  {
+    "name": "Puerto Alto",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.70000000",
+    "longitude": "-87.86667000"
+  },
+  {
+    "name": "Puerto Castilla",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "16.01667000",
+    "longitude": "-85.96667000"
+  },
+  {
+    "name": "Puerto Cortez",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.82562000",
+    "longitude": "-87.92968000"
+  },
+  {
+    "name": "Puerto Cortés",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.79000000",
+    "longitude": "-87.84900000"
+  },
+  {
+    "name": "Puerto Lempira",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.26667000",
+    "longitude": "-83.77222000"
+  },
+  {
+    "name": "Punta Ocote",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.20000000",
+    "longitude": "-87.28333000"
+  },
+  {
+    "name": "Punta Piedra",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.90000000",
+    "longitude": "-85.28333000"
+  },
+  {
+    "name": "Punuare",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.73333000",
+    "longitude": "-85.96667000"
+  },
+  {
+    "name": "Quebrada Larga",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.10000000",
+    "longitude": "-86.36667000"
+  },
+  {
+    "name": "Quebrada Seca",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.66667000",
+    "longitude": "-87.95000000"
+  },
+  {
+    "name": "Quebrada de Arena",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.76667000",
+    "longitude": "-85.91667000"
+  },
+  {
+    "name": "Quebradas",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.50000000",
+    "longitude": "-87.35000000"
+  },
+  {
+    "name": "Quezailica",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.88333000",
+    "longitude": "-88.73333000"
+  },
+  {
+    "name": "Quimistán",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.35000000",
+    "longitude": "-88.40000000"
+  },
+  {
+    "name": "Reitoca",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.82583000",
+    "longitude": "-87.46528000"
+  },
+  {
+    "name": "Roatán",
+    "countryCode": "HN",
+    "stateCode": "IB",
+    "latitude": "16.34098000",
+    "longitude": "-86.53763000"
+  },
+  {
+    "name": "Río Abajo",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.16667000",
+    "longitude": "-87.21667000"
+  },
+  {
+    "name": "Río Blanquito",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.73333000",
+    "longitude": "-87.90000000"
+  },
+  {
+    "name": "Río Bonito",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.76667000",
+    "longitude": "-87.88333000"
+  },
+  {
+    "name": "Río Chiquito",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.63333000",
+    "longitude": "-88.25000000"
+  },
+  {
+    "name": "Río Esteban",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.83333000",
+    "longitude": "-86.30000000"
+  },
+  {
+    "name": "Río Lindo",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.03333000",
+    "longitude": "-87.98333000"
+  },
+  {
+    "name": "Sabanagrande",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.80778000",
+    "longitude": "-87.25917000"
+  },
+  {
+    "name": "Sabá",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.46667000",
+    "longitude": "-86.25000000"
+  },
+  {
+    "name": "Salamá",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.75000000",
+    "longitude": "-85.96667000"
+  },
+  {
+    "name": "Salamá",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.81052000",
+    "longitude": "-86.61996000"
+  },
+  {
+    "name": "Sambo Creek",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.81667000",
+    "longitude": "-86.68333000"
+  },
+  {
+    "name": "San Agustín",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.81973000",
+    "longitude": "-88.93027000"
+  },
+  {
+    "name": "San Andrés",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.21968000",
+    "longitude": "-88.54981000"
+  },
+  {
+    "name": "San Antonio",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.60000000",
+    "longitude": "-87.15000000"
+  },
+  {
+    "name": "San Antonio",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.04000000",
+    "longitude": "-88.88000000"
+  },
+  {
+    "name": "San Antonio",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "13.95043000",
+    "longitude": "-88.46493000"
+  },
+  {
+    "name": "San Antonio",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.33333000",
+    "longitude": "-87.15000000"
+  },
+  {
+    "name": "San Antonio de Cortés",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.11667000",
+    "longitude": "-88.03333000"
+  },
+  {
+    "name": "San Antonio de Flores",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.64152000",
+    "longitude": "-87.34075000"
+  },
+  {
+    "name": "San Antonio de Flores",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.71089000",
+    "longitude": "-86.84226000"
+  },
+  {
+    "name": "San Antonio de Oriente",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.03859000",
+    "longitude": "-86.98951000"
+  },
+  {
+    "name": "San Antonio de la Cuesta",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.63333000",
+    "longitude": "-87.60000000"
+  },
+  {
+    "name": "San Antonio del Norte",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "13.88000000",
+    "longitude": "-87.72000000"
+  },
+  {
+    "name": "San Buenaventura",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.01667000",
+    "longitude": "-88.00000000"
+  },
+  {
+    "name": "San Buenaventura",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.89100000",
+    "longitude": "-87.18554000"
+  },
+  {
+    "name": "San Diego",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.05000000",
+    "longitude": "-86.46667000"
+  },
+  {
+    "name": "San Esteban",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "15.29467000",
+    "longitude": "-85.69487000"
+  },
+  {
+    "name": "San Fernando",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.68793000",
+    "longitude": "-89.10153000"
+  },
+  {
+    "name": "San Francisco",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.65246000",
+    "longitude": "-87.01736000"
+  },
+  {
+    "name": "San Francisco",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.12435000",
+    "longitude": "-88.37189000"
+  },
+  {
+    "name": "San Francisco de Becerra",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.63333000",
+    "longitude": "-86.10000000"
+  },
+  {
+    "name": "San Francisco de Cones",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.51667000",
+    "longitude": "-88.90000000"
+  },
+  {
+    "name": "San Francisco de Coray",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.66139000",
+    "longitude": "-87.53278000"
+  },
+  {
+    "name": "San Francisco de Ojuera",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.67000000",
+    "longitude": "-88.21000000"
+  },
+  {
+    "name": "San Francisco de Opalaca",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.58441000",
+    "longitude": "-88.30253000"
+  },
+  {
+    "name": "San Francisco de Yojoa",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.01667000",
+    "longitude": "-87.96667000"
+  },
+  {
+    "name": "San Francisco de la Paz",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.90000000",
+    "longitude": "-86.20000000"
+  },
+  {
+    "name": "San Francisco del Valle",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.43333000",
+    "longitude": "-88.95000000"
+  },
+  {
+    "name": "San Ignacio",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.73795000",
+    "longitude": "-87.04759000"
+  },
+  {
+    "name": "San Isidro",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.64454000",
+    "longitude": "-87.26093000"
+  },
+  {
+    "name": "San Isidro",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.56763000",
+    "longitude": "-88.11743000"
+  },
+  {
+    "name": "San Jerónimo",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.17667000",
+    "longitude": "-87.13639000"
+  },
+  {
+    "name": "San Jerónimo",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.64043000",
+    "longitude": "-87.56768000"
+  },
+  {
+    "name": "San Jerónimo",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.96207000",
+    "longitude": "-88.90270000"
+  },
+  {
+    "name": "San Joaquín",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "15.05000000",
+    "longitude": "-88.90000000"
+  },
+  {
+    "name": "San Jorge",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.63697000",
+    "longitude": "-89.11860000"
+  },
+  {
+    "name": "San José",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.71415000",
+    "longitude": "-87.42256000"
+  },
+  {
+    "name": "San José",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.91184000",
+    "longitude": "-88.71667000"
+  },
+  {
+    "name": "San José",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.22642000",
+    "longitude": "-87.96238000"
+  },
+  {
+    "name": "San José",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.31667000",
+    "longitude": "-87.16667000"
+  },
+  {
+    "name": "San José de Colinas",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.03333000",
+    "longitude": "-88.30000000"
+  },
+  {
+    "name": "San José de Comayagua",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.73333000",
+    "longitude": "-88.03333000"
+  },
+  {
+    "name": "San José de Copán",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.90000000",
+    "longitude": "-88.71667000"
+  },
+  {
+    "name": "San José de Las Conchas",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.32528000",
+    "longitude": "-87.39556000"
+  },
+  {
+    "name": "San José de Río Tinto",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.93333000",
+    "longitude": "-85.70000000"
+  },
+  {
+    "name": "San José de Tarros",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.30000000",
+    "longitude": "-88.70000000"
+  },
+  {
+    "name": "San José del Boquerón",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.48333000",
+    "longitude": "-87.86667000"
+  },
+  {
+    "name": "San José del Potrero",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.86203000",
+    "longitude": "-87.29049000"
+  },
+  {
+    "name": "San Juan",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.42127000",
+    "longitude": "-88.41953000"
+  },
+  {
+    "name": "San Juan",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "13.95428000",
+    "longitude": "-87.72948000"
+  },
+  {
+    "name": "San Juan Guarita",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.15492000",
+    "longitude": "-88.77477000"
+  },
+  {
+    "name": "San Juan Pueblo",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.58333000",
+    "longitude": "-87.23333000"
+  },
+  {
+    "name": "San Juan de Flores",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.26667000",
+    "longitude": "-87.03333000"
+  },
+  {
+    "name": "San Juan de Opoa",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.78333000",
+    "longitude": "-88.70000000"
+  },
+  {
+    "name": "San Juan de Planes",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.93333000",
+    "longitude": "-88.78333000"
+  },
+  {
+    "name": "San Lorenzo",
+    "countryCode": "HN",
+    "stateCode": "VA",
+    "latitude": "13.45149000",
+    "longitude": "-87.40743000"
+  },
+  {
+    "name": "San Lucas",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.74586000",
+    "longitude": "-86.95163000"
+  },
+  {
+    "name": "San Luis",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.75000000",
+    "longitude": "-87.41667000"
+  },
+  {
+    "name": "San Luis",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.08333000",
+    "longitude": "-88.38333000"
+  },
+  {
+    "name": "San Luis de Planes",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.98333000",
+    "longitude": "-88.13333000"
+  },
+  {
+    "name": "San Manuel",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.37279000",
+    "longitude": "-87.90167000"
+  },
+  {
+    "name": "San Manuel Colohete",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.44435000",
+    "longitude": "-88.67050000"
+  },
+  {
+    "name": "San Marcos",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.38000000",
+    "longitude": "-88.92000000"
+  },
+  {
+    "name": "San Marcos",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.30000000",
+    "longitude": "-88.41667000"
+  },
+  {
+    "name": "San Marcos de Caiquin",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.41614000",
+    "longitude": "-88.60126000"
+  },
+  {
+    "name": "San Marcos de Colón",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.41512000",
+    "longitude": "-86.82095000"
+  },
+  {
+    "name": "San Marcos de la Sierra",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.13236000",
+    "longitude": "-88.24690000"
+  },
+  {
+    "name": "San Matías",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.95966000",
+    "longitude": "-86.64032000"
+  },
+  {
+    "name": "San Miguelito",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.74572000",
+    "longitude": "-87.49233000"
+  },
+  {
+    "name": "San Miguelito",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.34875000",
+    "longitude": "-88.33983000"
+  },
+  {
+    "name": "San Nicolás",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.98000000",
+    "longitude": "-88.73000000"
+  },
+  {
+    "name": "San Nicolás",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.55000000",
+    "longitude": "-86.25000000"
+  },
+  {
+    "name": "San Nicolás",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.91913000",
+    "longitude": "-88.37910000"
+  },
+  {
+    "name": "San Pedro Sula",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.50417000",
+    "longitude": "-88.02500000"
+  },
+  {
+    "name": "San Pedro Zacapa",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.75000000",
+    "longitude": "-88.11667000"
+  },
+  {
+    "name": "San Pedro de Copán",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.61667000",
+    "longitude": "-88.80000000"
+  },
+  {
+    "name": "San Pedro de Tutule",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.25000000",
+    "longitude": "-87.85000000"
+  },
+  {
+    "name": "San Rafael",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.73333000",
+    "longitude": "-88.41667000"
+  },
+  {
+    "name": "San Sebastián",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.23687000",
+    "longitude": "-87.63215000"
+  },
+  {
+    "name": "San Sebastián",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.34594000",
+    "longitude": "-88.73487000"
+  },
+  {
+    "name": "San Vicente Centenario",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.88333000",
+    "longitude": "-88.28333000"
+  },
+  {
+    "name": "Sandy Bay",
+    "countryCode": "HN",
+    "stateCode": "IB",
+    "latitude": "16.32923000",
+    "longitude": "-86.56446000"
+  },
+  {
+    "name": "Santa Ana",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.65000000",
+    "longitude": "-87.06667000"
+  },
+  {
+    "name": "Santa Ana",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.94000000",
+    "longitude": "-87.21000000"
+  },
+  {
+    "name": "Santa Ana",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.00011000",
+    "longitude": "-87.94107000"
+  },
+  {
+    "name": "Santa Ana de Yusguare",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.30056000",
+    "longitude": "-87.11389000"
+  },
+  {
+    "name": "Santa Bárbara",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.91944000",
+    "longitude": "-88.23611000"
+  },
+  {
+    "name": "Santa Cruz",
+    "countryCode": "HN",
+    "stateCode": "CH",
+    "latitude": "13.25806000",
+    "longitude": "-87.34833000"
+  },
+  {
+    "name": "Santa Cruz",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.86667000",
+    "longitude": "-86.63333000"
+  },
+  {
+    "name": "Santa Cruz",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.34427000",
+    "longitude": "-88.52684000"
+  },
+  {
+    "name": "Santa Cruz de Yojoa",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "14.98333000",
+    "longitude": "-87.90000000"
+  },
+  {
+    "name": "Santa Elena",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.38333000",
+    "longitude": "-88.13333000"
+  },
+  {
+    "name": "Santa Elena",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.07149000",
+    "longitude": "-88.15445000"
+  },
+  {
+    "name": "Santa Fe",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.85424000",
+    "longitude": "-86.11083000"
+  },
+  {
+    "name": "Santa Fe",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.50038000",
+    "longitude": "-89.27320000"
+  },
+  {
+    "name": "Santa Lucía",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.12595000",
+    "longitude": "-87.09175000"
+  },
+  {
+    "name": "Santa Lucía",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "13.90812000",
+    "longitude": "-88.41566000"
+  },
+  {
+    "name": "Santa Lucía",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.41667000",
+    "longitude": "-89.20000000"
+  },
+  {
+    "name": "Santa María",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.26904000",
+    "longitude": "-87.91164000"
+  },
+  {
+    "name": "Santa María del Real",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.76667000",
+    "longitude": "-85.95000000"
+  },
+  {
+    "name": "Santa Rita",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.88000000",
+    "longitude": "-89.01000000"
+  },
+  {
+    "name": "Santa Rita",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "14.76015000",
+    "longitude": "-88.26782000"
+  },
+  {
+    "name": "Santa Rita",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.18000000",
+    "longitude": "-87.81000000"
+  },
+  {
+    "name": "Santa Rita, Copan",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.86748000",
+    "longitude": "-89.10000000"
+  },
+  {
+    "name": "Santa Rosa de Aguán",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.95000000",
+    "longitude": "-85.71667000"
+  },
+  {
+    "name": "Santa Rosa de Copán",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.76667000",
+    "longitude": "-88.77917000"
+  },
+  {
+    "name": "Santiago Puringla",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.35000000",
+    "longitude": "-87.90000000"
+  },
+  {
+    "name": "Savannah Bight",
+    "countryCode": "HN",
+    "stateCode": "IB",
+    "latitude": "16.45000000",
+    "longitude": "-85.85000000"
+  },
+  {
+    "name": "Sensenti",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.48333000",
+    "longitude": "-88.93333000"
+  },
+  {
+    "name": "Siguatepeque",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.60000000",
+    "longitude": "-87.83333000"
+  },
+  {
+    "name": "Silca",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.76205000",
+    "longitude": "-86.51521000"
+  },
+  {
+    "name": "Sinuapa",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.45000000",
+    "longitude": "-89.18333000"
+  },
+  {
+    "name": "Soledad",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.58333000",
+    "longitude": "-87.11667000"
+  },
+  {
+    "name": "Sonaguera",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.64000000",
+    "longitude": "-86.26000000"
+  },
+  {
+    "name": "Subirana",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.20000000",
+    "longitude": "-87.45000000"
+  },
+  {
+    "name": "Sula",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.25000000",
+    "longitude": "-88.56667000"
+  },
+  {
+    "name": "Sulaco",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "14.91667000",
+    "longitude": "-87.26667000"
+  },
+  {
+    "name": "Talanga",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.41393000",
+    "longitude": "-87.06941000"
+  },
+  {
+    "name": "Talgua",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.68110000",
+    "longitude": "-88.72800000"
+  },
+  {
+    "name": "Tambla",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.21276000",
+    "longitude": "-88.76768000"
+  },
+  {
+    "name": "Taragual",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.75000000",
+    "longitude": "-88.48333000"
+  },
+  {
+    "name": "Tatumbla",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "13.98467000",
+    "longitude": "-87.06977000"
+  },
+  {
+    "name": "Taujica",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.70000000",
+    "longitude": "-85.91667000"
+  },
+  {
+    "name": "Taulabé",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.67145000",
+    "longitude": "-87.98693000"
+  },
+  {
+    "name": "Teguajinal",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.36667000",
+    "longitude": "-86.60000000"
+  },
+  {
+    "name": "Tegucigalpa",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.08180000",
+    "longitude": "-87.20681000"
+  },
+  {
+    "name": "Tela",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.77425000",
+    "longitude": "-87.46731000"
+  },
+  {
+    "name": "Tepanguare",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.33333000",
+    "longitude": "-87.75000000"
+  },
+  {
+    "name": "Tepusteca",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.41667000",
+    "longitude": "-86.31667000"
+  },
+  {
+    "name": "Teupasenti",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.21667000",
+    "longitude": "-86.70000000"
+  },
+  {
+    "name": "Texíguat",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.64972000",
+    "longitude": "-87.02250000"
+  },
+  {
+    "name": "Tocoa",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.68333000",
+    "longitude": "-86.00000000"
+  },
+  {
+    "name": "Tomalá",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.24330000",
+    "longitude": "-88.73140000"
+  },
+  {
+    "name": "Tornabé",
+    "countryCode": "HN",
+    "stateCode": "AT",
+    "latitude": "15.75000000",
+    "longitude": "-87.55000000"
+  },
+  {
+    "name": "Toyós",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.55000000",
+    "longitude": "-87.65000000"
+  },
+  {
+    "name": "Tras Cerros",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.30000000",
+    "longitude": "-88.66667000"
+  },
+  {
+    "name": "Travesía",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.86667000",
+    "longitude": "-87.90000000"
+  },
+  {
+    "name": "Trinidad",
+    "countryCode": "HN",
+    "stateCode": "SB",
+    "latitude": "15.13333000",
+    "longitude": "-88.23333000"
+  },
+  {
+    "name": "Trinidad de Copán",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.95000000",
+    "longitude": "-88.75000000"
+  },
+  {
+    "name": "Trojas",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.35000000",
+    "longitude": "-86.70000000"
+  },
+  {
+    "name": "Trojes",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "14.05966000",
+    "longitude": "-86.00166000"
+  },
+  {
+    "name": "Trujillo",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.91667000",
+    "longitude": "-85.95417000"
+  },
+  {
+    "name": "Támara",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.15000000",
+    "longitude": "-87.33333000"
+  },
+  {
+    "name": "Utila",
+    "countryCode": "HN",
+    "stateCode": "IB",
+    "latitude": "16.10026000",
+    "longitude": "-86.93070000"
+  },
+  {
+    "name": "Vado Ancho",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.64355000",
+    "longitude": "-86.95546000"
+  },
+  {
+    "name": "Valladolid",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.14710000",
+    "longitude": "-88.70840000"
+  },
+  {
+    "name": "Valle de Ángeles",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.50000000",
+    "longitude": "-87.63333000"
+  },
+  {
+    "name": "Valle de Ángeles",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.15000000",
+    "longitude": "-87.03333000"
+  },
+  {
+    "name": "Vallecillo",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.51313000",
+    "longitude": "-87.40242000"
+  },
+  {
+    "name": "Veracruz",
+    "countryCode": "HN",
+    "stateCode": "CP",
+    "latitude": "14.88343000",
+    "longitude": "-88.78570000"
+  },
+  {
+    "name": "Victoria",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.10012000",
+    "longitude": "-87.53020000"
+  },
+  {
+    "name": "Villa Nueva",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.03333000",
+    "longitude": "-87.13333000"
+  },
+  {
+    "name": "Villa de San Antonio",
+    "countryCode": "HN",
+    "stateCode": "CM",
+    "latitude": "14.31667000",
+    "longitude": "-87.61667000"
+  },
+  {
+    "name": "Villa de San Francisco",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.16667000",
+    "longitude": "-86.96667000"
+  },
+  {
+    "name": "Villanueva",
+    "countryCode": "HN",
+    "stateCode": "CR",
+    "latitude": "15.31667000",
+    "longitude": "-88.00000000"
+  },
+  {
+    "name": "Villeda Morales",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.08472000",
+    "longitude": "-83.35361000"
+  },
+  {
+    "name": "Virginia",
+    "countryCode": "HN",
+    "stateCode": "LE",
+    "latitude": "14.00522000",
+    "longitude": "-88.56193000"
+  },
+  {
+    "name": "Wampusirpi",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.18333000",
+    "longitude": "-84.61667000"
+  },
+  {
+    "name": "Wawina",
+    "countryCode": "HN",
+    "stateCode": "GD",
+    "latitude": "15.41667000",
+    "longitude": "-84.43333000"
+  },
+  {
+    "name": "Yaguacire",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.01667000",
+    "longitude": "-87.21667000"
+  },
+  {
+    "name": "Yamaranguila",
+    "countryCode": "HN",
+    "stateCode": "IN",
+    "latitude": "14.26826000",
+    "longitude": "-88.24652000"
+  },
+  {
+    "name": "Yaruchel",
+    "countryCode": "HN",
+    "stateCode": "OC",
+    "latitude": "14.53333000",
+    "longitude": "-88.81667000"
+  },
+  {
+    "name": "Yarula",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.10000000",
+    "longitude": "-88.08000000"
+  },
+  {
+    "name": "Yarumela",
+    "countryCode": "HN",
+    "stateCode": "LP",
+    "latitude": "14.33333000",
+    "longitude": "-87.63333000"
+  },
+  {
+    "name": "Yauyupe",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.74867000",
+    "longitude": "-87.07610000"
+  },
+  {
+    "name": "Yocón",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.95000000",
+    "longitude": "-86.82000000"
+  },
+  {
+    "name": "Yorito",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.06667000",
+    "longitude": "-87.28333000"
+  },
+  {
+    "name": "Yoro",
+    "countryCode": "HN",
+    "stateCode": "YO",
+    "latitude": "15.13750000",
+    "longitude": "-87.12778000"
+  },
+  {
+    "name": "Yuscarán",
+    "countryCode": "HN",
+    "stateCode": "EP",
+    "latitude": "13.95708000",
+    "longitude": "-86.83170000"
+  },
+  {
+    "name": "Zambrano",
+    "countryCode": "HN",
+    "stateCode": "FM",
+    "latitude": "14.26667000",
+    "longitude": "-87.40000000"
+  },
+  {
+    "name": "Zamora",
+    "countryCode": "HN",
+    "stateCode": "CL",
+    "latitude": "15.63333000",
+    "longitude": "-86.06667000"
+  },
+  {
+    "name": "Zopilotepe",
+    "countryCode": "HN",
+    "stateCode": "OL",
+    "latitude": "14.60000000",
+    "longitude": "-86.26667000"
+  }
+]
