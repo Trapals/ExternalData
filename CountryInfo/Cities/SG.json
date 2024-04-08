@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Singapore",
+    "countryCode": "SG",
+    "latitude": "1.28967000",
+    "longitude": "103.85007000"
+  }
+]
