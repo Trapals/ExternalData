@@ -1,5 +1,12 @@
 [
   {
+    "name": "Hacıqabul",
+    "countryCode": "AZ",
+    "stateCode": "HAC",
+    "latitude": "40.03874000",
+    "longitude": "48.94286000"
+  },
+  {
     "name": "Mughan",
     "countryCode": "AZ",
     "stateCode": "HAC",

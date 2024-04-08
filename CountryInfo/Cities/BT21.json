@@ -1,5 +1,12 @@
 [
   {
+    "name": "Trongsa",
+    "countryCode": "BT",
+    "stateCode": "21",
+    "latitude": "27.50260000",
+    "longitude": "90.50716000"
+  },
+  {
     "name": "Tsirang",
     "countryCode": "BT",
     "stateCode": "21",

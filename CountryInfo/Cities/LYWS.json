@@ -1,5 +1,12 @@
 [
   {
+    "name": "Brak",
+    "countryCode": "LY",
+    "stateCode": "WS",
+    "latitude": "27.54956000",
+    "longitude": "14.27139000"
+  },
+  {
     "name": "Idrī",
     "countryCode": "LY",
     "stateCode": "WS",

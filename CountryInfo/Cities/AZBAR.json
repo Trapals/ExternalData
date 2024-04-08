@@ -1,5 +1,12 @@
 [
   {
+    "name": "Barda",
+    "countryCode": "AZ",
+    "stateCode": "BAR",
+    "latitude": "40.37577000",
+    "longitude": "47.12619000"
+  },
+  {
     "name": "Samuxlu",
     "countryCode": "AZ",
     "stateCode": "BAR",

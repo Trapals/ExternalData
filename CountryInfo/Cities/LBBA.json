@@ -1,5 +1,12 @@
 [
   {
+    "name": "Beirut",
+    "countryCode": "LB",
+    "stateCode": "BA",
+    "latitude": "33.89332000",
+    "longitude": "35.50157000"
+  },
+  {
     "name": "Ra’s Bayrūt",
     "countryCode": "LB",
     "stateCode": "BA",

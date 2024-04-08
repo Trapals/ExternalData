@@ -1,5 +1,12 @@
 [
   {
+    "name": "Encamp",
+    "countryCode": "AD",
+    "stateCode": "03",
+    "latitude": "42.53474000",
+    "longitude": "1.58014000"
+  },
+  {
     "name": "Pas de la Casa",
     "countryCode": "AD",
     "stateCode": "03",

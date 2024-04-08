@@ -1,5 +1,19 @@
 [
   {
+    "name": "Berovo",
+    "countryCode": "MK",
+    "stateCode": "03",
+    "latitude": "41.70306000",
+    "longitude": "22.85778000"
+  },
+  {
+    "name": "Rusinovo",
+    "countryCode": "MK",
+    "stateCode": "03",
+    "latitude": "41.68728000",
+    "longitude": "22.80849000"
+  },
+  {
     "name": "Vladimirovo",
     "countryCode": "MK",
     "stateCode": "03",

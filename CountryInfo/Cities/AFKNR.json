@@ -1,5 +1,12 @@
 [
   {
+    "name": "Asadabad",
+    "countryCode": "AF",
+    "stateCode": "KNR",
+    "latitude": "34.87311000",
+    "longitude": "71.14697000"
+  },
+  {
     "name": "Āsmār",
     "countryCode": "AF",
     "stateCode": "KNR",

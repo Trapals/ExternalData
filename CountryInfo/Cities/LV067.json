@@ -1,5 +1,12 @@
 [
   {
+    "name": "Jumprava",
+    "countryCode": "LV",
+    "stateCode": "067",
+    "latitude": "56.67613000",
+    "longitude": "24.97210000"
+  },
+  {
     "name": "Ogre",
     "countryCode": "LV",
     "stateCode": "067",

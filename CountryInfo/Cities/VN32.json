@@ -1,5 +1,26 @@
 [
   {
+    "name": "Huyện Sông Hinh",
+    "countryCode": "VN",
+    "stateCode": "32",
+    "latitude": "12.91667000",
+    "longitude": "108.91667000"
+  },
+  {
+    "name": "Huyện Sơn Hòa",
+    "countryCode": "VN",
+    "stateCode": "32",
+    "latitude": "13.15868000",
+    "longitude": "108.97281000"
+  },
+  {
+    "name": "Sông Cầu",
+    "countryCode": "VN",
+    "stateCode": "32",
+    "latitude": "13.45560000",
+    "longitude": "109.22348000"
+  },
+  {
     "name": "Tuy Hòa",
     "countryCode": "VN",
     "stateCode": "32",

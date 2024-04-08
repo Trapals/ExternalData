@@ -1,5 +1,12 @@
 [
   {
+    "name": "Couva",
+    "countryCode": "TT",
+    "stateCode": "CTT",
+    "latitude": "10.42248000",
+    "longitude": "-61.46748000"
+  },
+  {
     "name": "Tabaquite",
     "countryCode": "TT",
     "stateCode": "CTT",

@@ -1,5 +1,26 @@
 [
   {
+    "name": "Abau",
+    "countryCode": "PG",
+    "stateCode": "CPM",
+    "latitude": "-10.08333000",
+    "longitude": "148.91667000"
+  },
+  {
+    "name": "Goilala",
+    "countryCode": "PG",
+    "stateCode": "CPM",
+    "latitude": "-8.33333000",
+    "longitude": "147.00000000"
+  },
+  {
+    "name": "Kairuku-Hiri",
+    "countryCode": "PG",
+    "stateCode": "CPM",
+    "latitude": "-9.13648000",
+    "longitude": "147.27905000"
+  },
+  {
     "name": "Rigo",
     "countryCode": "PG",
     "stateCode": "CPM",

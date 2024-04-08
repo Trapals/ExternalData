@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kuala Belait",
+    "countryCode": "BN",
+    "stateCode": "BE",
+    "latitude": "4.58361000",
+    "longitude": "114.23120000"
+  },
+  {
     "name": "Seria",
     "countryCode": "BN",
     "stateCode": "BE",

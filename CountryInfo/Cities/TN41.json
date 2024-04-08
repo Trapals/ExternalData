@@ -1,5 +1,19 @@
 [
   {
+    "name": "Haffouz",
+    "countryCode": "TN",
+    "stateCode": "41",
+    "latitude": "35.63235000",
+    "longitude": "9.67624000"
+  },
+  {
+    "name": "Kairouan",
+    "countryCode": "TN",
+    "stateCode": "41",
+    "latitude": "35.67810000",
+    "longitude": "10.09633000"
+  },
+  {
     "name": "Sbikha",
     "countryCode": "TN",
     "stateCode": "41",

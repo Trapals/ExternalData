@@ -1,5 +1,12 @@
 [
   {
+    "name": "Bovec",
+    "countryCode": "SI",
+    "stateCode": "006",
+    "latitude": "46.33808000",
+    "longitude": "13.55245000"
+  },
+  {
     "name": "Mirna",
     "countryCode": "SI",
     "stateCode": "006",

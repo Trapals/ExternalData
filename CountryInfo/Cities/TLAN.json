@@ -1,5 +1,12 @@
 [
   {
+    "name": "Ainaro",
+    "countryCode": "TL",
+    "stateCode": "AN",
+    "latitude": "-8.99241000",
+    "longitude": "125.50816000"
+  },
+  {
     "name": "Hato-Udo",
     "countryCode": "TL",
     "stateCode": "AN",

@@ -1,5 +1,19 @@
 [
   {
+    "name": "Hopelchén",
+    "countryCode": "BZ",
+    "stateCode": "OW",
+    "latitude": "17.80000000",
+    "longitude": "-89.10000000"
+  },
+  {
+    "name": "Orange Walk",
+    "countryCode": "BZ",
+    "stateCode": "OW",
+    "latitude": "18.08124000",
+    "longitude": "-88.56328000"
+  },
+  {
     "name": "Shipyard",
     "countryCode": "BZ",
     "stateCode": "OW",

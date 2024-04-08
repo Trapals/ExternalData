@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kihancha",
+    "countryCode": "KE",
+    "stateCode": "27",
+    "latitude": "-1.19347000",
+    "longitude": "34.61967000"
+  },
+  {
     "name": "Migori",
     "countryCode": "KE",
     "stateCode": "27",

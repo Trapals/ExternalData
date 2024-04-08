@@ -1,5 +1,12 @@
 [
   {
+    "name": "Assab",
+    "countryCode": "ER",
+    "stateCode": "DK",
+    "latitude": "13.00917000",
+    "longitude": "42.73944000"
+  },
+  {
     "name": "Edd",
     "countryCode": "ER",
     "stateCode": "DK",

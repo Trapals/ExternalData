@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kyabé",
+    "countryCode": "TD",
+    "stateCode": "MC",
+    "latitude": "9.45149000",
+    "longitude": "18.94493000"
+  },
+  {
     "name": "Sarh",
     "countryCode": "TD",
     "stateCode": "MC",

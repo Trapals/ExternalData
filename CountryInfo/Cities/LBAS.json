@@ -1,5 +1,19 @@
 [
   {
+    "name": "Batroûn",
+    "countryCode": "LB",
+    "stateCode": "AS",
+    "latitude": "34.25528000",
+    "longitude": "35.65806000"
+  },
+  {
+    "name": "Bcharré",
+    "countryCode": "LB",
+    "stateCode": "AS",
+    "latitude": "34.25083000",
+    "longitude": "36.01056000"
+  },
+  {
     "name": "Tripoli",
     "countryCode": "LB",
     "stateCode": "AS",

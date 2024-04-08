@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kerema",
+    "countryCode": "PG",
+    "stateCode": "GPK",
+    "latitude": "-7.79600000",
+    "longitude": "146.09300000"
+  },
+  {
     "name": "Kikori",
     "countryCode": "PG",
     "stateCode": "GPK",

@@ -1,5 +1,12 @@
 [
   {
+    "name": "Taloqan",
+    "countryCode": "AF",
+    "stateCode": "TAK",
+    "latitude": "36.73605000",
+    "longitude": "69.53451000"
+  },
+  {
     "name": "Ārt Khwājah",
     "countryCode": "AF",
     "stateCode": "TAK",

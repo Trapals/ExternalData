@@ -1,5 +1,12 @@
 [
   {
+    "name": "Biltine",
+    "countryCode": "TD",
+    "stateCode": "WF",
+    "latitude": "14.52791000",
+    "longitude": "20.92749000"
+  },
+  {
     "name": "Iriba",
     "countryCode": "TD",
     "stateCode": "WF",

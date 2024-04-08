@@ -1,5 +1,12 @@
 [
   {
+    "name": "Djibouti",
+    "countryCode": "DJ",
+    "stateCode": "DJ",
+    "latitude": "11.58901000",
+    "longitude": "43.14503000"
+  },
+  {
     "name": "Loyada",
     "countryCode": "DJ",
     "stateCode": "DJ",

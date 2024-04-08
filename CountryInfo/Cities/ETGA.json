@@ -1,5 +1,12 @@
 [
   {
+    "name": "Administrative Zone 1",
+    "countryCode": "ET",
+    "stateCode": "GA",
+    "latitude": "8.14699000",
+    "longitude": "33.97335000"
+  },
+  {
     "name": "Gambēla",
     "countryCode": "ET",
     "stateCode": "GA",

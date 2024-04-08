@@ -1,5 +1,19 @@
 [
   {
+    "name": "Dan Gora",
+    "countryCode": "NG",
+    "stateCode": "KN",
+    "latitude": "11.53485000",
+    "longitude": "8.15224000"
+  },
+  {
+    "name": "Gaya",
+    "countryCode": "NG",
+    "stateCode": "KN",
+    "latitude": "11.86064000",
+    "longitude": "9.00270000"
+  },
+  {
     "name": "Kano",
     "countryCode": "NG",
     "stateCode": "KN",

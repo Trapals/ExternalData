@@ -1,5 +1,12 @@
 [
   {
+    "name": "Katutura",
+    "countryCode": "NA",
+    "stateCode": "KH",
+    "latitude": "-22.52306000",
+    "longitude": "17.06028000"
+  },
+  {
     "name": "Windhoek",
     "countryCode": "NA",
     "stateCode": "KH",
